@@ -140,6 +140,7 @@ class ContractProcessor:
         self.pdf_directory = pdf_directory
         self.output_directory = output_directory
         self.file_counter = 1
+        self.file_counter2 = 1
 
     def process_contracts(self):
         for filename in os.listdir(self.pdf_directory):
@@ -167,15 +168,15 @@ class ContractProcessor:
         self.file_counter += 1
 
     def _output_parsed_data_to_file(self, parsed_data):
-        output_filename = os.path.join(self.output_directory, f"{self.file_counter}p.txt")
+        output_filename = os.path.join(self.output_directory, f"{self.file_counter2}p.txt")
         with open(output_filename, 'w', encoding='utf-8') as text_file:
             for section, content in parsed_data.items():
                 text_file.write(f"{section}: {content}\n")
-
+        self.file_counter2 += 1
 # Main execution
 if __name__ == "__main__":
-    pdf_directory = 'C:/Users/ayham/Desktop/Projects/Uni Hamburg/Projekt/GmbH/PDFs'
-    output_directory = 'C:/Users/ayham/Desktop/Projects/Uni Hamburg/Projekt/GmbH/txt'
+    pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
+    output_directory = 'C:/Users/ayham/Desktop/txt'
     processor = ContractProcessor(pdf_directory, output_directory)
     processor.process_contracts()
     print("Contract processing completed.")
