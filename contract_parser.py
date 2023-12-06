@@ -6,6 +6,7 @@ class ContractParser:
         self.text = text
 
     def parse(self):
+        # Definieren von Abschnitten, die analysiert werden sollen
         sections = {
             "Anzahl der bisherigen Eintragungen": r'Anzahl der bisherigen Eintragungen:\s*(\d+)',
             "Firma": r'Firma:\s*(.+?)\s*b\)',
@@ -18,7 +19,7 @@ class ContractParser:
             "Rechtsform, Beginn, Satzung": r'a\) Rechtsform, Beginn, .+?:\s*(.+?)\s*b\)',
             "Tag der letzten Eintragung": r'Tag der letzten Eintragung:\s*(\d{2}\.\d{2}\.\d{4})',
         }
-        parsed_data = {"Grundoder Stammkapital currency": ""}  # Initialize with a default currency value
+        parsed_data = {"Grundoder Stammkapital currency": ""}  # Initialisierung mit einer Standardwährung
 
         for key, pattern in sections.items():
             try:
@@ -32,7 +33,7 @@ class ContractParser:
                 else:
                     parsed_data[key] = ""
             except Exception as e:
-                print(f"Error processing {key}: {e}")
+                print(f"Fehler bei der Verarbeitung von {key}: {e}")
                 parsed_data[key] = ""
 
         return parsed_data
@@ -52,20 +53,21 @@ def process_text_files(input_directory, output_directory):
                 parser = ContractParser(text)
                 parsed_data = parser.parse()
 
-                # Output file name
+                # Dateinamen für die Ausgabe definieren
                 output_file_path = os.path.join(output_directory, f"{file_counter}_parsed.txt")
                 
-                # Write parsed data to the output file, ensuring the 'Grundoder Stammkapital currency' is right after 'Grundoder Stammkapital'
+                # Analysedaten in die Ausgabedatei schreiben, sicherstellen, dass 'Grundoder Stammkapital Währung' direkt nach 'Grundoder Stammkapital' steht
                 with open(output_file_path, 'w', encoding='utf-8') as output_file:
                     for key, value in parsed_data.items():
                         if key == "Grundoder Stammkapital":
-                            # Append the currency to the numeric value
+                            # Die Währung zum numerischen Wert hinzufügen
                             value_with_currency = f"{value} {parsed_data['Grundoder Stammkapital currency']}"
                             output_file.write(f"{key}: {value_with_currency}\n")
-                        elif key != "Grundoder Stammkapital currency":  # Skip writing 'Grundoder Stammkapital currency' again
+                        elif key != "Grundoder Stammkapital currency":  # 'Grundoder Stammkapital currency' nicht erneut schreiben
                             output_file.write(f"{key}: {value}\n")
 
-        file_counter += 1
+            # Inkrementiere den Dateizähler innerhalb der Schleife
+            file_counter += 1
 
 
 def main():
@@ -73,8 +75,7 @@ def main():
     output_directory = 'C:/Users/ayham/Desktop/txt_parsed'
     process_text_files(input_directory, output_directory)
 
-    print("Parsing completed. Output files saved in:", output_directory)
+    print("Analyse abgeschlossen. Ausgabedateien wurden gespeichert in:", output_directory)
 
 if __name__ == "__main__":
     main()
-
