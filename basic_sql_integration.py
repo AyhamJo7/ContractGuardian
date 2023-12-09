@@ -41,6 +41,23 @@ def get_file(file_id):
         return file_data
     else:
         return None
+    
+def create_table():
+    conn = mysql.connector.connect(**db_config)
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS pdf_files (
+            id INT AUTO_INCREMENT PRIMARY KEY,
+            name VARCHAR(255) NOT NULL,
+            description TEXT,
+            file_data LONGBLOB
+        );
+    """)
+
+    conn.commit()
+    cursor.close()
+    conn.close()    
 
 @app.route('/upload', methods=['POST'])
 def upload_file():
@@ -59,4 +76,5 @@ def upload_file():
     return 'Invalid file.'
 
 if __name__ == '__main__':
+    create_table() # beim startup die Tabelle erstellen, muss ggf. anders gelöst werden (Prüfung ob Table schon existiert oder so)
     app.run(debug=True)
