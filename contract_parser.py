@@ -3,12 +3,20 @@ import re
 
 class ContractParser:
     def __init__(self, text):
+        """
+        Initialisiert den ContractParser mit dem zu analysierenden Text.
+        :param text: Der Text des Vertrages oder Dokumentes.
+        """
         self.text = text
 
     def parse(self):
+        """
+        Analysiert den Text und extrahiert spezifische Informationen basierend auf definierten Mustern.
+        Verwendet reguläre Ausdrücke, um definierte Abschnitte aus dem Text zu extrahieren.
+        :return: Ein Dictionary mit den extrahierten Informationen.
+        """        
         # Definieren von Abschnitten, die analysiert werden sollen
         sections = {
-            "Anzahl der bisherigen Eintragungen": r'Anzahl der bisherigen Eintragungen:\s*(\d+)',
             "Firma": r'Firma:\s*(.+?)\s*b\)',
             "Sitz, Niederlassung, inländische Geschäftsanschrift, empfangsberechtigte Person, Zweigniederlassungen": r'b\) Sitz, Niederlassung, .+?:\s*(.+?)\s*c\)',
             "Gegenstand des Unternehmens": r'c\) Gegenstand des Unternehmens:\s*(.+?)\s*\d+\.',
@@ -17,14 +25,13 @@ class ContractParser:
             "Geschäftsführer und Vertretungsberechtigte": r'b\) Vorstand, Leitungsorgan, .+?:\s*(.+?)\s*\d+\.\s*Prokura',
             "Prokura": r'Prokura:\s*(.+?)\s*\d+\.\s*a\)',
             "Rechtsform, Beginn, Satzung": r'a\) Rechtsform, Beginn, .+?:\s*(.+?)\s*b\)',
-            "Tag der letzten Eintragung": r'Tag der letzten Eintragung:\s*(\d{2}\.\d{2}\.\d{4})',
         }
         parsed_data = {"Grundoder Stammkapital currency": ""}  # Initialisierung mit einer Standardwährung
 
         for key, pattern in sections.items():
             try:
                 match = re.search(pattern, self.text)
-                if match:
+                if match:  # Spezielle Behandlung für 'Grund- oder Stammkapital', um Währung separat zu speichern
                     if key == "Grund- oder Stammkapital":
                         parsed_data[key] = match.group(1).strip()
                         parsed_data["Grundoder Stammkapital currency"] = match.group(2).strip()
@@ -39,6 +46,11 @@ class ContractParser:
         return parsed_data
 
 def process_text_files(input_directory, output_directory):
+    """
+    Verarbeitet Textdateien aus einem Eingabeverzeichnis, extrahiert Informationen und speichert die Ergebnisse in einem Ausgabeverzeichnis.
+    :param input_directory: Verzeichnis mit Eingabetextdateien.
+    :param output_directory: Verzeichnis für die gespeicherten Ausgabedateien.
+    """
     if not os.path.exists(output_directory):
         os.makedirs(output_directory)
 
