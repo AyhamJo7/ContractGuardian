@@ -43,7 +43,11 @@ class ContractParser:
                 print(f"Fehler bei der Verarbeitung von {key}: {e}")
                 parsed_data[key] = ""
 
+        #Ergebnisse in parsed_data Speichern
+        self.parsed_data = parsed_data
+
         return parsed_data
+
 
 def process_text_files(input_directory, output_directory):
     """
@@ -64,7 +68,7 @@ def process_text_files(input_directory, output_directory):
                 parsed_data = parser.parse()
 
                 # Dateinamen für die Ausgabe definieren
-                output_file_path = os.path.join(output_directory, f"{file_counter}_parsed.txt")
+                output_file_path = os.path.join(output_directory, f"{os.path.splitext(filename)[0]}_p.txt")
                 
                 # Analysedaten in die Ausgabedatei schreiben, sicherstellen, dass 'Grund- oder Stammkapital Währung' direkt nach 'Grund- oder Stammkapital' steht
                 with open(output_file_path, 'w', encoding='utf-8') as output_file:
