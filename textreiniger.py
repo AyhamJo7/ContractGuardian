@@ -126,6 +126,18 @@ class PDFTextExtractor:
         """
         text = re.sub(r'(\w+)-\s+(\w+)', r'\1\2', text)
         return text
+    
+    
+    def remove_zuletzt_geaendert_durch(self, text):
+        """
+        Entfernt den Abschnitt 'Zuletzt geändert durch Beschluss vom (Datum)'.
+        :param text: Der zu bereinigende Text.
+        :return: Bereinigter Text.
+        """
+        pattern = re.compile(r'Zuletzt geändert durch Beschluss vom \d{2}\.\d{2}\.\d{4}')
+        text = pattern.sub('', text)
+        return text
+
 
     def process_pdfs(self):
         """
@@ -151,6 +163,8 @@ class PDFTextExtractor:
 
                 cleaned_text = self.remove_abruf_vom(cleaned_text)
                 cleaned_text = self.remove_seite_von(cleaned_text)
+                cleaned_text = self.remove_zuletzt_geaendert_durch(cleaned_text)
+
                 
                 phrases_to_check = [
                     "1. Anzahl der bisherigen Eintragungen",

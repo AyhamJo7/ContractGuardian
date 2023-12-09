@@ -17,7 +17,6 @@ class ContractParser:
         """        
         # Definieren von Abschnitten, die analysiert werden sollen
         sections = {
-            "Anzahl der bisherigen Eintragungen": r'Anzahl der bisherigen Eintragungen:\s*(\d+)',
             "Firma": r'Firma:\s*(.+?)\s*b\)',
             "Sitz, Niederlassung, inländische Geschäftsanschrift, empfangsberechtigte Person, Zweigniederlassungen": r'b\) Sitz, Niederlassung, .+?:\s*(.+?)\s*c\)',
             "Gegenstand des Unternehmens": r'c\) Gegenstand des Unternehmens:\s*(.+?)\s*\d+\.',
@@ -26,7 +25,6 @@ class ContractParser:
             "Geschäftsführer und Vertretungsberechtigte": r'b\) Vorstand, Leitungsorgan, .+?:\s*(.+?)\s*\d+\.\s*Prokura',
             "Prokura": r'Prokura:\s*(.+?)\s*\d+\.\s*a\)',
             "Rechtsform, Beginn, Satzung": r'a\) Rechtsform, Beginn, .+?:\s*(.+?)\s*b\)',
-            "Tag der letzten Eintragung": r'Tag der letzten Eintragung:\s*(\d{2}\.\d{2}\.\d{4})',
         }
         parsed_data = {"Grundoder Stammkapital currency": ""}  # Initialisierung mit einer Standardwährung
 
