@@ -142,9 +142,8 @@ class PDFTextExtractor:
     def process_pdfs(self):
         """
         Verarbeitet alle PDF-Dateien im angegebenen Verzeichnis, extrahiert und bereinigt den Text.
-        Speichert den bereinigten Text in Textdateien im Ausgabeverzeichnis.
+        Speichert den bereinigten Text in Textdateien im Ausgabeverzeichnis mit denselben Namen wie die Eingabedateien.
         """
-        file_counter = 1
         for filename in os.listdir(self.pdf_directory):
             if filename.endswith('.pdf'):
                 pdf_path = os.path.join(self.pdf_directory, filename)
@@ -184,12 +183,13 @@ class PDFTextExtractor:
                     if phrase in cleaned_text and f"{phrase}:" not in cleaned_text:
                         cleaned_text = cleaned_text.replace(phrase, f"{phrase}:")
 
-                output_filename = os.path.join(self.output_directory, f"{file_counter}.txt")
+                # Use the PDF file name as the output file name
+                output_filename = os.path.join(self.output_directory, filename.replace('.pdf', '.txt'))
                 with open(output_filename, 'w', encoding='utf-8') as text_file:
                     text_file.write(cleaned_text)
-                file_counter += 1
 
         print("Text extraction and cleaning completed. Text files saved to directory.")
+
 
 def main():
     pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
