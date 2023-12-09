@@ -11,7 +11,7 @@ class RedFlagDetector:
         Überprüft auf rote Flaggen in Verträgen.
         :return: Ein Dictionary mit den roten Flaggen.
         """
-        self.parser.parse()  # Assuming parse() method populates necessary fields in ContractParser
+        self.parser.parse()  
         red_flags = {
             "Firma": self.check_if_empty("Firma"),
             "Sitz, Niederlassung, etc.": self.check_if_empty("Sitz, Niederlassung, inländische Geschäftsanschrift, empfangsberechtigte Person, Zweigniederlassungen"),
@@ -45,7 +45,7 @@ def process_text_files(input_directory, output_directory):
                 red_flag_detector = RedFlagDetector(text)
                 red_flags = red_flag_detector.check_red_flags()
 
-                # Update the output file name to include "_p_d"
+                # Gleiche Name mit "_p_d" am Ende
                 output_file_path = os.path.join(output_directory, f"{os.path.splitext(filename)[0]}_p_d.txt")
                 
                 with open(output_file_path, 'w', encoding='utf-8') as output_file:
