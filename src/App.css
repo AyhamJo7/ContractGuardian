@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container .header {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    background-color: #dfdede;
+    margin-right: -190px; /* Add negative margin-right */
+    margin-left: -190px; /* Add negative margin-left */
+}
+
+.container .header .Logo {
+    width: 15rem;
+    margin-left: 2rem;
+}
+
+.container .bg-picture {
+    background-image: url('./photos/ContractGuardianBild.jpg');
+    height: 91vh;
+    margin-right: -190px; /* Add negative margin-right */
+    margin-left: -190px; /* Add negative margin-left */
+}
+
+.container .bg-picture h4 {
+    color: white;
+}
