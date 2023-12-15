@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React File Upload example with Axios & Boostrap
 
 For more detail, please visit:
@@ -77,3 +78,6 @@ yarn start
 Open [http://localhost:8081](http://localhost:8081) to view it in the browser.
 
 The page will reload if you make edits.
+=======
+# Frontend-ContractGuardian
+>>>>>>> a496f48cb26f21113acda10b362aae6f219d374f
