@@ -54,11 +54,11 @@ class TextCleaning:
 
     def remove_irrelevant_info(self, text):
         # Remove file paths ending with .docx
-        text = re.sub(r'\\[^\s]+\.docx', '', text)
+        text = re.sub(r'\\\\.*?\.docx', '', text)
         # Remove agreement numbers: 6 or 7 digits followed by up to two capital letters and an optional version number
         text = re.sub(r'\b\d{6,7}[A-Z]{0,2}(v\d)?\b', '', text)
         # Remove pattern like "(StA: year:numbers, Referenz: numbers, Doc: numbers)"
-        text = re.sub(r'\(StA:\s+\d{4}:\d+,\s+Referenz:\s*\d*[A-Z]{0,2},\s+Doc:\s*\d*\.?\d*\)', '', text)
+        text = re.sub(r'\(StA:\s+\d{4}:\d+,\s+Referenz:\s*\d*(,\s+Doc:\s*\d*\.?\d*)?\)', '', text)
         # Remove patterns starting with 'tmp' followed by alphanumeric characters
         text = re.sub(r'\btmp[A-Za-z0-9]+\b', '', text)
         # Remove patterns starting with 'cvc' or 'cvd' followed by alphanumeric characters, underscores, or hyphens
