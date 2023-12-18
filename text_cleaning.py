@@ -99,8 +99,14 @@ class TextCleaning:
                 print(f"Processed: {filename} --> c_{filename}")
 
 
-# Example usage
+""" # Example usage Win
 input_directory = 'C:/Users/ayham/Desktop/1.text'
 output_directory = 'C:/Users/ayham/Desktop/2.text'
+cleaner = TextCleaning(input_directory, output_directory)
+cleaner.process_all_texts() """
+
+# Example usage Mac
+input_directory = '/Users/adamj7/Desktop/1.text'
+output_directory = '/Users/adamj7/Desktop/2.text'
 cleaner = TextCleaning(input_directory, output_directory)
 cleaner.process_all_texts()

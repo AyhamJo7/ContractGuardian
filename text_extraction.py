@@ -38,9 +38,15 @@ class PDFTextExtractor:
                     file.write(text)  # Speichert den extrahierten Text in einer Textdatei
                 print(f"Verarbeitet: {filename}")
 
-# Beispielverwendung
-pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
+# Beispielverwendung Windows
+""" pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
 output_directory = 'C:/Users/ayham/Desktop/1.text'
+extractor = PDFTextExtractor(pdf_directory, output_directory)
+extractor.process_all_pdfs() """
+
+## Beispielverwendung Windows
+pdf_directory = '/Users/adamj7/Desktop/ContractGuardian/Data/PDFs'
+output_directory = '/Users/adamj7/Desktop/1.text'
 extractor = PDFTextExtractor(pdf_directory, output_directory)
 extractor.process_all_pdfs()
 
