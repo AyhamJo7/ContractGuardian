@@ -53,3 +53,4 @@ if __name__ == "__main__":
     output_directory = '/Users/adamj7/Desktop/4.spacy'
     processor = JSONLTextProcessor(input_directory, output_directory)
     processor.process_all_jsonl_files()
+        

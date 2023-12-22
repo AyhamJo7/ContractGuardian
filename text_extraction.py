@@ -39,15 +39,15 @@ class PDFTextExtractor:
                 print(f"Verarbeitet: {filename}")
 
 # Beispielverwendung Windows
-""" pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
+pdf_directory = 'C:/Users/ayham/Desktop/Projekt/Data/PDFs'
 output_directory = 'C:/Users/ayham/Desktop/1.text'
 extractor = PDFTextExtractor(pdf_directory, output_directory)
-extractor.process_all_pdfs() """
+extractor.process_all_pdfs()
 
-## Beispielverwendung Windows
+""" ## Beispielverwendung Windows
 pdf_directory = '/Users/adamj7/Desktop/ContractGuardian/Data/PDFs'
 output_directory = '/Users/adamj7/Desktop/1.text'
 extractor = PDFTextExtractor(pdf_directory, output_directory)
-extractor.process_all_pdfs()
+extractor.process_all_pdfs() """
 
  

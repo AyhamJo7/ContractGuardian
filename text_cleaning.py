@@ -64,6 +64,9 @@ class TextCleaning:
         text = re.sub(r'\b(cv[c|d])[A-Za-z0-9_\-]+\b', '', text)
         # Entferne den spezifischen Ausdruck "- Ende der Satzung -"
         text = re.sub(r'-\s*Ende\s*der\s*Satzung\s*-', '', text)
+        # Entferne den spezifischen Ausdruck "- Ende der Satzung -"
+        text = re.sub(r'-\s*Ende\s*der\s*Anlage\s*-', '', text)
+
         # Entferne das Muster von drei Sternen am Ende des Dokuments
         text = re.sub(r'\* \* \*$', '', text)
 
@@ -97,15 +100,19 @@ class TextCleaning:
                 print(f"Verarbeitet: {filename} --> c_{filename}")
 
 
-""" # Example usage Win
+# Example usage Win
 input_directory = 'C:/Users/ayham/Desktop/1.text'
 output_directory = 'C:/Users/ayham/Desktop/2.text'
 cleaner = TextCleaning(input_directory, output_directory)
-cleaner.process_all_texts() """
+cleaner.process_all_texts()
 
 
-# Beispielverwendung Mac
+""" # Beispielverwendung Mac
 input_directory = '/Users/adamj7/Desktop/1.text'
 output_directory = '/Users/adamj7/Desktop/2.text'
 cleaner = TextCleaning(input_directory, output_directory)
 cleaner.process_all_texts()
+ """
+ 
+ 
+	

@@ -35,14 +35,14 @@ def process_directory(input_directory, output_directory):
 
 
 
-""" # Angeben der Verzeichnispfade für Eingabe und Ausgabe
+# Angeben der Verzeichnispfade für Eingabe und Ausgabe
 input_directory = 'C:/Users/ayham/Desktop/2.text'
 output_directory = 'C:/Users/ayham/Desktop/3.jsonl'
-Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
-process_directory(input_directory, output_directory) """
+#Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
+process_directory(input_directory, output_directory)
 
-# Angeben der Verzeichnispfade für Eingabe und Ausgabe
+""" # Angeben der Verzeichnispfade für Eingabe und Ausgabe
 input_directory = '/Users/adamj7/Desktop/2.text'
 output_directory = '/Users/adamj7/Desktop/3.jsonl'
 # Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
-process_directory(input_directory, output_directory)
+process_directory(input_directory, output_directory) """
