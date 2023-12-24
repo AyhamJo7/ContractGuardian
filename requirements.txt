@@ -1,0 +1,4 @@
+fitz
+Flask
+mysql-connector-python
+spacy
