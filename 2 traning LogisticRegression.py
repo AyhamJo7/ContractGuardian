@@ -76,13 +76,36 @@ y = pd.Series(all_labels)
 
 # Überprüfen der Label-Verteilung
 label_distribution = Counter(y)
-print("Label-Verteilung:", label_distribution)
+print("Label Distribution:", label_distribution)
 
 if len(label_distribution) < 2:
     print("Nicht genügend Klassen für das Modelltraining. Beende das Programm.")
     exit()
 
-# Anwenden von SMOTE, um das Klassenungleichgewicht zu beheben
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
+
+
+model_l1 = LogisticRegression(penalty='l1', solver='liblinear', C=1.0, max_iter=1000)
+model_l2 = LogisticRegression(penalty='l2', C=1.0, max_iter=1000)
+
+
+model_l1.fit(X_train, y_train)
+model_l2.fit(X_train, y_train)
+
+predictions_l1 = model_l1.predict(X_test)
+predictions_l2 = model_l2.predict(X_test)
+
+print("L1 Regularization Model Evaluation")
+print(classification_report(y_test, predictions_l1))
+
+print("L2 Regularization Model Evaluation")
+print(classification_report(y_test, predictions_l2))
+
+
+
+
+""" # Anwenden von SMOTE, um das Klassenungleichgewicht zu beheben
 smote = SMOTE(random_state=42)
 X_resampled, y_resampled = smote.fit_resample(X, y)
 
@@ -107,7 +130,7 @@ print(cross_val_score(model_l2, X_test, y_test, cv=5))
 
 
 #OVERFITTINGGGGGGGGGGG
-
+ """
 """ Label Distribution: Counter({'Green': 3338, 'Red': 1352, 'Orange': 1350, 'None': 556})
 L1 Regularization Model Evaluation
 [1. 1. 1. 1. 1.]
