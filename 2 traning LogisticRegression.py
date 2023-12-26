@@ -60,7 +60,7 @@ def list_jsonl_files(directory):
     return [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.jsonl')]
 
 # Liste aller JSONL-Dateien im Verzeichnis abrufen
-jsonl_files = list_jsonl_files(directory_path)
+ jsonl_files = list_jsonl_files(directory_path)
 
 # Merkmale und Labels aus allen Dateien sammeln
 all_features = []
@@ -101,6 +101,30 @@ print(classification_report(y_test, predictions_l1))
 
 print("L2 Regularization Model Evaluation")
 print(classification_report(y_test, predictions_l2))
+
+
+
+# SMALL DATASET + COMPLEX MULITPLE LAYERS OF TRANING = 100% Accuracy
+"""        Green       1.00      1.00      1.00      1680
+        None       1.00      1.00      1.00       268
+      Orange       1.00      1.00      1.00       672
+         Red       1.00      1.00      1.00       678
+
+    accuracy                           1.00      3298
+   macro avg       1.00      1.00      1.00      3298
+weighted avg       1.00      1.00      1.00      3298
+
+L2 Regularization Model Evaluation
+              precision    recall  f1-score   support
+
+       Green       1.00      1.00      1.00      1680
+        None       1.00      1.00      1.00       268
+      Orange       1.00      1.00      1.00       672
+         Red       1.00      1.00      1.00       678
+
+    accuracy                           1.00      3298
+   macro avg       1.00      1.00      1.00      3298
+weighted avg       1.00      1.00      1.00      3298 """
 
 
 
