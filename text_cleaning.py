@@ -97,7 +97,6 @@ class TextCleaning:
                 output_file_path = os.path.join(self.output_directory, 'c_' + filename)
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write(cleaned_text)
-                print(f"Verarbeitet: {filename} --> c_{filename}")
 
 
 # Example usage Win
