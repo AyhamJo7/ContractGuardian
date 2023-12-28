@@ -36,7 +36,6 @@ class PDFTextExtractor:
                 output_file_path = os.path.join(self.output_directory, filename.replace('.pdf', '.txt'))
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write(text)  # Speichert den extrahierten Text in einer Textdatei
-                print(f"Verarbeitet: {filename}")
 
 # Beispielverwendung Windows
 pdf_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/PDFs'
