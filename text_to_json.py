@@ -26,19 +26,15 @@ def process_directory(input_directory, output_directory):
             file_path = os.path.join(input_directory, filename)
             text = read_file(file_path)
             sections = split_into_sections(text)
-            # Erstellen von JSONL-Datenstrukturen für jede Sektion des Textes
             json_data = [{"text": section.strip()} for section in sections]
             output_file = os.path.join(output_directory, filename.replace('.txt', '.jsonl'))
-            # Speichern der JSONL-Daten in einer Ausgabedatei
             save_jsonl(json_data, output_file)
-            print(f"Verarbeitet {filename}")
-
-
 
 # Angeben der Verzeichnispfade für Eingabe und Ausgabe
 input_directory = 'C:/Users/ayham/Desktop/2.text'
 output_directory = 'C:/Users/ayham/Desktop/3.jsonl'
-#Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
+
+# Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
 process_directory(input_directory, output_directory)
 
 """ # Angeben der Verzeichnispfade für Eingabe und Ausgabe
