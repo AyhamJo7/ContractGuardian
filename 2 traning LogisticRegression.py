@@ -6,6 +6,8 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from imblearn.over_sampling import SMOTE
 from collections import Counter
+import joblib
+
 
 # Definiere deine Label-Kategorien
 label_categories = [
@@ -60,7 +62,7 @@ def list_jsonl_files(directory):
     return [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.jsonl')]
 
 # Liste aller JSONL-Dateien im Verzeichnis abrufen
- jsonl_files = list_jsonl_files(directory_path)
+jsonl_files = list_jsonl_files(directory_path)
 
 # Merkmale und Labels aus allen Dateien sammeln
 all_features = []
@@ -102,9 +104,15 @@ print(classification_report(y_test, predictions_l1))
 print("L2 Regularization Model Evaluation")
 print(classification_report(y_test, predictions_l2))
 
+# Save the models to the desktop
+desktop_model_l1_save_path = 'C:/Users/ayham/Desktop/model_l1.pkl'
+desktop_model_l2_save_path = 'C:/Users/ayham/Desktop/model_l2.pkl'
+
+joblib.dump(model_l1, desktop_model_l1_save_path)
+joblib.dump(model_l2, desktop_model_l2_save_path)
 
 
-# SMALL DATASET + COMPLEX MULITPLE LAYERS OF TRANING = 100% Accuracy
+# SMALL DATASET + COMPLEX MULITPLE LAYERS OF TRANING = 100% Accura
 """        Green       1.00      1.00      1.00      1680
         None       1.00      1.00      1.00       268
       Orange       1.00      1.00      1.00       672
