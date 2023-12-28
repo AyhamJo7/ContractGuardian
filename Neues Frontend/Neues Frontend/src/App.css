@@ -1,0 +1,19 @@
+.shadow-blue {
+  box-shadow: 0 10px 20px 3px rgba(0, 0, 255, 0.2),
+    0 2px 81px -1px rgba(0, 0, 255, 0.06);
+}
+.shadow-black {
+  box-shadow: 0 10px 20px 3px rgba(0, 0, 0, 0.2),
+    0 2px 81px -1px rgba(0, 0, 255, 0.06);
+}
+
+.responsive-image {
+  display: block;
+}
+
+/* Media query to hide the image on screens smaller than 700px */
+@media (max-width: 700px) {
+  .responsive-image {
+    display: none;
+  }
+}
