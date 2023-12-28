@@ -100,7 +100,7 @@ print(classification_report(y_test, predictions))
       Orange       0.00      0.00      0.00        45
          Red       0.00      0.00      0.00        57
 
-    accuracy                           0.26       137
+    accuracy       0.11      0.12      0.26       137
    macro avg       0.09      0.33      0.14       137
 weighted avg       0.07      0.26      0.10       137 """
 
