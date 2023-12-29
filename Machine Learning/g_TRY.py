@@ -6,12 +6,10 @@ from b_text_cleaning import TextCleaning
 from c_text_to_json import process_directory
 from d_parsing import batch_process, generate_report
 from e_flags import process_flags
-from sklearn.feature_extraction.text import TfidfVectorizer
-
 
 def main():
     # Step 1: Define paths and directories
-    pdf_file_path = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Data\\PDFs\\4Sports GmbH.pdf'
+    pdf_file_path = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Data\\PDFs\\AK 46 Flensburg GmbH.pdf'
     temp_dir = 'temp'
 
     # Create a temporary directory if it doesn't exist
@@ -40,33 +38,36 @@ def main():
     processed_report_file = os.path.join(temp_dir, 'processed_report.csv')
     df = process_flags(report_output_file, processed_report_file)
 
-    # Step 7: Load the trained model
-    model_filename = 'trained_model.joblib'
-    loaded_model = joblib.load(model_filename)
+    # Load the TfidfVectorizer
+    vectorizer_filename = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\tfidf_vectorizer.joblib'
+    tfidf_vectorizer = joblib.load(vectorizer_filename)
+
+    # Step 7: Load the trained models
+    models = {}
+    for target in ['Has_Red_Flag', 'Has_Orange_Flag', 'Has_Green_Flag']:
+        model_filename = f'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\trained_model_{target}.joblib'
+        models[target] = joblib.load(model_filename)
 
     # Step 8: Prepare the input data for model prediction
     try:
         # Convert column names to strings
         df.columns = df.columns.astype(str)
 
-        # Text Vectorization using TF-IDF
-        tfidf_vectorizer = TfidfVectorizer()
-        X_flags = tfidf_vectorizer.fit_transform(df['Flags'])
+        # Use the loaded TfidfVectorizer to transform the data
+        X_flags = tfidf_vectorizer.transform(df['Flags'])
 
         # Create a DataFrame from the TF-IDF matrix
-        X_flags_df = pd.DataFrame(X_flags.toarray())
+        X_flags_df = pd.DataFrame(X_flags.toarray(), columns=tfidf_vectorizer.get_feature_names_out())
         X_flags_df.columns = X_flags_df.columns.astype(str)  # Convert feature names to strings
-        X = pd.concat([X_flags_df, df[['Flags_Code']]], axis=1)
-        X.columns = X.columns.astype(str)  # Ensure all column names are of type string
+        X = pd.concat([X_flags_df, df[['Flags_Code']].astype(str)], axis=1)  # Ensure 'Flags_Code' is string type
 
-        # Make predictions on the input data using the loaded model
-        y_pred = loaded_model.predict(X)
-        print(y_pred)
+        # Make predictions on the input data using the loaded models
+        for target in models:
+            y_pred = models[target].predict(X)
+            print(f"Predictions for {target}: {y_pred}")
 
     except Exception as e:
         print(f"Error in model prediction: {str(e)}")
-
-
 
 if __name__ == "__main__":
     main()
