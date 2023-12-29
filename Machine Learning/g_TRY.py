@@ -1,9 +1,9 @@
 import os
 import joblib
 import pandas as pd
-from text_extraction import PDFTextExtractor
-from text_cleaning import TextCleaning
-from text_to_json import process_directory
+from a_text_extraction import PDFTextExtractor
+from b_text_cleaning import TextCleaning
+from c_text_to_json import process_directory
 from parsing import batch_process, generate_report
 from flags import process_flags
 from sklearn.feature_extraction.text import TfidfVectorizer
