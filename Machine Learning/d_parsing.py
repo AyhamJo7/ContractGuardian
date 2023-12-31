@@ -6,8 +6,8 @@ import re  # Import the regex module
 # Define regex patterns and corresponding flags
 regex_flags = {
     r'\b(Firma|Sitz|Gegenstand|Stammkapital|Stammeinlagen|Kapital|Einlagen)\b': 'RED FLAG',
-    r'\b(Geschäftsführung|Vertretung|Dauer|Geschäftsjahr|Gesellschafterversammlung)\b': 'Orange Flag',
-    r'\b(Veräußerung|Gewinnverteilung|Einziehung|Erbfolge|Kündigung|Abfindung)\b': 'Green Flag'
+    r'\b(Geschäftsführung|Vertretung|Dauer|Geschäftsjahr|Gesellschafterversammlung|Geschaftsjahr)\b': 'Orange Flag',
+    r'\b(Veräußerung|Gewinnverteilung|Einziehung|Erbfolge|Kündigung|Abfindung|Wettbewerb|Schlussbestimmungen|Gesellschafterbeschlüsse|Jahresabschluss|Ergebnisverwendung|Kosten|Gründungskosten|Salvatorische|Auflösung|Sonstige)\b': 'Green Flag'
 }
 
 def parse_jsonl(file_path):

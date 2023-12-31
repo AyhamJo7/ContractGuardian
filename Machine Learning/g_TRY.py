@@ -9,7 +9,7 @@ from e_flags import process_flags
 
 def main():
     # Step 1: Define paths and directories
-    pdf_file_path = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Data\\PDFs\\AK 46 Flensburg GmbH.pdf'
+    pdf_file_path = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Data\\PDFs\\KTR Komplementär-GmbH.pdf'
     temp_dir = 'temp'
 
     # Create a temporary directory if it doesn't exist
@@ -17,7 +17,7 @@ def main():
 
     # Step 2: Extract and save text from the PDF
     pdf_text_extractor = PDFTextExtractor(pdf_directory=temp_dir, output_directory=temp_dir)
-    pdf_text = pdf_text_extractor.extract_text_from_pdf(pdf_file_path)
+    pdf_text = pdf_text_extractor.extract_text_from_pdf(pdf_file_path)  # Use the updated method here
     txt_file_path = os.path.join(temp_dir, os.path.basename(pdf_file_path).replace('.pdf', '.txt'))
     with open(txt_file_path, 'w', encoding='utf-8') as file:
         file.write(pdf_text)
