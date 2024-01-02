@@ -8,24 +8,11 @@ const Analyze = () => {
 
   let fileHistory = localStorage.getItem("fileHistory")
     ? JSON.parse(localStorage.getItem("fileHistory"))
-    : [
-        {
-          name: "",
-          red_flags: [],
-          orange_flags: [],
-          green_flags: [],
-        },
-      ];
+    : [];
 
   const fileFromHome = location.state?.selectedFile;
 
-  const [selectedFile, setSelectedFile] = useState({
-    name: fileHistory[0].name,
-    red_flags: fileHistory[0].red_flags,
-    orange_flags: fileHistory[0].orange_flags,
-    green_flags: fileHistory[0].green_flags,
-  });
-
+  const [selectedFile, setSelectedFile] = useState(null);
   const [showAllFiles, setShowAllFiles] = useState(false);
   const [filesToShow, setFilesToShow] = useState(3); // Number of files to display initially
 
@@ -38,67 +25,57 @@ const Analyze = () => {
     fileInputRef.current.click();
   };
 
-  const handleFileChange = async (file) => {
+  const handleFileChange = async (event) => {
+    // Check if event and event.target are defined
+    if (!event || !event.target || !event.target.files) {
+      console.error("Event or event target is undefined");
+      return;
+    }
+
+    const file = event.target.files[0];
+    if (!file) return;
+  
+    const fileNameParts = file.name.split(".");
+    const fileExtension = "." + fileNameParts[fileNameParts.length - 1].toLowerCase();
     const allowedExtensions = [".pdf"];
+  
 
-    if (file) {
-      const fileNameParts = file.name.split(".");
-      const fileExtension = `.${
-        fileNameParts[fileNameParts.length - 1]
-      }`.toLowerCase();
+    if (!allowedExtensions.includes(fileExtension)) {
+      alert("Only PDF files are allowed!");
+      return;
+    }
+    const formData = new FormData();
+    formData.append("file", file);  // The key 'file' must match the key expected on the server side
 
-      if (allowedExtensions.includes(fileExtension)) {
-        const formData = new FormData();
-        formData.append("pdfFile", file); // Sending the file as 'pdfFile'
+    try {
+      // Call your API endpoint
+      const response = await axios.post('http://localhost:4000/api/v1/analyze', formData, {
+        headers: {
+          "Content-Type": "multipart/form-data",
+        },
+      });
 
-        await axios
-          .post(`http://localhost:4000/api/v1/post`, formData, {
-            headers: {
-              "Content-Type": "multipart/form-data", // Setting proper headers for form data
-            },
-          })
-          .then((res) => {
-            console.log("pdf data: ", res.data);
-            const result = res.data.result;
+      // Assuming the response body will be the direct output from your Python script
+      const results = response.data;
+      console.log(results);
 
-            // Update selectedFile state while keeping the file name intact
-            setSelectedFile({
-              name: file.name,
-              red_flags: result.red_flags,
-              orange_flags: result.orange_flags,
-              green_flags: result.green_flags,
-            });
 
-            const existingFileIndex = fileHistory.findIndex(
-              (item) => item.name === file.name
-            );
 
-            if (existingFileIndex !== -1) {
-              // Update existing file's content in fileHistory
-              fileHistory[existingFileIndex] = {
-                name: file.name,
-                red_flags: result.red_flags,
-                orange_flags: result.orange_flags,
-                green_flags: result.green_flags,
-              };
-            } else {
-              // Add a new item to fileHistory
-              fileHistory.unshift({
-                name: file.name,
-                red_flags: result.red_flags,
-                orange_flags: result.orange_flags,
-                green_flags: result.green_flags,
-              });
-            }
+      // Update state with the received results
+      const newFileData = {
+        name: file.name,
+        red_flags: results.Has_Red_Flag,
+        orange_flags: results.Has_Orange_Flag,
+        green_flags: results.Has_Green_Flag,
+      };
+      setSelectedFile(newFileData);
 
-            localStorage.setItem("fileHistory", JSON.stringify(fileHistory));
-          })
-          .catch((error) => {
-            console.error("Error uploading file: ", error);
-          });
-      } else {
-        alert("Only pdf files are allowed!");
-      }
+      // Update file history in local storage
+      fileHistory.unshift(newFileData);
+      localStorage.setItem("fileHistory", JSON.stringify(fileHistory));
+    } catch (error) {
+      console.error("Error uploading file: ", error);
+      alert("There was an error processing your file.");
     }
   };
 
@@ -109,8 +86,12 @@ const Analyze = () => {
   };
 
   useEffect(() => {
-    handleFileChange(fileFromHome);
-  }, [fileFromHome]);
+    if (fileFromHome){
+      handleFileChange(fileFromHome);
+    }
+  // Including handleFileChange in the dependency array ensures that
+  // if handleFileChange changes, the effect will re-run.
+  }, [fileFromHome, handleFileChange]);
 
   const handleHistoryClick = (fileName) => {
     const file = fileHistory.find((f) => f.name === fileName);
@@ -131,9 +112,8 @@ const Analyze = () => {
           >
             <input
               type="file"
-              className=""
               ref={fileInputRef}
-              onChange={handleUploadFile}
+              onChange={handleFileChange}
               style={{ display: "none" }}
             />
             <p>Upload New File</p>
@@ -170,6 +150,7 @@ const Analyze = () => {
         <div className="right">
           <div className="relative mx-auto max-w-[450px] ">
             <ul className="">
+              {/* Red Flags */}
               <li className="text-left bg-red-300">
                 <label
                   htmlFor="accordion-2"
@@ -202,8 +183,10 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                        {selectedFile.red_flags.length !== 0
-                          ? selectedFile.red_flags.map((red) => <li>{red}</li>)
+                        {selectedFile && selectedFile.red_flags.length > 0
+                          ? selectedFile.red_flags.map((red, index) => (
+                            <li key={index}>{red}</li> // Make sure to include a key prop when rendering lists
+                            ))
                           : "Empty"}
                       </ul>
                     </div>
@@ -242,9 +225,9 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                        {selectedFile.orange_flags.length !== 0
-                          ? selectedFile.orange_flags.map((orange) => (
-                              <li>{orange}</li>
+                        {selectedFile && selectedFile.orange_flags.length > 0
+                          ? selectedFile.orange_flags.map((orange, index) => (
+                            <li key={index}>{orange}</li> // Make sure to include a key prop when rendering lists
                             ))
                           : "Empty"}
                       </ul>
@@ -284,9 +267,9 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                        {selectedFile.green_flags.length !== 0
-                          ? selectedFile.green_flags.map((green) => (
-                              <li>{green}</li>
+                      {selectedFile && selectedFile.green_flags.length > 0
+                          ? selectedFile.green_flags.map((green, index) => (
+                            <li key={index}>{green}</li> // Make sure to include a key prop when rendering lists
                             ))
                           : "Empty"}
                       </ul>

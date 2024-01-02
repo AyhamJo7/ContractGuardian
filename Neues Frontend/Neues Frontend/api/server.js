@@ -1,7 +1,8 @@
 const express = require("express");
 const app = express();
 const cookieParser = require("cookie-parser");
-const postPdfRoute = require("./routes");
+const analyzeRoute = require("./routes");
+
 
 app.use(express.json({ limit: "10mb" }));
 app.use(cookieParser());
@@ -15,7 +16,7 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use("/api/v1", postPdfRoute);
+app.use("/api/v1", analyzeRoute);
 
 app.listen(4000, () => {
   console.log(`Server is running on port 4000`);
