@@ -6,6 +6,10 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from collections import Counter
 from imblearn.over_sampling import SMOTE
+from dotenv import load_dotenv
+
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
 
 # Definiere deine Label-Kategorien
 red_flags = ['Firma', 'Sitz', 'Gegenstand', 'Stammkapital', 'Stammeinlagen']
@@ -15,7 +19,10 @@ green_flags = ['Veräußerung', 'Gewinnverteilung', 'Einziehung', 'Erbfolge', 'K
                'Jahresabschluss', 'Ergebnisverwendung', 'Kosten', 'Salvatorische Klausel', 'Sonstige_Klauseln']
 
 # Verzeichnis, in dem deine JSONL-Dateien gespeichert sind
-directory_path = 'C:/Users/ayham/Desktop/dummy data'
+augmented_annotated_data = os.getenv('AUGMENTED_ANNOTATED_DATA', 'default/path/to/Augmented Annotated Data')
+#back_translated_annotated_data = os.getenv('BACK_TRANSLATED_ANNOTATED_DATA', 'default/path/to/Back Translated Annotated Data')
+#annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/Annotated Data')
+
 
 # Funktion zum Auflisten aller JSONL-Dateien im Verzeichnis
 def list_jsonl_files(directory):
@@ -50,21 +57,16 @@ def process_jsonl(file_path):
             return 'None'
 
 # Liste aller JSONL-Dateien im Verzeichnis abrufen
-jsonl_files = list_jsonl_files(directory_path)
-print("Gefundene Dateien:", len(jsonl_files))  # Debugging-Ausgabe
+jsonl_files = list_jsonl_files(augmented_annotated_data)
 
 # Verarbeite jede Datei und speichere die Ergebnisse
 y = []
 for file_path in jsonl_files:
-    print("Verarbeite:", file_path)  # Debugging-Ausgabe
     flag_status = process_jsonl(file_path)
-    print("Flag-Status:", flag_status)  # Debugging-Ausgabe
     y.append(flag_status)
 
 # Überprüfen, ob y nur eine Klasse enthält
-from collections import Counter
 class_distribution = Counter(y)
-print("Klassenverteilung:", class_distribution)  # Debugging-Ausgabe
 
 if len(class_distribution) < 2:
     print("Nicht genügend Klassen für das Modelltraining. Beende das Programm.")

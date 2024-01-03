@@ -1,13 +1,20 @@
+import os
+import json
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification
 from torch.utils.data import DataLoader, Dataset
 from torch.nn import BCEWithLogitsLoss
-import json
-import os
+from dotenv import load_dotenv
 
-checkpoint_directory = 'C:/Users/ayham/Checkpoints'
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+# Verzeichnispfade mit Umgebungsvariablen
+german_bert_checkpoint_directory = os.getenv('GERMAN_BERT_CHECKPOINT_DIRECTORY', 'default/path/to/German_BERT Checkpoint Directory')
+annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/Annotated Data')
+
 checkpoint_filename = 'bert_sequence_classification_checkpoint.pth'
-checkpoint_path = os.path.join(checkpoint_directory, checkpoint_filename)
+checkpoint_path = os.path.join(german_bert_checkpoint_directory, checkpoint_filename)
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Verwende Gerät: {device}")
@@ -15,17 +22,18 @@ print(f"Verwende Gerät: {device}")
 bce_logits_loss = BCEWithLogitsLoss()
 tokenizer = BertTokenizer.from_pretrained('bert-base-german-dbmdz-uncased')
 
+# Flag-Zuordnungen und Label-Mapping
 flag_associations = {
     "RED FLAG": ["Firma", "Sitz", "Gegenstand", "Stammkapital", "Stammeinlagen"],
     "Orange Flag": ["Geschäftsjahr", "Dauer", "Geschäftsführung", "Vertretung", "Gesellschafterversammlung"]
 }
 
 label_to_flag = {label: flag for flag, labels in flag_associations.items() for label in labels}
-
 label_mapping = {"RED FLAG": 0, "Orange Flag": 1, "Green Flag": 2, "Firma": 3, "Sitz": 4, "Gegenstand": 5, "Stammkapital": 6, "Stammeinlagen": 7, "Geschäftsjahr": 8, "Dauer": 9, "Geschäftsführung": 10, "Vertretung": 11, "Gesellschafterversammlung": 12}
-
 num_labels = len(label_mapping)
 
+
+# CustomDataset-Klasse
 class CustomDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
         self.texts = texts
@@ -42,6 +50,7 @@ class CustomDataset(Dataset):
         return {key: val.flatten() for key, val in encoding.items()}, torch.tensor(labels)
 
 def load_data(directory):
+    # Lade und verarbeite Daten
     texts, label_sets = [], []
     for filename in os.listdir(directory):
         if filename.endswith('.jsonl'):
@@ -70,8 +79,8 @@ def load_data(directory):
                     label_sets.append(label_list)
     return texts, label_sets
 
-data_directory = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Annotated Data'
-texts, labels = load_data(data_directory)
+# Lade die Daten
+texts, labels = load_data(annotated_data_directory)
 
 # Erstelle ein Dataset und DataLoader
 dataset = CustomDataset(texts, labels, tokenizer)
@@ -128,8 +137,3 @@ for epoch in range(start_epoch, 4):  # Anzahl der Epochen (angepasst nach Bedarf
 # Speichere den endgültigen Modell-Checkpoint nach Abschluss des Trainings
 torch.save(model.state_dict(), checkpoint_path)
 
-
-#Overfitting 
-#Overfitting 
-#Overfitting 
-#Overfitting  

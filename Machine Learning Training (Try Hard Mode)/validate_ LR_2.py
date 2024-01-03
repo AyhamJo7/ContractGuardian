@@ -2,9 +2,17 @@ import os
 import json
 import pandas as pd
 import joblib
-from sklearn.metrics import classification_report
+from dotenv import load_dotenv
 
-# Define your label categories
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+# Pfadvariablen mit os.getenv()
+lr_model_l1_load_path = os.getenv('LR_MODEL_L1_SAVE_PATH', 'default/path/to/model_l1.pkl')
+lr_model_l2_load_path = os.getenv('LR_MODEL_L2_SAVE_PATH', 'default/path/to/model_l2.pkl')
+unannotated_data_path = os.getenv('UNANNOTATED_DATA_PATH', 'default/path/to/Data/PDFs')
+
+# Definiere Label-Kategorien
 label_categories = [
     'Section', 'Subsection', 'TITEL', 'Firma', 'Sitz', 'Gegenstand',
     'Stammkapital', 'Stammeinlagen', 'Geschäftsführung', 'Vertretung',
@@ -15,14 +23,13 @@ label_categories = [
     'Sonstige_Klauseln', 'RED FLAG', 'Orange Flag', 'Green Flag'
 ]
 
-# Define the function to extract features from a JSONL data line
+# Funktion zum Extrahieren von Merkmalen aus einer JSONL-Datenzeile
 def extract_features(json_data):
     entities = json_data.get('entities', [])
     features = {label: sum(1 for entity in entities if entity['label'] == label) for label in label_categories}
     return features
 
-# Define the function to process a single JSONL file
-# Define the function to process a single JSONL file
+# Funktion zum Verarbeiten einer einzelnen JSONL-Datei
 def process_jsonl(file_path):
     features_list = []
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -33,20 +40,14 @@ def process_jsonl(file_path):
                     features = extract_features(json_data)
                     features_list.append(features)
                 except json.JSONDecodeError:
-                    print(f"Warning: Skipping invalid JSON data in file {file_path}")
+                    print(f"Warnung: Ungültige JSON-Daten in Datei {file_path} übersprungen")
     return features_list
 
-# Load the trained models
-desktop_model_l1_load_path = 'C:/Users/ayham/Desktop/model_l1.pkl'
-desktop_model_l2_load_path = 'C:/Users/ayham/Desktop/model_l2.pkl'
+# Geladene Modelle
+model_l1 = joblib.load(lr_model_l1_load_path)
+model_l2 = joblib.load(lr_model_l2_load_path)
 
-model_l1 = joblib.load(desktop_model_l1_load_path)
-model_l2 = joblib.load(desktop_model_l2_load_path)
-
-# Define the directory path for your unannotated dataset
-unannotated_data_path = 'C:/Users/ayham/Desktop/hehe'
-
-# Process the unannotated data
+# Verarbeite die unannotierten Daten
 unannotated_features = []
 unannotated_jsonl_files = [os.path.join(unannotated_data_path, file) for file in os.listdir(unannotated_data_path) if file.endswith('.jsonl')]
 
@@ -54,16 +55,16 @@ for file_path in unannotated_jsonl_files:
     file_features = process_jsonl(file_path)
     unannotated_features.extend(file_features)
 
-# Convert the unannotated features into a DataFrame
+# Konvertiere die unannotierten Merkmale in einen DataFrame
 X_unannotated = pd.DataFrame(unannotated_features)
 
-# Make predictions on the unannotated dataset using the trained models
+# Vorhersagen für unannotierte Daten mit den trainierten Modellen treffen
 predictions_l1_unannotated = model_l1.predict(X_unannotated)
 predictions_l2_unannotated = model_l2.predict(X_unannotated)
 
-# Print the predictions for the unannotated dataset
-print("Predictions using L1 Regularization:")
+# Drucke die Vorhersagen für die unannotierten Daten
+print("Vorhersagen mit L1-Regularisierung:")
 print(predictions_l1_unannotated)
 
-print("Predictions using L2 Regularization:")
+print("Vorhersagen mit L2-Regularisierung:")
 print(predictions_l2_unannotated)

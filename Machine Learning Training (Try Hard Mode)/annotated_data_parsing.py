@@ -1,15 +1,22 @@
 import json
 import os
 import pandas as pd
-import re  # Import the regex module
+import re  # Regex Modul importieren
+from dotenv import load_dotenv
 
-# Define regex patterns and corresponding flags
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+
+
+# Regex-Muster und entsprechende Flags definieren
 regex_flags = {
     r'\b(Firma|Sitz|Gegenstand|Stammkapital|Stammeinlagen|Kapital|Einlagen)\b': 'RED FLAG',
     r'\b(Geschäftsführung|Vertretung|Dauer|Geschäftsjahr|Gesellschafterversammlung)\b': 'Orange Flag',
     r'\b(Veräußerung|Gewinnverteilung|Einziehung|Erbfolge|Kündigung|Abfindung)\b': 'Green Flag'
 }
 
+# Funktion zum Parsen von JSONL-Dateien
 def parse_jsonl(file_path):
     data = []
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -17,6 +24,7 @@ def parse_jsonl(file_path):
             data.append(json.loads(line))
     return data
 
+# Funktion zur Extraktion von Daten
 def extract_data(data):
     extracted_data = {}
     for item in data:
@@ -52,19 +60,22 @@ def extract_data(data):
         extracted_data[section_text] = section_data
     return extracted_data
 
+# Funktion zum Kompilieren der Daten für eine Datei
 def compile_data_for_file(file_path):
     data = parse_jsonl(file_path)
     return extract_data(data)
 
-def batch_process(directory):
+# Funktion zum Verarbeiten aller Dateien in einem Verzeichnis
+def batch_process(annotated_data_directory):
     all_data = {}
-    for file in os.listdir(directory):
+    for file in os.listdir(annotated_data_directory):
         if file.endswith('.jsonl'):
-            file_path = os.path.join(directory, file)
+            file_path = os.path.join(annotated_data_directory, file)
             all_data[file] = compile_data_for_file(file_path)
     return all_data
 
-def generate_report(all_data, output_file):
+# Funktion zum Generieren eines Berichts
+def generate_report(all_data, annotated_parsed_csv_file):
     report_data = []
     for file, data in all_data.items():
         for section, details in data.items():
@@ -75,14 +86,14 @@ def generate_report(all_data, output_file):
                 'Clauses': ', '.join(details['clauses'])
             })
     df = pd.DataFrame(report_data)
-    df.to_csv(output_file, index=False)
+    df.to_csv(annotated_parsed_csv_file, index=False)
 
+# Hauptfunktion
 def main():
-    directory = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Annotated Data'  # Directory containing JSONL files
-    output_file = r'C:\Users\ayham\Desktop\5\anno_report.csv'  # Output file path
-    all_data = batch_process(directory)
-    generate_report(all_data, output_file)
+    annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/annotated_data_directory')
+    annotated_parsed_csv_file = os.getenv('ANNOTATED_PARSED_CSV_FILE', 'default/path/to/annotated_parsed_csv_file')
+    all_data = batch_process(annotated_data_directory)
+    generate_report(all_data, annotated_parsed_csv_file)
 
 if __name__ == "__main__":
     main()
-

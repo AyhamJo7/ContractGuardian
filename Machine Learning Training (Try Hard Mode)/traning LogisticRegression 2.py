@@ -1,15 +1,24 @@
 import os
 import json
 import pandas as pd
+from collections import Counter
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 from imblearn.over_sampling import SMOTE
-from collections import Counter
 import joblib
+from dotenv import load_dotenv
+
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+# Pfadvariablen mit os.getenv()
+augmented_annotated_data_path = os.getenv('AUGMENTED_ANNOTATED_DATA', 'default/path/to/augmented_annotated_data')
+lr_model_l1_save_path = os.getenv('LR_MODEL_L1_SAVE_PATH', 'default/path/to/model_l1.pkl')
+lr_model_l2_save_path = os.getenv('LR_MODEL_L2_SAVE_PATH', 'default/path/to/model_l2.pkl')
 
 
-# Definiere deine Label-Kategorien
+# Definiere Label-Kategorien
 label_categories = [
     'Section', 'Subsection', 'TITEL', 'Firma', 'Sitz', 'Gegenstand',
     'Stammkapital', 'Stammeinlagen', 'Geschäftsführung', 'Vertretung',
@@ -54,15 +63,11 @@ def process_jsonl(file_path):
                 labels_list.append(label)
     return features_list, labels_list
 
-# Verzeichnis, in dem deine JSONL-Dateien gespeichert sind
-directory_path = 'C:/Users/ayham/Desktop/dummy data'
-
-# Funktion zum Auflisten aller JSONL-Dateien im Verzeichnis
+# Liste aller JSONL-Dateien im Verzeichnis abrufen
 def list_jsonl_files(directory):
     return [os.path.join(directory, file) for file in os.listdir(directory) if file.endswith('.jsonl')]
 
-# Liste aller JSONL-Dateien im Verzeichnis abrufen
-jsonl_files = list_jsonl_files(directory_path)
+jsonl_files = list_jsonl_files(augmented_annotated_data_path)
 
 # Merkmale und Labels aus allen Dateien sammeln
 all_features = []
@@ -85,13 +90,14 @@ if len(label_distribution) < 2:
     exit()
 
 
+# Daten aufteilen und Modelle trainieren
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.5, random_state=42)
-
 
 model_l1 = LogisticRegression(penalty='l1', solver='liblinear', C=1.0, max_iter=1000)
 model_l2 = LogisticRegression(penalty='l2', C=1.0, max_iter=1000)
 
 
+# Modelle trainieren und auswerten
 model_l1.fit(X_train, y_train)
 model_l2.fit(X_train, y_train)
 
@@ -104,15 +110,13 @@ print(classification_report(y_test, predictions_l1))
 print("L2 Regularization Model Evaluation")
 print(classification_report(y_test, predictions_l2))
 
-# Save the models to the desktop
-desktop_model_l1_save_path = 'C:/Users/ayham/Desktop/model_l1.pkl'
-desktop_model_l2_save_path = 'C:/Users/ayham/Desktop/model_l2.pkl'
-
-joblib.dump(model_l1, desktop_model_l1_save_path)
-joblib.dump(model_l2, desktop_model_l2_save_path)
+# Modelle speichern
+joblib.dump(model_l1, lr_model_l1_save_path)
+joblib.dump(model_l2, lr_model_l2_save_path)
 
 
-# SMALL DATASET + COMPLEX MULITPLE LAYERS OF TRANING = 100% Accura
+
+#Ergebnisse!!!!Overfitting 
 """        Green       1.00      1.00      1.00      1680
         None       1.00      1.00      1.00       268
       Orange       1.00      1.00      1.00       672
@@ -122,6 +126,7 @@ joblib.dump(model_l2, desktop_model_l2_save_path)
    macro avg       1.00      1.00      1.00      3298
 weighted avg       1.00      1.00      1.00      3298
 
+#Overfitting 
 L2 Regularization Model Evaluation
               precision    recall  f1-score   support
 
@@ -161,7 +166,7 @@ print("Auswertung des L2-Regularisierten Modells")
 print(cross_val_score(model_l2, X_test, y_test, cv=5))
 
 
-#OVERFITTINGGGGGGGGGGG
+#OVERFITTINGGGGGGGGGGG Overfitting Overfitting Overfitting Overfitting Overfitting 
  """
 """ Label Distribution: Counter({'Green': 3338, 'Red': 1352, 'Orange': 1350, 'None': 556})
 L1 Regularization Model Evaluation

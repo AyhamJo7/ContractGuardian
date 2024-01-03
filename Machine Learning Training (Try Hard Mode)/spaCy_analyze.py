@@ -1,15 +1,22 @@
 import os
 import fitz  # PyMuPDF
 import spacy
+from dotenv import load_dotenv
 
-# Define the keywords for each flag category
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+# Pfadvariable mit os.getenv()
+pdf_example = os.getenv('PDF_EXAMPLE_PATH', 'default/path/to/pdf')
+
+# Definiere die Schlüsselwörter für jede Flag-Kategorie
 red_flags = ["Firma", "Sitz", "Gegenstand", "Stammkapital", "Stammeinlagen"]
 orange_flags = ["Geschäftsführung", "Vertretung", "Dauer", "Geschäftsjahr", "Gesellschafterversammlung"]
 green_flags = ["Veräußerung", "Gewinnverteilung", "Einziehung", "Erbfolge", "Kündigung", 
                "Abfindung", "Wettbewerb", "Schlussbestimmungen", "Gesellschafterbeschlüsse", 
                "Jahresabschluss", "Ergebnisverwendung", "Kosten", "Salvatorische Klausel", "Sonstige_Klauseln"]
 
-# Function to extract text from a PDF file
+# Funktion, um Text aus einer PDF-Datei zu extrahieren
 def extract_text_from_pdf(pdf_path):
     with fitz.open(pdf_path) as doc:
         text = ""
@@ -17,7 +24,7 @@ def extract_text_from_pdf(pdf_path):
             text += page.get_text()
     return text
 
-# Function to analyze a text for flag keywords
+# Funktion, um einen Text auf Flag-Schlüsselwörter zu analysieren
 def analyze_text_for_flags(text, flag_keywords):
     nlp = spacy.load("de_core_news_sm")
     doc = nlp(text)
@@ -31,7 +38,8 @@ def analyze_text_for_flags(text, flag_keywords):
     missing_keywords = set(flag_keywords) - found_keywords
     return missing_keywords
 
-# Function to analyze a PDF for all flags
+
+# Funktion zur Analyse einer PDF auf alle Flags
 def analyze_pdf_for_flags(pdf_path):
     text = extract_text_from_pdf(pdf_path)
     missing_red = analyze_text_for_flags(text, red_flags)
@@ -40,11 +48,10 @@ def analyze_pdf_for_flags(pdf_path):
 
     return missing_red, missing_orange, missing_green
 
-# Example usage
-pdf_path = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Data\\PDFs\\4Sports GmbH.pdf'
-missing_red, missing_orange, missing_green = analyze_pdf_for_flags(pdf_path)
+# Beispielverwendung
+missing_red, missing_orange, missing_green = analyze_pdf_for_flags(pdf_example)
 
-# Print the results
-print("Missing Red Flags:", missing_red)
-print("Missing Orange Flags:", missing_orange)
-print("Missing Green Flags:", missing_green)
+# Drucke die Ergebnisse
+print("Fehlende Rote Flags:", missing_red)
+print("Fehlende Orange Flags:", missing_orange)
+print("Fehlende Grüne Flags:", missing_green)
