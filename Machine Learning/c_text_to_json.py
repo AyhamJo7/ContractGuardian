@@ -46,15 +46,8 @@ def process_directory(input_directory, output_directory):
             save_jsonl(json_data, output_file)
 
 # Angeben der Verzeichnispfade für Eingabe und Ausgabe
-input_directory = 'C:/Users/ayham/Desktop/2.text'
-output_directory = 'C:/Users/ayham/Desktop/3.jsonl'
-
-# Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
+input_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_cleaning_results'
+output_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_to_json_results'
 process_directory(input_directory, output_directory)
 
 
-""" # Angeben der Verzeichnispfade für Eingabe und Ausgabe
-input_directory = '/Users/adamj7/Desktop/2.text'
-output_directory = '/Users/adamj7/Desktop/3.jsonl'
-# Aufrufen der Funktion zur Verarbeitung des Verzeichnisses
-process_directory(input_directory, output_directory) """

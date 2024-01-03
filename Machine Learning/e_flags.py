@@ -17,7 +17,6 @@ def process_flags(file_path, output_file_path):
 
 # Example usage
 if __name__ == "__main__":
-    file_path = r'C:\Users\ayham\Desktop\5\report.csv'
-    output_file_path = r'C:\Users\ayham\Desktop\5\processed_report.csv'
+    file_path = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\parsing_results\report.csv'
+    output_file_path = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\flags_results\processed_report.csv'
     processed_df = process_flags(file_path, output_file_path)
-    print(processed_df.head())

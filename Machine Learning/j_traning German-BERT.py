@@ -5,36 +5,27 @@ from torch.nn import BCEWithLogitsLoss
 import json
 import os
 
-# Definiere das Verzeichnis, in dem du Dateien speichern/laden möchtest
 checkpoint_directory = 'C:/Users/ayham/Checkpoints'
 checkpoint_filename = 'bert_sequence_classification_checkpoint.pth'
 checkpoint_path = os.path.join(checkpoint_directory, checkpoint_filename)
 
-# Überprüfe, ob CUDA verfügbar ist, und lege das Gerät auf GPU, falls verfügbar
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Verwende Gerät: {device}")
 
-# Definiere die benutzerdefinierte Verlustfunktion
 bce_logits_loss = BCEWithLogitsLoss()
-
-# Lade den Tokenizer
 tokenizer = BertTokenizer.from_pretrained('bert-base-german-dbmdz-uncased')
 
-# Definiere die Beziehungen zwischen Labels
 flag_associations = {
     "RED FLAG": ["Firma", "Sitz", "Gegenstand", "Stammkapital", "Stammeinlagen"],
     "Orange Flag": ["Geschäftsjahr", "Dauer", "Geschäftsführung", "Vertretung", "Gesellschafterversammlung"]
 }
 
-# Flache Darstellung der Beziehungen für den Rückwärtssuchvorgang
 label_to_flag = {label: flag for flag, labels in flag_associations.items() for label in labels}
 
 label_mapping = {"RED FLAG": 0, "Orange Flag": 1, "Green Flag": 2, "Firma": 3, "Sitz": 4, "Gegenstand": 5, "Stammkapital": 6, "Stammeinlagen": 7, "Geschäftsjahr": 8, "Dauer": 9, "Geschäftsführung": 10, "Vertretung": 11, "Gesellschafterversammlung": 12}
 
-# Aktualisiere die Anzahl der Labels basierend auf label_mapping
 num_labels = len(label_mapping)
 
-# Benutzerdefinierte Dataset-Klasse
 class CustomDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
         self.texts = texts
@@ -50,7 +41,6 @@ class CustomDataset(Dataset):
         encoding = self.tokenizer(text, padding='max_length', truncation=True, return_tensors='pt')
         return {key: val.flatten() for key, val in encoding.items()}, torch.tensor(labels)
 
-# Funktion zum Laden von Daten aus JSONL-Dateien
 def load_data(directory):
     texts, label_sets = [], []
     for filename in os.listdir(directory):
@@ -65,11 +55,9 @@ def load_data(directory):
                     for entity in entities:
                         label = entity['label']
                         
-                        # Füge das Label selbst hinzu, wenn es in label_mapping ist
                         if label in label_mapping:
                             labels.add(label_mapping[label])
                         
-                        # Wenn das Label ein spezifisches Label ist, füge auch sein Flag-Label hinzu
                         if label in label_to_flag:
                             flag_label = label_to_flag[label]
                             labels.add(label_mapping[flag_label])
@@ -82,8 +70,7 @@ def load_data(directory):
                     label_sets.append(label_list)
     return texts, label_sets
 
-# Lade deine Daten
-data_directory = 'C:/Users/ayham/Desktop/4.anno'
+data_directory = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Annotated Data'
 texts, labels = load_data(data_directory)
 
 # Erstelle ein Dataset und DataLoader

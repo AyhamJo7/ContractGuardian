@@ -53,7 +53,7 @@ class PDFTextExtractor:
 
 # Example usage
 pdf_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/PDFs'
-output_directory = 'C:/Users/ayham/Desktop/1.text'
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # Set your Tesseract path
+output_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_extraction_results'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  
 extractor = PDFTextExtractor(pdf_directory, output_directory)
 extractor.process_all_pdfs()

@@ -100,18 +100,10 @@ class TextCleaning:
 
 
 # Example usage Win
-input_directory = 'C:/Users/ayham/Desktop/1.text'
-output_directory = 'C:/Users/ayham/Desktop/2.text'
+input_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_extraction_results'
+output_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_cleaning_results'
 cleaner = TextCleaning(input_directory, output_directory)
 cleaner.process_all_texts()
 
 
-""" # Beispielverwendung Mac
-input_directory = '/Users/adamj7/Desktop/1.text'
-output_directory = '/Users/adamj7/Desktop/2.text'
-cleaner = TextCleaning(input_directory, output_directory)
-cleaner.process_all_texts()
- """
- 
- 
 	

@@ -78,11 +78,10 @@ def generate_report(all_data, output_file):
     df.to_csv(output_file, index=False)
 
 def main():
-    directory = r'C:\Users\ayham\Desktop\3.jsonl'  # Directory containing JSONL files
-    output_file = r'C:\Users\ayham\Desktop\5\report.csv'  # Output file path
+    directory = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\text_to_json_results' 
+    output_file = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\parsing_results\report.csv'  
     all_data = batch_process(directory)
     generate_report(all_data, output_file)
 
 if __name__ == "__main__":
     main()
-
