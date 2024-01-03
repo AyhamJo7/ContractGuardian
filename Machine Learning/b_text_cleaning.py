@@ -1,12 +1,16 @@
 import re
 import os
+from dotenv import load_dotenv
+
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
 
 class TextCleaning:
-
-    def __init__(self, input_directory, output_directory):
-        self.input_directory = input_directory
-        self.output_directory = output_directory
-        os.makedirs(self.output_directory, exist_ok=True)
+    # Konstruktor: Initialisiert die Pfade für das Verzeichnis der extrahierten und bereinigten Texte
+    def __init__(self, extracted_text_directory, cleaned_text_directory):
+        self.extracted_text_directory = extracted_text_directory
+        self.cleaned_text_directory = cleaned_text_directory
+        os.makedirs(self.cleaned_text_directory, exist_ok=True)
 
     def clean_text(self, text):
         # Korrigiere Silbentrennung
@@ -84,26 +88,23 @@ class TextCleaning:
             text = re.sub(pattern, replacement, text)
 
         return text
-
+    
+    # Verarbeitet alle Textdateien im Verzeichnis der extrahierten Texte
     def process_all_texts(self):
-        for filename in os.listdir(self.input_directory):
+        for filename in os.listdir(self.extracted_text_directory):
             if filename.lower().endswith('.txt'):
-                input_file_path = os.path.join(self.input_directory, filename)
+                input_file_path = os.path.join(self.extracted_text_directory, filename)
                 with open(input_file_path, 'r', encoding='utf-8') as file:
                     text = file.read()
 
                 cleaned_text = self.clean_text(text)
 
-                output_file_path = os.path.join(self.output_directory, 'c_' + filename)
+                output_file_path = os.path.join(self.cleaned_text_directory, 'c_' + filename)
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write(cleaned_text)
 
-
-# Example usage Win
-input_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_extraction_results'
-output_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_cleaning_results'
-cleaner = TextCleaning(input_directory, output_directory)
+# Beispielhafte Verwendung
+extracted_text_directory = os.getenv('EXTRACTED_TEXT_DIRECTORY', 'default/path/to/extracted_text')
+cleaned_text_directory = os.getenv('CLEANED_TEXT_DIRECTORY', 'default/path/to/cleaned_text')
+cleaner = TextCleaning(extracted_text_directory, cleaned_text_directory)
 cleaner.process_all_texts()
-
-
-	

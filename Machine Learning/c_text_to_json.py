@@ -1,5 +1,10 @@
 import json
 import os
+from dotenv import load_dotenv
+
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
 
 # Funktion zum Lesen einer Textdatei
 def read_file(file_path):
@@ -33,21 +38,19 @@ def save_jsonl(data, output_file):
             file.write('\n')
 
 # Funktion zum Verarbeiten eines Verzeichnisses von Textdateien
-def process_directory(input_directory, output_directory):
-    os.makedirs(output_directory, exist_ok=True)
+def process_directory(cleaned_text_directory, converted_to_json_directory):
+    os.makedirs(converted_to_json_directory, exist_ok=True)
 
-    for filename in os.listdir(input_directory):
+    for filename in os.listdir(cleaned_text_directory):
         if filename.endswith(".txt"):
-            file_path = os.path.join(input_directory, filename)
+            file_path = os.path.join(cleaned_text_directory, filename)
             text = read_file(file_path)
             sections = split_into_sections(text)
             json_data = [{"text": section.strip()} for section in sections]
-            output_file = os.path.join(output_directory, filename.replace('.txt', '.jsonl'))
+            output_file = os.path.join(converted_to_json_directory, filename.replace('.txt', '.jsonl'))
             save_jsonl(json_data, output_file)
 
-# Angeben der Verzeichnispfade für Eingabe und Ausgabe
-input_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_cleaning_results'
-output_directory = 'C:/Users/ayham/Desktop/Projekt/ContractGuardian/Data/text_to_json_results'
-process_directory(input_directory, output_directory)
-
-
+# Verzeichnispfade für Eingabe und Ausgabe mittels Umgebungsvariablen definieren
+cleaned_text_directory = os.getenv('CLEANED_TEXT_DIRECTORY', 'default/path/to/cleaned_text')
+converted_to_json_directory = os.getenv('CONVERTED_TO_JSON_DIRECTORY', 'default/path/to/converted_to_json')
+process_directory(cleaned_text_directory, converted_to_json_directory)

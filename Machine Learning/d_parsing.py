@@ -1,15 +1,21 @@
 import json
 import os
 import pandas as pd
-import re  # Import the regex module
+import re  
+from dotenv import load_dotenv
 
-# Define regex patterns and corresponding flags
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
+
+
+# Definiere Regex-Muster und entsprechende Flags
 regex_flags = {
     r'\b(Firma|Sitz|Gegenstand|Stammkapital|Stammeinlagen|Kapital|Einlagen)\b': 'RED FLAG',
     r'\b(Geschäftsführung|Vertretung|Dauer|Geschäftsjahr|Gesellschafterversammlung|Geschaftsjahr)\b': 'Orange Flag',
     r'\b(Veräußerung|Gewinnverteilung|Einziehung|Erbfolge|Kündigung|Abfindung|Wettbewerb|Schlussbestimmungen|Gesellschafterbeschlüsse|Jahresabschluss|Ergebnisverwendung|Kosten|Gründungskosten|Salvatorische|Auflösung|Sonstige)\b': 'Green Flag'
 }
 
+# Funktion zum Parsen von JSONL-Dateien
 def parse_jsonl(file_path):
     data = []
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -17,6 +23,7 @@ def parse_jsonl(file_path):
             data.append(json.loads(line))
     return data
 
+# Funktion zur Extraktion von Daten
 def extract_data(data):
     extracted_data = {}
     for item in data:
@@ -27,9 +34,9 @@ def extract_data(data):
             'subsections': []
         }
 
-        # Check if annotations are present, if not, apply regex rules
+        # Überprüfen , ob Annotations vorhanden sind. Wenn nicht, Regex-Regeln anwenden
         if 'entities' not in item:
-            # Split the section text into words and check each word against regex patterns
+            #  Abschnittstext in Wörter aufteilen und jedes Wort mit Regex-Mustern vergleichen
             words = re.findall(r'\b\w+\b', section_text, re.IGNORECASE)
             for word in words:
                 for regex_pattern, flag in regex_flags.items():
@@ -52,19 +59,22 @@ def extract_data(data):
         extracted_data[section_text] = section_data
     return extracted_data
 
+# Funktion zum Kompilieren der Daten für eine Datei
 def compile_data_for_file(file_path):
     data = parse_jsonl(file_path)
     return extract_data(data)
 
-def batch_process(directory):
+# Funktion zum Verarbeiten aller Dateien in einem Verzeichnis
+def batch_process(converted_to_json_directory):
     all_data = {}
-    for file in os.listdir(directory):
+    for file in os.listdir(converted_to_json_directory):
         if file.endswith('.jsonl'):
-            file_path = os.path.join(directory, file)
+            file_path = os.path.join(converted_to_json_directory, file)
             all_data[file] = compile_data_for_file(file_path)
     return all_data
 
-def generate_report(all_data, output_file):
+# Funktion zum Generieren eines Berichts
+def generate_report(all_data, parsed_csv_file):
     report_data = []
     for file, data in all_data.items():
         for section, details in data.items():
@@ -75,13 +85,14 @@ def generate_report(all_data, output_file):
                 'Clauses': ', '.join(details['clauses'])
             })
     df = pd.DataFrame(report_data)
-    df.to_csv(output_file, index=False)
+    df.to_csv(parsed_csv_file, index=False)
 
+# Hauptfunktion
 def main():
-    directory = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\text_to_json_results' 
-    output_file = r'C:\Users\ayham\Desktop\Projekt\ContractGuardian\Data\parsing_results\report.csv'  
-    all_data = batch_process(directory)
-    generate_report(all_data, output_file)
+    converted_to_json_directory = os.getenv('CONVERTED_TO_JSON_DIRECTORY', 'default/path/to/converted_to_json')
+    parsed_csv_file = os.getenv('PARSED_CSV_FILE', 'default/path/to/parsed_csv.csv')
+    all_data = batch_process(converted_to_json_directory)
+    generate_report(all_data, parsed_csv_file)
 
 if __name__ == "__main__":
     main()

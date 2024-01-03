@@ -5,43 +5,48 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 import joblib
 import os
+from dotenv import load_dotenv
 
-# Load the dataset
-df = pd.read_csv('C:\\Users\\ayham\\Desktop\\5\\anno_processed_report.csv')
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
 
-# Fill NaN values in the "Flags" column
+# Laden des Datensatzes
+dataset_path = os.getenv('DATASET_PATH', 'default/path/to/anno_processed_report.csv')
+df = pd.read_csv(dataset_path)
+
+# NaN-Werte in der Spalte "Flags" auffüllen
 df['Flags'].fillna('', inplace=True)
 
-# Vectorize the 'Flags' column using TF-IDF
+# Vektorisierung der 'Flags'-Spalte mit TF-IDF
 tfidf_vectorizer = TfidfVectorizer()
 X_flags = tfidf_vectorizer.fit_transform(df['Flags'])
 
-# Save the TfidfVectorizer
-vectorizer_filename = 'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\tfidf_vectorizer.joblib'
+# Speichern des TfidfVectorizer
+vectorizer_filename = os.path.join(os.getenv('LOAD_FOR_TRAINING_PATH', 'default/path/to/Load for Training'), 'tfidf_vectorizer.joblib')
 joblib.dump(tfidf_vectorizer, vectorizer_filename)
 
-# Prepare the feature matrix
+# Vorbereitung der Merkmalsmatrix
 X = pd.DataFrame(X_flags.toarray(), columns=tfidf_vectorizer.get_feature_names_out())
-X['Flags_Code'] = df['Flags_Code'].astype(str)  # Convert 'Flags_Code' to string type
+X['Flags_Code'] = df['Flags_Code'].astype(str)  # 'Flags_Code' in String-Typ umwandeln
 
-# Define and split target variables
+# Definition und Aufteilung der Zielvariablen
 targets = ['Has_Red_Flag', 'Has_Orange_Flag', 'Has_Green_Flag']
 for target in targets:
     y = df[target]
 
-    # Split data into training and test sets
+    # Aufteilung der Daten in Trainings- und Testsets
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.1, random_state=42)
 
-    # Train the model
+    # Training des Modells
     model = RandomForestClassifier(random_state=42)
     model.fit(X_train, y_train)
 
-    # Predictions and Evaluation
+    # Vorhersagen und Bewertung
     y_pred = model.predict(X_test)
     report = classification_report(y_test, y_pred)
-    print(f"Evaluation Report for {target}:\n{report}")
+    print(f"Evaluationsbericht für {target}:\n{report}")
 
-    # Save the model
-    model_filename = f'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\trained_model_{target}.joblib'
+    # Speichern des Modells
+    model_filename = os.path.join(os.getenv('LOAD_FOR_TRAINING_PATH', 'default/path/to/Load for Training'), f'trained_model_{target}.joblib')
     joblib.dump(model, model_filename)
-    print(f"Model saved at: {model_filename}")
+    print(f"Modell gespeichert unter: {model_filename}")

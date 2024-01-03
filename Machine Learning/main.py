@@ -10,16 +10,23 @@ from c_text_to_json import process_directory
 from d_parsing import batch_process, generate_report
 from e_flags import process_flags
 import shutil
+from dotenv import load_dotenv
+
+# Laden der Umgebungsvariablen aus der .env-Datei
+load_dotenv()
 
 
+# Text aus einer PDF extrahieren
 def extract_text(pdf_file_path, temp_dir):
-    pdf_text_extractor = PDFTextExtractor(pdf_directory=temp_dir, output_directory=temp_dir)
+    pdf_text_extractor = PDFTextExtractor(pdf_directory=temp_dir, extracted_text_directory=temp_dir)
     return pdf_text_extractor.extract_text_from_pdf(pdf_file_path)
 
+# Text bereinigen
 def clean_text(text, temp_dir):
-    text_cleaner = TextCleaning(input_directory=temp_dir, output_directory=temp_dir)
+    text_cleaner = TextCleaning(extracted_text_directory=temp_dir, cleaned_text_directory=temp_dir)
     return text_cleaner.clean_text(text)
 
+# Textverarbeitung
 def process_text(pdf_file_path, temp_dir):
     try:
         pdf_text = extract_text(pdf_file_path, temp_dir)
@@ -27,22 +34,24 @@ def process_text(pdf_file_path, temp_dir):
         with open(txt_file_path, 'w', encoding='utf-8') as file:
             file.write(pdf_text)
         cleaned_text = clean_text(pdf_text, temp_dir)
-        process_directory(input_directory=temp_dir, output_directory=temp_dir)
-        all_data = batch_process(directory=temp_dir)
-        report_output_file = os.path.join(temp_dir, 'report.csv')
-        generate_report(all_data, report_output_file)
-        return report_output_file
+        process_directory(cleaned_text_directory =temp_dir, converted_to_json_directory=temp_dir)
+        all_data = batch_process(converted_to_json_directory=temp_dir)
+        parsed_csv_file = os.path.join(temp_dir, 'report.csv')
+        generate_report(all_data, parsed_csv_file)
+        return parsed_csv_file
     except Exception as e:
-        print(f"Error during text processing: {str(e)}")
+        print(f"Fehler bei der Textverarbeitung: {str(e)}")
         return None
 
+# Modelle laden
 def load_models():
     models = {}
     for target in ['Has_Red_Flag', 'Has_Orange_Flag', 'Has_Green_Flag']:
-        model_filename = f'C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\trained_model_{target}.joblib'
+        model_filename = os.path.join(os.getenv('LOAD_FOR_TRAINING_PATH', 'default/path/to/Load for Training'), f'trained_model_{target}.joblib')
         models[target] = joblib.load(model_filename)
     return models
 
+# Vorhersage der Flags
 def predict_flags(df, models, tfidf_vectorizer):
     try:
         df.columns = df.columns.astype(str)
@@ -58,10 +67,10 @@ def predict_flags(df, models, tfidf_vectorizer):
         print(f"Error in prediction: {str(e)}")
         return None
     
+# Ergebnisse interpretieren und ausgeben
 def interpret_and_print_results(csv_file_path):
     df = pd.read_csv(csv_file_path)
     
-
 
     # Define the clauses for each flag type
     red_flag_clauses = ['Firma', 'Sitz', 'Gegenstand']
@@ -108,30 +117,30 @@ def interpret_and_print_results(csv_file_path):
     results_json = json.dumps(results)
     return results_json
 
-
-
+# Hauptfunktion
 def main(pdf_file_path, temp_dir):
     os.makedirs(temp_dir, exist_ok=True)
     report_output_file = process_text(pdf_file_path, temp_dir)
     if report_output_file:
         df = process_flags(report_output_file, os.path.join(temp_dir, 'processed_report.csv'))
-        tfidf_vectorizer = joblib.load('C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\tfidf_vectorizer.joblib')
+        tfidf_vectorizer = joblib.load(os.path.join(os.getenv('LOAD_FOR_TRAINING_PATH', 'default/path/to/Load for Training'), 'tfidf_vectorizer.joblib'))
         models = load_models()
         predictions = predict_flags(df, models, tfidf_vectorizer)
 
-        # Save the DataFrame to a CSV file and then interpret and print the results
+        # Ergebnisse speichern und ausgeben
         processed_csv_path = os.path.join(temp_dir, 'processed_report.csv')
         df.to_csv(processed_csv_path, index=False)
         json_results = interpret_and_print_results(processed_csv_path)
         shutil.rmtree(temp_dir)
         os.makedirs(temp_dir)
-        print(json_results)  # Print the JSON for debugging purposes
+        print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
         return json_results
-        
 
+# Ausführung des Skripts
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process PDF files and predict flags.")
-    parser.add_argument("pdf_file_path", type=str, help="Path to the PDF file")
-    parser.add_argument("--temp_dir", type=str, default="temp", help="Temporary directory for processing")
+    parser = argparse.ArgumentParser(description="Verarbeitet PDF-Dateien und prognostiziert Flags.")
+    parser.add_argument("pdf_file_path", type=str, help="Pfad zur PDF-Datei")
+    parser.add_argument("--temp_dir", type=str, default="temp", help="Temporäres Verzeichnis für die Verarbeitung")
     args = parser.parse_args()
     main(args.pdf_file_path, args.temp_dir)
+
