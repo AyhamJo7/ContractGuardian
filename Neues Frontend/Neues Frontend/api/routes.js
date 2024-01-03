@@ -9,7 +9,7 @@ const storage = multer.diskStorage({
     cb(null, 'temp/') // make sure this directory exists
   },
   filename: function (req, file, cb) {
-    cb(null, file.fieldname + '-' + Date.now() + '.pdf')
+    cb(null, file.originalname) // Use the original file name
   }
 });
 
@@ -21,13 +21,27 @@ router.post('/analyze', upload.single('file'), (req, res) => {
     return res.status(400).send('No file uploaded.');
   }
 
-  // Path of the uploaded file
   const inputPath = req.file.path;
 
-  // Run your Python script here
-  runPythonScript(inputPath, (output) => {
-    // Send the result back to client
-    res.send(output);
+  runPythonScript(inputPath, (error, results) => {
+    if (error) {
+      console.error(`Error running Python script: ${error}`);
+      return res.status(500).send(error.message); // Make sure to return here
+    }
+    
+    if (typeof results === 'string') {
+      // If results is a string, parse it as JSON
+      try {
+        const resultsJSON = JSON.parse(results);
+        res.json(resultsJSON);
+      } catch (parseError) {
+        console.error(`Error parsing JSON from Python script: ${parseError}`);
+        res.status(500).send(`Error parsing JSON from Python script: ${parseError}`);
+      }
+    } else {
+      // If results is already an object, send it as is
+      res.json(results);
+    }
   });
 });
 

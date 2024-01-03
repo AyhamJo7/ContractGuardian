@@ -1,103 +1,119 @@
 import axios from "axios";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState, useCallback } from "react";
 import { useLocation } from "react-router-dom";
 
 const Analyze = () => {
   const location = useLocation();
   const fileInputRef = useRef();
-
-  let fileHistory = localStorage.getItem("fileHistory")
-    ? JSON.parse(localStorage.getItem("fileHistory"))
-    : [];
-
-  const fileFromHome = location.state?.selectedFile;
-
   const [selectedFile, setSelectedFile] = useState(null);
+  const [fileHistory, setFileHistory] = useState(() => {
+    const history = localStorage.getItem("fileHistory");
+    return history ? JSON.parse(history) : [];
+  });
   const [showAllFiles, setShowAllFiles] = useState(false);
-  const [filesToShow, setFilesToShow] = useState(3); // Number of files to display initially
+  const [filesToShow, setFilesToShow] = useState(3);
 
-  const handleShowAllClick = () => {
-    setShowAllFiles(true);
-    setFilesToShow(fileHistory.length); // Show all files
-  };
+  useEffect(() => {
+    // Log the selectedFile state each time it changes to track its updates
+    console.log('Selected File State Updated:', selectedFile);
+  }, [selectedFile]);
 
-  const handleUploadCardClick = () => {
-    fileInputRef.current.click();
-  };
+  const updateFileHistory = useCallback((newFileData) => {
+    setFileHistory((prevHistory) => {
+      const updatedHistory = [newFileData, ...prevHistory];
+      localStorage.setItem("fileHistory", JSON.stringify(updatedHistory));
+      return updatedHistory;
+    });
+  }, []);
 
-  const handleFileChange = async (event) => {
-    // Check if event and event.target are defined
-    if (!event || !event.target || !event.target.files) {
-      console.error("Event or event target is undefined");
+  const processFile = useCallback(async (file) => {
+    if (!(file instanceof File)) {
+      console.error('The provided file is not an instance of File.');
       return;
     }
-
-    const file = event.target.files[0];
-    if (!file) return;
   
-    const fileNameParts = file.name.split(".");
-    const fileExtension = "." + fileNameParts[fileNameParts.length - 1].toLowerCase();
-    const allowedExtensions = [".pdf"];
-  
-
-    if (!allowedExtensions.includes(fileExtension)) {
+    if (!file.name.toLowerCase().endsWith(".pdf")) {
       alert("Only PDF files are allowed!");
       return;
     }
+  
     const formData = new FormData();
-    formData.append("file", file);  // The key 'file' must match the key expected on the server side
-
+    formData.append("file", file);
+  
     try {
-      // Call your API endpoint
       const response = await axios.post('http://localhost:4000/api/v1/analyze', formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
       });
+      console.log('Response Data:', response.data);
 
-      // Assuming the response body will be the direct output from your Python script
-      const results = response.data;
-      console.log(results);
-
-
-
-      // Update state with the received results
+      // Check for the correct data structure in the response
+      if (!response.data || !response.data['Red Flags']) {
+        console.error('Unexpected response structure:', response.data);
+        return;
+      }
+    
       const newFileData = {
         name: file.name,
-        red_flags: results.Has_Red_Flag,
-        orange_flags: results.Has_Orange_Flag,
-        green_flags: results.Has_Green_Flag,
+        red_flags: response.data['Red Flags'],
+        orange_flags: response.data['Orange Flags'],
+        green_flags: response.data['Green Flags'],
       };
+  
+      if (!fileHistory.some((f) => f.name === file.name)) {
+        updateFileHistory(newFileData);
+      }
+  
       setSelectedFile(newFileData);
-
-      // Update file history in local storage
-      fileHistory.unshift(newFileData);
-      localStorage.setItem("fileHistory", JSON.stringify(fileHistory));
     } catch (error) {
-      console.error("Error uploading file: ", error);
-      alert("There was an error processing your file.");
+      console.error("Error processing file:", error);
+      alert(`Error: ${error.message}`);
     }
-  };
+  }, [fileHistory, updateFileHistory]);
 
-  const handleUploadFile = (e) => {
-    e.preventDefault();
-    const file = e.target.files[0];
-    handleFileChange(file);
+  const handleFileChange = (event) => {
+    const file = event.target.files[0];
+    processFile(file);
   };
 
   useEffect(() => {
-    if (fileFromHome){
-      handleFileChange(fileFromHome);
+    const file = location.state?.selectedFile;
+    if (file) {
+      processFile(file);
     }
-  // Including handleFileChange in the dependency array ensures that
-  // if handleFileChange changes, the effect will re-run.
-  }, [fileFromHome, handleFileChange]);
+  }, [location.state?.selectedFile, processFile]);
+    
+  const handleUploadCardClick = () => {
+    fileInputRef.current.click();
+  };
 
   const handleHistoryClick = (fileName) => {
     const file = fileHistory.find((f) => f.name === fileName);
     setSelectedFile(file);
   };
 
+  const handleShowAllClick = () => {
+    setShowAllFiles((prevShowAll) => !prevShowAll);
+    setFilesToShow(fileHistory.length);
+  };
+  
+  const renderFlags = (flags, color) => {
+    if (!flags || !Array.isArray(flags)) {
+      return null;
+    }
+  
+    return (
+      <ul className={`flags-list ${color}-flags`}>
+        {flags.map((flag, index) => (
+          <li key={index}>
+            {flag.name} - {flag.status}
+          </li>
+        ))}
+      </ul>
+    );
+  };
+      
   return (
     <div className="w-full flex justify-center min-h-screen">
       <div className="mt-5 flex flex-col md:flex-row md:justify-between w-[1000px] px-5">
@@ -183,11 +199,7 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                        {selectedFile && selectedFile.red_flags.length > 0
-                          ? selectedFile.red_flags.map((red, index) => (
-                            <li key={index}>{red}</li> // Make sure to include a key prop when rendering lists
-                            ))
-                          : "Empty"}
+                      {selectedFile && renderFlags(selectedFile.red_flags, 'red')}
                       </ul>
                     </div>
                   </div>
@@ -225,11 +237,7 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                        {selectedFile && selectedFile.orange_flags.length > 0
-                          ? selectedFile.orange_flags.map((orange, index) => (
-                            <li key={index}>{orange}</li> // Make sure to include a key prop when rendering lists
-                            ))
-                          : "Empty"}
+                      {selectedFile && renderFlags(selectedFile.orange_flags, 'orange')}
                       </ul>
                     </div>
                   </div>
@@ -267,11 +275,7 @@ const Analyze = () => {
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
                     <div className="px-5 pb-2">
                       <ul className="text-sm">
-                      {selectedFile && selectedFile.green_flags.length > 0
-                          ? selectedFile.green_flags.map((green, index) => (
-                            <li key={index}>{green}</li> // Make sure to include a key prop when rendering lists
-                            ))
-                          : "Empty"}
+                      {selectedFile && renderFlags(selectedFile.green_flags, 'green')}
                       </ul>
                     </div>
                   </div>
