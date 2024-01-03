@@ -193,7 +193,7 @@ const Analyze = () => {
                   </svg>
                   <div className="relative ml-4 cursor-pointer select-none py-2 items-center pr-12">
                     <h3 className="text-sm  lg:text-base text-red-700">
-                      Red Flags
+                      Red Flags (Pflicht Klauseln)
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
@@ -231,7 +231,7 @@ const Analyze = () => {
                   </svg>
                   <div className="relative ml-4 cursor-pointer select-none items-center py-2 pr-12">
                     <h3 className="text-sm text-orange-600 lg:text-base">
-                      Orange Flags
+                      Orange Flags (Empfohlene Klauseln)
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
@@ -269,7 +269,7 @@ const Analyze = () => {
                   </svg>
                   <div className="relative ml-4 cursor-pointer select-none items-center py-2 pr-12">
                     <h3 className="text-sm text-green-700 lg:text-base">
-                      Green Flags
+                      Green Flags (Optinale Klauseln)
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
