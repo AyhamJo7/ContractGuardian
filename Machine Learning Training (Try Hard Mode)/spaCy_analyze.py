@@ -55,3 +55,11 @@ missing_red, missing_orange, missing_green = analyze_pdf_for_flags(pdf_example)
 print("Fehlende Rote Flags:", missing_red)
 print("Fehlende Orange Flags:", missing_orange)
 print("Fehlende Grüne Flags:", missing_green)
+
+
+
+"""
+Fehlende Rote Flags: {'Stammeinlagen'}
+Fehlende Orange Flags: set()
+Fehlende Grüne Flags: {'Veräußerung', 'Salvatorische Klausel', 'Sonstige_Klauseln', 'Schlussbestimmungen'}
+"""
