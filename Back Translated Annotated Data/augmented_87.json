@@ -1,0 +1,63 @@
+{
+    "id": 602,
+    "text": "§ 14 Bewertung eines Geschäftsanteils l. \nIm Falle der Auseinandersetzung, der Einziehung oder Übertragung ist die letzte, dem Bewertungsstichtag unmittelbar vorausgehende oder mit ihm zusammenfallende, ordnungsgemäß festgestellte Jal-u-esbüanz oder Anteilsbewertung zugrunde zu legen. 2. \nOffene Rücklagen und eventuelle Gewinn- und Verlustvorfaräge sind aufzulösen. \nNicht zu berücksichtigen ist der zwischen Bilanzstichtag und Ausscheidungstag noch entstandene Gewinii oder Verlust. \nMaßgeblich bleibt die letzte ordnungsgeinäß festgestellte Jahresbilanz auch, wenn diese Bilanz später, Z.B. durch eine Betriebsprüfung, geändert wü-d. \nNachfaräglich festgestellte Gewinne und Verluste, Steuemachzahlungen oder Erstattungen beeinßussen die Höhe der Abfindung nicht. 3. \nEin Firmen- oder Geschäftswelt oder sonstige immaterielle Werte sowie stille Reserven sind bei der Bewertung nicht zu berücksichtigen.",
+    "entities": [
+        {
+            "id": 862,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 864,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 286,
+            "end_offset": 767
+        },
+        {
+            "id": 859,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 285
+        },
+        {
+            "id": 860,
+            "label": "Subsection",
+            "start_offset": 286,
+            "end_offset": 767
+        },
+        {
+            "id": 861,
+            "label": "Subsection",
+            "start_offset": 768,
+            "end_offset": 906
+        },
+        {
+            "id": 863,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 285
+        },
+        {
+            "id": 858,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 865,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 768,
+            "end_offset": 906
+        },
+        {
+            "id": 866,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 906
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Beurteilung einer Geschäftsanteile l. Bei Streitigkeiten, Einziehungen oder Übertragungen wird die letzte, unmittelbar vor dem Bewertungsstichtag oder zusammenfallende, ordnungsgemäß festgestellte Jal-u-esbüanz oder Aktienbewertung herangezogen. 2. Offene Rücklagen und mögliche Gewinn- und Verlustmargen werden aufgelöst.Die letzte regelmäßig erfasste Jahresbilanz bleibt auch dann relevant, wenn diese Bilanz nachträglich, z. B. durch eine Prüfung der Gesellschaft, geändert wird, wenn der Betrag der Entschädigung den Betrag der Entschädigung nicht übersteigt.Bei der Bewertung werden keine anderen immateriellen Vermögenswerte oder stille Rücklagen berücksichtigt."
+}

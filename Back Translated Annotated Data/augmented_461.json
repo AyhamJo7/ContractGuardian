@@ -1,0 +1,51 @@
+{
+    "id": 986,
+    "text": "§ 2 Gegenstand des Unternehmens\n(1) Gegenstand des Unternehmens ist die Verwaltung eigenen Vermögens, Dienstleistungen im Bereich Sicherheit und Bewachung gemäß § 34 a GewO und § 6 Bewachungsverordnung, die Übernahme von Dienstleistungen einer Detektei und Auskunftei. Darüber hinaus sind auch erlaubnisfreie Reinigungs- und weitere Personaldienstleistungen sowie die Ausführung von Winterdiensten Teil des Unternehmenszwecks.\n(2) Die Gesellschaft ist berechtigt, alle Handlungen vorzunehmen, die unmittelbar oder mittelbar dem Gesellschaftszweck dienen.\n(3) Die Gesellschaft ist berechtigt, Zweigniederlassungen im In- und Ausland errichten zu lassen.",
+    "entities": [
+        {
+            "id": 3602,
+            "label": "Subsection",
+            "start_offset": 427,
+            "end_offset": 554
+        },
+        {
+            "id": 3604,
+            "label": "Subsection",
+            "start_offset": 555,
+            "end_offset": 652
+        },
+        {
+            "id": 3606,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 652
+        },
+        {
+            "id": 3601,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 426
+        },
+        {
+            "id": 3605,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 3607,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 652
+        },
+        {
+            "id": 3600,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand der Gesellschaft (1) Gegenstand der Gesellschaft ist die Verwaltung des eigenen Vermögens, Dienstleistungen im Bereich der Sicherheit gemäß § 34 a GewO und § 6 Bewachungsverordnung, der Erwerb von Dienstleistungen einer Detektivagentur und Informationsagentur. Darüber hinaus sind auch kostenlose Reinigungs- und weitere Personalleistungen sowie die Durchführung von Winterleistungen erlaubt.(2) Die Gesellschaft ist berechtigt, alle Handlungen auszuführen, die unmittelbar oder mittelbar dem Zweck der Gesellschaft dienen. (3) Die Gesellschaft ist berechtigt, Zweigniederlassungen im In- und Ausland zu haben."
+}

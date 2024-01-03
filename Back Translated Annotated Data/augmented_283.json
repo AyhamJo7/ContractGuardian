@@ -1,0 +1,45 @@
+{
+    "id": 814,
+    "text": "§ 5 Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Die Geschäftsführer sind verpflichtet, die Weisungen der Gesellschafter zu befolgen, insbesondere eine von den Gesellschaftern aufgestellte Geschäftsordnung zu beachten und von den Gesellschaftern als zustimmungspflichtig bezeichnete Geschäfts nur mit deren Zustimmung vorzunehmen.",
+    "entities": [
+        {
+            "id": 2414,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2415,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 81
+        },
+        {
+            "id": 2419,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 367
+        },
+        {
+            "id": 2416,
+            "label": "Subsection",
+            "start_offset": 82,
+            "end_offset": 367
+        },
+        {
+            "id": 2417,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 2418,
+            "label": "Geschäftsführung",
+            "start_offset": 21,
+            "end_offset": 367
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Die Geschäftsführer sind verpflichtet, den Weisungen der Aktionäre zu folgen, insbesondere eine von den Aktionären festgelegte Geschäftsordnung einzuhalten und von den Aktionären als nur mit deren Zustimmung benannte Geschäfte auszuüben."
+}

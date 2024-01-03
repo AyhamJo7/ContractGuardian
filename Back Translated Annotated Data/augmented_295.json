@@ -1,0 +1,51 @@
+{
+    "id": 862,
+    "text": "§7 Jahresabschluss, Gewinnverteilung, Entnahmen und Sachausschüttungen (1) Der Jahresabschluss (Bilanz, Gewinn- und Verlustrechnung nebst Anhang) sowie ein etwaiger Lagebericht sind alljährlich innerhalb der gesetzlichen Fristen von den Geschäftsführern aufzustellen und der Gesellschafterversammlung zur Feststellung vorzulegen. \nFür den Jahresabschluss, die Gewinnverteilung und die Gewinnverwendung gelten die gesetzlichen Vorschriften, insbesondere § 264 HGB, § 29, 42a GmbHG. \nDie Gesellschafterversammlung kann jederzeit auch über Entnahmen, Sachentnahmen und/oder Sachausschüttungen beschließen.",
+    "entities": [
+        {
+            "id": 2744,
+            "label": "Subsection",
+            "start_offset": 71,
+            "end_offset": 330
+        },
+        {
+            "id": 2745,
+            "label": "Subsection",
+            "start_offset": 331,
+            "end_offset": 602
+        },
+        {
+            "id": 2746,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        },
+        {
+            "id": 2747,
+            "label": "Gewinnverteilung",
+            "start_offset": 20,
+            "end_offset": 36
+        },
+        {
+            "id": 2748,
+            "label": "Jahresabschluss",
+            "start_offset": 71,
+            "end_offset": 602
+        },
+        {
+            "id": 2743,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 70
+        },
+        {
+            "id": 2749,
+            "label": "Gewinnverteilung",
+            "start_offset": 71,
+            "end_offset": 602
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Jahresabschluss, Gewinnausschüttung, Rücknahme und Ausschüttung von Vermögensgegenständen (1) Der Jahresabschluss (Bilanz-, Gewinn- und Verlustrechnung zusammen mit Anmerkungen) sowie der Lagebericht sind jährlich von den Geschäftsführern innerhalb der gesetzlichen Fristen zu erstellen und der Aktionärsversammlung zur Feststellung vorzulegen.g Anwendung der gesetzlichen Bestimmungen, insbesondere des § 264 HGB, § 29, 42a GmbHG. Die Hauptversammlung kann auch jederzeit über Rücknahmen, Übernahmen und/oder Ausschüttungen des Vermögens entscheiden."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 905,
+    "text": "§5 Geschaftsfuhrung, Vertretung 1. \nDie Gesellschaft hat einen oder mehrere Geschaftsfuhrer. \nSind mehrere Geschaftsfuhrer be­ stellt, so wird die Gesellschaft durch zwei von ihnen gemeinschaftlich oder durch einen Ge­ schaftsfuhrer in Gemeinschaft mit einem Prokuristen vertreten. \nHat die Gesellschaft nur einen Geschaftsfuhrer, so vertritt dieser die Gesellschaft allein, unabhangig davon, ob van vornhe­ rein nur ein Geschaftsfuhrer bestellt warden ist oder nachtraglich alle bis auf einen weggefallen sind. 2. \nDurch Gesellschafterbeschluss kann alien oder einzelnen Geschaftsfuhrern Einzelvertre­ tungsbefugnis und/oder Befreiung van dem Verbot, im Namen der Gesellschaft mit sich im eigenen Nam en oder als Vertreter eines Dritten Rechtsgeschafte vorzunehmen, erteilt werden. 3. \nIm Falle der Liquidation gelten die vorstehenden Ziffern 1 und 2 fur Liquidatoren entsprechend. 4. \nDie Gesellschafterversammlung kann jederzeit durch Beschluss die Vornahme von Rechtsge­ schaften oder Arten von Rechtsgeschaften van der vorherigen Zustimmung der Gesellschaf­ terversammlung abhangig machen.",
+    "entities": [
+        {
+            "id": 3067,
+            "label": "Subsection",
+            "start_offset": 512,
+            "end_offset": 781
+        },
+        {
+            "id": 3065,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3066,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 510
+        },
+        {
+            "id": 3068,
+            "label": "Subsection",
+            "start_offset": 783,
+            "end_offset": 882
+        },
+        {
+            "id": 3069,
+            "label": "Subsection",
+            "start_offset": 883,
+            "end_offset": 1094
+        },
+        {
+            "id": 3070,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 19
+        },
+        {
+            "id": 3071,
+            "label": "Geschäftsführung",
+            "start_offset": 36,
+            "end_offset": 510
+        },
+        {
+            "id": 3072,
+            "label": "Vertretung",
+            "start_offset": 21,
+            "end_offset": 32
+        },
+        {
+            "id": 3073,
+            "label": "Vertretung",
+            "start_offset": 516,
+            "end_offset": 1094
+        },
+        {
+            "id": 3074,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1094
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van van2. Durch eine Entscheidung eines Aktionärs können Ausländern oder einzelnen Gesellschaften individuelle Vertretungsbefugnisse und/oder Befreiung von dem Verbot gewährt werden, im Namen der Gesellschaft rechtliche Beziehungen zu sich selbst im eigenen Namen oder als Vertreter eines Dritten zu pflegen.Die Liquidation unterliegt den Absätzen 1 und 2 für Liquidatoren. 4. Die Hauptversammlung kann jederzeit durch Beschluss die Durchführung von juristischen Personen oder Arten von juristischen Personen von der vorherigen Zustimmung der Hauptversammlung abhängig machen."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 890,
+    "text": "§ 12 Verf0gung Ober Geschaftsanteile 1. \nJede Verf0gung Ober Geschaftsanteile oder Teile von solchen (insbesondere Obertragungen, Verpfandungen, Nier1brauchsbestellungen) bedarf der schriftlichen Zustimrr,ung der Gesellschafterversammlung mit einer Mehrheit von 51,0 % der abgegebenen Stimmen unter Ausschluss des verf0gungswilligen Gesellschafters. 2. \nAnspruche der Gesellschafter auf Gewinn- und Liquidationserlose sowie sonstige Anspruche der Gesellschafter sind nur mit Zustimmung der Gesellschaft ubertragbar.",
+    "entities": [
+        {
+            "id": 2951,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 348
+        },
+        {
+            "id": 2952,
+            "label": "Subsection",
+            "start_offset": 350,
+            "end_offset": 515
+        },
+        {
+            "id": 2953,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 2956,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 515
+        },
+        {
+            "id": 2950,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 2954,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 349
+        },
+        {
+            "id": 2955,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 350,
+            "end_offset": 515
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Verf0gung Ober Geschäftsbeziehungen 1. Jede Übertragung von Aktien oder Teilen dieser Aktien (insbesondere Übertragungen, Verpfändungen, Nichtnutzungsaufträge) bedarf der schriftlichen Zustimmung der Hauptversammlung mit einer Mehrheit von 51,0% der abgegebenen Stimmen, ausgenommen der Aktionär, der bereit ist, seine Rechte aufzugeben. 2.Einholungsfreie sowie andere Rechte der Partner sind nur mit Zustimmung des Unternehmens erträglich."
+}

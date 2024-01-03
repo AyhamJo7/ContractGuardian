@@ -1,0 +1,39 @@
+{
+    "id": 783,
+    "text": "§ 19 Bekanntmachung Die Bekanntmachungen der Gesellschaft erfolgen mir im Bundesanzeiger für die Bundesrepublik Deutschland_",
+    "entities": [
+        {
+            "id": 2181,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 2182,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 124
+        },
+        {
+            "id": 2183,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 2184,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 20,
+            "end_offset": 124
+        },
+        {
+            "id": 2185,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 124
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 19 Mitteilung Die Ankündigungen der Gesellschaft werden mir im Bundesanzeiger für die Bundesrepublik Deutschland gemacht_"
+}

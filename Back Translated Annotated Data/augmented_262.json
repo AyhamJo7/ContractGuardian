@@ -1,0 +1,51 @@
+{
+    "id": 820,
+    "text": "§ 1 Firma, Sitz ( 1) Die Firm a der Gesellschaft lautet: Kiez Alm Gastro GmbH (2) Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 2442,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2445,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 2446,
+            "label": "Firma",
+            "start_offset": 21,
+            "end_offset": 77
+        },
+        {
+            "id": 2447,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 2448,
+            "label": "Sitz",
+            "start_offset": 82,
+            "end_offset": 116
+        },
+        {
+            "id": 2449,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 77
+        },
+        {
+            "id": 2450,
+            "label": "Subsection",
+            "start_offset": 78,
+            "end_offset": 116
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, satzungsmäßiger Sitz ( 1) Firma des Unternehmens ist: Kiez Alm Gastro GmbH (2) Sitz des Unternehmens ist Hamburg."
+}

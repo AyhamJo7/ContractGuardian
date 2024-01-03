@@ -1,0 +1,63 @@
+{
+    "id": 635,
+    "text": "§ 5 Jahresabschluss, Ergebnisverwendung (1) Der Jahresabschluss (Bilanz nebst Gewinn- und Verlustrechnung) und der Anhang sowie ggf. der Lagebericht sind von der Geschäftsführung innerhalb der gesetzlichen Frist nach Ablauf eines Geschäftsjahres aufzustellen und unverzüglich allen Gesellschaftern vorzulegen. \nDie Gesellschafter haben den Jahresabschluss innerhalb der gesetzlichen Frist festzustellen und über die Ergebnisverwendung zu beschließen. (2) Die Gesellschafter haben grundsätzlich Anspruch auf Gewinnausschüttung, es sei denn, die Gesellschafterversammlung beschließt die Bildung von Rücklagen und/oder Gewinnvorträgen. (3) Der Gewinn ist im Verhältnis der Geschäftsanteile zu verteilen.",
+    "entities": [
+        {
+            "id": 1114,
+            "label": "Subsection",
+            "start_offset": 40,
+            "end_offset": 450
+        },
+        {
+            "id": 1116,
+            "label": "Subsection",
+            "start_offset": 633,
+            "end_offset": 700
+        },
+        {
+            "id": 1120,
+            "label": "Ergebnisverwendung",
+            "start_offset": 451,
+            "end_offset": 700
+        },
+        {
+            "id": 1121,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 700
+        },
+        {
+            "id": 1113,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 39
+        },
+        {
+            "id": 1115,
+            "label": "Subsection",
+            "start_offset": 451,
+            "end_offset": 632
+        },
+        {
+            "id": 1117,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 1118,
+            "label": "Jahresabschluss",
+            "start_offset": 40,
+            "end_offset": 450
+        },
+        {
+            "id": 1119,
+            "label": "Ergebnisverwendung",
+            "start_offset": 21,
+            "end_offset": 40
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Abschluss, Ergebnisverwendung (1) Der Jahresabschluss (Bilanz einschließlich Gewinn- und Verlustrechnung) sowie der Anhang und gegebenenfalls der Lagebericht müssen von der Geschäftsleitung innerhalb der gesetzlichen Frist nach Ablauf eines Geschäftsjahres erstellt und unverzüglich allen Aktionären vorgelegt werden.(2) Die Aktionäre haben grundsätzlich Anspruch auf Gewinnausschüttung, es sei denn, die Hauptversammlung entscheidet über die Bildung von Rücklagen und/oder Gewinnbeiträgen. (3) Der Gewinn wird im Verhältnis zum Anteil der Geschäftstätigkeit ausgeschüttet."
+}

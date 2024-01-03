@@ -1,0 +1,45 @@
+{
+    "id": 1015,
+    "text": "§ 6 Wettbewerbsverbot (1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegenüber der Gesellschaft - gleich aus welchem Rechtsgrund. Ein Entgelt ist hierfür nicht zu zahlen. Entsprechendes gilt für sie als Geschäftsführer. (2) Etwaige Wettbewerbsverbote in anderen Vereinbarungen (z. B. im Geschäftsführervertrag) bleiben unberührt.",
+    "entities": [
+        {
+            "id": 3814,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 3815,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 232
+        },
+        {
+            "id": 3817,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 3819,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 342
+        },
+        {
+            "id": 3816,
+            "label": "Subsection",
+            "start_offset": 233,
+            "end_offset": 342
+        },
+        {
+            "id": 3818,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 342
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Wettbewerbsverbot (1) Die Gesellschafter unterliegen - unabhängig vom Rechtsgrund - keinem Wettbewerbsverbot gegenüber der Gesellschaft. Zu diesem Zweck ist eine Gebühr nicht zu entrichten. Gleiches gilt für sie als Geschäftsführer. (2) Ein Wettbewerbsverbot in anderen Vereinbarungen (z.B. im Vertrag des Geschäftsführers) bleibt unberührt."
+}

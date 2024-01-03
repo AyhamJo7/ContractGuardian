@@ -1,0 +1,69 @@
+{
+    "id": 666,
+    "text": "§10 Einziehung 1. \nDie Einziehung van Geschaftsanteilen ist mit Zustimmung des Gesellschafters stets zulassig. 2. \nDer Geschaftsanteil eines Gesellschafters kann auch zwangsweise eingezogen werden, wenn ein wichtiger Grund vorliegt. \nAls wichtiger Grund anzusehen sind insbesondere a) grobe Verletzungen der Gesellschafterpflichten durch einen Gesellschafter, b) die Pfandung eines Geschaftsanteils, sofern diese nicht innerhalb van drei Monaten wieder aufgehoben wird, c) die Eroffnung des lnsolvenzverfahrens Ober das Vermogen eines Gesellschafters bzw. die Ablehnung der Eroffnung mangels Masse, d) ein Kontrollwechsel bei einem Gesellschafter (Veranderung der Beteiligungsverhaltnis­ se an einem Gesellschafter um mehr als 50% im Vergleich zum Stand bei Eintritt in die Gesellschaft) ohne Zustimmung der anderen Gesellschafter. 3. \nOber die Einziehung beschlier1t die Gesellschafterversammlung mit einfacher Mehrheit. \nDer betroffene Gesellschafter hat kein Stimmrecht. \nDie Einziehung wird mit Zugang des Einzie­ hungsbeschlusses an den betreffenden Gesellschafter wirksam. 4. \nDie Einziehung erfolgt gegen Abfindung nach § 12 dieses Vertrages. \nIm Falle der Zwangs­ einziehung gema!1 Absatz 2 betragt die Abfindung 75% des nach § 12 dieses Vertrags ermit­ telten Werts. 5. \nRechtsfolge der Einziehung ist das Anwachsen des eingezogenen Geschaftsanteils bei den verbleibenden Gesellschaftern im Verhaltnis ihrer Beteiligungen. 6. \nStatt der Einziehung kann der Geschaftsanteil durch Beschluss der Gesellschafterversamm­ lung nach deren Wahl ganz oder geteilt an die Gesellschaft selbst - sofern die Vorausset­ zungen des § 33 GmbHG vorliegen -, an einen oder mehrere Gesellschafter oder an van der Gesellschaft zu benennende Dritte abgetreten werden. \nDie Abtretung kann ohne Mitwirkung des betroffenen Gesellschafters vorgenommen werden. § 10 Absatz 4 dieses Vertrags gilt entsprechend. \nBei Abtretung an einen Dritten haftet die Gesellschaft fur die Vergutung wie ein selbstschuldnerischer Burge.",
+    "entities": [
+        {
+            "id": 1327,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1328,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 110
+        },
+        {
+            "id": 1330,
+            "label": "Subsection",
+            "start_offset": 832,
+            "end_offset": 1078
+        },
+        {
+            "id": 1333,
+            "label": "Subsection",
+            "start_offset": 1276,
+            "end_offset": 1431
+        },
+        {
+            "id": 1334,
+            "label": "Subsection",
+            "start_offset": 1432,
+            "end_offset": 2003
+        },
+        {
+            "id": 1335,
+            "label": "Einziehung",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 1336,
+            "label": "Einziehung",
+            "start_offset": 15,
+            "end_offset": 2003
+        },
+        {
+            "id": 1337,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2003
+        },
+        {
+            "id": 1329,
+            "label": "Subsection",
+            "start_offset": 111,
+            "end_offset": 831
+        },
+        {
+            "id": 1332,
+            "label": "Subsection",
+            "start_offset": 1079,
+            "end_offset": 1275
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§10 Einziehung 1. Die Einziehung von Aktien ist stets mit Zustimmung des Aktionärs gestattet. 2. Die Einziehung von Aktien kann auch bei Vorliegen eines wichtigen Grundes gewaltsam eingezogen werden. Ein wichtiger Grund ist insbesondere a) grobe Verletzung der Verpflichtungen des Aktionärs durch einen Aktionär, b) das Verpfänden einer Beteiligung an der Gesellschaft,(d) Wechsel der Kontrolle eines Aktionärs (Veränderung des Eigentums eines Aktionärs um mehr als 50 % gegenüber dem Status eines Aktionärs bei Eintritt in das Unternehmen) ohne Vereinbarung3. Die Hauptversammlung wird mit einfacher Mehrheit einberufen. Der betreffende Aktionär hat kein Stimmrecht. Die Einziehung wird mit Eingang des Beschlusses zur Einziehung der betreffenden Mitglieder wirksam. 4. Die Einziehung erfolgt gegen Abfindung gemäß § 12 dieses Vertrages. Im Falle der Zwangseinziehung erfolgt Absatz 2 b)5. Die rechtliche Folge der Einziehung ist die Erhöhung des Anteils der Gesellschaft an den übrigen Aktionären im Verhältnis ihrer Beteiligungen. 6. Statt der Einziehung kann der Anteil der Gesellschaft durch Beschluss der Gesellschaftervereinigung ganz oder teilweise durch die Gesellschaft selbst geteilt werden, soferndie Bedingungen des § 33 GmbHG erfüllt sind - an einen oder mehrere Partner oder an einen Dritten abgetreten zu werden, der an van der Gesellschaft bestimmt werden soll. Die Abtretung kann ohne Beteiligung des Betroffenen erfolgen. § 10 Abs. 4 dieses Vertrages gilt entsprechend. Im Falle der Abtretung an einen Dritten haftet die Gesellschaft für die Abtretung als SelbstschuldJahrhundert."
+}

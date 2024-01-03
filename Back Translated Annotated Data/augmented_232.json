@@ -1,0 +1,69 @@
+{
+    "id": 780,
+    "text": "§ 16 Einziehung von Geschäftsanteilen .(I) Die Einziehfing von Geschäftsanteilen ist zulässig. \nX2) Die Einziehung des Geschäftsanteils eines Gesellschafters ohne dessen Zustimmung ist zulässig, wenn (a) der Geschäftsanteil von einem Gläubiger des Gesellschafters gepfändet oder sonstwie in diesen vollstreckt wird, und die Vollstreckungsmaßnahme nicht innerhalb von zwei Wochen, spätestens bis zur Verwertung des Geschäftsanteils, aufgehoben wird; (b) über das Vermagen des Gesellschafters das Insolvenzverfahren eröffnet oder die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt wird, oder der Gesellschafter die Richtigkeit seines Vermögensverzeichnis se,s an Eides statt zu versichern hat; (c) in der Person des Gesellschafters ein wichtiger Grund elr seine Ausschließung vorliegt, insbesondere durch grobe Treueverletzungen und/oder grob gesellschaftswidriges und/oder grob geschäftsschädigendes Verhalten begründet wurde; (d) im Fall des Todes des Gesellschafters oder (e) im Fall der Auflösungsklage- dusch einen Gesellschafter. (3) Steht ein Geschäftsanteil mehreren Inhabern zur gesamten Hand oder nach Bruchteilen zu, so ist die Einziehung gemäß Abs. 2 auch zulässiz, wenn dessen Voraussetzungen mn- in der Person eines Mitberechtigten vorliegen.  5)- ) Die Einziehung wird durch die Geschäftsfihrurig crian. \nSie bedarf eines Gesell- schafterbeschlusses, der mit Mehrheit der abgegebenen Stimmen gefasst wird. \nDem betroffenen Gesellschafter steht kein Stimmrecht zu. 5) Die Einziehung erfolgt gegen Zahlung eines Entgeltes. 6) Das Entgelt bemisst sich nach dem Verkehrswert des Geschäftsanteils. \nDieser darf in den in Abs. 2 lit. c) und lii e) genannten Fällen jedoch nicht höher als der Wert Sein, der sieh Kir den Zeitraum aus den Büchern der Gesellschaft ergibt (Buchwert), auf dem die Einziehung beschlossen wurde (Tag des Ausscheidens). \nFällt der Tag des Ausscheidens nicht auf das Ende eines Geschäftsjahres, so ist der Wert maßgebend, der sich Kir das- Ende des vorangegangenen Geschältsjahres aus den Büchern der Gesellschaft ergibt. \nIn diesem Falle ist das Entgelt um die Beträge zu vermindern, die der betroffene Gesellschafter zwischen dem Bilanztag und dem Tag des Ausscheidens auf seine Beteiligung als Gewinnanteile ausgeschüttet erhalten hat.",
+    "entities": [
+        {
+            "id": 2159,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 2161,
+            "label": "Subsection",
+            "start_offset": 97,
+            "end_offset": 1045
+        },
+        {
+            "id": 2169,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2282
+        },
+        {
+            "id": 2160,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 94
+        },
+        {
+            "id": 2163,
+            "label": "Subsection",
+            "start_offset": 1046,
+            "end_offset": 1265
+        },
+        {
+            "id": 2164,
+            "label": "Subsection",
+            "start_offset": 1268,
+            "end_offset": 1488
+        },
+        {
+            "id": 2165,
+            "label": "Subsection",
+            "start_offset": 1489,
+            "end_offset": 1545
+        },
+        {
+            "id": 2166,
+            "label": "Subsection",
+            "start_offset": 1546,
+            "end_offset": 2282
+        },
+        {
+            "id": 2167,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        },
+        {
+            "id": 2168,
+            "label": "Einziehung",
+            "start_offset": 39,
+            "end_offset": 2282
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "(I) Die Einziehung von Aktien ist zulässig. (X2) Die Einziehung des Anteils eines Aktionärs ohne seine Zustimmung ist zulässig, wenn (a) der Anteil des Unternehmens von einem Gläubiger des Aktionärs verpfändet oder anderweitig durchgesetzt wird und die Vollstreckungsmaßnahme nicht innerhalb von zwei Wochen, spätestens zum Zeitpunkt der Übertragung, durchgeführt wird.c) in der Person des Aktionärs gibt es einen wichtigen Grund für seinen Ausschluss, insbesondere:(d) im Falle des Todes des Gesellschafters oder (e) im Falle der Liquidationsmaßnahme ein Aktionär. (3) Wird ein Anteil eines Unternehmens von mehreren Inhabern auf der ganzen Hand oder nach Brüchen gehalten, so ist die Einziehung auch nach Absatz 2 zulässig, wenn5)-) Die Einziehung erfolgt durch den Handelsvertreter. Es bedarf einer Gesellschaftsentscheidung mit der Mehrheit der abgegebenen Stimmen. Der betreffende Aktionär hat kein Stimmrecht. 5) Die Einziehung erfolgt gegen Zahlung einer Gebühr. 6) Die Vergütung wird nach dem Handelswert der Ware bestimmt.In den in Absatz 2 Buchstaben c und e genannten Fällen darf dieser jedoch nicht höher sein als der Wert der Konten von Kir (Buchwert), auf dem die Wiedereinziehung beschlossen wurde (Datum des Widerrufs). Entspricht das Datum des Widerrufs nicht dem Ende eines Geschäftsjahres, so wird der Wert der Konten von Kir am Ende des vorangegangenen Geschäftsjahres bestimmt.In diesem Fall wird die Vergütung um den Betrag verringert, den das betreffende Mitglied als Anteil am Gewinn zwischen dem Bilanzstichtag und dem Zeitpunkt der Rücknahme gezahlt hat."
+}

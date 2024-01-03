@@ -1,0 +1,87 @@
+{
+    "id": 894,
+    "text": "§ 16 Abfindung eines Gesellschafters 1. \nEin ausscheidender Gesellschafter erhalt eine Abfindung, die zu ermitteln ist wie folgt: a) Der Verkehrswert seines Geschaftsanteils ist durch einen Schiedsgutachter gema/1 § 317 8GB fur alle Beteiligten verbindlich zu bestimmen. \nEr hat auch die angemessene Bewertungsmethode nach seinem Ermessen unter Berucksichtigung des IDW Standards: Grundzuge zur Durchfuhrung von Unternehmensbewertungen (IDW S 1) i.d.F. 2008 zu bestimmen. \nEin Firmenwert ist jedoch nicht in Ansatz zu bringen. b) .Der Schiedsgutachter kann nach seinem Ermessen den Wert der Wirtschaftsguter selbst bestimmen oder fur die Bewertung einzelner Wirtschaftsgoter weitere Gutachter einbeziehen. \nSoweit sich die Beteiligten auf Wertansatze einigen, ist der Schiedsgutachter an diese Werte gebunden. c) Bewertungszeitpunkt ist der mit dem Ausscheiden zusammenfallende Bilanzstichtag, sonst der vorausgehende Bilanzstichtag. d) Von diesem Verkehrswert ist ein Abschlag von 20% vorzunehmen. \nAbfindungsbetrag ist der so ermittelte Wert des Geschaftsanteils nach Abzug dieses 20%igen Abschlags. 2. \nSchiedsgutachter soil der im Zeitpunkt des Ausscheidens des betreffenden Gesellschafters fur die Gesellschaft tatige Steuerberater sein. \nWill ihm ein Beteiligter (ein Gesellschafter oder die Gesellschaft) den Auftrag zu dieser Tatigkeit erteilen, so hat er dies alien Gesellschaftern und der Gesellschaft schriftlich mit einer Frist von einem Monat anzuzeigen. lnnerhalb dieser Monatsfrist kann jeder Beteiligte den Steuerberater als Schiedsgutachter ohne Angabe von Grunden ablehnen. \nLehnt der Steuerberater selbst oder - innerhalb dieser Monatsfrist - ein Beteiligter ab, so ist ein anderer Schiedsgutachter zu wahlen. \nEinigen sich die Gesellschafter dann nicht binnen eines weiteren Monats auf einen anderen Schiedsgutachter mit der Qualifikation Wirtschaftsprufer oder Steuerberater, so ist dieser auf Antrag eines Beteiligten durch die fur den Sitz der Gesellschaft zustandige lndustrie- und Handelskammer zu bestimmen. \nOber seine Kosten soll der Schiedsgutachter entsprechend der Regelung der § 91 ff. \nZPO entscheiden. 3. \nDie Abfindung ist in drei gleichen Jahresraten zu bezahlen. \nDie erste Rate ist sechs Monate nach dem Ausscheidungsstichtag fallig. \nDie weiteren Raten sind jeweils in den darauffolgenden Jahren an dem Tage fallig, der dem Datum der Falligkeit der ersten Rate entspricht. \nDie Raten sind ab dem Zeitpunkt der Falligkeit der ersten Rate mit zwei Prozentpunkten Ober dem jeweiligen Basiszinssatz jahrlich zu verzinsen. \nDie Zinsen sind jeweils mit der Rate zu entrichten. \nEine fruhere Zahlung der Abfindung ist ganz oder teilweise zulassig. \nEs besteht kein Anspruch auf Ersatz der dadurch ausgefallenen Zinsen. 4. \nAbweichend von vorstehenden Bestimmungen gilt fur den Fall, dass ein Geschaftsanteil nach § 15 Abs. 1 e) dieser Satzung eingezogen wird (oder zwangsweise abzutreten ist), der betreffende Gesellschafter diesen Anteil im Wege einer Zwangsvollstreckung erworben hat und die Einziehung/Zwangsabtretung nach § 15 Abs. 1 e) dieser Satzung aus diesem Grunde erfolgt: Ein solcher Gesellschafter erhalt nicht die vorstehend geregelte Abfindung, sondern konkret den Betrag, den er aufgrund des Zuschlags fur diesen Geschaftsanteil bezahlen musste. \nDiese Abfindung ist insgesamt binnen sechs Monaten nach dem Ausscheidungsstichtag zu bezahlen. 5. \nDer ausscheidende Gesellschafter kann keine Sicherheit verlangen. 6. \nAnderungen der Jahresabschlusse, die sich nach dem Ausscheiden des betreffenden Gesellschafters ergeben, insbesondere aufgrund einer Buch- oder Betriebsprufung, bleiben ohne Einfluss auf die Hohe des Abfindungsguthabens. \nVII.Sonstiges",
+    "entities": [
+        {
+            "id": 2997,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 36
+        },
+        {
+            "id": 3001,
+            "label": "Green Flag",
+            "start_offset": 2755,
+            "end_offset": 3698
+        },
+        {
+            "id": 2990,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 2991,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 1101
+        },
+        {
+            "id": 2992,
+            "label": "Subsection",
+            "start_offset": 1102,
+            "end_offset": 2135
+        },
+        {
+            "id": 2993,
+            "label": "Subsection",
+            "start_offset": 2136,
+            "end_offset": 2750
+        },
+        {
+            "id": 2994,
+            "label": "Subsection",
+            "start_offset": 2751,
+            "end_offset": 3387
+        },
+        {
+            "id": 2995,
+            "label": "Subsection",
+            "start_offset": 3389,
+            "end_offset": 3457
+        },
+        {
+            "id": 2999,
+            "label": "Abfindung",
+            "start_offset": 2751,
+            "end_offset": 3684
+        },
+        {
+            "id": 3000,
+            "label": "Abfindung",
+            "start_offset": 37,
+            "end_offset": 2750
+        },
+        {
+            "id": 3002,
+            "label": "Green Flag",
+            "start_offset": 2273,
+            "end_offset": 2754
+        },
+        {
+            "id": 3003,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2135
+        },
+        {
+            "id": 2996,
+            "label": "Subsection",
+            "start_offset": 3459,
+            "end_offset": 3684
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Einlösung eines Aktionärs 1. Ein scheidender Aktionär erhält eine Entschädigung, die wie folgt bestimmt wird: a) Der kommerzielle Wert seines Anteils an der Gesellschaft wird von einem Schlichtungsexperten gema/1 § 317 8GB für alle Parteien bestimmt. Er hat auch die geeignete Bewertungsmethode nach seinem Ermessen, unter Berücksichtigung des IDW-Standards: Basisvorteile, soweit:b) Der Schiedsrichter kann nach seinem Ermessen den Wert der wirtschaftlichen Vermögenswerte selbst bestimmen oder weitere Gutachter für die Bewertung einzelner wirtschaftlicher Vermögenswerte einschließen.c) Das Bewertungsdatum ist der Bilanzstichtag, der mit dem Abgang zusammenfällt, andernfalls der frühere Bilanzstichtag. d) Von diesem Marktwert wird ein Abschlag von 20 % vorgenommen; der Betrag der Entschädigung ist der Wert der Gesellschaftsaktie, der nach Abzug dieses Abschlags von 20 % ermittelt wird.Will eine Partei (ein Aktionär oder die Gesellschaft) ihn dazu anordnen, so teilt sie dies den Aktionären und der Gesellschaft schriftlich mit einer Frist von einem Monat mit. Innerhalb dieses Monats kann jede Partei den Steuerberater ohne Angabe von Gründen als Schiedsrichter zurückweisen.Stimmen die Aktionäre nicht innerhalb eines weiteren Monats einem anderen Schlichtungsexperten mit der Qualifikation eines Wirtschafts- oder Steuerberaters zu, so gilt dieser auf Antrag einer der Parteien als für den Sitz der Gesellschaft verantwortlich.Die erste Tranche ist sechs Monate nach dem Tag der Fälligkeit der ersten Tranche zu zahlen; die weiteren Tranchen sind in den folgenden Jahren am Tag der Fälligkeit der ersten Tranche fällig.Die Sätze sind jährlich ab dem Tag der Fälligkeit der ersten Tranche mit zwei Prozentpunkten über dem jeweiligen Basiszinssatz zu zahlen. Zinsen müssen zum Satz gezahlt werden. Eine neuere Zahlung der Abfindung ist ganz oder teilweise zulässig. Es besteht kein Anspruch auf die Ersetzung der dadurch entstandenen Zinsen. 4. Abweichend von den vorstehenden Bestimmungen besteht kein Anspruch auf Ersatz der Zinsen.für den Fall, dass ein Anteil an der Gesellschaft gemäß § 15 Abs. 1 Buchst. e) dieser Satzung eingezogen wird (oder mit Gewalt abgetreten werden soll), hat das betreffende Mitglied diesen Anteil im Wege der Zwangsvollstreckung erworben und die Einziehung/Pflichterteilung nach § 15 Abs. 1 Buchst. e) dieser Satzung erfolgt aus diesem Grund: ein solches Mitglied erhält die oben vorgesehene Entschädigung nicht, sondernDiese Entschädigung muss innerhalb von sechs Monaten nach dem Zeitpunkt des Widerrufs gezahlt werden. 5. Das ausscheidende Mitglied kann keine Sicherheit verlangen. 6. Änderungen des Jahresabschlusses infolge des Rücktritts des betreffenden Mitglieds, insbesondere auf der Grundlage eines Buches- oder Firmenleasing, bleiben ohne Einfluss auf die Höhe der Abrechnungsbilanz. VII.Sonstige"
+}

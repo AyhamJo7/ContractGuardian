@@ -1,0 +1,45 @@
+{
+    "id": 1019,
+    "text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Verwaltung eigenen Vermögens sowie die Beteiligung der Gesellschaft als persönlich haftende Gesellschafterin bei Kommanditgesellschaften. (2) Die Gesellschaft kann alle Geschäfte betreiben, die dem Gesellschaftszweck unmittelbar oder mittelbar dienen können und/oder mit ihm im Zusammenhang stehen. Sie kann Zweigniederlassungen errichten und sich an gleichartigen oder ähnlichen Unternehmen beteiligen.",
+    "entities": [
+        {
+            "id": 3835,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3836,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 209
+        },
+        {
+            "id": 3837,
+            "label": "Subsection",
+            "start_offset": 210,
+            "end_offset": 475
+        },
+        {
+            "id": 3838,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 3839,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 475
+        },
+        {
+            "id": 3840,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 475
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Verwaltung des eigenen Vermögens und die Beteiligung der Gesellschaft als persönlich haftender Gesellschafter an Gesellschaften mit beschränkter Haftung. (2) Die Gesellschaft kann jede Tätigkeit ausüben, die dem Zweck der Gesellschaft unmittelbar oder mittelbar dienen kann und/oder damit verbunden ist.und an ähnlichen oder ähnlichen Unternehmen beteiligt sind."
+}

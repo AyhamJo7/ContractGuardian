@@ -1,0 +1,39 @@
+{
+    "id": 662,
+    "text": "§6 Jahresabschluss, Gewinnverwendung 1. \nDie GeschaftsfOhrer haben den Jahresabschluss und - soweit nach dem Gesetz erforderlich - den Lagebericht innerhalb der gesetzlichen Frist (",
+    "entities": [
+        {
+            "id": 1299,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 1300,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        },
+        {
+            "id": 1301,
+            "label": "Jahresabschluss",
+            "start_offset": 41,
+            "end_offset": 179
+        },
+        {
+            "id": 1302,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 179
+        },
+        {
+            "id": 1303,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 179
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Jahresabschluss, Gewinnauslastung 1. Die Gesellschaften haben den Jahresabschluss und, falls gesetzlich vorgeschrieben, den Lagebericht innerhalb der gesetzlichen Frist ("
+}

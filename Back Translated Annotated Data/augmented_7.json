@@ -1,0 +1,57 @@
+{
+    "id": 540,
+    "text": "§ 7 Gesellschafterbeschlüsse (1) Gesellschafterbeschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, soweit nicht durch Gesetz oder Vertrag eine andere Mehrheit vorgeschrieben ist. (2) Jeder Euro eines Geschäftsanteils gewährt eine Stimme. \nUnterschiedliche Stimmabgabe durch einen Gesellschafter ist zulässig. (3) Sämtliche Gesellschafterbeschlüsse sind zu Beweiszwecken zu protokollieren. \nDie Gesellschafter erhalten Abschriften. (4) Die Anfechtung von Gesellschafterbeschlüssen ist nur durch Klageerhebung innerhalb einer Frist von zwei Monaten nach Absendung des Beschlussprotokolls zulässig.",
+    "entities": [
+        {
+            "id": 377,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 29,
+            "end_offset": 617
+        },
+        {
+            "id": 378,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 617
+        },
+        {
+            "id": 372,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 200
+        },
+        {
+            "id": 371,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 373,
+            "label": "Subsection",
+            "start_offset": 201,
+            "end_offset": 330
+        },
+        {
+            "id": 374,
+            "label": "Subsection",
+            "start_offset": 331,
+            "end_offset": 452
+        },
+        {
+            "id": 375,
+            "label": "Subsection",
+            "start_offset": 453,
+            "end_offset": 617
+        },
+        {
+            "id": 376,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Beschlüsse der Aktionäre (1) Beschlüsse der Aktionäre werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, es sei denn, es ist gesetzlich oder vertraglich eine andere Mehrheit erforderlich. (2) Jeder Euro einer Geschäftsaktie gewährt eine Stimme. Unterschiedliche Abstimmung durch einen Aktionär ist zulässig. (3) Alle Entscheidungen der Aktionäre sind zu Beweiszwecken proto(4) Die Anfechtung von Aktionärsentscheidungen ist nur zulässig, wenn innerhalb einer Frist von zwei Monaten ab dem Tag der Absendung des Entscheidungsprotokolls Klage erhoben wird."
+}

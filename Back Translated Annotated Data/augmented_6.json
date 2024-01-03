@@ -1,0 +1,63 @@
+{
+    "id": 539,
+    "text": "§ 6 Gesellschafterversammlung (1) Eine ordentliche Gesellschafterversammlung findet jährlich einmal innerhalb der gesetzlichen Frist statt. \nDarüber hinaus sind außerordentliche Versammlungen zu berufen, wenn dies im Interesse der Gesellschaft erforderlich ist oder von Gesellschaftern, die zusammen mindestens 10 % des Stammkapitals innehaben, verlangt wird. (2) Die Einberufung erfolgt durch die Geschäftsführer in vertretungsberechtigter Zahl unter Mitteilung der Tagesordnung mittels eingeschriebenen Briefes bei Einhaltung einer Frist von vier Wochen, nicht eingerechnet den Tag der Absendung der   Ladung und den Tag der Versammlung. \nBei Eilbedürftigkeit kann die Einberufung mit angemessen kürzerer Frist, die jedoch eine Woche nicht unterschreiten darf, erfolgen. (3) Die Gesellschafterversammlung ist beschlussfähig, wenn mindestens drei Viertel des stimmberechtigten Stammkapitals anwesend bzw. vertreten sind. \nIst das nicht der Fall, so ist innerhalb einer Woche mit einer Einladungsfrist von einer Woche eine neue Versammlung mit gleicher Tagesordnung einzuberufen, welche dann ohne Rücksicht auf das vertretene Stammkapital beschlussfähig ist. \nDarauf ist in der Ladung hinzuweisen. (4) Jeder Gesellschafter kann sich in der Gesellschafterversammlung durch einen Mitgesellschafter oder einen zur Berufsverschwiegenheit verpflichteten Angehörigen der rechts- und steuerberatenden Berufe aufgrund in Textform erteilter Vollmacht vertreten lassen. \nEr darf eine solche Person auch als Beistand hinzuziehen. (5) Beschlüsse können auch ohne Einhaltung der Einberufungsvoraussetzungen und darüber hinaus auch schriftlich, per Telefax oder im Wege elektronischer Datenübermittlung gefasst werden, wenn alle Gesellschafter diesem Verfahren zustimmen.",
+    "entities": [
+        {
+            "id": 362,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 368,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 363,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 359
+        },
+        {
+            "id": 366,
+            "label": "Subsection",
+            "start_offset": 1198,
+            "end_offset": 1518
+        },
+        {
+            "id": 367,
+            "label": "Subsection",
+            "start_offset": 1519,
+            "end_offset": 1757
+        },
+        {
+            "id": 369,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 30,
+            "end_offset": 1757
+        },
+        {
+            "id": 370,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1757
+        },
+        {
+            "id": 364,
+            "label": "Subsection",
+            "start_offset": 360,
+            "end_offset": 772
+        },
+        {
+            "id": 365,
+            "label": "Subsection",
+            "start_offset": 773,
+            "end_offset": 1197
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Hauptversammlung (1) Eine ordentliche Aktionärsversammlung findet einmal jährlich innerhalb der gesetzlichen Frist statt. Darüber hinaus sind außerordentliche Sitzungen einzuberufen, wenn dies im Interesse der Gesellschaft erforderlich ist oder wenn es von Aktionären verlangt wird, die zusammen mindestens 10 % des Grundkapitals halten. (2) Die Einberufung erfolgt durch die Gesellschaft.Bei dringendem Bedarf kann die Einberufung mit einem entsprechend kürzeren Zeitraum erfolgen, der jedoch nicht weniger als eine Woche betragen darf.Sind mindestens drei Viertel des stimmberechtigten Kapitals anwesend oder vertreten, so ist das Quorum beschlussfähig. Ist dies nicht der Fall, so wird innerhalb einer Woche mit einer Einladungsfrist von einer Woche eine neue Sitzung mit derselben Tagesordnung einberufen, die dann ohne Rücksicht auf das vertretene Aktienkapital beschlussfähig ist. Dies wird in der Ladung vermerkt. (4) Jeder Partner kann in der Hauptversammlung durch einen Partner oder ein Mitglied der Rechts- und Steuerberatungsberufe vertreten sein, die aufgrund der in Form eines Textes erteilten Vollmacht zur Wahrung des Berufsgeheimnisses verpflichtet sind. Er kann auch von einer solchen Person unterstützt werden. (5) Entscheidungen können auch ohne Einhaltung der Einberufungsbedingungen und der Vertragsbedingungen getroffen werden.schriftlich, per Fax oder mittels elektronischer Datenübertragung, wenn alle Aktionäre diesem Verfahren zustimmen."
+}

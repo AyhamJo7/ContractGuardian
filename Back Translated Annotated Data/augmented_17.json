@@ -1,0 +1,51 @@
+{
+    "id": 517,
+    "text": "§ 2 Gegenstand des Unternehmens 1. \nGegenstand des Unternehmens ist der Betrieb von stationären Sport- und Fitnessstudios und damit im Zusammenhang stehende Tätigkeiten, soweit nicht erlaubnispflichtig. 2. \nDie Gesellschaft kann alle Geschäfte tätigen, die den Unternehmensgegenstand fördern. \nSie darf insbesondere gleichartige oder ähnliche Unternehmen in jeder zulässigen Rechtsform errichten, erwerben, vertreten oder sich an solchen Unternehmen beteiligen. \nSie darf Zweigniederlassungen errichten.",
+    "entities": [
+        {
+            "id": 16,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 17,
+            "label": "Gegenstand",
+            "start_offset": 36,
+            "end_offset": 202
+        },
+        {
+            "id": 18,
+            "label": "Gegenstand",
+            "start_offset": 207,
+            "end_offset": 503
+        },
+        {
+            "id": 207,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 208,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 202
+        },
+        {
+            "id": 209,
+            "label": "Subsection",
+            "start_offset": 203,
+            "end_offset": 503
+        },
+        {
+            "id": 210,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 503
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand der Gesellschaft 1. Gegenstand der Gesellschaft ist der Betrieb von stationären Sport- und Turnhallen und damit zusammenhängenden Tätigkeiten, soweit sie nicht lizenzpflichtig sind. 2. Die Gesellschaft kann jedes Geschäft ausüben, das den Gegenstand der Gesellschaft fördert. Insbesondere kann sie ähnliche oder ähnliche Unternehmen in jeder gesetzlich zulässigen Rechtsform gründen.Es kann Filialen einrichten."
+}

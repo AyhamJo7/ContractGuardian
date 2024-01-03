@@ -1,0 +1,15 @@
+{
+    "id": 870,
+    "text": "Gesellschaftsvertrag der MaBet Verwaltungsgesellschaft mbH ",
+    "entities": [
+        {
+            "id": 2798,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 59
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Gesellschaftsvertrag der MaBet Verwaltungsgesellschaft mbH"
+}

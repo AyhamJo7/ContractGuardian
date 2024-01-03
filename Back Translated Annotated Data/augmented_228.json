@@ -1,0 +1,69 @@
+{
+    "id": 776,
+    "text": "§12 - Jahresabschluss, Ergebnisverwendung Die Geschäftsfilhrer haben den Jahresabschluss (Bilanz nebst Gewinn- und Verlustrechnung samt Anhang) und den Lagebericht innerhalb der ersten 25 Tage des Kalenderjahres aufz-ustellen und von dem von den Gesellschaftern zu bestellenden Abschlussprüfer prüfen zu lassen. \nDie Geschäftsführer haben den Gesellschaftern den geprüften Jahresabschluss und den Lagebericht nebst Prüfbericht unverzüglich nach Fertigstellung mit ihren Vorschlägen zur Gewinnverwendung zur Beschlussfassung vorzulegen. • Den Gesellschaftern obliegt die Feststellung des Jahresabschlusses und die Be- schlussfassung über die Verwendung des Jahresüberschusses und/oder Bilanzgewinns.",
+    "entities": [
+        {
+            "id": 2134,
+            "label": "Gewinnverteilung",
+            "start_offset": 313,
+            "end_offset": 698
+        },
+        {
+            "id": 2128,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 41
+        },
+        {
+            "id": 2129,
+            "label": "Subsection",
+            "start_offset": 42,
+            "end_offset": 312
+        },
+        {
+            "id": 2131,
+            "label": "Jahresabschluss",
+            "start_offset": 42,
+            "end_offset": 312
+        },
+        {
+            "id": 2132,
+            "label": "Jahresabschluss",
+            "start_offset": 313,
+            "end_offset": 698
+        },
+        {
+            "id": 2133,
+            "label": "Gewinnverteilung",
+            "start_offset": 42,
+            "end_offset": 312
+        },
+        {
+            "id": 2135,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 698
+        },
+        {
+            "id": 2136,
+            "label": "Jahresabschluss",
+            "start_offset": 6,
+            "end_offset": 21
+        },
+        {
+            "id": 2137,
+            "label": "Gewinnverteilung",
+            "start_offset": 23,
+            "end_offset": 42
+        },
+        {
+            "id": 2130,
+            "label": "Subsection",
+            "start_offset": 313,
+            "end_offset": 698
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§12 - Abschluss, Ergebnisverwendung Der Abschluss (Bilanz zusammen mit Gewinn- und Verlustrechnung und Anmerkungen) und der Lagebericht müssen innerhalb der ersten 25 Tage des Kalenderjahres erstellt und vom gesetzlichen Abschlussprüfer geprüft werden, der von den Aktionären bestellt werden soll.• Die Aktionäre sind für die Feststellung des Jahresabschlusses und die Entscheidung über die Verwendung des Nettogewinns und/oder des Bilanzgewinns verantwortlich."
+}

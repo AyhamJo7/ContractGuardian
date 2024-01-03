@@ -1,0 +1,81 @@
+{
+    "id": 795,
+    "text": "§ 8 Gesellschafterbeschlüsse\n1. Die Gesellschafterversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen ist und mindestens 75% des Stammkapitals vertreten sind. \nIst letzteres nicht der Fall, so ist eine zweite Gesellschafterversammlung mit gleicher Ladungsfrist und gleicher Tagesordnung einzuberufen. \nDiese Gesellschafterversammlung ist dann ohne Rücksicht auf das vertretene Kapital beschlussfähig. \nAuf diese Rechtsfolge ist in der zweiten Ladung hinzuweisen. \n2. Die Gesellschafterversammlung bestimmt ihren Vorsitzenden. \nVorsitzender soll der Gesellschafter sein, der die Größte Anzahl an Geschäftsanteilen hält, bei gleich hoher Beteiligungsquote, der Gesellschafter mit der längsten Beteiligungsdauer. \n3. Alle Beschlüsse der Gesellschaft werden mit einfacher Mehrheit der in der Gesellschafterversammlung abgegebenen Stimmen gefasst, soweit nicht durch Gesetz oder Satzung andere Mehrheitsverhältnisse vorgeschrieben sind. \n4. Jeder Euro eines Geschäftsanteils gewährt bei der Beschlussfassung eine Stimme. \nEin Gesellschafter, der seine Stammeinlage auf Anforderung der Gesellschaft nicht erbracht hat, ist nicht stimmberechtigt. \n5. Ein Gesellschafter kann sich in der Gesellschafterversammlung durch Mitgesellschafter oder einen Angehörigen der rechts- und steuerberatenden Berufe vertreten lassen oder im Beistand einer solchen Person erscheinen. \nDie Vollmacht bedarf zu ihrer Gültigkeit der Textform und verbleibt bei der Gesellschaft. \nEine Vertretung durch andere Personen und deren Beistand ist zulässig, wenn keiner der an der Gesellschafterversammlung teilnehmenden anderen Gesellschafter widerspricht. \n6. Soweit alle Gesellschafter mit der betreffenden Form der Beschlussfassung einverstanden sind und soweit nicht zwingende Formvorschriften bestehen, können die Beschlüsse der Gesellschaft auch auf eine andere Art gefasst werden, vor allem: a) außerhalb von Gesellschafterversammlungen, insbesondere im Rund-umVerfahren in schriftlicher Form, mündlich oder per Telefon, Telefax oder E-Mail; b) in kombinierten Verfahren, insbesondere durch Kombination einer Versammlung einzelner Gesellschafter mit einer — vorherigen, gleichzeitigen oder nachträglichen — Stimmabgabe der anderen Gesellschafter im Sinne von a) sowie durch eine Kombination verschiedener Stimmabgabearten im Sinne von a) (z. \nB. teils schriftlich, teils per E-Mail etc.). \n7. Über jede Gesellschafterversammlung sowie über jeden Gesellschafterbeschluss nach Abs. 6 ist zu Beweiszwecken ein Protokoll anzufertigen. Soweit nicht eine notarielle Beurkundung erfolgt, wird der Schriftführer durch den Vorsitzenden bestimmt. Jedem Gesellschafter ist eine Durchschrift zu übermitteln. Der Inhalt der Niederschrift gilt als von dem einzelnen Gesellschafter genehmigt, sofern er der Richtigkeit nicht binnen zwei Wochen seit Empfang schriftlich unter Angabe von Gründen widerspricht. \n8. Gesellschafterbeschlüsse können nur binnen sechs Wochen ab der Aufgabe des Beschlussprotokolls zur Post durch Klage angefochten werden.",
+    "entities": [
+        {
+            "id": 2259,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 2284,
+            "label": "Subsection",
+            "start_offset": 2377,
+            "end_offset": 2880
+        },
+        {
+            "id": 2285,
+            "label": "Subsection",
+            "start_offset": 2881,
+            "end_offset": 3019
+        },
+        {
+            "id": 2286,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 28
+        },
+        {
+            "id": 2279,
+            "label": "Subsection",
+            "start_offset": 478,
+            "end_offset": 723
+        },
+        {
+            "id": 2282,
+            "label": "Subsection",
+            "start_offset": 1155,
+            "end_offset": 1637
+        },
+        {
+            "id": 2277,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 477
+        },
+        {
+            "id": 2280,
+            "label": "Subsection",
+            "start_offset": 725,
+            "end_offset": 946
+        },
+        {
+            "id": 2281,
+            "label": "Subsection",
+            "start_offset": 947,
+            "end_offset": 1154
+        },
+        {
+            "id": 2283,
+            "label": "Subsection",
+            "start_offset": 1638,
+            "end_offset": 2376
+        },
+        {
+            "id": 2287,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 29,
+            "end_offset": 3019
+        },
+        {
+            "id": 2288,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 3019
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Hauptversammlung 1. Die Hauptversammlung ist beschlussfähig, wenn sie ordnungsgemäß einberufen wird und mindestens 75% des Grundkapitals vertreten ist. Ist dies nicht der Fall, so wird eine zweite Hauptversammlung mit derselben Frist und derselben Tagesordnung einberufen.(2) Die Hauptversammlung bestimmt ihren Vorsitzenden. Der Vorsitzende ist der Aktionär mit der größten Anzahl von Aktien, mit derselben Beteiligungsrate, der Aktionär mit der längsten Dauer der Beteiligung. 3. Alle Entscheidungen der Gesellschaft werden mit einfacher Mehrheit der Mitglieder des Verwaltungsrats getroffen.4. Jeder Euro eines Unternehmensanteils gewährt im Entscheidungsprozess eine Stimme. Ein Partner, der auf Antrag der Gesellschaft seinen Mutterbeitrag nicht geleistet hat, ist nicht stimmberechtigt. 5. Ein Partner kann in der Gesellschaft wählen.Die Vollmacht ist für ihre Gültigkeit in Form eines Textes erforderlich und bleibt bei der Gesellschaft. Vertretung durch andere Personen und deren Unterstützung sind zulässig, wenn keines der Mitglieder der Hauptversammlung anwesend ist.6. Soweit alle Aktionäre mit der maßgeblichen Form der Entscheidungsfindung einverstanden sind und es nicht zwingende Formvorschriften gibt, können die Entscheidungen der Gesellschaft auch anders gefasst werden, insbesondere a) außerhalb der Aktionärsversammlungen, insbesondere schriftlich, mündlich oder per Telefon, Fax oder E-Mail; b) in kombinierten Verfahren, insbesondere durch die Kombination eines Treffens einzelner Partner mit einer Abstimmung durch die anderen Partner im Sinne von a) und einer Kombination verschiedener Abstimmungsmethoden im Sinne von a) (z.B. teilweise schriftlich, teils per E-Mail usw.).In Ermangelung einer Notarerklärung wird der Sekretär vom Vorsitzenden ernannt; jedem Mitglied wird eine Abschrift übermittelt; der Inhalt des Protokolls gilt als vom einzelnen Mitglied genehmigt, sofern es nicht richtig ist.8. Die Entscheidungen des Unternehmens können nur innerhalb von sechs Wochen nach der Kündigung des Entscheidungsprotokolls angefochten werden."
+}

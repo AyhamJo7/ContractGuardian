@@ -1,0 +1,51 @@
+{
+    "id": 625,
+    "text": "§ 6 Verfügungen über Geschäftsanteile (1) Verfügungen über Geschäftsanteile, insbesondere Veräußerungen oder Belastungen, bedürfen der Zustimmung der Gesellschafterversammlung mit einer Mehrheit von ¾ der abgegebenen Stimmen. \nVerfügungen zugunsten von Mitgesellschaftern bedürfen keiner Zustimmung. (2) Jeder Gesellschafter kann seine Geschäftsanteile ohne Zustimmung der übrigen Gesellschafter mit sofortiger Wirksamkeit teilen und, wenn die Geschäftsanteile ohne Nachschusspflicht voll erbracht sind und keine unterschiedlichen Rechte vermitteln, zusammenlegen. \nTeilung und Zusammenlegung sind der Geschäftsführung unverzüglich schriftlich mitzuteilen. (3) Jeder Gesellschafter ist verpflichtet, der Geschäftsführung Veränderungen in seiner Person oder seiner Beteiligung an der Gesellschaft schriftlich mitzuteilen. \nNachweise sind durch Urschriften oder beglaubigte Abschriften zu führen. \nIm Falle der Erbfolge gilt § 35 GBO entsprechend.",
+    "entities": [
+        {
+            "id": 1036,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 299
+        },
+        {
+            "id": 1041,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 945
+        },
+        {
+            "id": 1037,
+            "label": "Subsection",
+            "start_offset": 300,
+            "end_offset": 656
+        },
+        {
+            "id": 1038,
+            "label": "Subsection",
+            "start_offset": 657,
+            "end_offset": 945
+        },
+        {
+            "id": 1040,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 945
+        },
+        {
+            "id": 1035,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 1039,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Verfügungen über Aktien (1) Verfügungen über Aktien, insbesondere Veräußerungen oder Gebühren, bedürfen der Zustimmung der Hauptversammlung mit einer Mehrheit von 3⁄4 der abgegebenen Stimmen. Verfügungen für gemeinsame Aktionäre bedürfen nicht der Zustimmung. (2) Jeder Aktionär kann seine Aktien ohne Zustimmung der anderen Aktionäre haben mitWerden die Aktien der Gesellschaft vollständig zur Verfügung gestellt und verleihen sie keine unterschiedlichen Rechte, so werden sie unverzüglich zusammengeführt. Spaltung und Verschmelzung werden der Geschäftsführung unverzüglich schriftlich mitgeteilt. (3) Jeder Aktionär ist verpflichtet, die Geschäftsführung seiner Person oder seine Beteiligung an der Gesellschaft zu ändern.Der Nachweis muss durch Originale oder beglaubigte Abschriften erbracht werden. § 35 GBO gilt sinngemäß im Falle der Erbfolge."
+}

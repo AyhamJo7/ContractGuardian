@@ -1,0 +1,51 @@
+{
+    "id": 566,
+    "text": "§ 18 Schlussbestimmungen Sollten einzelne Bestimmungen dieser Urkunde ganz oder teilweise unwirksam sein, so sollen die übrigen Bestimmungen wirksam bleiben. \nDie unwirksame Bestimmung ist – soweit tatsächlich möglich und rechtlich zulässig - im Wege der ergänzenden Vertragsauslegung durch eine angemessene Regelung zu ersetzen; anderenfalls sind die Parteien verpflichtet, unverzüglich und formgerecht eine Ersatzregelung zu vereinbaren. \nDabei sind der Sinn und Zweck des Vertrages sowie der mutmaßliche Wille der Parteien zu berücksichtigen. \nEntsprechendes gilt für den Fall einer Lücke oder wenn eine Bestimmung undurchführbar sein sollte. \nSämtliche Kosten von Kapitalerhöhungsmaßnahmen trägt die Gesellschaft einschließlich der Kosten der Übernahmeerklärungen der Gesellschafter. \nDie Gesellschaft trägt die mit ihrer Gründung verbundenen Kosten auch insoweit, als sie dazu gesetzlich nicht verpflichtet ist, insbesondere die Rechtsanwalts-, Notar-, Steuerberater-, Gerichts-, Veröffentlichungskosten, Bankgebühren etc., bis zu einem Gesamtbetrag von 2.500,00 €.",
+    "entities": [
+        {
+            "id": 589,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 590,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 158
+        },
+        {
+            "id": 592,
+            "label": "Subsection",
+            "start_offset": 647,
+            "end_offset": 1070
+        },
+        {
+            "id": 593,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 594,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 1070
+        },
+        {
+            "id": 595,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1070
+        },
+        {
+            "id": 591,
+            "label": "Subsection",
+            "start_offset": 159,
+            "end_offset": 646
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 18 Schlussbestimmungen Sollten einzelne Bestimmungen dieses Dokuments ganz oder teilweise unwirksam sein, so bleiben die übrigen Bestimmungen wirksam. An die Stelle der unwirksamen Bestimmung tritt eine geeignete Regelung, soweit dies möglich und rechtlich zulässig ist, durch eine ergänzende Vertragsauslegung; andernfalls sind die Parteien verpflichtet, unverzüglich und förmlicherIn diesem Zusammenhang sind die Bedeutung und der Zweck des Vertrages sowie der angebliche Wille der Parteien zu berücksichtigen. Gleiches gilt für den Fall einer Lücke oder wenn eine Bestimmung undurchführbar sein sollte. Alle Kosten der Kapitalerhöhung werden von der Gesellschaft einschließlich der Kosten der Übertragungserklärungen der Aktionäre getragen.chaft trägt auch die mit seiner Gründung verbundenen Kosten, soweit sie dazu rechtlich nicht verpflichtet ist, insbesondere Rechtsanwalt, Notar, Steuerberater, Gericht, Publikationskosten, Bankgebühren etc., bis zu einem Gesamtbetrag von 2.500,00 €."
+}

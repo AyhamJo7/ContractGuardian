@@ -1,0 +1,57 @@
+{
+    "id": 996,
+    "text": "§ 12 Bekanntmachung/Gründungskosten\n\n(1) Alle Bekanntmachungen der Gesellschaft erfolgen nur im elektronischen Bundesanzeiger.\n\n(2) Sämtliche mit der Gründung der Gesellschaft verbundenen Kosten trägt die COFA Consulting+ Vertriebs AG mit dem Sitz in Köln.",
+    "entities": [
+        {
+            "id": 3674,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3679,
+            "label": "Kosten",
+            "start_offset": 20,
+            "end_offset": 35
+        },
+        {
+            "id": 3680,
+            "label": "Kosten",
+            "start_offset": 128,
+            "end_offset": 256
+        },
+        {
+            "id": 3681,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 256
+        },
+        {
+            "id": 3675,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 126
+        },
+        {
+            "id": 3676,
+            "label": "Subsection",
+            "start_offset": 128,
+            "end_offset": 256
+        },
+        {
+            "id": 3677,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 19
+        },
+        {
+            "id": 3678,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 126
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Bekanntmachung/Gründungskosten (1) Alle Bekanntmachungen des Unternehmens erfolgen nur im elektronischen Bundesanzeiger. (2) Alle mit der Gründung des Unternehmens verbundenen Kosten trägt die COFA Consulting+ Vertriebs AG mit Sitz in Köln."
+}

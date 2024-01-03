@@ -1,0 +1,39 @@
+{
+    "id": 782,
+    "text": "§18 Abtretungsverlangen statt Einziehung Soweit die Einziehung eines Geschäftsanteils zulässig ist, kann die Gesellschaft statt dessen verlangen, dass der Geschäftsanteil an die Gesellschaft oder eine von  ihr benannte Person, bei der es sich auch um einen Gesellschafter handeln kann, abgetreten wird, und zwar auch dergestalt, dass der Geschäftsanteil teilweise eingezogen wird und im übrigen an die Gesellschaft oder die von ihr bezeichnete Person abzutreten ist_ Soweit die Gesellschaft statt der Einziehung des Geschäftsanteils dessen Abtretung an sich oder eine von der Gesellschaft bezeichnete Person verlangt, gelten die Regelungen in § 16 Abs. 4 (Notwendigkeit eines Gesellschafterbeschlusses), § 16 Abs. 5,6 (Entgelt), § 17 (Zahlbarkeit des Entgelts) entsprechend mit der Maßgabe, dass der Gesellschafterbeschluss gemäß § 16 Abs. 4 im Falle des Verlangens der Abtretung an eine von der Gesellschaft bestimmte Person nur mit mindestens 75 % aller vorhandenen Stimmen gefasst werden kann, und dass die Vergütung fiir den abzutretenden Geschäftsanteil von dem Erwerber des Geschäftsanteils geschuldet wird, und die Gesellschaft für deren Zahlung wie ein Bürge haftet, der auf die Einrede der Vorausklage verzichtet hat. § 30 Abs. 1 Grab11G bleibt unberührt.",
+    "entities": [
+        {
+            "id": 2180,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1264
+        },
+        {
+            "id": 2176,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        },
+        {
+            "id": 2177,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 1264
+        },
+        {
+            "id": 2178,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 40
+        },
+        {
+            "id": 2179,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 41,
+            "end_offset": 1264
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§18 Antrag auf Abtretung statt Einziehung Soweit die Einziehung eines Geschäftsanteils zulässig ist, kann die Gesellschaft stattdessen verlangen, dass der Geschäftsanteil der Gesellschaft oder einer von ihr benannten Person zugeordnet wird, die auch Aktionär sein kann, auch so, dass der Geschäftsanteil teilweise wieder eingezogen wird und darüber hinause Die Gesellschaft oder die von ihr benannte Person ist abzutreten_Soweit die Gesellschaft ihre Abtretung an sich selbst oder an eine von der Gesellschaft anstelle der Einziehung des Geschäftsanteils bestimmte Person vorschreibt, gelten die Bestimmungen des § 16 Abs. 4 (Notwendigkeit einer Aktionärsentscheidung), des § 16 Abs. 5,6 (Vergütung), des § 17 (Zahlbarkeit der Vergütung) entsprechend mit der Bestimmung, dassIm Falle eines Antrags auf Abtretung an eine von der Gesellschaft benannte Person kann die Aktionärsentscheidung nach § 16 Abs. 4 nur mit mindestens 75 % aller bestehenden Stimmen getroffen werden, und die Vergütung für den zu übertragenden Teil der Geschäftstätigkeit wird vom Erwerber der Geschäftsanteile geschuldet, und die Gesellschaft haftet für ihre Zahlung als Garant, der für den Widerspruch der Aktionäre haftet.§ 30 Abs. 1 Grab11G bleibt unberührt."
+}

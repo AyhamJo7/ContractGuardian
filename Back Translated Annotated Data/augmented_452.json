@@ -1,0 +1,39 @@
+{
+    "id": 1002,
+    "text": "§ 5 Verfügung über Geschäftsanteile\n\nDie Verfügung über einen Geschäftsanteil, insbesondere die Abtretung oder Verpfändung, bedarf der vorherigen Zustimmung aller anderen Gesellschafter. Die Zustimmung darf nur aus wichtigem Grund verweigert werden. Als wichtiger Grund gilt auch eine durch die Übertragung eintretende Nichtabziehbarkeit von steuerlich berücksichtigungsfähigen Verlusten, Verlustvorträgen oder Fehlbeträgen (§ 8c KStG, 10a GewStG).",
+    "entities": [
+        {
+            "id": 3716,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 35
+        },
+        {
+            "id": 3717,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 448
+        },
+        {
+            "id": 3714,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3715,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 448
+        },
+        {
+            "id": 3718,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 448
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Verfügung über Aktien Die Verfügung über einen Anteil eines Unternehmens, insbesondere die Abtretung oder Verpfändung, bedarf der vorherigen Zustimmung aller anderen Aktionäre. Die Zustimmung kann nur aus wichtigen Gründen verweigert werden. Ein wichtiger Grund ist auch die Nichtabsetzbarkeit von steuerlich vertretbaren Verlusten, Verlustvorteil infolge der Übertragung.(Abschnitt 8c KStG, 10a GewStG)."
+}

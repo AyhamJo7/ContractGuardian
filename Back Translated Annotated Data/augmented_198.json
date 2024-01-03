@@ -1,0 +1,57 @@
+{
+    "id": 672,
+    "text": "§ 16 Schlussbestimmungen 1. \nJeder Gesellschafter ist verpflichtet, der Geschaftsfuhrung Veranderungen in seiner Person oder seiner Beteiligung an der Gesellschaft unverzuglich schriftlich mitzuteilen und nachzu­ weisen. 2. \nGerichtsstand fur alle etwaigen Streitigkeiten aus diesem Vertrag ist der Sitz der Gesell­ schaft. 3. \nSollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder werden, so wird die Rechtswirksamkeit der ubrigen Bestimmungen dadurch nicht beruhrt. \nDie betreffende Be­ stimmung ist durch eine wirksame zu ersetzen, die dem angestrebten wirtschaftlichen Zweck moglichst nahe kommt. \nEntsprechendes gilt fur etwaige Vertragslucken. 4. \nDie Gesellschaft tragt die mit der Grundung verbundenen Kosten und Gebuhren (Notar- und Gerichtsgebuhren sowie Beratungskosten fur Steuerberater und Rechtsanwalt) bis zu einem Gesamtbetrag von insgesamt EUR 2.500,00.",
+    "entities": [
+        {
+            "id": 1381,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 220
+        },
+        {
+            "id": 1382,
+            "label": "Subsection",
+            "start_offset": 221,
+            "end_offset": 323
+        },
+        {
+            "id": 1383,
+            "label": "Subsection",
+            "start_offset": 324,
+            "end_offset": 662
+        },
+        {
+            "id": 1384,
+            "label": "Subsection",
+            "start_offset": 663,
+            "end_offset": 883
+        },
+        {
+            "id": 1380,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 1385,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 1386,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 883
+        },
+        {
+            "id": 1387,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 883
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Schlussbestimmungen 1. Jeder Partner ist verpflichtet, Änderungen seiner Person oder seiner Beteiligung an der Gesellschaft unverzüglich zu notifizieren und schriftlich nachzuweisen. 2. Gerichtsstand für Streitigkeiten aus diesem Vertrag ist der Sitz der Gesellschaft. 3. Sollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder werdenIn diesem Fall darf die Rechtswirksamkeit der übrigen Bestimmungen nicht beeinträchtigt werden. Die betreffenden Bestimmungen werden durch eine wirksame Bestimmung ersetzt, die dem beabsichtigten wirtschaftlichen Zweck möglichst nahe kommt. Gleiches gilt für jede Vertragsverletzung. 4. Die Gesellschaft trägt die mit der Stiftung verbundenen Kosten und Kosten (Notar- und Gerichtsgebühren sowie Beratungskosten fürbis zu einem Gesamtbetrag von 2500,00 EUR."
+}

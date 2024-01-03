@@ -1,0 +1,45 @@
+{
+    "id": 961,
+    "text": "§7 Wettbewerbsverbot\n(1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegenüber der Gesellschaft. Ein Entgelt ist hierfür nicht zu zahlen. Entsprechendes gilt für Geschäftsführer.\n(2) Etwaige Wettbewerbsverbote in anderen Vereinbarungen (z. B. im Geschäftsführervertrag) bleiben unberührt.",
+    "entities": [
+        {
+            "id": 3458,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3459,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 190
+        },
+        {
+            "id": 3461,
+            "label": "Subsection",
+            "start_offset": 191,
+            "end_offset": 300
+        },
+        {
+            "id": 3462,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3463,
+            "label": "Wettbewerb",
+            "start_offset": 21,
+            "end_offset": 300
+        },
+        {
+            "id": 3464,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 300
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Wettbewerbsverbot (1) Die Gesellschafter unterliegen gegenüber der Gesellschaft keinem Wettbewerbsverbot. Eine Gebühr ist hierfür nicht zu entrichten. Gleiches gilt für Geschäftsführer. (2) Nichtwettbewerbe in anderen Vereinbarungen (z.B. im Vertrag des Geschäftsführers) bleiben unberührt."
+}

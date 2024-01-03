@@ -1,0 +1,63 @@
+{
+    "id": 542,
+    "text": "§ 9 Einziehung (1) Die Einziehung von Geschäftsanteilen mit Zustimmung des betreffenden Gesellschafters ist stets zulässig. (2) Die Zwangseinziehung von Geschäftsanteilen ist zulässig, wenn ein wichtiger Grund vorliegt. \nSie wird mit der Mitteilung des Einziehungsbeschlusses an den betreffenden Gesellschafter wirksam. \nDieser hat bei der Beschlussfassung kein Stimmrecht. \nAls ein wichtiger Grund sind insbesondere anzusehen: a) grobe Verletzungen der Gesellschafterpflichten durch einen Gesellschafter, b) die Pfändung eines Geschäftsanteils, sofern sie nicht innerhalb von zwei Monaten wieder aufgehoben wird, sowie c) die Eröffnung des Insolvenzverfahrens über das Vermögen eines Gesellschafters, die Stellung eines insolvenzrechtlichen Eigenantrags und die Ablehnung der Eröffnung des Insolvenzverfahrens mangels Masse. (3) Eingezogene Anteile sind neu zu bilden oder bestehende Anteile entsprechend aufzustocken. (4) Kann nach diesem Vertrag die Einziehung von Geschäftsanteilen beschlossen werden, so kann die Gesellschafterversammlung anstelle der Einziehung beschließen, dass der jeweilige Geschäftsanteil ganz oder geteilt an die Gesellschaft, an einen oder mehrere Gesellschafter oder an von der Gesellschaft zu benennende Dritte abzutreten ist. (5) Dem ausscheidenden Gesellschafter steht eine Abfindung zu.",
+    "entities": [
+        {
+            "id": 385,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 388,
+            "label": "Subsection",
+            "start_offset": 826,
+            "end_offset": 919
+        },
+        {
+            "id": 389,
+            "label": "Subsection",
+            "start_offset": 920,
+            "end_offset": 1257
+        },
+        {
+            "id": 386,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 123
+        },
+        {
+            "id": 387,
+            "label": "Subsection",
+            "start_offset": 124,
+            "end_offset": 825
+        },
+        {
+            "id": 390,
+            "label": "Subsection",
+            "start_offset": 1258,
+            "end_offset": 1320
+        },
+        {
+            "id": 392,
+            "label": "Einziehung",
+            "start_offset": 15,
+            "end_offset": 1320
+        },
+        {
+            "id": 393,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1320
+        },
+        {
+            "id": 391,
+            "label": "Einziehung",
+            "start_offset": 4,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Rückforderung (1) Die Einziehung von Aktien mit Zustimmung des jeweiligen Aktionärs ist stets zulässig. (2) Die Zwangseinziehung von Aktien ist zulässig, wenn ein wesentlicher Grund vorliegt. Sie wird mit der Mitteilung der Einziehungsentscheidung an den jeweiligen Aktionär wirksam. Letztere hat zum Zeitpunkt der Entscheidung keine Stimmrechte.c) die Eröffnung eines Insolvenzverfahrens über das Vermögen eines Aktionärs, die Stellung eines insolventen Anspruchs und die Ablehnung der Eröffnung eines Insolvenzverfahrens.(3) Eingezogene Zinsen müssen wiederhergestellt oder bestehende Aktien entsprechend erhöht werden. (4) Kann nach diesem Vertrag über die Rückforderung von Aktien entschieden werden, so kann die Hauptversammlung anstelle der Einziehung entscheiden, dass der jeweilige Anteil des Geschäfts ganz oder teilweise an die Gesellschaft, an ein oder mehrere Mitglieder oder an:5. Eine Abfindung wird an den scheidenden Partner geleistet."
+}

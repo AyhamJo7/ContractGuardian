@@ -1,0 +1,15 @@
+{
+    "id": 944,
+    "text": "GeseIlschaftsvertrag der Restaurant Habanna Club GmbH",
+    "entities": [
+        {
+            "id": 3337,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 53
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Vertrag des Restaurants Habanna Club GmbH"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 624,
+    "text": "§ 5 Zustimmungsvorbehalte Im Innenverhältnis bedürfen die Geschäftsführer der vorherigen Zustimmung der Gesellschafterversammlung für alle Geschäfte, die durch die Gesellschafterversammlung für zustimmungspflichtig erklärt werden.",
+    "entities": [
+        {
+            "id": 1032,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 230
+        },
+        {
+            "id": 1033,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 1030,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 25
+        },
+        {
+            "id": 1031,
+            "label": "Subsection",
+            "start_offset": 26,
+            "end_offset": 230
+        },
+        {
+            "id": 1034,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 26,
+            "end_offset": 230
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Einwilligungsvorbehalt In der internen Beziehung bedürfen die Geschäftsführer der vorherigen Zustimmung der Aktionärsversammlung für alle Transaktionen, die von der Aktionärsversammlung genehmigt werden."
+}

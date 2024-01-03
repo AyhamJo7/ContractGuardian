@@ -1,0 +1,39 @@
+{
+    "id": 878,
+    "text": "8. Gründungsaufwand Die mit der Gründung entstehenden Notar, Gerichts- und Veröffentlichungskosten trägt die Gesellschaft bis zur Höhe von € 2.500,00. * * *",
+    "entities": [
+        {
+            "id": 2858,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 2859,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 150
+        },
+        {
+            "id": 2862,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 150
+        },
+        {
+            "id": 2860,
+            "label": "Kosten",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 2861,
+            "label": "Kosten",
+            "start_offset": 20,
+            "end_offset": 150
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "8. Gründungskosten Die Gesellschaft trägt die aus der Stiftung entstehenden Notar-, Gerichts- und Veröffentlichungskosten bis zu einem Betrag von € 2.500,00. * * *"
+}

@@ -1,0 +1,45 @@
+{
+    "id": 864,
+    "text": "§9 Vererbung von Geschäftsanteilen (1) Die Geschäftsanteile gehen im Todesfall auf die Erben über. (2) Gehen die Geschäftsanteile auf mehrere Erben oder auf eine Erbengemeinschaft über, so ruht das Stimmrecht der Erben, bis sie einen Bevollmächtigten benannt haben und der Bevollmächtigte eine von allen Erben unterzeichnete Vollmacht vorlegt, die ihn zur einheitlichen Wahrnehmung der Mitgliedschaftsrechte der Erben ermächtigt.",
+    "entities": [
+        {
+            "id": 2758,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 2760,
+            "label": "Subsection",
+            "start_offset": 99,
+            "end_offset": 429
+        },
+        {
+            "id": 2761,
+            "label": "Erbfolge",
+            "start_offset": 3,
+            "end_offset": 34
+        },
+        {
+            "id": 2762,
+            "label": "Erbfolge",
+            "start_offset": 35,
+            "end_offset": 429
+        },
+        {
+            "id": 2763,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 429
+        },
+        {
+            "id": 2759,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 98
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Erbschaft von Aktien (1) Im Todesfall werden die Aktien an die Erben übertragen. (2) Werden die Aktien an mehrere Erben oder an eine Erbengemeinschaft übertragen, so werden die Stimmrechte der Erben ausgesetzt, bis sie einen bevollmächtigten Vertreter ernannt haben und der Bevollmächtigte eine von allen Erben unterzeichnete Vollmacht vorlegt, die es ihm ermöglicht, seine Mitgliedschaft in einheitlicher Weise auszuüben.die Rechte der Erben."
+}

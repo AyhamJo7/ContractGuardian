@@ -1,0 +1,15 @@
+{
+    "id": 764,
+    "text": "Gesellschaftsvertrag der Jestoro GmbH",
+    "entities": [
+        {
+            "id": 2056,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Sozialvertrag der Jestoro GmbH"
+}

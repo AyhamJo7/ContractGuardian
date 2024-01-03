@@ -1,0 +1,39 @@
+{
+    "id": 1008,
+    "text": "§ 11 Teilnichtigkeit\n\nSollten einzelne Bestimmungen dieses Gesellschaftsvertrages nichtig oder unwirksam sein oder werden, so wird die Gültigkeit des Vertrages im Übrigen hiervon nicht berührt. Die ungültige Bestimmung soll durch eine solche ersetzt werden, die dieser in ihrem wirtschaftlichen Sinngehalt entspricht.",
+    "entities": [
+        {
+            "id": 3768,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 317
+        },
+        {
+            "id": 3769,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 3770,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 317
+        },
+        {
+            "id": 3771,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 317
+        },
+        {
+            "id": 3767,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Partialität Sollten einzelne Bestimmungen dieses Sozialvertrages unwirksam oder unwirksam sein oder werden, so berührt dies nicht die Gültigkeit des Vertrages. An die Stelle der unwirksamen Bestimmung tritt eine, die ihm im wirtschaftlichen Sinne entspricht."
+}

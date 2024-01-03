@@ -1,0 +1,57 @@
+{
+    "id": 668,
+    "text": "§ 12 Abfindung 1. \nScheidet ein Gesellschafter aus der Gesellschaft aus, erhalt er eine Abfindung in Hohe des seiner Beteiligung entsprechenden Anteils am Verkehrswert der Gesellschaft, sofern in die­ sem Vertrag nichts anderes bestimmt ist. 2. \nDer Verkehrswert der Gesellschaft wird - wenn binnen sechs Monaten nach dem Ausschei­ den keine andere Einigung erfolgt - von einem Wirtschaftsprufer als Schiedsgutachter unter Anwendung der dann geltenden Bewertungsgrundsatze des lnstituts der Wirtschaftsprufer in Deutschland e.V. (IDW) ermittelt. \nBewertungsstichtag ist der Tag des Ausscheidens. \nDer Schiedsgutachter wird auf Antrag eines der Beteiligten von der zustandigen Wirtschaftspru­ ferkammer bestimmt. \nDie Kosten des Schiedsgutachters tragen die Gesellschaft und der ausscheidende Gesellschafter je zur Halfte. 3. \nDer nach Abs. 1 ermittelte Wert ist in langstens vier gleichen Halbjahresraten auszuzahlen. \nDie erste Rate ist innerhalb eines Monats, nachdem uber die Abfindung Einigung erzielt bzw. diese vom Gutachter festgelegt wurde, fruhestens jedoch ein halbes Jahr nach dem Aus­ scheiden fallig. \nDer jeweils ausstehende Betrag ist mit 2 % uber dem Basiszinssatz zu ver­ zinsen. 4. \nDer ausscheidende Gesellschafter ist berechtigt, van den ubrigen Gesellschaftern die Frei­ stellung van denjenigen Sicherheiten zu beanspruchen, die er fur Verbindlichkeiten der Ge­ sellschaft ubernommen hat.",
+    "entities": [
+        {
+            "id": 1344,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1345,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 241
+        },
+        {
+            "id": 1346,
+            "label": "Subsection",
+            "start_offset": 242,
+            "end_offset": 821
+        },
+        {
+            "id": 1347,
+            "label": "Subsection",
+            "start_offset": 822,
+            "end_offset": 1196
+        },
+        {
+            "id": 1349,
+            "label": "Subsection",
+            "start_offset": 1197,
+            "end_offset": 1409
+        },
+        {
+            "id": 1350,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 1352,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1409
+        },
+        {
+            "id": 1351,
+            "label": "Abfindung",
+            "start_offset": 15,
+            "end_offset": 1409
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Redundanz 1. Tritt ein Gesellschafter von der Gesellschaft zurück, so erhält er eine Entschädigung in Höhe seines Anteils am Handelswert der Gesellschaft, sofern in diesem Vertrag nichts anderes bestimmt ist. 2. Wird innerhalb von sechs Monaten nach der Abreise keine andere Vereinbarung getroffen, so wird der Handelswert der Gesellschaft von einem Wirtschaftsexperten bestimmt,Die Schiedsgutachter werden nach den Bewertungsgrundsätzen der Wirtschaftsprüfer in Deutschland (IDW) bestimmt. Das Beurteilungsdatum ist der Tag der Abreise. Die Schiedsgutachter werden von der zuständigen Handelskammer auf Antrag einer der Parteien bestimmt. Die Kosten der Schiedsgutachter werden von der Gesellschaft und der scheidenden Gesellschaft getragen.(3) Der gemäß Absatz 1 ermittelte Wert wird größtenteils in vier gleichen Halbjahrestranchen ausgezahlt. Die erste Tranche wird innerhalb eines Monats nach der Einigung über die Abfindung gezahlt, oder dies wurde vom Bewerter bestimmt, jedoch sechs Monate nach der Abreise. Der ausstehende Betrag ist mit 2 % über dem Basiszinssatz zu verzinsen.Der scheidende Aktionär ist berechtigt, das Recht der übrigen Aktionäre auf die von ihm erworbenen Wertpapiere für die Verbindlichkeiten der Gesellschaft geltend zu machen."
+}

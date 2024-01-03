@@ -1,0 +1,45 @@
+{
+    "id": 925,
+    "text": "§ 7 Schlussbestimmungen (1) Sollten einzelne Bestimmungen dieses Vertrags ganz oder teilweise unwirksam oder unanwendbar sein oder werden, oder sollte sich in dem Vertrag eine Lücke befinden, so soll hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt werden. Anstelle der unwirksamen oder unanwendbaren Bestimmung oder zur Auffüllung der Lücke soll eine angemessene Regelung treten, die, soweit rechtlich möglich, dem am nächsten kommt, was die Gesellschafter gewollt haben oder nach dem Sinn und Zweck dieses Vertrags gewollt haben würden, wenn sie den Punkt bedacht hätten. (2) Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 3199,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 3201,
+            "label": "Subsection",
+            "start_offset": 589,
+            "end_offset": 658
+        },
+        {
+            "id": 3202,
+            "label": "Schlussbestimmungen",
+            "start_offset": 4,
+            "end_offset": 24
+        },
+        {
+            "id": 3203,
+            "label": "Schlussbestimmungen",
+            "start_offset": 24,
+            "end_offset": 658
+        },
+        {
+            "id": 3204,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 658
+        },
+        {
+            "id": 3200,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 588
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Schlussbestimmungen (1) Sollten einzelne Bestimmungen dieses Vertrages ganz oder teilweise unwirksam oder nicht anwendbar sein oder werden, oder sollte eine Lücke im Vertrag bestehen, so wird die Gültigkeit der übrigen Bestimmungen nicht berührt. Anstelle der unwirksamen oder unanwendbaren Bestimmung oder zur Schließung der Lücke findet eine entsprechende Regelung Anwendung, diesoweit rechtlich möglich, kommt dem, was die Aktionäre nach Sinn und Zweck dieses Vertrages wollten oder wollten, am nächsten, wenn sie den Punkt berücksichtigt hätten. (2) Die Ankündigungen der Gesellschaft werden im Bundesanzeiger gemacht."
+}

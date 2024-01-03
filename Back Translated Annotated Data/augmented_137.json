@@ -1,0 +1,39 @@
+{
+    "id": 728,
+    "text": "§ 11 Tod eines Gesellschafters Durch den Tod eines Gesellschafters wird die Gesellschaft nicht aufgelost, son­ dem mit seinen Erben oder Vermachtnisnehmern fortgesetzt.",
+    "entities": [
+        {
+            "id": 1799,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1800,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 168
+        },
+        {
+            "id": 1801,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 29
+        },
+        {
+            "id": 1802,
+            "label": "Erbfolge",
+            "start_offset": 31,
+            "end_offset": 168
+        },
+        {
+            "id": 1803,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 168
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Tod eines Partners Durch den Tod eines Partners wird das Unternehmen nicht abgetreten, sondern setzt sich mit seinen Erben oder Wohltätern fort."
+}

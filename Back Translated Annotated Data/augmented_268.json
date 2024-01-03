@@ -1,0 +1,57 @@
+{
+    "id": 826,
+    "text": "§7 Gesellschafterversammlung ( 1) Die Gesellschafterversammlung wird durch die GeschaftsfOhrung einberufen. \nDie Ladung erfolgt schriftlich und soll die Tagesordnung enthalten. \nZwischen der Absendung der Ein­ ladung und dem Tag der Versammlung muss ein Zeitraum von mindestens 14 Werktagen liegen. \nDie Gesellschafterversammlung findet am Sitz der Gesellschaft statt. \nAbweichun­ gen hiervon sind mit Zustimmung aller Gesellschafter zulassig. (2) Ober jede Gesellschafterversammlung ist elne Niederschrift zu errichten, sie sol! enthal­ ten: a) Tag, Ort und Zeit der Versammlung b) Name der anwesenden und vertretenen Gesellschafter sowie der Vertreter und sonstigen Teilnehmer c) Tagesordnung und Antrage d) Ergebnisse der Abstimmung, Wortlaut der gefassten BeschlOsse e) Angaben Ober die sonstige Erledigung van Antragen. \nDie Niederschrift ist van den Gesellschaftern zu unterzeichnen. (3) Auf Verlangen van Gesellschaftern, die mindestens 50 % der Stimmen in der Gesellschaf­ terversammlung innehaben, ist van der GeschaftsfOhrung innerhalb von 14 Tagen eine auf!.erordentliche Gesellschafterversammlung einzuberufen. (4) Jeder Gesellschafter kann sich in Gesellschafterversammlungen und bei Gesellschafter­ beschlOssen durch einen anderen Gesellschafter, seinen Ehegatten, seinen Abkommling oder durch einen beruflich zur Verschwiegenheit verpflichteten Dritten vertreten !assen. \nDie Vollmacht ist schriftlich zu erteilen und der Niederschrift der Gesellschafterversamm­ lung als Anlage beizufOgen.",
+    "entities": [
+        {
+            "id": 2490,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 443
+        },
+        {
+            "id": 2491,
+            "label": "Subsection",
+            "start_offset": 444,
+            "end_offset": 888
+        },
+        {
+            "id": 2492,
+            "label": "Subsection",
+            "start_offset": 890,
+            "end_offset": 1122
+        },
+        {
+            "id": 2493,
+            "label": "Subsection",
+            "start_offset": 1123,
+            "end_offset": 1505
+        },
+        {
+            "id": 2494,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 3,
+            "end_offset": 29
+        },
+        {
+            "id": 2495,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 29,
+            "end_offset": 1505
+        },
+        {
+            "id": 2496,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1505
+        },
+        {
+            "id": 2489,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Hauptversammlung ( 1) Die Hauptversammlung wird von der Gesellschaft einberufen. Die Ladung erfolgt schriftlich und enthält die Tagesordnung. Zwischen der Absendung der Einladung und dem Tag der Hauptversammlung muss eine Frist von mindestens 14 Arbeitstagen liegen. Die Hauptversammlung findet am Sitz der Gesellschaft statt.a) Tag, Ort und Uhrzeit der Sitzung (b) Name der anwesenden und vertretenen Mitglieder sowie der Vertreter und sonstigen Teilnehmer (c) Tagesordnung und Anträge (d) Abstimmungsergebnisse, Wortlaut der gefassten Beschlüsse (e) Informationen über andere FragenDas Protokoll wird von den Aktionären unterzeichnet. (3) Auf Antrag von van-Mitgliedern, die mindestens 50% der Stimmen in der Gesellschaftsversammlung halten, beruft van der Gesellschaftsführung innerhalb von 14 Tagen eine Hauptversammlung der Aktionäre ein. (4) Jeder Gesellschafter kann an den Aktionärsversammlungen und an den Gesellschaftsversammlungen teilnehmen.Die Vollmacht wird schriftlich erteilt und dem Protokoll der Sitzungen der Aktionäre als Anlage beigefügt."
+}

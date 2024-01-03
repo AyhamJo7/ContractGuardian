@@ -1,0 +1,75 @@
+{
+    "id": 882,
+    "text": "§ 4 Stammkapital, Gesellschafter 1. \nDas Stammkapital der Gesellschaft betragt EUR 25.000,- (in Worten: Euro FOnfundzwanzigtausend.). \nEs ist eingeteilt in 2 Geschaftsanteile zu einem Nennbetrag van jeweils EUR 12.500,-. 2. \nAuf das Stammkapital Obernehmen: a) BHN UG (haftungsbeschrankt) & Co. \nKG, Hamburg, einen Geschaftsanteil zum Nennbetrag van EUR 12.500,00, insgesamt also Geschaftsanteile in Hohe van EUR 12.500,00 (lfd. \nNr. 1) b) Frau Yanyan Chen einen Geschaftsanteil zum Nennbetrag van EUR 12.500,00, insgesamt also Geschaftsanteile in Hohe van EUR 12.500,00 (lfd. \nNr. 2) Die Einlagen auf die Geschaftsanteile sind sofort in voller Hohe fallig. 3. \nWird ein mit der Einzahlung seiner Einlage saumiger Gesellschafter ausgeschlossen, so kann der kaduzierte Anteil abweichend van § 23 S. 2 GmbHG auch ohne Zustimmung des betroffenen Gesellschafters auf ,,eine andere Art\" (insbesondere freihandig) verkauft werden. 4. \nEine Zusammenlegung mehrerer Geschaftsanteile eines Gesellschafters ist durch Gesellschafterbeschluss zulassig, wenn der betroffene Gesellschafter zustimmt, die Einlagen auf die Geschaftsanteile voll geleistet sind, keine Nachschusspflicht besteht und die betroffenen Geschaftsanteile nicht unterschiedlich belastet sind oder unterschiedliche Rechte vermitteln. \nEine Teilung seiner Geschaftsanteile ist jedem Gesellschafter auch ohne Gesellschafterbeschluss gestattet, wenn dies in einer notariellen Urkunde erfolgt. \nSie ist der Gesellschaft zu Beweiszwecken unverzuglich anzuzeigen. 5. \nDie Geschaftsfuhrer haben unverzuglich nach Wirksamwerden jeder Veranderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung eine van ihnen unterschriebene Gesellschafterliste zum Handelsregister einzureichen, soweit dies nicht nach § 40 Abs. 2 GmbHG durch einen Notar erfolgt. \nJeder Gesellschafter ist verpflichtet, den G_eschaftsfuhrern solche Veranderungen unverzuglich schriftlich mitzuteilen und nachzuweisen. \nAls Nachweis sind in der Regel entsprechende Urkunden in Urschrift oder in beglaubigter Abschrift vorzulegen. \nFur den Nachweis einer Erbfolge gilt § 35 GBO entsprechend. 6. \nDie Kosten etwaiger Kapitalerhohungen (Notar, Gericht, evtl. \nGenehmigungen, Anwalt, Steuerberater) werden van der Gesellschaft getragen, soweit dies nicht im Erhohungsbeschluss anders geregelt wird. 111.Geschaftsfl.ihrung, Vertretung",
+    "entities": [
+        {
+            "id": 2887,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 2888,
+            "label": "Stammkapital",
+            "start_offset": 37,
+            "end_offset": 218
+        },
+        {
+            "id": 2889,
+            "label": "Stammeinlagen",
+            "start_offset": 18,
+            "end_offset": 33
+        },
+        {
+            "id": 2890,
+            "label": "Stammeinlagen",
+            "start_offset": 225,
+            "end_offset": 2366
+        },
+        {
+            "id": 2883,
+            "label": "Subsection",
+            "start_offset": 658,
+            "end_offset": 924
+        },
+        {
+            "id": 2884,
+            "label": "Subsection",
+            "start_offset": 925,
+            "end_offset": 1514
+        },
+        {
+            "id": 2885,
+            "label": "Subsection",
+            "start_offset": 1515,
+            "end_offset": 2126
+        },
+        {
+            "id": 2880,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 2881,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 219
+        },
+        {
+            "id": 2882,
+            "label": "Subsection",
+            "start_offset": 221,
+            "end_offset": 656
+        },
+        {
+            "id": 2886,
+            "label": "Subsection",
+            "start_offset": 2128,
+            "end_offset": 2366
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Aktienkapital, Aktionär 1. Das Grundkapital der Gesellschaft beträgt EUR 25.000,- (in Worten: Euro FOnf 25 Tausend.). Es ist in 2 Aktien mit einem Nennbetrag von EUR 12.500,- unterteilt. 2. Zum Grundkapital der Gesellschaft: a) BHN UG (haftungsbeschränkt) & Co. KG, Hamburg, eine Aktie mit einem Nennbetrag von EUR 12.500,00, insgesamtb) Frau Yanyan Chen eine gemeinsame Aktie im Nennbetrag von 12,500,00 EUR, d. h. insgesamt Aktien von Hohe van 12,500,00 EUR (vgl. Nr. 2) Die Einlagen auf die gemeinsame Aktie sind bei Ausschluss von einem Aktionär, der seinen Beitrag eingezahlt hat, sofort in voller Höhe von § 23 S. 2 abweichend.4. Eine Verschmelzung mehrerer Aktien eines Aktionärs ist durch eine Aktionärsentscheidung zulässig, wenn der betreffende Aktionär zustimmt, dass die Einlagen auf die Aktien vollständig eingezahlt wurden, es keine Margenpflicht gibt und die betroffene Gesellschaft(5) Die Mitglieder der Gesellschaft sind unverzüglich über jede Änderung der Rechtsstellung der Gesellschaft zum Zwecke des Nachweises zu unterrichten. 5. Die Mitglieder der Gesellschaft haben unverzüglich Anspruch auf jede Änderung der Rechtsstellung der Gesellschaft.n Personen des Gesellschafters oder des Umfangs ihrer Teilnahme eine eingetragene Mitgliederliste in das Handelsregister einreichen, soweit dies nicht durch einen Notar gemäß § 40 Abs. 2 GmbHG erfolgt. Jeder Gesellschafter ist verpflichtet, diese Änderungen den Gesellschaftern unverzüglich schriftlich mitzuteilen und nachzuweisen.6. Die Kosten etwaiger Kapitalerhöhungen (Notar, Gericht, mögliche Genehmigungen, Rechtsanwalt, Steuerberater) werden von der Gesellschaft getragen, sofern in der Entscheidung nichts anderes geregelt ist. 111."
+}

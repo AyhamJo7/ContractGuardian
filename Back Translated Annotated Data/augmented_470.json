@@ -1,0 +1,45 @@
+{
+    "id": 995,
+    "text": "§ 11 Gewinnverwendung\n\n(1) Die Gesellschafterversammlung beschließt über die Einstellung von Beträgen in die Rücklage sowie über die Verwendung des Bilanzgewinns.\n\n(2) Die Organe der Gesellschaft sind nicht befugt, einem Gesellschafter oder einer einem Gesellschafter nahestehenden Person Vorteile irgendwelcher Art vertragsgemäß oder durch einseitige Handlung zuzuwenden. Wird von der Finanzbehörde oder den Finanzgerichten die Angemessenheit der Leistung der Gesellschaft als Vorteilszuwendung verneint, sind die genannten Personen verpflichtet, die auf die Vorteilsgewährung entfallenden Ausschüttungsbelastungen an Körperschaftssteuer an die Gesellschaft zurückzuerstatten oder wertmäßig zu ersetzen.",
+    "entities": [
+        {
+            "id": 3668,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 3669,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 162
+        },
+        {
+            "id": 3670,
+            "label": "Subsection",
+            "start_offset": 164,
+            "end_offset": 704
+        },
+        {
+            "id": 3671,
+            "label": "Gewinnverteilung",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 3672,
+            "label": "Gewinnverteilung",
+            "start_offset": 23,
+            "end_offset": 704
+        },
+        {
+            "id": 3673,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 704
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Gewinnverwendung (1) Die Hauptversammlung entscheidet über die Aufnahme von Beträgen in die Rücklage und über die Verwendung des Bilanzgewinns. (2) Die Organe der Gesellschaft sind nicht berechtigt, Leistungen gemäß dem Vertrag oder durch einseitige Handlung an ein Mitglied oder eine Person in der Nähe eines Partners zu übertragen.oder wenn sie den Finanzgerichten die Angemessenheit der Leistung der Gesellschaft als Vorteil verwehren, sind diese Personen verpflichtet, der Gesellschaft eine Vergütung zu erstatten oder die auf die Gewährung der Körperschaftsteuer zurückzuführenden Vertriebskosten im Wert zu ersetzen."
+}

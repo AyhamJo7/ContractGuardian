@@ -1,0 +1,39 @@
+{
+    "id": 914,
+    "text": "§7 Befreiung vom Wettbewerbsverbot -4Den Gesellschaftern und den Geschaftsfilhrern der Gesellschaft kann Befrei­ ung vom Wettbewerbsverbot erteilt werden. \nUber Art und Umfang der Befrei­ ung beschlieBen die Gesellschafter mit einfacher Mehrheit.",
+    "entities": [
+        {
+            "id": 3134,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3137,
+            "label": "Wettbewerb",
+            "start_offset": 37,
+            "end_offset": 246
+        },
+        {
+            "id": 3135,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 34
+        },
+        {
+            "id": 3136,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 246
+        },
+        {
+            "id": 3138,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 246
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Freistellung vom Wettbewerb -4Die Gesellschafter und die Unternehmensniederlassungen der Gesellschaft können von dem Wettbewerb freigestellt werden. Art und Umfang der Freistellung gelten für die Aktionäre mit einfacher Mehrheit."
+}

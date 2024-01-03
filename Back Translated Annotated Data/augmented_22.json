@@ -1,0 +1,135 @@
+{
+    "id": 522,
+    "text": "§ 7 Gesellschafterversammlung 1. \nDie ordentliche Gesellschafterversammlung findet jährlich innerhalb von zwei Monaten nach Aufstellung des Jahresabschlusses statt. \nAußerordentliche Gesellschafterversammlungen sind abzuhalten, wenn eine Beschlussfassung der Gesellschafter erforderlich wird oder die Abhaltung einer Gesellschafterversammlung aus einem sonstigen Grund im Interesse der Gesellschaft liegt. 2. \nGesellschafterversammlungen finden am Sitz der Gesellschaft statt, sofern nicht sämtliche Gesellschafter der Abhaltung an einem anderen Ort zustimmen. 3. \nDie Gesellschafterversammlung wird durch die Geschäftsführung einberufen, wobei ungeachtet der Regelung der Geschäftsführungs- und Vertretungsbefugnis die Einberufung durch einen Geschäftsführer genügt. 4. \nDie Ladung zur Gesellschafterversammlung erfolgt durch Einwurf-Einschreiben, per Telefax oder schriftlich durch persönliche Übergabe unter Mitteilung von Ort, Zeit und Tagesordnung sowie bei der Ladung zur ordentlichen Gesellschafterversammlung unter Beifügung des Jahresabschlusses. \nDie Ladungsfrist beträgt für die ordentliche Gesellschafterversammlung zwei Wochen und für außerordentliche Gesellschafterversammlungen eine Woche, wobei der Tag der Briefaufgabe (bei Zustellung durch Einwurf-Einschreiben) und der Tag der Versammlung nicht mitzuzählen sind. 5. \nDie Versammlung wird vom Vorsitzenden geleitet, welcher mit einfacher Mehrheit zu wählen ist.  6. \nDie Gesellschafterversammlung ist beschlussfähig, wenn das gesamte Stammkapital anwesend bzw. vertreten ist. \nIm Fall der Beschlussunfähigkeit ist bei der ordentlichen Gesellschafterversammlung innerhalb von zwei Wochen und bei außerordentlichen Gesellschafterversammlungen innerhalb von einer Woche eine neue Gesellschafterversammlung mit gleicher Tagesordnung einzuberufen, die ohne Rücksicht auf das vertretene Stammkapital beschlussfähig ist, wenn hierauf in der Ladung hingewiesen worden ist. 7. \nIn einer nicht ordnungsgemäß einberufenen Gesellschafterversammlung können Beschlüsse nur gefasst werden, wenn das gesamte Stammkapital vertreten ist und kein Widerspruch gegen die Beschlussfassung erhoben wird. \nGleiches gilt für die Beschlussfassung über Anträge von Gesellschaftern, die nicht spätestens drei Tage vor dem Tag der Gesellschafterversammlung bei der Geschäftsführung eingegangen sind. 8. \nJeder Gesellschafter kann sich in den Gesellschafterversammlungen durch seinen Ehegatten, einen Mitgesellschafter oder eine zur Berufsverschwiegenheit verpflichtete sachkundige Person, die in keinem Wettbewerb zur Gesellschaft steht, vertreten lassen. \nDie Vollmacht bedarf der Schriftform.",
+    "entities": [
+        {
+            "id": 70,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 71,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 34,
+            "end_offset": 405
+        },
+        {
+            "id": 72,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 410,
+            "end_offset": 560
+        },
+        {
+            "id": 73,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 565,
+            "end_offset": 767
+        },
+        {
+            "id": 74,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 772,
+            "end_offset": 1331
+        },
+        {
+            "id": 75,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 1336,
+            "end_offset": 1429
+        },
+        {
+            "id": 76,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 1435,
+            "end_offset": 1932
+        },
+        {
+            "id": 77,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 1937,
+            "end_offset": 2338
+        },
+        {
+            "id": 78,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 2343,
+            "end_offset": 2633
+        },
+        {
+            "id": 86,
+            "label": "Subsection",
+            "start_offset": 2339,
+            "end_offset": 2342
+        },
+        {
+            "id": 232,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 233,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 405
+        },
+        {
+            "id": 234,
+            "label": "Subsection",
+            "start_offset": 406,
+            "end_offset": 560
+        },
+        {
+            "id": 235,
+            "label": "Subsection",
+            "start_offset": 561,
+            "end_offset": 767
+        },
+        {
+            "id": 236,
+            "label": "Subsection",
+            "start_offset": 768,
+            "end_offset": 1331
+        },
+        {
+            "id": 237,
+            "label": "Subsection",
+            "start_offset": 1332,
+            "end_offset": 1429
+        },
+        {
+            "id": 238,
+            "label": "Subsection",
+            "start_offset": 1431,
+            "end_offset": 1932
+        },
+        {
+            "id": 239,
+            "label": "Subsection",
+            "start_offset": 1932,
+            "end_offset": 2337
+        },
+        {
+            "id": 240,
+            "label": "Subsection",
+            "start_offset": 2339,
+            "end_offset": 2633
+        },
+        {
+            "id": 241,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1430
+        },
+        {
+            "id": 242,
+            "label": "Orange Flag",
+            "start_offset": 1435,
+            "end_offset": 2633
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Hauptversammlung 1. Die ordentliche Hauptversammlung findet jedes Jahr innerhalb von zwei Monaten nach Erstellung des Jahresabschlusses statt. Außerordentliche Hauptversammlung findet statt, wenn eine Entscheidung der Aktionäre erforderlich wird oder die Hauptversammlung aus einem anderen Grund im Interesse der Gesellschaft stattfindet.2. Die Hauptversammlung findet am Sitz der Gesellschaft statt, es sei denn, alle Aktionäre stimmen der Beteiligung an einem anderen Ort zu. 3. Die Hauptversammlung wird von der Geschäftsführung einberufen, wobei die Einberufung durch einen Geschäftsführer ungeachtet der Regelung der Leitungs- und Vertretungsbehörde ausreicht. 4. Die Einberufung zur GesellschaftDie Sitzung findet per Einschreiben, per Fax oder schriftlich durch persönliche Übergabe, unter Angabe des Ortes, der Uhrzeit und der Tagesordnung sowie in der Ladung zur ordentlichen Hauptversammlung, begleitet von den Jahresabschlüssen, statt. Die Ladungsfrist beträgt zwei Wochen für die ordentliche Hauptversammlung und eine Woche für außerordentliche Hauptversammlungen.(5) Den Vorsitz in der Sitzung führt der Vorsitzende, der mit einfacher Mehrheit gewählt wird. 6. Die Hauptversammlung ist beschlussfähig, wenn das gesamte Grundkapital anwesend oder vertreten ist.eine Versammlung der Aktionäre innerhalb von zwei Wochen und in außerordentlichen Sitzungen der Aktionäre innerhalb einer Woche, um eine neue Versammlung der Aktionäre mit der gleichen Tagesordnung einzuberufen, die ohne Rücksicht auf das vertretene Grundkapital stimmbar ist, wenn dies in der Ladung erwähnt worden ist. 7.Entscheidungen können nur getroffen werden, wenn das gesamte Grundkapital vertreten ist und gegen die Entscheidung kein Einspruch erhoben wird. Gleiches gilt für die Entscheidung auf Anträge von Mitgliedern, die nicht spätestens drei Tage vor dem Tag der Hauptversammlung bei der Geschäftsführung eingegangen sind.Das Recht des Rechtsanwalts muss schriftlich von seinem Ehepartner, einem Partner oder einer qualifizierten Person, die nicht im Wettbewerb mit dem Unternehmen ist gegeben werden."
+}

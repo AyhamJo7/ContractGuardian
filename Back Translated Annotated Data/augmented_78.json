@@ -1,0 +1,45 @@
+{
+    "id": 593,
+    "text": "§5 Geschäftsjahr l. \nDas Geschäftsjahr der Gesellschaft ist das Kalenderjahr. 2. \nDas erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. \nDezember desselben Jahres.",
+    "entities": [
+        {
+            "id": 781,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 782,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 77
+        },
+        {
+            "id": 783,
+            "label": "Subsection",
+            "start_offset": 78,
+            "end_offset": 217
+        },
+        {
+            "id": 784,
+            "label": "Geschäftsjahr",
+            "start_offset": 3,
+            "end_offset": 17
+        },
+        {
+            "id": 785,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 217
+        },
+        {
+            "id": 786,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 217
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Geschäftsjahr l. Das Geschäftsjahr der Gesellschaft ist das Kalenderjahr. 2. Das erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. Dezember desselben Jahres."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 671,
+    "text": "§ 15 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erscheinen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 1376,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 1377,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 89
+        },
+        {
+            "id": 1373,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 1375,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 89
+        },
+        {
+            "id": 1378,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 89
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Bekanntmachungen Die Bekanntmachungen des Unternehmens erscheinen im Bundesanzeiger."
+}

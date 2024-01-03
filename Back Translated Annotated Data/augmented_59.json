@@ -1,0 +1,39 @@
+{
+    "id": 574,
+    "text": "§ 7 Verfügungen über Geschäftsanteile Geschäftsanteile und Teile derselben können nur mit Zustimmung aller Mitgesellschafter auf Dritte übertragen oder zugunsten Dritter belastet werden. - 4",
+    "entities": [
+        {
+            "id": 648,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 649,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 186
+        },
+        {
+            "id": 650,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 37
+        },
+        {
+            "id": 651,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 190
+        },
+        {
+            "id": 652,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 186
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Verfügungen über Aktien Aktien und Teile davon dürfen nur an Dritte übertragen oder mit Zustimmung aller Miteigentümer zugunsten Dritter erhoben werden. - 4"
+}

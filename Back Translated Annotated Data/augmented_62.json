@@ -1,0 +1,45 @@
+{
+    "id": 577,
+    "text": "§10 Wettbewerbsverbot Den Gesellschaftern und Geschäftsführern der Gesellschaft kann Befreiung vom Wettbewerbsverbot erteilt werden. Über Art und Umfang der Befreiung beschließen die Gesellschafter mit einfacher Mehrheit.",
+    "entities": [
+        {
+            "id": 666,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 667,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 132
+        },
+        {
+            "id": 668,
+            "label": "Subsection",
+            "start_offset": 133,
+            "end_offset": 221
+        },
+        {
+            "id": 669,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 670,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 221
+        },
+        {
+            "id": 671,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 221
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§10 Wettbewerbsverbot Die Gesellschafter und Geschäftsführer der Gesellschaft können von der Wettbewerbsverbote befreit werden.Die Gesellschafter entscheiden über Art und Umfang der Freistellung mit einfacher Mehrheit."
+}

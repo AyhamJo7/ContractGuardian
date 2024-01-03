@@ -1,0 +1,51 @@
+{
+    "id": 759,
+    "text": "§12 Bewertung 1. \nSoweit nach diesem Gesellschaftsvertrag eine Bewertung von Geschäftsanteilen vorzunehmen ist, ist - wenn keine andere Einigung erfolgt - der Wert anzusetzen, der sich im Zeitpunkt des Ausscheidens des betreffenden Gesellschafters unter Anwendung der dann geltenden Bewertungsgrundsätze des Instituts der Wirtschaftsprüfer in Deutschland e.V. (IDW), Düsseldorf, ergibt. 2. \nDer nach den vorstehenden Bestimmungen ermittelte Wert ist dem ausscheidenden Gesellschafter in längstens vier gleichen Halbjahresraten auszuzahlen, die erste ein halbes Jahr nach dem Zeitpunkt des Ausscheidens. \nIst der Anteilswert am ersten Zahlungsstichtag noch nicht ermittelt, so sind dem Gesellschafter zunächst 60 % des auf das Stammkapital eingezahlten Betrages auszukehren. \nDer jeweils ausstehende Betrag ist mit 2 %-Punkten über dem jeweiligen Basiszinssatz zu verzinsen. 3. \nDer ausscheidende Gesellschafter ist berechtigt, von den übrigen Gesellschaftern die Freistellung von denjenigen Sicherheiten zu beanspruchen, die erfürVerbindlichkeiten der Gesellschaft übernommen hat.",
+    "entities": [
+        {
+            "id": 2024,
+            "label": "Subsection",
+            "start_offset": 874,
+            "end_offset": 1080
+        },
+        {
+            "id": 2025,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 14
+        },
+        {
+            "id": 2026,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 14,
+            "end_offset": 1080
+        },
+        {
+            "id": 2020,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 2021,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 385
+        },
+        {
+            "id": 2022,
+            "label": "Subsection",
+            "start_offset": 387,
+            "end_offset": 872
+        },
+        {
+            "id": 2027,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1080
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§12 Bewertung 1. Soweit eine Bewertung der Aktien gemäß diesem Sozialvertrag vorzunehmen ist, ist der Wert zu berücksichtigen, wenn zum Zeitpunkt der Kündigung des jeweiligen Aktionärs keine andere Vereinbarung nach den Bewertungsgrundsätzen des Instituts der Wirtschaftsprüfer in Deutschland e.V. (IDW), Düsseldorf, erzielt wird. 2.Der nach den vorstehenden Bestimmungen ermittelte Wert wird dem scheidenden Aktionär in höchstens vier gleichen Halbjahrestranchen, dem ersten Halbjahr nach dem Zeitpunkt der Rücknahme, gezahlt. Ist der Aktienwert am ersten Zahlungstag noch nicht bestimmt, so wird dem Aktionär zunächst 60 % des eingezahlten Betrages an das Grundkapital gezahlt.3. Der ausscheidende Gesellschafter ist berechtigt, von den anderen Mitgliedern die Befreiung von der Sicherheit zu verlangen, die er für die Verbindlichkeiten der Gesellschaft übernommen hat."
+}

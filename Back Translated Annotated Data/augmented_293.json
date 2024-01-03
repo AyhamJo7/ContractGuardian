@@ -1,0 +1,45 @@
+{
+    "id": 860,
+    "text": "§5 Vertretung (1) Die Gesellschaft wird, wenn nur ein Geschäftsführer bestellt ist, durch diesen vertreten. \nSind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinschaftlich oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. (2) Die Gesellschafterversammlung kann unabhängig von der Zahl der bestellten Geschäftsführer jederzeit einem, mehreren oder allen Geschäftsführern Einzelvertretungsbefugnis und/oder Befreiung von den Beschränkungen des § 181 BGB erteilen. \nFür Geschäfte mit der KTR GmbH & Co. \nKG sind die Geschäftsführer stets von den Beschränkungen des § 181 Alt. 2 BGB befreit.",
+    "entities": [
+        {
+            "id": 2727,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 292
+        },
+        {
+            "id": 2729,
+            "label": "Vertretung",
+            "start_offset": 3,
+            "end_offset": 14
+        },
+        {
+            "id": 2726,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 2728,
+            "label": "Subsection",
+            "start_offset": 293,
+            "end_offset": 658
+        },
+        {
+            "id": 2730,
+            "label": "Vertretung",
+            "start_offset": 14,
+            "end_offset": 658
+        },
+        {
+            "id": 2731,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 658
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Vertretung (1) Wird nur ein Geschäftsführer bestellt, so wird die Gesellschaft durch ihn vertreten. Werden mehrere Geschäftsführer bestellt, so wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer zusammen mit einem bevollmächtigten Vertreter vertreten. (2) Die Aktionärsversammlung kann jederzeit unabhängig von der Anzahl der bestellten Geschäftsführer stattfinden.Bei Transaktionen mit der KTR GmbH & Co. KG sind die Geschäftsführer stets von den Beschränkungen des § 181 Alt. 2 BGB befreit."
+}

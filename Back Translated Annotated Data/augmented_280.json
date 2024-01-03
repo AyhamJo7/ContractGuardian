@@ -1,0 +1,39 @@
+{
+    "id": 811,
+    "text": "§ 2 Gegenstand Gegenstand des Unternehmens ist die Geschäftsführung der Kreta Gyros Restaurant und Grillhaus GmbH & Co. \nKG.",
+    "entities": [
+        {
+            "id": 2394,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2395,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 124
+        },
+        {
+            "id": 2397,
+            "label": "Gegenstand",
+            "start_offset": 15,
+            "end_offset": 124
+        },
+        {
+            "id": 2396,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 2398,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 124
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Betreff Gegenstand der Gesellschaft ist die Geschäftsführung der Crete Gyros Restaurant und Grillhaus GmbH & Co. KG."
+}

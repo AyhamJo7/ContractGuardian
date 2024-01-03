@@ -1,0 +1,63 @@
+{
+    "id": 633,
+    "text": "§ 3 Stammkapital, Einlagen (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00 (2) Hierauf übernimmt: - Herr Dan-David Golla 25.000 Geschäftsanteile im Nennbetrag zu jeweils € 1,00. (3) Die Einlagen auf die übernommenen Geschäftsanteile sind jeweils zu 50 % vor Anmeldung der Gesellschaft zum Handelsregister in bar einzuzahlen. \nAusstehende Einlagen sind unverzüglich nach Aufforderung durch die Geschäftsführung zur Einzahlung fällig.",
+    "entities": [
+        {
+            "id": 1097,
+            "label": "Subsection",
+            "start_offset": 85,
+            "end_offset": 187
+        },
+        {
+            "id": 1102,
+            "label": "Stammeinlagen",
+            "start_offset": 85,
+            "end_offset": 442
+        },
+        {
+            "id": 1095,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 1096,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 84
+        },
+        {
+            "id": 1098,
+            "label": "Subsection",
+            "start_offset": 188,
+            "end_offset": 442
+        },
+        {
+            "id": 1099,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 1100,
+            "label": "Stammkapital",
+            "start_offset": 27,
+            "end_offset": 84
+        },
+        {
+            "id": 1101,
+            "label": "Stammeinlagen",
+            "start_offset": 18,
+            "end_offset": 27
+        },
+        {
+            "id": 1103,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 442
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Aktienkapital, Einlagen (1) Das Grundkapital der Gesellschaft beträgt € 25.000,00 (2) Jenseits übernimmt: - Herr Dan-David Golla 25.000 Aktien im Nennbetrag von € 1,00. (3) Die Einlagen auf die erworbenen Aktien sind vor Eintragung der Gesellschaft in das Handelsregister jeweils in bar zu 50 % zu zahlen.die Geschäftsleitung ist zahlungspflichtig."
+}

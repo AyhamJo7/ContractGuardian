@@ -1,0 +1,45 @@
+{
+    "id": 808,
+    "text": "§ 21 Gründungsaufwand Der Gründungsaufwand (Kosten für Notar und Gericht sowie evtl. \nGenehmigungen, Anwalt, Steuerberater) wird von der Gesellschaft bis zu einem Gesamtbetrag von EUR 2.500,— übernommen. \nEin darüber hinausgehender Gründungsaufwand wird von den Gesellschaftern im Verhältnis ihrer Gesellschaftsbeteiligungen getragen.",
+    "entities": [
+        {
+            "id": 2378,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2379,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 204
+        },
+        {
+            "id": 2380,
+            "label": "Subsection",
+            "start_offset": 205,
+            "end_offset": 334
+        },
+        {
+            "id": 2381,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 22
+        },
+        {
+            "id": 2382,
+            "label": "Kosten",
+            "start_offset": 22,
+            "end_offset": 334
+        },
+        {
+            "id": 2383,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 334
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 21 Start-up-Aufwendungen Die Start-up-Aufwendungen (Kosten für Notar und Gericht sowie mögliche Genehmigungen, Rechtsanwälte, Steuerberater) werden von der Gesellschaft bis zu einem Gesamtbetrag von 2500 EUR getragen.Ein weiterer Start-up-Aufwendungen tragen die Aktionäre in Bezug auf ihre Beteiligungen an der Gesellschaft."
+}

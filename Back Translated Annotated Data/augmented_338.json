@@ -1,0 +1,39 @@
+{
+    "id": 896,
+    "text": "§ 18 Zugang schriftlicher Erklarungen Fur alle insbesondere in diesem Vertrag vorgesehenen schriftlichen Mitteilungen und Erklarungen - der Gesellschaft an Gesellschafter, - der Gesellschafter an die Gesellschaft und - der Gesellschafter untereinander gilt jeweils: a) Jeder Gesellschafter hat der Gesellschaft die Anschrift anzugeben, unter der ihm gegenOber schriftliche Mitteilungen und Erklarungen aller Art abzugeben sind. \nEr hat jede Anderung dieser Anschrift unverzOglich mitzuteilen, b) Erklarungen an die Gesellschafter sind an die der Gesellschaft zuletzt nach lit. a) angegebenen Anschriften der Gesellschafter zu richten, c) ist fur Erklarungen eine Frist bestimmt, so genOgt zur Wah rung der Frist die rechtzeitige Aufgabe des Briefes zur Post an die angegebene Anschrift, d) die schriftlichen Mitteilungen und Erklarungen sind entweder gegen Empfangsbekenntnis zu Obergeben oder per Einwurf-Einschreiben zu Obersenden.",
+    "entities": [
+        {
+            "id": 3009,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 3012,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 933
+        },
+        {
+            "id": 3013,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 933
+        },
+        {
+            "id": 3010,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 933
+        },
+        {
+            "id": 3011,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 18 Zugang zu schriftlichen Erklärungen Für alle in diesem Vertrag vorgesehenen schriftlichen Mitteilungen und Erklärungen, insbesondere - die Gesellschaft an ihre Mitglieder, - der Aktionär an die Gesellschaft und - der Aktionär aneinander, gilt: a) Jedes Mitglied gibt der Gesellschaft die Anschrift an, unter der es schriftliche Mitteilungen und Erklärungen erhalten hat.b) Erklärungen an die Mitglieder sind an die Anschriften der an die Gesellschaft angegebenen Mitglieder gemäß Buchstabe a) zu richten;Informationen und Erklärungen sind entweder gegen Empfangsbestätigung oder per Übermittlungsschreiben zu übermitteln."
+}

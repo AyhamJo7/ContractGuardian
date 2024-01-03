@@ -1,0 +1,45 @@
+{
+    "id": 756,
+    "text": "§9 Veräußerung und Belastung von Geschäftsanteilen 1. \nDie Abtretung von Geschäftsanteilen sowie jede sonstige Verfügung hierüber ist nur mit Zustimmung sämtlicher Gesellschafter zulässig. \nDies gilt auch für die Einräumung einer Unterbeteiligung oder die Eingehung eines Treuhandverhältnisses. \nDer Erwerb durch Gesellschafter bedarf keiner Zustimmung. 2. \nWill ein Gesellschafter seinen Geschäftsanteil veräußern, wird ihm jedoch die erförderliche Zustimmung gemäß Abs. 1 verweigert oder nicht binnen eines Monats seit seinem schriftlichen Antrag erteilt, so kann er verlangen, dass die anderen Gesellschafter durch Beschluss entweder die Einziehung oder die Übertragung des Geschäftsanteils auf einen von ihnen bestimmten Erwerber anordnen. \nDie Vergütung des ausscheidenden Gesellschafters richtet sich nach § 12. \nWird dem Gesellschafter ein solcher Beschluss nicht innerhalb eines weiteren Monats zugestellt, so bedarf die Abtretung nicht mehr der Zustimmung gemäß Abs. 1 Satz 1.",
+    "entities": [
+        {
+            "id": 1992,
+            "label": "Subsection",
+            "start_offset": 354,
+            "end_offset": 983
+        },
+        {
+            "id": 1993,
+            "label": "Veräußerung",
+            "start_offset": 3,
+            "end_offset": 51
+        },
+        {
+            "id": 1994,
+            "label": "Veräußerung",
+            "start_offset": 51,
+            "end_offset": 983
+        },
+        {
+            "id": 1990,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 50
+        },
+        {
+            "id": 1995,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 983
+        },
+        {
+            "id": 1991,
+            "label": "Subsection",
+            "start_offset": 51,
+            "end_offset": 352
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Veräußerung und Haftung von Aktien 1. Die Abtretung von Aktien und jede andere Veräußerung davon ist nur mit Zustimmung aller Aktionäre gestattet. Dies gilt auch für die Gewährung einer Teilbeteiligung oder die Begründung einer Treuhandbeziehung. Der Erwerb durch den Aktionär bedarf keiner Zustimmung. 2. Wenn ein Aktionär sein Geschäft wünschtWird ihm jedoch die erteilte Zustimmung gemäß Absatz 1 verweigert oder ist er nicht innerhalb eines Monats nach seinem schriftlichen Antrag erteilt worden, so kann er verlangen, dass die anderen Mitglieder entweder die Einziehung oder die Übertragung des Geschäftsanteils an einen von ihnen durch Entscheidung benannten Erwerber anordnen.Wird eine solche Entscheidung dem Aktionär nicht innerhalb eines weiteren Monats zugestellt, so bedarf die Abtretung der Zustimmung gemäß Absatz 1 Satz 1 nicht mehr."
+}

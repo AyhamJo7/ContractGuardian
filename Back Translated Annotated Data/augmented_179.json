@@ -1,0 +1,39 @@
+{
+    "id": 744,
+    "text": "§10 Bekanntmachungen Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 1909,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 82
+        },
+        {
+            "id": 1907,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 82
+        },
+        {
+            "id": 1908,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 1910,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 82
+        },
+        {
+            "id": 1906,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§10 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger."
+}

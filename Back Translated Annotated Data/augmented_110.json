@@ -1,0 +1,87 @@
+{
+    "id": 614,
+    "text": "§ 10 Einziehung von Geschäftsanteilen (1) Die Einziehung von Geschäftsanteilen ist jederzeit zulässig, wenn der betroffene Gesellschafter zustimmt. (2) Die Einziehung eines Geschäftsanteils ist ohne Zustimmung des betroffenen Gesellschafters zulässig, wenn (a) über sein Vermögen ein vorläufiger Insolvenzverwalter eingesetzt oder ein Insolvenzverfahren eröffnet oder die Eröffnung mangels Masse abgelehnt wird oder er die Richtigkeit seines Vermögensverzeichnisses an Eides Statt zu versichern hat, (b) sein Geschäftsanteil gepfändet oder in sonstiger Form der Zwangsvollstreckung unterworfen wird und die Vollstreckungsmaßnahme nicht innerhalb von zwei Monaten, spätestens bis zur Verwertung des Geschäftsanteils, wieder aufgehoben wird, (c) in seiner Person ein die Ausschließung rechtfertigender Grund vorliegt, insbesondere er seine Gesellschafterpflichten grob verletzt, (d) der Gesellschafter stirbt nach Maßgabe der Vorschriften dieses Gesellschaftsvertrages über die Erbfolge, (e) der Gesellschafter die Gesellschaft kündigt und die übrigen Gesellschafter nicht die Auflösung der Gesellschaft beschlossen haben,  (f) die Mehrheit an dem den Geschäftsanteil haltenden Rechtsträger nicht mehr denselben Inhabern zusteht wie beim Erwerb des Geschäftsanteils durch den Rechtsträger; die Einziehung ist insoweit unzulässig, als der Änderung der Beteiligungsverhältnisse an dem Rechtsträger nach den Vorschriften dieses Gesellschaftsvertrages über Verfügungen über Geschäftsanteile zugestimmt wurde. (3) Steht der Geschäftsanteil mehreren Personen zu, so genügt es, wenn die Voraussetzungen zur Einziehung nur bei einer von ihnen vorliegen. \nMehrere Geschäftsanteile eines Gesellschafters sind gemeinsam einzuziehen. (4) Statt der Einziehung kann die Gesellschafterversammlung beschließen, dass der Geschäftsanteil ganz oder teilweise auf einen oder mehrere Gesellschafter, auf die Gesellschaft oder auf Dritte zu übertragen ist. \nDen Gesellschaftern steht das Erwerbsrecht im Verhältnis ihrer Beteiligung zu; etwaige Spitzenbeträge stehen dem Gesellschafter mit der größten Beteiligung zu. (5) Bei Beschlüssen über die Einziehung oder Übertragung von Geschäftsanteilen hat der betroffene Gesellschafter kein Stimmrecht. \nSeine Stimmen bleiben bei der Berechnung von Mehrheiten außer Betracht. (6) Die Abfindung für die Einziehung oder die Übertragung bestimmt sich nach den Vorschriften dieses Gesellschaftsvertrages. \nBis zum Wirksamwerden der Einziehung oder bis zur Übertragung ruhen alle Rechte des ausscheidenden Gesellschafters einschließlich seines Stimmrechts. \nSeine Stimmen bleiben bei der Berechnung von Mehrheiten außer Betracht. (7) Die Einziehung wird mit Zugang des Einziehungsbeschlusses an den betroffenen Gesellschafter wirksam. (8) Im Rahmen der Einziehung eines Geschäftsanteils kann das Stammkapital herabgesetzt werden. \nEbenso können durch Mehrheitsbeschluss neue Geschäftsanteile gebildet oder bestehende andere Geschäftsanteile aufgestockt werden. \nNeu gebildete Geschäftsanteile  können der Gesellschaft als eigene Geschäftsanteile oder Mitgesellschaftern bzw. \nDritten zugewiesen werden.",
+    "entities": [
+        {
+            "id": 948,
+            "label": "Subsection",
+            "start_offset": 1720,
+            "end_offset": 2093
+        },
+        {
+            "id": 949,
+            "label": "Subsection",
+            "start_offset": 2095,
+            "end_offset": 2296
+        },
+        {
+            "id": 950,
+            "label": "Subsection",
+            "start_offset": 2297,
+            "end_offset": 2645
+        },
+        {
+            "id": 951,
+            "label": "Subsection",
+            "start_offset": 2646,
+            "end_offset": 2750
+        },
+        {
+            "id": 952,
+            "label": "Subsection",
+            "start_offset": 2751,
+            "end_offset": 3118
+        },
+        {
+            "id": 953,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        },
+        {
+            "id": 954,
+            "label": "Einziehung",
+            "start_offset": 38,
+            "end_offset": 3118
+        },
+        {
+            "id": 955,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2422
+        },
+        {
+            "id": 956,
+            "label": "Green Flag",
+            "start_offset": 2423,
+            "end_offset": 3118
+        },
+        {
+            "id": 944,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 945,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 147
+        },
+        {
+            "id": 946,
+            "label": "Subsection",
+            "start_offset": 148,
+            "end_offset": 1502
+        },
+        {
+            "id": 947,
+            "label": "Subsection",
+            "start_offset": 1503,
+            "end_offset": 1719
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Rückforderung von Aktien (1) Die Einziehung von Aktien ist jederzeit zulässig, wenn der betreffende Gesellschafter zustimmt. (2) Die Rückforderung einer Aktie ist ohne Zustimmung des betreffenden Gesellschafters zulässig, wenn a) ein vorläufiger Insolvenzverwalter sein Vermögen nutzt oder ein Insolvenzverfahren oder die Eröffnung eines Insolvenzverfahrens wegen mangelnder Masse einleitet.b) sein Anteil an der Geschäftstätigkeit verpfändet oder anderweitig einer Zwangsvollstreckung unterworfen ist und die Vollstreckungsmaßnahme nicht innerhalb von zwei Monaten, spätestens bis zur Liquidation des Geschäftsanteils, c) an seiner Person, widerrufen wird, wobei Folgendes ausgeschlossen wird:(d) der Gesellschafter stirbt gemäß den Bestimmungen dieses Gesellschaftsvertrages bei der Nachfolge, (e) der Gesellschafter gibt die Gesellschaft bekannt und die anderen Aktionäre haben nicht beschlossen, die Gesellschaft aufzulösen; (f) die Mehrheit der juristischen Person, die die Aktie hält, existiert nicht mehr.Dieselben Inhaber haben Anspruch auf die gleichen Rechte wie im Falle des Erwerbs der Aktien durch die juristische Person; die Einziehung ist unzulässig, soweit die Änderung der Beteiligungen an der juristischen Person gemäß den Bestimmungen dieses Gesellschaftsvertrages über die Verfügungen von Aktien genehmigt wurde. (3) Werden die Aktien von mehreren Personen gehalten, genügt es, die Voraussetzungen zu erfüllen.(4) Statt der Einziehung kann die Hauptversammlung beschließen, dass der Anteil der Gesellschaft ganz oder teilweise auf ein oder mehrere Mitglieder, die Gesellschaft oder auf Dritte übertragen werden muss.5. Bei Entscheidungen über die Einziehung oder Übertragung von Aktien hat das betreffende Mitglied kein Stimmrecht. Seine Stimmen werden bei der Berechnung der Mehrheiten nicht berücksichtigt. 6. Die Abfindung für die Einziehung oder Übertragung wird nach Maßgabe dieses Gesetzes festgelegt.Bis zum Wirksamwerden der Einziehung oder bis zum Wirksamwerden der Übertragung ruhen alle Rechte des zurücktretenden Mitglieds, einschließlich seiner Stimmrechte. Seine Stimmen werden bei der Berechnung der Mehrheiten nicht berücksichtigt. (7) Die Einziehung wird nach Erhalt der Einziehungsentscheidung an das betreffende Mitglied wirksam. (8) Im Rahmen der Einziehung eines Geschäfts wird die Einziehung nach Erhalt der Einziehungsentscheidung wirksam.Ebenso können neue Aktien durch Mehrheitsentscheidung gebildet oder bestehende Aktien erhöht werden. Neue Aktien können als eigene Aktien oder gemeinsame Aktionäre oder Dritte an die Gesellschaft abgetreten werden."
+}

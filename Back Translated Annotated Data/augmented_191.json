@@ -1,0 +1,45 @@
+{
+    "id": 665,
+    "text": "§9 VerauBerung und Belastung von Geschaftsanteilen 1. \nDie Abtretung van Geschaftsanteilen sowie jede sonstige Verfugung hieruber ist nur mit Zu­ stimmung der Gesellschaft zulassig. \nDiese darf nur erteilt werden, wenn ein entsprechender, einstimmig gefasster, Gesellschafterbeschluss vorliegt. \nKeiner Zustimmung bedurfen Verfu­ gungen an andere Gesellschafter, sowie mit dem Gesellschafter i.S.d. § 15 ff. \nAktG ver­ bundene Unternehmen. 2. \nWill ein Gesellschafter seinen Geschaftsanteil verauf1ern, wird ihm jedoch die erforderliche Zustimmung gemaf1 Abs. 1 verweigert oder nicht binnen einem Monat seit seinem schriftli­ chen Antrag erteilt, so kann er verlangen, dass die anderen Gesellschafter durch Beschluss entweder die Einziehung oder die Obertragung des Geschaftsanteils auf einen oder mehrere van ihnen bestimmte Erwerber anordnen. \nDie Vergotung des ausscheidenden Gesellschaf­ ters richtet sich nach § 12 dieses Vertrags. \nWird dem Gesellschafter ein solcher Beschluss nicht innerhalb eines weiteren Monats zugestellt, so bedarf die Abtretung nicht mehr der Zu­ stimmung gemaf1 Abs. 1 Satz 1. \nDie in diesem Absatz 2 enthaltenen Regelungen gelten erst nach dem in § 13 Absatz 1 dieses Vertrags genannten Termin.",
+    "entities": [
+        {
+            "id": 1322,
+            "label": "Subsection",
+            "start_offset": 51,
+            "end_offset": 439
+        },
+        {
+            "id": 1321,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 50
+        },
+        {
+            "id": 1323,
+            "label": "Subsection",
+            "start_offset": 440,
+            "end_offset": 1226
+        },
+        {
+            "id": 1324,
+            "label": "Veräußerung",
+            "start_offset": 2,
+            "end_offset": 50
+        },
+        {
+            "id": 1325,
+            "label": "Veräußerung",
+            "start_offset": 51,
+            "end_offset": 1226
+        },
+        {
+            "id": 1326,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1226
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Die Abtretung von Aktien und jede andere Verfügung von Aktien ist nur mit Zustimmung der Gesellschaft zulässig. Dies kann nur gewährt werden, wenn eine entsprechende, einstimmig vereinbarte Aktionärsentscheidung getroffen wurde. Für andere Aktionäre sowie mit dem Aktionär i.S.d. §9 war keine Zustimmung erforderlich.15 ff. AktG zusammengeschlossene Unternehmen. 2. Will ein Aktionär jedoch seinen Anteil an der Gesellschaft erhöhen, wenn ihm die erforderliche Zustimmung nach Absatz 1 verweigert wird oder er nicht innerhalb eines Monats nach seinem schriftlichen Antrag gewährt wird, so kann er verlangen, dass die anderen Aktionäre entweder durch Entscheidung die Einziehung oder die Übertragung des Anteils der Gesellschaft in einen oder mehrere Mitgliedstaaten verlangen.Wird eine solche Entscheidung dem Partner nicht innerhalb eines weiteren Monats zugestellt, so bedarf die Abtretung nicht mehr der Vereinbarung gemäß Absatz 1 Satz 1 dieses Artikels. Die Bestimmungen dieses Absatzes 2 gelten nur nach den Bestimmungen des Absatzes 1 dieses Artikels.Datum, das im Vertrag angegeben ist."
+}

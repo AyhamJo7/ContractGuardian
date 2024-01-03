@@ -1,0 +1,45 @@
+{
+    "id": 716,
+    "text": "§9 Sonstige Bestimmungen (1) Die Gesellschaft tragt ihren GrOndungsaufwand (Notar- und Handelsregis­ tergebOhren, Kosten der Bekanntmachung und GrOndungsberatung) bis zur Hohe von € 2.500,00 (2) Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 1711,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 1716,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 260
+        },
+        {
+            "id": 1712,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 190
+        },
+        {
+            "id": 1714,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 24
+        },
+        {
+            "id": 1715,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 25,
+            "end_offset": 260
+        },
+        {
+            "id": 1713,
+            "label": "Subsection",
+            "start_offset": 191,
+            "end_offset": 260
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Sonstige Bestimmungen (1) Die Gesellschaft trägt ihre Kosten (Notar- und Handelsregelung, Kosten der Veröffentlichung und Beratung) bis zu einem Betrag von € 2.500,00 (2) Die Bekanntmachungen der Gesellschaft werden im Bundesanzeiger veröffentlicht."
+}

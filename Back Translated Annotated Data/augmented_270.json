@@ -1,0 +1,57 @@
+{
+    "id": 828,
+    "text": "§9 Verfi.igungen Uber Geschaftsanteile (1) Die VerfOgung Ober einen Geschaftsanteil oder einen Teil hiervon, insbesondere die Ab­ tretung, Verpfandung oder sonstige Belastung, bedOrfen zu ihrer Wirksamkeit der schrift­ lichen Zustimmung aller Gesellschafter. (2) Die Teilung eines Geschaftsanteils bedarf der Genehmigung der Gesellschaft. \nOber die Erteilung der Genehmigung entscheidet die Gesellschafterversammlung. (3) Jedem Gesellschafter steht fur den Fall des Verkaufs eines Geschaftsanteils ein Vorkaufs­ recht zu. \nJeder Gesellschafter, der seinen Geschaftsanteil veraul?iert, hat dies den Obrigen Gesellschaftern unter BeifOgung des Kaufvertrages anzuzeigen; jeder Gesellschafter hat das Recht, seinen Eintritt in den Kaufvertrag zu erklaren, und zwar innerhalb von drei Mo­ naten, nachdem er von dem Kaufvertrag Kenntnis genommen hat. \nErklaren mehrere Ge­ sellschafter den Eintritt in die Gesellschaft, so wird der Anteil entsprechend den bisherigen Anteilen am Kapital unter Wahrung der Bestimmungen zur Teilbarkeit der Anteile geteilt. \nSofern unteilbare Spitzenanteile Oberbleiben, werden diese unter den Gesellschaften ver­ iest. \nIn der Anzeige des Verkaufs an die Gesellschafter muss der Kaufpreis fur den Anteil enthalten sein. 1st ein Kaufpreis nicht enthalten, gilt der Kaufpreis von € 1,-- als vereinbart. (4) Etwaige Nebenleistungen, zu denen sich der Kaufer in dem Vertrag mit dem Verkaufer verpflichtet, brauchen die vorkaufsberechtigten Gesellschafter nicht zu erfullen oder zu verguten.",
+    "entities": [
+        {
+            "id": 2507,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 258
+        },
+        {
+            "id": 2509,
+            "label": "Subsection",
+            "start_offset": 418,
+            "end_offset": 1326
+        },
+        {
+            "id": 2511,
+            "label": "Subsection",
+            "start_offset": 1327,
+            "end_offset": 1512
+        },
+        {
+            "id": 2512,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 2513,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 39,
+            "end_offset": 1512
+        },
+        {
+            "id": 2514,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1512
+        },
+        {
+            "id": 2506,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 2508,
+            "label": "Subsection",
+            "start_offset": 259,
+            "end_offset": 416
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Pflichten in Bezug auf Aktien einer Gesellschaft (1) Die Verpflichtung zur Abtretung einer Aktie an einer Gesellschaft oder einem Teil davon, insbesondere die Abtretung, Verpfändung oder sonstige Belastung, bedOrfen nach schriftlicher Zustimmung aller Gesellschafter. (2) Die Teilung einer Aktie an einer Gesellschaft bedarf der Zustimmung der Gesellschaft.(3) Jeder Gesellschafter hat Anspruch auf einen Vorkauf im Falle des Verkaufs eines Anteils an der Gesellschaft. Jeder Gesellschafter, der seinen Anteil an der Gesellschaft entgleist, hat dies den oben genannten Partnern mit der Hinzufügung des Kaufvertrages mitzuteilen; jeder Gesellschafter hat das Recht, seinen Eintritt in den Kaufvertrag innerhalb von drei Monaten ab dem Tag, an dem der Vertrag unterzeichnet wurde, zu erklären.Wenn mehrere Aktionäre erklären, dass sie die Gesellschaft eingegangen sind, wird die Aktie nach den Anteilen am Kapital, die in der Vergangenheit gehalten wurden, unter Beachtung der Bestimmungen über die Teilbarkeit der Aktien aufgeteilt. Wenn unteilbare Top-Aktien bleiben, werden sie von den Gesellschaften gehalten. In der Mitteilung über den Verkauf an die Aktionäre müssen:ist der Kaufpreis für die Aktie enthalten. Ist ein Kaufpreis nicht enthalten, gilt der Kaufpreis von 1,-- € als vereinbart. (4) Nebenleistungen, die der Käufer im Vertrag mit dem Verkäufer zu zahlen verpflichtet, müssen von den Aktionären, die vor dem Kauf berechtigt sind, nicht erfüllt oder aufgeteilt werden."
+}

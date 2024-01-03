@@ -1,0 +1,15 @@
+{
+    "id": 656,
+    "text": "GESELLSCHAFTSVERTRAG",
+    "entities": [
+        {
+            "id": 1259,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "VERTRAG DER GESELLSCHAFT"
+}

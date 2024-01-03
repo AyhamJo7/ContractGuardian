@@ -1,0 +1,39 @@
+{
+    "id": 857,
+    "text": "§2 Gegenstand des Unternehmens Gegenstand des Unternehmens ist ausschliefWch die Beteiligung als pers6nlich haftende Gesell­ schafterin an sowie die Geschaftsfiihrung und Vertretung der KTR GmbH & Co. \nKG mit Sitz in Hamburg.",
+    "entities": [
+        {
+            "id": 2705,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2706,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 225
+        },
+        {
+            "id": 2707,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 2708,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 225
+        },
+        {
+            "id": 2709,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 225
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand der Gesellschaft Gegenstand der Gesellschaft ist die Beteiligung als persönlich haftendes Gesellschaftsmitglied sowie die Geschäftsführung und Vertretung der KTR GmbH & Co. KG mit Sitz in Hamburg."
+}

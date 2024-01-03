@@ -1,0 +1,57 @@
+{
+    "id": 595,
+    "text": "§ 7 Gesellschafterversammlung l. \nEine Gesellschafterversammlung ist zu berufen, wenn eine Beschlussfassung der Gesellschafter erforderlich wird oder die Einberufung aus einem sonstigen Grunde im Interesse der Gesellschaft liegt. 2. \nDie Versammlung wird durch die Geschäftsführung einberufen. \nEs genügt die Einberufung durch einen Geschäftsführer. 3. \nAlle Gesellschafter sind zur Versammlung mittels eingeschriebenen Brief zu laden. \nDie Einladung ist mindestens zehn Tage vor der Ver\" Sammlung zur Post zu geben. \nTagungsort, Tagungszeit und Tagungsordnung sind in der Ladung mitzuteüen. 4. \nJeder Gesellschafter kann sich diurch einen anderen Gesellschafter oder seinen Ehegatten oder einen Verwandten m gerader Linie oder eine zur Berufsverschwiegenli.eit verpflichtete Person mit schrifüicher Vollmacht vertreten lassen.",
+    "entities": [
+        {
+            "id": 798,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 799,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 228
+        },
+        {
+            "id": 800,
+            "label": "Subsection",
+            "start_offset": 230,
+            "end_offset": 349
+        },
+        {
+            "id": 801,
+            "label": "Subsection",
+            "start_offset": 350,
+            "end_offset": 591
+        },
+        {
+            "id": 802,
+            "label": "Subsection",
+            "start_offset": 592,
+            "end_offset": 827
+        },
+        {
+            "id": 803,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 804,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 30,
+            "end_offset": 827
+        },
+        {
+            "id": 805,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 827
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Hauptversammlung l. Eine Hauptversammlung ist einzuberufen, wenn eine Entscheidung der Aktionäre erforderlich wird oder die Einberufung aus einem anderen Grund im Interesse der Gesellschaft liegt. 2. Die Hauptversammlung wird von der Geschäftsführung einberufen. Sie genügt der Einberufung durch einen Geschäftsführer. 3. Alle Gesellschafter sind in der Versammlungszentrale.Die Einladung wird dem Postamt mindestens zehn Tage vor dem Tag der Sitzung zugesandt. Der Ort der Sitzung, die Sitzungszeit und die Sitzungsregeln sind in der Ladung enthalten. 4. Jeder Partner kann in der Regel einen anderen Partner oder seinen Ehegatten oder einen Verwandten in gerader Linie oder eine an das Berufsgeheimnis gebundene Person ernennen.Im Falle eines Antrags auf Genehmigung hat der Antragsteller die Vollmacht zu vertreten."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 813,
+    "text": "§ 4 Verfügung über Geschäftsanteile Die Verfügung über einen Geschäftsanteil oder einen Teil eines Geschäftsanteils, insbesondere Abtretung oder Verpfändung, ist nur mit schriftlicher Zustimmung aller Gesellschafter zulässig.",
+    "entities": [
+        {
+            "id": 2409,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 2410,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 225
+        },
+        {
+            "id": 2411,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 34
+        },
+        {
+            "id": 2412,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 36,
+            "end_offset": 225
+        },
+        {
+            "id": 2413,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 225
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Verfügung über Aktien Die Bereitstellung einer Aktie oder eines Teils eines Anteils eines Unternehmens, insbesondere Abtretung oder Pfand, ist nur mit schriftlicher Zustimmung aller Gesellschafter zulässig."
+}

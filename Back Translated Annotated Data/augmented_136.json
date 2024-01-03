@@ -1,0 +1,63 @@
+{
+    "id": 727,
+    "text": "§ 10 Einziehung von Geschaftsanteilen (1) Die Einziehung von Geschaftsanteilen mit Zustimmung des betroffenen Ge­ sellschafters ist zulassig. (2) Die Einziehung von Geschaftsanteilen eines Gesellschafters ohne dessen Zustimmung ist in folgenden Fallen zulassig: a. \nOber das Vermogen des Gesellschafters ist ein lnsolvenzverfahren er­ offnet oder die Eroffnung wird mangels Masse abgelehnt. b. \nDer Geschaftsanteil wird gepfandet und die Pfandung wird nicht inner­ halb von zwei Monaten, spatestens bis zum Beginn der Pfandverwer­ tung, wieder aufgehoben. c. \nEin Geschaftsanteil geht auf einen anderen lnhaber Ober, ohne dass die Gesellschafterversammlung nach § 4 Abs. (1) diesem Obergang zu­ gestimmt hat. \nDies gilt insbesondere fi.ir den Obergang im Wege der Zwangsvollstreckung; die Zustimmung zur Verpfandung des Geschafts­ anteils schlieBt dieses Einziehungsrecht nicht aus, wenn der verpfan­ dete Geschaftsanteil auf einen anderen lnhaber Obergeht, als einen Mit­ gesellschafter oder eine durch Gesellschafterbeschluss benannte Per­ son. \nDie vorliegende Bestimmung gilt nicht tor den Obergang von To­ des wegen, § 11. \nEine Einziehung nach dieser Bestimmung ist nur zu­ lassig binnen eines Jahres nach Kenntnis von der Wirksamkeit dieses Obergangs und der Person des Erwerbers. d. \nIn der Person des Gesellschafters liegt ein wichtiger Grund vor, der die AusschlieBung rechtfertigt; ein solcher Grund liegt vor, wenn ein weite­ res Verbleiben des Gesellschafters in der Gesellschaft tor diese untrag­ bar ist, insbesondere wenn der Gesellschafter eine ihm nach dem Ge­ sellschaftsvertrag obliegende wesentliche Verpflichtung vorsatzlich oder aus grober Fahrlassigkeit verletzt oder sonst durch sein Verhalten die Gesellschaftsinteressen erheblich schadigt. (3) Steht ein Geschaftsanteil mehreren Mitberechtigten gemeinschaftlich zu, so ist eine Einziehung zulassig, wenn deren Voraussetzungen in der Person nur eines Mitberechtigten vorliegen. (4) Die Einziehung wird durch die Gesellschafter beschlossen und sodann von der Gesellschaft gegen0ber dem betroffenen Gesellschafter bzw. seinen Rechtsnachfolgern erklart. \nDie Einziehung wird wirksam mit Zugang der Er­ klarung bei dem betroffenen Gesellschafter, unabhangig davon, wann die Abfindung gemaB § 12 gezahlt wird. \nDer Gesellschafterbeschluss Ober die Einziehung bedarf der einfachen Mehrheit der abgegebenen Stimmen, wo­ bei der betroffene Gesellschafter bzw. seine Rechtsnachfolger kein Stimm­ recht haben. (5) Die Gesellschafter konnen anstelle der Einziehung beschlieBen, dass der betreffende Gesellschafter den Geschaftsanteil an die Gesellschaft oder eine andere im Gesellschafterbeschluss zu benennende Person, bei der es sich auch um einen Gesellschafter handeln kann, abzutreten hat.",
+    "entities": [
+        {
+            "id": 1790,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 1791,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 140
+        },
+        {
+            "id": 1792,
+            "label": "Subsection",
+            "start_offset": 142,
+            "end_offset": 1766
+        },
+        {
+            "id": 1795,
+            "label": "Subsection",
+            "start_offset": 2476,
+            "end_offset": 2759
+        },
+        {
+            "id": 1796,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        },
+        {
+            "id": 1797,
+            "label": "Einziehung",
+            "start_offset": 38,
+            "end_offset": 2759
+        },
+        {
+            "id": 1798,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2759
+        },
+        {
+            "id": 1793,
+            "label": "Subsection",
+            "start_offset": 1767,
+            "end_offset": 1953
+        },
+        {
+            "id": 1794,
+            "label": "Subsection",
+            "start_offset": 1954,
+            "end_offset": 2475
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Einziehung von Anteilen (1) Die Einziehung von Anteilen mit Zustimmung des Betroffenen ist zulässig. (2) Die Einziehung von Anteilen eines Gesellschafters ohne seine Zustimmung ist in folgenden Fällen zulässig: a. Die Übertragung von Anteilen des Gesellschafters unterliegt einem insolventen Verfahren oder die Eröffnung wird aus Mangel an Masse verweigert. b.Der Anteil der Gesellschaft wird verpfändet und die Einlage nicht innerhalb von zwei Monaten, höchstens bis zum Beginn der Einlageabwicklung, storniert. c. Ein Anteil der Gesellschaft geht an einen anderen Eigentümer, ohne dass die Aktionärsversammlung gemäß § 4 Abs.1 dieser Bestellung abgestimmt hat. Dies gilt insbesondere für die Übertragung durch Vollstreckung; die EinwilligungDieses Einziehungsrecht schließt die Verpfändung des Gesellschaftsanteils nicht aus, wenn der verpfändete Anteil der Gesellschaft an einen anderen Eigentümer geht, als Mitglied der Gesellschaft oder als durch eine Aktionärsentscheidung bezeichnete Person. Die vorliegende Bestimmung gilt nicht für den Leiter der Gesellschaft, § 11. Eine Einziehung nach dieser Bestimmung ist nur zu nachsichtig innerhalb einerIm Falle des Aktionärs gibt es einen wichtigen Grund, den Ausschluss zu rechtfertigen; ein solcher Grund besteht, wenn ein großer Teil des Aufenthaltes des Aktionärs in der Gesellschaft unerträglich ist, insbesondere wenn der Aktionär eine Beziehung zu ihm im Rahmen des Vereinsvertrags hat.(3) Wird ein Gesellschaftsanteil an mehreren Mitunternehmern gemeinsam gewährt, so ist eine Einziehung zulässig, wenn ihre Voraussetzungen nur in der Person eines Mitunternehmers erfüllt sind. (4) Die Einziehung erfolgt durch die Gesellschaft.Die Rückforderung ist mit dem Zugang des betreffenden Partners wirksam, unabhängig davon, wann die Entschädigung gemäß § 12 gezahlt wird.Die Entscheidung des Aktionärs über die Einziehung unterliegt der einfachen Mehrheit der abgegebenen Stimmen, wenn zum Zeitpunkt der Abstimmung(5) Die Aktionäre können anstelle der Einziehung beschließen, dass der betreffende Gesellschafter den Anteil der Gesellschaft an der Gesellschaft oder an einer anderen Person, die in der Entscheidung des Aktionärs benannt werden soll, die ebenfalls ein Aktionär sein kann, abtretet."
+}

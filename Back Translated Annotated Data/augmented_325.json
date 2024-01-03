@@ -1,0 +1,57 @@
+{
+    "id": 883,
+    "text": "§ 5 Vertretung 1. \nDie Gesellschaft hat einen oder mehrere Geschaftsfuhrer. 2. \nDie Gesellschaft wird vertreten, a) wenn nur ein Geschaftsfuhrer vorhanden ist, durch diesen, b) wenn mehrere Geschaftsfuhrer vorhanden sind, durch zwei Geschaftsfuhrer gemeinschaftlich oder durch einen Geschaftsfuhrer in Gemeinschaft mit einem Prokuristen. 3. \nDie Gesellschafter konnen mit einfacher Stimmmehrheit der abgegebenen Stimmen beschlier1en, a) Geschaftsfuhrer zur Einzelvertretung zu ermachtigen, b) Geschaftsfuhrer allgemein oder im Einzelfall van den Beschrankungen des § 181 8GB zu befreien, c) dass ein GeschaftsfOhrer mit der Maf1gabe bestellt wird, dass er nur aus wichtigem Grund abberufen werden kann. 4. \nVorstehende Regelung gilt auch fur Liquidatoren. \nWird die Gesellschaft nach § 66 Abs. 1 GmbHG van den bisherigen GeschaftsfOhrern liquidiert, so besteht deren konkrete Vertretungsbefugnis auch als Liquidatoren fort.",
+    "entities": [
+        {
+            "id": 2895,
+            "label": "Subsection",
+            "start_offset": 703,
+            "end_offset": 923
+        },
+        {
+            "id": 2896,
+            "label": "Vertretung",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 2897,
+            "label": "Vertretung",
+            "start_offset": 15,
+            "end_offset": 923
+        },
+        {
+            "id": 2898,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 923
+        },
+        {
+            "id": 2892,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 74
+        },
+        {
+            "id": 2891,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2893,
+            "label": "Subsection",
+            "start_offset": 75,
+            "end_offset": 336
+        },
+        {
+            "id": 2894,
+            "label": "Subsection",
+            "start_offset": 338,
+            "end_offset": 702
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Vertretung 1. Die Gesellschaft hat ein oder mehrere Mitglieder der Gesellschaft. 2. Die Gesellschaft ist vertreten: a) wenn nur ein Mitglied der Gesellschaft anwesend ist, b) wenn mehrere Mitglieder der Gesellschaft anwesend sind, durch zwei Mitglieder der Gesellschaft gemeinsam oder durch ein Mitglied der Gesellschaft in Verbindung mit einem Vertreter. 3.(c) dass eine Gesellschaft mit der Abgabe bestellt wird, dass sie nur aus einem wichtigen Grund entlassen werden kann. 4. Die vorstehende Regel gilt auch für Liquidatoren. Wird die Gesellschaft zur Gesellschaft nach § 66 Abs. 1 GmbHG van den wurde bisher liquidiert, ihre konkreten Repräsentationsbefugnisse existieren weiterhin als Liquidatoren."
+}

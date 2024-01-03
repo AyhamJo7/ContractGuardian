@@ -1,0 +1,51 @@
+{
+    "id": 601,
+    "text": "§13 Kündigung l. \nKündigt ein Gesellschafter, so haben die übrigen Gesellschafter das Recht, die Fortführung der Gesellschaft iiüt einfacher Mehrheit zu beschließen. \nWird die Gesellschaft fortgesetzt, so ist der Kündigende verpflichtet, seinen Geschäftsanteil ganz oder geteilt an die Gesellschaft, an einen oder mehrere Gesellschafter oder an einen von der Gesellschaft benannten Dritten gegen Entgelt abzuü-eten. \nDer Geschäftsanteil kann auch eingezogen werden. 2. \nBeün Ausscheiden eines Gesellschafters hat jeder andere Gesellschafter das Recht, entsprechend semer Beteiligung gegen Entgelt einen Teil dieses Geschäftsanteils zu erwerben. \nDas Erwerbsrecht kaim nur binnen sechs Wochen nach Empfang der schrifüichen Aiifforderung durch den Geschäftsführer ausgeübt werden. 3. \nDer Fortsetzungsbeschluss ist dem Kündigenden innerhalb von drei Monaten nach Eingang seiner Kündigung schriftlich mitzuteilen. \nDas dem Kündigenden zu zahlende Entgelt betarägt ebenso viel, wie der nach § 14 festzustellende Wert des Geschäftsanteils. \nEs ist ihm innerhalb einer Frist von sechs Monaten nach Rechtswirksamkeit der Kündigung auszuzahlen.",
+    "entities": [
+        {
+            "id": 857,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1136
+        },
+        {
+            "id": 851,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 852,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 465
+        },
+        {
+            "id": 853,
+            "label": "Subsection",
+            "start_offset": 466,
+            "end_offset": 778
+        },
+        {
+            "id": 854,
+            "label": "Subsection",
+            "start_offset": 779,
+            "end_offset": 1136
+        },
+        {
+            "id": 856,
+            "label": "Kündigung",
+            "start_offset": 14,
+            "end_offset": 1136
+        },
+        {
+            "id": 855,
+            "label": "Kündigung",
+            "start_offset": 4,
+            "end_offset": 14
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§13 Kündigung l. Beendet ein Aktionär, so haben die anderen Aktionäre das Recht zu entscheiden, ob die Gesellschaft mit einfacher Mehrheit weitergeführt werden soll. Wenn die Gesellschaft weitergeht, ist der Ausscheider verpflichtet, ganz oder teilweise an der Gesellschaft oder an einem oder mehreren Mitgliedern oder an einem von der Gesellschaft gegen die Gesellschaft benannten Dritten teilzunehmen.2. Jeder andere Aktionär hat das Recht, einen Teil dieser Aktie gemäß seiner Beteiligung zur Vergütung zu erwerben. Das Recht auf Erwerb wird erst innerhalb von sechs Wochen nach Eingang der schriftlichen Forderung durch den Geschäftsführer ausgeübt.Die an den Kündigungsempfänger zu zahlende Zahlung ist ebenso hoch wie der nach § 14 ermittelte Wert des Geschäftsanteils.Sie ist dem Kündigungsempfänger innerhalb von sechs Monaten nach der Rechtsgültigkeit der Kündigung zu zahlen."
+}

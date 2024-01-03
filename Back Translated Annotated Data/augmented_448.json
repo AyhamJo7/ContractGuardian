@@ -1,0 +1,93 @@
+{
+    "id": 998,
+    "text": "§ 1 Firma, Sitz, Geschäftsjahr\n\n(1) Die Firma der Gesellschaft lautet: Sternovate GmbH.\n\n(2) Der Sitz der Gesellschaft ist Hamburg.\n\n(3) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Rumpfgeschäftsjahr.",
+    "entities": [
+        {
+            "id": 3695,
+            "label": "Orange Flag",
+            "start_offset": 17,
+            "end_offset": 30
+        },
+        {
+            "id": 3692,
+            "label": "Geschäftsjahr",
+            "start_offset": 137,
+            "end_offset": 228
+        },
+        {
+            "id": 3693,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3694,
+            "label": "RED FLAG",
+            "start_offset": 32,
+            "end_offset": 131
+        },
+        {
+            "id": 3696,
+            "label": "Orange Flag",
+            "start_offset": 133,
+            "end_offset": 228
+        },
+        {
+            "id": 3683,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 3684,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 87
+        },
+        {
+            "id": 3685,
+            "label": "Subsection",
+            "start_offset": 89,
+            "end_offset": 131
+        },
+        {
+            "id": 3686,
+            "label": "Subsection",
+            "start_offset": 133,
+            "end_offset": 228
+        },
+        {
+            "id": 3687,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 3688,
+            "label": "Firma",
+            "start_offset": 36,
+            "end_offset": 87
+        },
+        {
+            "id": 3689,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 15
+        },
+        {
+            "id": 3690,
+            "label": "Sitz",
+            "start_offset": 93,
+            "end_offset": 131
+        },
+        {
+            "id": 3691,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 30
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz, Geschäftsjahr (1) Gesellschaft der Gesellschaft ist: Sternovate GmbH. (2) Sitz der Gesellschaft ist Hamburg. (3) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Torsogeschäftsjahr."
+}

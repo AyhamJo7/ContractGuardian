@@ -1,0 +1,45 @@
+{
+    "id": 600,
+    "text": "§ 12 Erbfolge l. \nBeim Tode eines Gesellschafters wird die Gesellschaft mit seinen Erben oder Vermächtnisnehmern fortgesetzt, sofern diese der Ehegatte, direkte Abkömmlinge oder Gesellschafter sind. \nMehrere Erben eines Gesellschafters müssen sich in der Gesellschafterversammlung durch einen gemeinschaftlichen Bevollmächtigten vertreten lassen. \nGesellschaftsrechtliche Rechte und Pflichten können auch durch einen, vom verstorbenen Gesellschafter eingesetzten Testamentsvollstrecker walT-rgenommen werden. 2. \nFalls ein Gesellschafter einen Nachfolger gemäß Ziffer l. nicht benannt hat, kann der Geschäftsanteü des verstorbenen Gesellschafters gegen Entgelt eingezogen werden. \nStatt der Einziehung kann die Gesellschaft veriai-igen, dass der AnteÜ ganz oder geteilt an die Gesellschaft selbst, an einen oder mehrere Gesellschafter oder an einen Dritten abgetreten wird. \nIn diesem Fall sind die verbleibenden Gesellschafter, ggfs. un Verhältnis ihrer BeteUigung am Staniinkapital, zur Übernahme des Geschäftsanteils verpflichtet. §11 Ziffer 4 gut entsprechend.",
+    "entities": [
+        {
+            "id": 849,
+            "label": "Erbfolge",
+            "start_offset": 14,
+            "end_offset": 1064
+        },
+        {
+            "id": 845,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 846,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 509
+        },
+        {
+            "id": 847,
+            "label": "Subsection",
+            "start_offset": 509,
+            "end_offset": 1064
+        },
+        {
+            "id": 848,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 850,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1064
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Nachfolge l. Beim Tod eines Partners wird das Unternehmen mit seinen Erben oder Vermächtnissen fortgesetzt, sofern es sich um Ehegatten, direkte Nachkommen oder Partner handelt. Mehrere Erben eines Partners müssen in der Gesellschafterversammlung durch einen Mitvertreter vertreten sein.2. Hat ein Gesellschafter keinen Nachfolger gemäß Nummer 1 benannt, so kann die Geschäftsstelle des verstorbenen Gesellschafters gegen Entgelt eingezogen werden. Anstelle der Einziehung kann die Gesellschaft erklären, daß die AnteÜ ganz oder teilweise im Eigentum der Gesellschaft selbst ist,In diesem Fall sind die übrigen Aktionäre, soweit vorhanden, verpflichtet, die Beteiligung am Staniin-Kapital, sofern vorhanden, ohne Beziehung zwischen ihrer Beteiligung an der Gesellschaft zu übernehmen. §11 Abs. 4 steht gut im Einklang."
+}

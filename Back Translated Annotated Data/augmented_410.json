@@ -1,0 +1,69 @@
+{
+    "id": 957,
+    "text": "§3 Stammkapital, Gesellschaftsanteile\n(1) Das Stammkapital beträgt EUR 100.000. Hierauf übernimmt die IntReal International Real Estate Kapitalverwaltungsgesellschaft mbH 100.000 Geschäftsanteile im Nennbetrag von jeweils EUR, mithin insgesamt EUR 100.000, auf die jeweils 100 %, d.h. insgesamt EUR 100.000, geleistet sind (Geschäftsanteile Nr. 1 bis 100.000).\n(2) Die Gründungsgesellschafterin erbringt die Einlagen auf die übernommenen Geschäftsanteile in voller Höhe durch Formwechsel der Real Exchange AG mit dem Sitz in Hamburg (Amtsgericht Hamburg, HRB ) nach § 190 ff UmwG in die Gesellschaft.\n(3) Die Teilung und die Zusammenlegung von Geschäftsanteilen bedürfen der notariell beurkundeten Erklärung des betreffenden Gesellschafters, jedoch keines Beschlusses der Gesellschafterversammlung.\n(4) Zur Verfügung über Geschäftsanteile oder Teile eines Geschäftsanteils ist die schriftliche Zustimmung von Gesellschaftern erforderlich, die zusammen 75 % der Stimmen auf sich vereinigen, wobei der verfügende Gesellschafter mitzählt.\nDies gilt insbesondere für Abtretungen, Verpfändungen, Nießbrauchbestellungen und sonstige Belastungen, aber auch für Unterbeteiligungen, Treuhandverhältnisse und sonstige Vereinbarungen, die Dritten Rechte einräumen.\nDies gilt auch bei Übertragungen an Mitgesellschafter und Verfügungen zu ihren Gunsten.",
+    "entities": [
+        {
+            "id": 3424,
+            "label": "Subsection",
+            "start_offset": 601,
+            "end_offset": 798
+        },
+        {
+            "id": 3425,
+            "label": "Subsection",
+            "start_offset": 799,
+            "end_offset": 1341
+        },
+        {
+            "id": 3426,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 3427,
+            "label": "Stammkapital",
+            "start_offset": 38,
+            "end_offset": 360
+        },
+        {
+            "id": 3428,
+            "label": "Stammeinlagen",
+            "start_offset": 361,
+            "end_offset": 1341
+        },
+        {
+            "id": 3430,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 1341
+        },
+        {
+            "id": 3421,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 3422,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 360
+        },
+        {
+            "id": 3423,
+            "label": "Subsection",
+            "start_offset": 361,
+            "end_offset": 600
+        },
+        {
+            "id": 3429,
+            "label": "Stammeinlagen",
+            "start_offset": 79,
+            "end_offset": 360
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Grundkapital, Grundkapital (1) Grundkapital beläuft sich auf EUR 100.000. Die IntReal International Real Estate Kapitalverwaltungsgesellschaft mbH erwirbt 100.000 Aktien im Nennbetrag von EUR jeweils, d.h. insgesamt EUR 100.000, auf die jeweils 100 %, d.h. EUR 100.000, eingezahlt werden (Geschäftsanteile Nr. 1 bis 100.000). (2) Der Gründungsaktionär erbriWerden die Einlagen vollständig an die erworbenen Aktien durch Änderung der Form der Real Exchange AG mit Sitz in Hamburg (Amtsgericht Hamburg, HRB ) gemäß § 190 ff UmwG in die Gesellschaft eingezahlt, so bedarf die Spaltung und die Verschmelzung der Aktien der notariell beglaubigten Erklärung des jeweiligen Aktionärs, jedoch keine Entscheidung der Aktionärsversammlung. (4) Bei der Veräußerung von Aktien oder Teilen einer Aktie ist die schriftliche Zustimmung der Mitglieder, die zusammen 75 % der Stimmen vereinen, erforderlich, wobei der Inhaber Aktionär zählt. Dies gilt insbesondere für Abtretungen, Verpfändungen, Nutzungsaufträge und sonstige Aufwendungen, aber auch für Teilbeteiligungen, Treuhandgeschäfte und sonstige Aufwendungen.sonstige Vereinbarungen, die Rechte an Dritte übertragen, auch im Falle von Übertragungen an gemeinsame Aktionäre und zu ihren Gunsten getroffenen Verfügungen."
+}

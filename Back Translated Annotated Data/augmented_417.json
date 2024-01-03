@@ -1,0 +1,57 @@
+{
+    "id": 945,
+    "text": "§1 Firma und Sitz 1. Die Firma der Gesellschaft lautet: Restaurant Habanna Club GmbH 2. Die Gesellschaft hat ihren Sitz in Essen.",
+    "entities": [
+        {
+            "id": 3338,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 3339,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 84
+        },
+        {
+            "id": 3341,
+            "label": "Firma",
+            "start_offset": 3,
+            "end_offset": 9
+        },
+        {
+            "id": 3343,
+            "label": "Firma",
+            "start_offset": 21,
+            "end_offset": 84
+        },
+        {
+            "id": 3340,
+            "label": "Subsection",
+            "start_offset": 85,
+            "end_offset": 129
+        },
+        {
+            "id": 3342,
+            "label": "Sitz",
+            "start_offset": 13,
+            "end_offset": 18
+        },
+        {
+            "id": 3344,
+            "label": "Sitz",
+            "start_offset": 88,
+            "end_offset": 129
+        },
+        {
+            "id": 3345,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 129
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§1 Gesellschaft und Sitz 1. Die Gesellschaft der Gesellschaft ist: Restaurant Habanna Club GmbH 2. Die Gesellschaft hat ihren Sitz in Essen."
+}

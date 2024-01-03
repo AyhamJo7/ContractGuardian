@@ -1,0 +1,39 @@
+{
+    "id": 920,
+    "text": "§ 2 Gegenstand des Unternehmens: Gegenstand des Unternehmens ist der Erwerb und die Verwaltung von Beteiligungen sowie die Übernahme der persönlichen Haftung und der Geschäftsführung bei Personenhandelsgesellschaften, insbesondere die Beteiligung als persönlich haftende geschäftsführende Gesellschafterin (Komplementärin) an der Mutter Wittig Restaurant GmbH & Co. KG, die den Betrieb eines Restaurants zum Gegenstand hat.",
+    "entities": [
+        {
+            "id": 3163,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3164,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 423
+        },
+        {
+            "id": 3166,
+            "label": "Gegenstand",
+            "start_offset": 33,
+            "end_offset": 423
+        },
+        {
+            "id": 3167,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 423
+        },
+        {
+            "id": 3165,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand der Gesellschaft: Gegenstand der Gesellschaft ist der Erwerb und die Verwaltung von Beteiligungen sowie die Übernahme der persönlichen Haftung und Führung von Partnerschaften, insbesondere die Beteiligung als persönlich haftender geschäftsführender Gesellschafter (Komplementär) an der Mutter Wittig Restaurant GmbH & Co. KG, die eine Restaura betreibtDer Richtlinienvorschlag der Kommission beruht auf dem Grundsatz der Gleichbehandlung von Männern und Frauen in Fragen der sozialen Sicherheit und der sozialen Sicherheit."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 775,
+    "text": "§11 Dauer, Geschäftsjahr (1) Die Gesellschaft ist auf unbestimmte Zeit errichtet. (2) Das. \nGeschäftsjahr der Gesellschaft ist das Kalenderjahr.",
+    "entities": [
+        {
+            "id": 2125,
+            "label": "Geschäftsjahr",
+            "start_offset": 11,
+            "end_offset": 25
+        },
+        {
+            "id": 2121,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 81
+        },
+        {
+            "id": 2124,
+            "label": "Dauer",
+            "start_offset": 29,
+            "end_offset": 80
+        },
+        {
+            "id": 2126,
+            "label": "Geschäftsjahr",
+            "start_offset": 86,
+            "end_offset": 144
+        },
+        {
+            "id": 2127,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 144
+        },
+        {
+            "id": 2119,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 2122,
+            "label": "Subsection",
+            "start_offset": 82,
+            "end_offset": 144
+        },
+        {
+            "id": 2123,
+            "label": "Dauer",
+            "start_offset": 4,
+            "end_offset": 9
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§11 Dauer, Geschäftsjahr (1) Die Gesellschaft wird auf unbestimmte Zeit gegründet. (2) Das Geschäftsjahr der Gesellschaft ist das Kalenderjahr."
+}

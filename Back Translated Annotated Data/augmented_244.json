@@ -1,0 +1,51 @@
+{
+    "id": 792,
+    "text": "§ 5 Vertretung 1. \nDie Gesellschaft hat einen oder mehrere Geschäftsführer. \nIst nur ein Geschäftsführer vorhanden, so vertritt dieser die Gesellschaft allein. \nSind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen Geschäftsführer zusammen mit einem Prokuristen vertreten. \nEinzelvertretungsbefugnis sowie die Befreiung von den Beschränkungen des § 181 BGB können gewährt werden. 2. \nVorstehende Regelung gilt auch für Liquidatoren. \nWird die Gesellschaft nach § 66 Abs. 1 GmbHG von den bisherigen Geschäftsführern liquidiert, so besteht deren konkrete Vertretungsbefugnis auch als Liquidatoren fort.",
+    "entities": [
+        {
+            "id": 2237,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 442
+        },
+        {
+            "id": 2240,
+            "label": "Vertretung",
+            "start_offset": 19,
+            "end_offset": 442
+        },
+        {
+            "id": 2241,
+            "label": "Vertretung",
+            "start_offset": 448,
+            "end_offset": 664
+        },
+        {
+            "id": 2242,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 664
+        },
+        {
+            "id": 2236,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2238,
+            "label": "Subsection",
+            "start_offset": 444,
+            "end_offset": 664
+        },
+        {
+            "id": 2239,
+            "label": "Vertretung",
+            "start_offset": 4,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Vertretung 1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. Existiert nur ein Geschäftsführer, vertritt er das Unternehmen allein. Werden mehrere Geschäftsführer bestellt, wird das Unternehmen gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer zusammen mit einem Geschäftsführer vertreten.2. Die vorstehenden Bestimmungen gelten auch für Liquidatoren. Wird die Gesellschaft von den bisherigen Geschäftsführern gemäß § 66 Abs. 1 GmbHG liquidiert, so bleibt ihre konkrete Vertretungsmacht auch als Liquidatoren bestehen."
+}

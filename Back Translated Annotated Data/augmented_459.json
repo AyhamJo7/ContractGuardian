@@ -1,0 +1,15 @@
+{
+    "id": 984,
+    "text": "GESELLSCHAFTSVERTRAG der Gesellschaft mit beschränkter Haftung Vehsa Sicherheit GmbH mit dem Sitz zu Hamburg",
+    "entities": [
+        {
+            "id": 3588,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 108
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "VERTRAG DER Gesellschaft Vehsa Sicherheit GmbH mit Sitz in Hamburg"
+}

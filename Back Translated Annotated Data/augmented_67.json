@@ -1,0 +1,69 @@
+{
+    "id": 582,
+    "text": "§ 3 STAMMKAPITAL UND GESCHÄFTSANTEILE (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00 (in Worten: fünfundzwanzigtausend Euro) (2) Gegen Einlage auf das Stammkapital gemäß (1) übernimmt die RD 39 Holding GmbH, Hamburg, eingetragen im Handelsregister des Amtsgerichts Hamburg unter HRB  (Gründungsgesellschafterin), die Geschäftsanteile Nr. 1 bis 1.000 zu je einem Nennbetrag i.H.v. € 25,00 ( = 100% des Stammkapitals; Stammeinlage). (3) Die Gründungsgesellschafterin erbringt die Einlage auf die Geschäftsanteile nach (2) jeweils zur Hälfte, sofort und in bar; entweder auf ein von der Gesellschaft noch zu bezeichnendes Bankkonto oder in jeder anderen Weise, die die Geschäftsführer tatsächlich und rechtlich in die Lage versetzt, die Einzahlung auf das Stammkapital uneingeschränkt für die Gesellschaft zu verwenden. \nDie Geschäftsführer sind berechtigt, die noch zu erbringenden Einlagen jederzeit und ohne weiteren Gesellschafterbeschluss entsprechend des Bedarfs der Gesellschaft einzufordern. (4) Nachschüsse sind nicht zu erbringen.",
+    "entities": [
+        {
+            "id": 695,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 135
+        },
+        {
+            "id": 699,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 694,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 696,
+            "label": "Subsection",
+            "start_offset": 136,
+            "end_offset": 441
+        },
+        {
+            "id": 697,
+            "label": "Subsection",
+            "start_offset": 1008,
+            "end_offset": 1048
+        },
+        {
+            "id": 698,
+            "label": "Subsection",
+            "start_offset": 441,
+            "end_offset": 1007
+        },
+        {
+            "id": 700,
+            "label": "Stammkapital",
+            "start_offset": 38,
+            "end_offset": 135
+        },
+        {
+            "id": 701,
+            "label": "Stammeinlagen",
+            "start_offset": 21,
+            "end_offset": 38
+        },
+        {
+            "id": 702,
+            "label": "Stammeinlagen",
+            "start_offset": 136,
+            "end_offset": 1048
+        },
+        {
+            "id": 703,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 1048
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 STAMMKAPITAL- UND UNTERNEHMENSPARTEIEN (1) Das Grundkapital der Gesellschaft beträgt 25,000,00 € (in Worten: 25 000 Euro) (2) RD 39 Holding GmbH, Hamburg, eingetragen im Handelsregister des Amtsgerichts Hamburg bei HRB (Gründungsgesellschafter), übernimmt die Aktien Nr. 1 bis 1.000 zu einem Nennbetrag von 25,00 € ((3) Der Gründungspartner leistet den Beitrag zu den Aktien gemäß (2) in der Hälfte, sofort und in bar; entweder auf ein von der Gesellschaft noch zu bestimmendes Bankkonto oder auf eine andere Weise, die es den Geschäftsführern tatsächlich und rechtlich ermöglicht, die Einlage auf das Grundkapital bedingungslos zu leisten, umDie Geschäftsführer sind berechtigt, jederzeit und ohne weitere Aktionärsentscheidung nach den Bedürfnissen der Gesellschaft zu verlangen, dass die Einlagen noch zur Verfügung gestellt werden. (4) Nachstehende Zahlungen sind nicht zu leisten."
+}

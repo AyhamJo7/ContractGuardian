@@ -1,0 +1,51 @@
+{
+    "id": 585,
+    "text": "§6 WETTBEWERB Gesellschaftern und Geschäftsführern der Gesellschaft wird, ohne Einschränkung auf den Einzelfall, Befreiung von allen Wettbewerbsverboten gegenüber der Gesellschaft erteilt. \nDer GeSeilschaft steht für diese Befreiung keine Gegenleistung oder Entschädigung zu.",
+    "entities": [
+        {
+            "id": 729,
+            "label": "Wettbewerb",
+            "start_offset": 14,
+            "end_offset": 275
+        },
+        {
+            "id": 726,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 189
+        },
+        {
+            "id": 730,
+            "label": "Green Flag",
+            "start_offset": 154,
+            "end_offset": 275
+        },
+        {
+            "id": 731,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 153
+        },
+        {
+            "id": 725,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 727,
+            "label": "Subsection",
+            "start_offset": 190,
+            "end_offset": 275
+        },
+        {
+            "id": 728,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 14
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 WETTBEWERBSFÄHIGKEIT Den Aktionären und Geschäftsführern wird ohne Beschränkung auf den Einzelfall von allen Wettbewerbsverboten gegenüber der Gesellschaft freigestellt.Die Gesellschaft hat keinen Anspruch auf eine Entschädigung oder Entschädigung für diese Befreiung."
+}

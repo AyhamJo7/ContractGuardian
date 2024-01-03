@@ -1,0 +1,63 @@
+{
+    "id": 992,
+    "text": "§8 Geschäftsführung und Vertretung\n\n(1) Die Gesellschaft hat einen oder mehrere Geschäftsführer.\n(2) Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft von zwei Geschäftsführern gemeinschaftlich oder von einem Geschäftsführer in Verbindung mit einem Prokuristen vertreten. Die Gesellschafterversammlung kann beschließen, dass ein Geschäftsführer die Gesellschaft allein vertreten kann. Wenn nur ein Geschäftsführer vorhanden ist, vertritt dieser die Gesellschaft allein. Die Gesellschafterversammlung kann die Geschäftsführer von den beschränkenden Bestimmungen des § 181 BGB befreien.\n(3) Die Geschäftsführer leisten ihre Dienste nicht aufgrund von gesellschaftsrechtlichen Verpflichtungen, sondern treten in ein Dienstverhältnis zur Gesellschaft. Der abzuschließende Anstellungsvertrag regelt das Dienstverhältnis.",
+    "entities": [
+        {
+            "id": 3647,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 96
+        },
+        {
+            "id": 3655,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 826
+        },
+        {
+            "id": 3648,
+            "label": "Subsection",
+            "start_offset": 97,
+            "end_offset": 595
+        },
+        {
+            "id": 3649,
+            "label": "Subsection",
+            "start_offset": 596,
+            "end_offset": 826
+        },
+        {
+            "id": 3650,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3651,
+            "label": "Geschäftsführung",
+            "start_offset": 36,
+            "end_offset": 96
+        },
+        {
+            "id": 3653,
+            "label": "Geschäftsführung",
+            "start_offset": 97,
+            "end_offset": 595
+        },
+        {
+            "id": 3646,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3654,
+            "label": "Vertretung",
+            "start_offset": 97,
+            "end_offset": 826
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Leitung und Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Werden mehrere Geschäftsführer bestellt, so wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer in Verbindung mit einem Stellvertreter vertreten. Die Aktionärsversammlung kann entscheiden, dass ein Geschäftsführer die Gesellschaft allein vertreten kann.Die Hauptversammlung kann die Geschäftsführer von den restriktiven Bestimmungen des § 181 BGB befreien. (3) Die Geschäftsführer erbringen ihre Dienstleistungen nicht auf der Grundlage von gesellschaftsrechtlichen Verpflichtungen, sondern treten in eine Dienstleistungsbeziehung mit der Gesellschaft ein.Es ist die Service-Beziehung."
+}

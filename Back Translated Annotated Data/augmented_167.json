@@ -1,0 +1,45 @@
+{
+    "id": 679,
+    "text": "§6 Wettbewerbsverbot (1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegeniiber der Gesellschaft. \nEin Entgelt ist hierfiir nicht zu zahlen. \nEntsprechendes gilt fiir Geschaftsfiihrer. (2) Etwaige Wettbewerbsverbote in anderen Vereinbarungen (z. \nB. im Geschaftsfiihrerver­ trag) bleiben unberiihrt.  3702377BAB",
+    "entities": [
+        {
+            "id": 1431,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1432,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 196
+        },
+        {
+            "id": 1433,
+            "label": "Subsection",
+            "start_offset": 197,
+            "end_offset": 323
+        },
+        {
+            "id": 1435,
+            "label": "Wettbewerb",
+            "start_offset": 21,
+            "end_offset": 323
+        },
+        {
+            "id": 1436,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 323
+        },
+        {
+            "id": 1434,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Wettbewerbsverbot (1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegen die Gesellschaft. Eine Vergütung ist hier nicht zu zahlen. Gleiches gilt für die Gesellschaft. (2) Verbote des Wettbewerbs in anderen Vereinbarungen (z.B. im Gesellschaftsvertrag) bleiben unberührt. 3702377BAB"
+}

@@ -1,0 +1,57 @@
+{
+    "id": 838,
+    "text": "§ 1 Firma und Sitz 1.1 Die Firma der Gesellschaft lautet: Kupferberg Vermogensverwaltung GmbH. 1.2 Der Sitz der Gesellschaft ist: Mainz",
+    "entities": [
+        {
+            "id": 2571,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 2572,
+            "label": "Firma",
+            "start_offset": 23,
+            "end_offset": 93
+        },
+        {
+            "id": 2573,
+            "label": "Sitz",
+            "start_offset": 14,
+            "end_offset": 19
+        },
+        {
+            "id": 2574,
+            "label": "Sitz",
+            "start_offset": 98,
+            "end_offset": 135
+        },
+        {
+            "id": 2568,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 94
+        },
+        {
+            "id": 2575,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 135
+        },
+        {
+            "id": 2570,
+            "label": "Subsection",
+            "start_offset": 95,
+            "end_offset": 135
+        },
+        {
+            "id": 2567,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft und Sitz 1.1 Gesellschaft der Gesellschaft ist: Kupferberg Vermögensverwaltung GmbH. 1.2 Sitz der Gesellschaft ist: Mainz"
+}

@@ -1,0 +1,39 @@
+{
+    "id": 703,
+    "text": "§4 Geschaftsjahr Das Geschaftsjahr der Gesellschaft beginnt am 1. \nOktober und endet am 30. \nSeptember.",
+    "entities": [
+        {
+            "id": 1614,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 103
+        },
+        {
+            "id": 1611,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 1612,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 103
+        },
+        {
+            "id": 1613,
+            "label": "Geschäftsjahr",
+            "start_offset": 3,
+            "end_offset": 17
+        },
+        {
+            "id": 1615,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 103
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Firmenjahr Das Firmenjahr beginnt am 1. Oktober und endet am 30. September."
+}

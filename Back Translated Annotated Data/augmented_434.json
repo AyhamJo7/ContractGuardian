@@ -1,0 +1,39 @@
+{
+    "id": 981,
+    "text": "§8 Wettbewerbsverbot Die Gesellschafter und die Geschäftsführer unterliegen keinem Wettbewerbsverbot. Es ist jedoch zulässig, in gesonderter schriftlicher Vereinbarung (insbesondere in Anstellungsverträgen der Geschäftsführer) im Einzelfall oder generell Wettbewerbsverbote zu vereinbaren.",
+    "entities": [
+        {
+            "id": 3576,
+            "label": "Wettbewerb",
+            "start_offset": 21,
+            "end_offset": 289
+        },
+        {
+            "id": 3577,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 289
+        },
+        {
+            "id": 3575,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 21
+        },
+        {
+            "id": 3574,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 289
+        },
+        {
+            "id": 3573,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Wettbewerbsverbot Die Aktionäre und die Geschäftsführer unterliegen keinem Wettbewerbsverbot. Eine gesonderte schriftliche Vereinbarung (insbesondere in Arbeitsverträgen der Geschäftsführer) ist jedoch in Einzelfällen oder im allgemeinen Wettbewerbsverbot zulässig."
+}

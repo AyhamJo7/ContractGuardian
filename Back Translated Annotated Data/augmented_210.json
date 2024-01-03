@@ -1,0 +1,57 @@
+{
+    "id": 758,
+    "text": "§11 Erbfolge 1. \nBeim Tode eines Gesellschafters wird die Gesellschaft mit seinen Erben oder den von ihm vermächtnisweise bedachten Personen fortgeführt. 2. \nSind mehrere Personen zu Rechtsnachfolgern eines Gesellschafters berufen, haben sie die Rechte und Pflichten der Gesellschaft gegenüber durch einen -7gemeinschaftlichen Vertreter oder durch einen Testamentsvollstrecker erfüllen zu lassen. \nSolange der Bevollmächtigte nicht bestellt ist, ruhen die Gesellschafterrechte mit Ausnahme des Gewinnbezugsrechts. 3. \nBeim Tode eines Gesellschafters kann dessen Geschäftsanteil innerhalb von drei Monaten seit Bekanntwerden des Eintritts der Erbfolge eingezogen werden, wenn der Geschäftsanteil des verstorbenen Gesellschafters nicht auf Personen übergeht, die entweder bereits Gesellschafter sind oder gesetzliche Erben des Gesellschafters sind oder - falls eine Verfügung von Todes wegen vorliegt - ohne die Verfügung von Todes wegen gesetzliche Erben des verstorbenen Gesellschafters geworden wären. \nDie Gesellschaft kann stattdessen auch die Rechte aus § 10 Absatz 4 dieses Vertrages geltend machen. \nDie Bewertung richtet sich nach § 10 Absatz 4 dieses Vertrages geltend machen.",
+    "entities": [
+        {
+            "id": 2011,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 12
+        },
+        {
+            "id": 2014,
+            "label": "Subsection",
+            "start_offset": 154,
+            "end_offset": 513
+        },
+        {
+            "id": 2016,
+            "label": "Erbfolge",
+            "start_offset": 4,
+            "end_offset": 13
+        },
+        {
+            "id": 2018,
+            "label": "Erbfolge",
+            "start_offset": 13,
+            "end_offset": 1184
+        },
+        {
+            "id": 2019,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1184
+        },
+        {
+            "id": 2012,
+            "label": "Subsection",
+            "start_offset": 13,
+            "end_offset": 153
+        },
+        {
+            "id": 2015,
+            "label": "Subsection",
+            "start_offset": 514,
+            "end_offset": 1217
+        },
+        {
+            "id": 2017,
+            "label": "Subsection",
+            "start_offset": 514,
+            "end_offset": 1184
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§11 Nachfolge 1. Mit dem Tod eines Gesellschafters wird die Gesellschaft mit ihren Erben oder den Verlangten fortgesetzt. 2. Sind mehrere Personen zu Rechtsnachfolgern eines Gesellschafters berufen, so haben sie die Rechte und Pflichten der Gesellschaft zu erfüllen durch einen Vertreter der Gemeinschaft oder durch einen Testamentsvollstrecker.(3) Im Falle des Todes eines Mitglieds kann der Anteil seines Geschäfts innerhalb von drei Monaten nach dem Tag der Bekanntgabe der Zulassung der Nachfolge wiedereingezogen werden, wenn der Anteil des verstorbenen Mitglieds nicht an Personen übergeht, die entweder bereits Mitglieder der Gesellschaft sind oderDie Gesellschaft kann stattdessen auch die Rechte nach § 10 (4) dieses Vertrages geltend machen. Die Bewertung beruht auf § 10 (4) dieses Vertrages."
+}

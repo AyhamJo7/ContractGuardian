@@ -1,0 +1,45 @@
+{
+    "id": 709,
+    "text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die AusfOhrung von Maler- und Lackier­ arbeiten, insbesondere die Gestaltung von lnnen- und AuBenflachen durch Anstriche, Lackierungen, Tapezier- und Spachtelarbeiten. (2) Die Gesellschaft kann alle Geschafte betreiben, die dem Gegenstand des Unternehmens unmittelbar oder mittelbar zu dienen geeignet sind. \nSie kann sich an gleichartigen oder ahnlichen Unternehmen beteiligen, solche Unter­ nehmen erwerben und Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1655,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1656,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 234
+        },
+        {
+            "id": 1657,
+            "label": "Subsection",
+            "start_offset": 235,
+            "end_offset": 530
+        },
+        {
+            "id": 1658,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 1659,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 530
+        },
+        {
+            "id": 1660,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 530
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand der Firma (1) Gegenstand der Firma ist die Ausführung von Mal- und Malarbeiten, insbesondere die Gestaltung von lnnen- und Aubenflachen durch Mal-, Mal-, Tapezier- und Spatelarbeiten. (2) Das Unternehmen kann alle Unternehmen betreiben, die direkt oder indirekt geeignet sind, dem Zweck des Unternehmens zu dienen.Im Falle einer Gesellschaft oder eines ähnlichen Unternehmens ist es erforderlich, diese Unternehmen zu erwerben und Zweigniederlassungen im In- und Ausland zu gründen."
+}

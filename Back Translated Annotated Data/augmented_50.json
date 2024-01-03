@@ -1,0 +1,39 @@
+{
+    "id": 565,
+    "text": "§ 17 Bekanntmachung Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 584,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 585,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 85
+        },
+        {
+            "id": 586,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 588,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 85
+        },
+        {
+            "id": 587,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 20,
+            "end_offset": 85
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Mitteilung Die Ankündigungen des Unternehmens erfolgen im Bundesanzeiger."
+}

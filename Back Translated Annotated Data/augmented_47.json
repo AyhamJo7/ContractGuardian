@@ -1,0 +1,117 @@
+{
+    "id": 562,
+    "text": "§ 14 Abfindung 14.1. \nScheidet ein Gesellschafter aus der Gesellschaft aus, so erhält er eine Abfindung. \nDeren Höhe bestimmt sich nach dem Anteil am Gesellschaftsvermögen, der verhältnismäßig seiner Beteiligung am Kapital entspricht. \nDas als Bemessungsgrundlage zugrunde zu legende Gesellschaftsvermögen ist unterschiedlich nach dem Grund des Ausscheidens zu ermitteln, und zwar im Einzelnen differenziert nach den in § 13 bezeichneten Fallgruppen: Ziffer 13.1.1. bis 13.1.3. nach dem objektiven Wert, wenn dieser höher als der Buchwert ist. \nZiffer 13.1.4. bis 13.1.10. nach den Buchwerten des Gesellschaftsvermögens. \n 14.2. \nDie Abfindung darf in keinem Fall 70% des objektiven Wertes unterschreiten. \nSofern der Substanzwert den objektiven Wert übersteigt, ist dieser zugrunde zu legen. 14.3. \nDer objektive Wert ist mit Hilfe des Ertragswertverfahrens nach dem IDW Standard 1 zu ermitteln. 14.4. \nDer Substanzwert ist durch Schätzung des gesamten Anlage- und Umlaufvermögens und Abzug aller Verbindlichkeiten zu ermitteln. \nDie stillen Reserven sind aufzudecken. \nEin Firmenwert und nicht bilanzierungspflichtige schwebende Geschäfte bleiben außer Ansatz. 14.5. \nDer Buchwert des Gesellschaftsvermögens ergibt sich aus dem wirtschaftlichen Eigenkapital, also aus dem nominellen Eigenkapital zuzüglich Rücklagen und Gewinnvorträge, abzüglich Verlustvorträge. \nDas bis zum Stichtag erwirtschaftete Ergebnis ist zu berücksichtigen. \nEin originärer Firmenwert, stille Reserven und nicht bilanzierungspflichtige schwebende Geschäfte bleiben außer Ansatz. \nSofern die Handelsbilanz schon festgestellt ist, ist diese für den Buchwert maßgeblich. \nIn den übrigen Fällen ist nach handelsrechtlichen Grundsätzen unter Wahrung der bisherigen Bilanzierungsregeln eine Abfindungsbilanz zu erstellen. 14.6. \nBei einem Ausscheiden zum Ende des Geschäftsjahres ist die Abfindung auf diesen Bilanzstichtag zu ermitteln, in allen anderen Fällen auf den letzten Bilanzstichtag vor Eintritt des Grundes für das Ausscheiden. 14.7. \nKönnen sich der Gesellschafter und die Gesellschaft nicht selbst auf einen Wert oder einen Gutachter, der die Bewertung vorzunehmen hat, einigen, so ist die Entscheidung der zuständigen Industrie- und Handelskammer einzuholen, die abschließend den Gutachter bestimmt. \nDer von dem Gutachter festgelegte Betrag gilt als zwischen den Beteiligten gemäß § 317 BGB vereinbart. \nDie durch die Einschaltung des Gutachters entstehenden Kosten trägt derjenige Teil, dessen Betragsvorschlag vom Schiedsergebnis weiter entfernt lag. 14.8. \nSpätere abweichende Feststellungen durch die Finanzverwaltung oder die Finanzgerichte führen nicht zu einer entsprechenden Korrektur der Abfindung. \n 14.9. \nDas Abfindungsguthaben ist mit 3 %-Punkten über dem Basiszinssatz gemäß § 247 BGB jährlich zu verzinsen und in sechs gleichen Halbjahresraten jeweils zum Schluss eines Geschäftshalbjahres auszuzahlen, frühestens sechs Monate nach dem Ausscheiden des Gesellschafters. \nDie erste Rate ist zu erhöhen auf den Betrag, der auf Seiten des Gesellschafters notwendig ist, um die aus der Abfindung resultierende Einkommensteuer und/oder Erbschaftssteuer zu begleichen. \nHierzu hat der Gesellschafter innerhalb von vier Monaten nach seinem Ausscheiden eine schlüssige Berechnung eines Steuerberaters vorzulegen. \nLegt er diese nicht vor, so verbleibt es bei der ursprünglichen Höhe der Rate. \nDie bis zur Fälligkeit einer Rate aufgelaufenen Zinsen sind in einer Summe mit der jeweiligen Rate auszuzahlen. \nDie Gesellschaft ist berechtigt, das Restguthaben vorzeitig mit einer Ankündigungsfrist von vier Wochen zum Quartalsende zu tilgen. 14.10. \nSchuldner der Abfindung ist allein die Gesellschaft, und zwar auch im Falle der Abtretung des Geschäftsanteiles an eine von der Gesellschaft benannte Person, Ziffer 13.4. 14.11. \nDer ausscheidende Gesellschafter kann keine Sicherheit für seinen Abfindungsanspruch verlangen. 14.12. \nSofern der ausscheidende Gesellschafter für Verbindlichkeiten der Gesellschaft Sicherheiten gestellt hat, kann er nur in den Fällen Ziffer 13.1.1 bis Ziffer 13.1.3 von den Mitgesellschaftern und der Gesellschaft gesamtschuldnerisch die Auslösung seiner Sicherheiten verlangen.",
+    "entities": [
+        {
+            "id": 552,
+            "label": "Subsection",
+            "start_offset": 1163,
+            "end_offset": 1793
+        },
+        {
+            "id": 561,
+            "label": "Abfindung",
+            "start_offset": 15,
+            "end_offset": 3132
+        },
+        {
+            "id": 563,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2017
+        },
+        {
+            "id": 547,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 548,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 621
+        },
+        {
+            "id": 549,
+            "label": "Subsection",
+            "start_offset": 623,
+            "end_offset": 792
+        },
+        {
+            "id": 550,
+            "label": "Subsection",
+            "start_offset": 793,
+            "end_offset": 896
+        },
+        {
+            "id": 555,
+            "label": "Subsection",
+            "start_offset": 2540,
+            "end_offset": 2695
+        },
+        {
+            "id": 558,
+            "label": "Subsection",
+            "start_offset": 3811,
+            "end_offset": 3914
+        },
+        {
+            "id": 562,
+            "label": "Abfindung",
+            "start_offset": 3132,
+            "end_offset": 4199
+        },
+        {
+            "id": 553,
+            "label": "Subsection",
+            "start_offset": 1794,
+            "end_offset": 2011
+        },
+        {
+            "id": 554,
+            "label": "Subsection",
+            "start_offset": 2011,
+            "end_offset": 2539
+        },
+        {
+            "id": 564,
+            "label": "Green Flag",
+            "start_offset": 2696,
+            "end_offset": 4199
+        },
+        {
+            "id": 551,
+            "label": "Subsection",
+            "start_offset": 897,
+            "end_offset": 1162
+        },
+        {
+            "id": 556,
+            "label": "Subsection",
+            "start_offset": 2697,
+            "end_offset": 3631
+        },
+        {
+            "id": 557,
+            "label": "Subsection",
+            "start_offset": 3632,
+            "end_offset": 3810
+        },
+        {
+            "id": 559,
+            "label": "Subsection",
+            "start_offset": 3915,
+            "end_offset": 4199
+        },
+        {
+            "id": 560,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Entlassung 14.1. Tritt ein Mitglied von der Gesellschaft zurück, erhält er eine Entschädigung. Die Höhe der Entschädigung hängt von der Beteiligung am Vermögen der Gesellschaft ab, die dem Anteil seines Anteils am Kapital entspricht.Gemäß den in § 13 Abs. 13.1.1 bis 13.1.3 genannten Kategorien von Fällen nach dem objektiven Wert, wenn dieser höher ist als der Buchwert. § 13 1.4. bis 13.1.10. nach dem Buchwert des Vermögens der Gesellschaft. 14.2. In keinem Fall darf die Entschädigung weniger als 70% des objektiven Wertes betragen. Übersteigt der Stoffwert den objektiven Wert, so muss er verwendet werden. 14.3.Der objektive Wert wird nach der Ertragswertmethode gemäß IDW Standard 1. 14.4. ermittelt. Der wesentliche Wert wird bestimmt durch Schätzung der gesamten Anlage- und Umlaufvermögen und Abzug aller Verbindlichkeiten. Die stillen Rücklagen werden offengelegt. Ein Goodwill und nicht buchbares Floating sind ausgeschlossen. 14.5. Der Buchwert der GesellschaftDer Reinvermögenswert ergibt sich aus dem ökonomischen Eigenkapital, d.h. aus Nominalkapital, zuzüglich Rücklagen und Gewinnvorträgen, abzüglich Verlustvorträgen. Das bis zum Bilanzstichtag generierte Ergebnis ist zu berücksichtigen. Ein ursprünglicher Geschäfts- oder Firmenwert, stille Rücklagen und nicht buchhalterische Floating-Transaktionen bleiben ausgeschlossen.14.6. Im Falle einer Kündigung am Ende des Geschäftsjahres wird der Ausgleich zu diesem Bilanzstichtag, in allen anderen Fällen am letzten Bilanzstichtag vor dem Tag des Inkrafttretens des Basisrechtsakts, bestimmt.14.7. Ist der Aktionär und die Gesellschaft nicht in der Lage, sich auf einen Wert oder einen Sachverständigen zu einigen, der die Bewertung vornehmen muss, so ist die Entscheidung der zuständigen Industrie- und Handelskammer anzufordern, die den Beurteilenden endgültig bestimmt. Der vom Beurteilenden festgelegte Betrag gilt als zwischen den Parteien vereinbart gemäß § 317 BGB.die Kosten, die dem Begutachter entstehen, gehen zu Lasten des Teils, dessen Betrag weiter vom Ergebnis des Schiedsverfahrens entfernt war. 14.8. Abweichende Feststellungen der Finanzverwaltung oder der Finanzgerichte führen nicht zu einer entsprechenden Berichtigung des Abfindungsausgleichs. 14.9. Der Abfindungssaldo wird jährlich zu 3 % über dem Basiszinssatz gemäß § 247 BGB gezahlt.Die erste Tranche muss auf den Betrag erhöht werden, der vom Aktionär zur Zahlung der Einkommensteuer und/oder Erbschaftsteuer aufgrund der Abfindung erforderlich ist.Wenn er eine abschließende Berechnung eines Steuerberaters nicht vorlegt, bleibt der Anfangsbetrag des Satzes gleich. Bis zur Fälligkeit eines Satzes aufgelaufene Zinsen müssen in einer Summe zum jeweiligen Satz ausbezahlt werden. Das Unternehmen ist berechtigt, den Restbetrag frühzeitig mit einer Kündigungsfrist von vier Wochen zu zahlen.14.10. Alleiniger Schuldner der Entschädigung ist die Gesellschaft, auch im Falle der Übertragung des Geschäftsanteils auf eine von der Gesellschaft benannte Person, Ziffer 13.4. 14.11. Der scheidende Aktionär kann keine Sicherheit für seinen Schadensersatzanspruch verlangen. 14.12. Vorausgesetzt, der scheidende Aktionär ist für die Verbindlichkeiten der Gesellschaft verantwortlich.Bei Wertpapieren ist es nur bei den Nummern 13.1.1 bis 13.1.3 möglich, von den Aktionären und der Gesellschaft gemeinsam die Freigabe ihrer Wertpapiere zu verlangen."
+}

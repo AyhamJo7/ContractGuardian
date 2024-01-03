@@ -1,0 +1,63 @@
+{
+    "id": 750,
+    "text": "§3 Stammkapital, Geschaftsanteile 1. \nDas Stammkapital der Gesellschaft betragt EUR 377.000,00 (in Worten: Euro drei­ hundertsiebenundsiebzigtausend) und ist eingeteilt in 377.000 Geschaftsanteile im Nennbetrag von jeweils EUR 1,00. \nEs ist vollstandig erbracht. -22. \nDas Stammkapital wird wie folgt übernommen: a) Herr Dr. \nKay Jeß 75.400 Geschäftsanteile im Nennbetrag von je EUR 1,00 mit den Nrn. 1 bis 75.400, b) Herr Dr. \nRonald Crone 131.950 Geschäftsanteile im Nennbetrag von je EUR 1,00 mit den Nrn. 75.401 bis 207.350, c) Herr Walter Kießling 131.950 Geschäftsanteile im Nennbetrag von je EUR 1,00 mit den Nrn. 207.351 bis 339.300, d) Herr Friedrich Crone 37.700 Geschäftsanteile im Nennbetrag von je EUR 1,00 mit den Nrn. 339.301 bis 377.000. 3. \nDie Stammeinlagen wurden durch Formwechsel des bisherigen Rechtsträgers HMG Beteiligungen AG mit dem Sitz in Hamburg, Amtsgericht Hamburg HRB , gemäß Formwechselbeschlusses vom 7. \nDezember 2023 erbracht.",
+    "entities": [
+        {
+            "id": 1946,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 962
+        },
+        {
+            "id": 1940,
+            "label": "Subsection",
+            "start_offset": 265,
+            "end_offset": 752
+        },
+        {
+            "id": 1942,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 1943,
+            "label": "Stammeinlagen",
+            "start_offset": 17,
+            "end_offset": 34
+        },
+        {
+            "id": 1944,
+            "label": "Stammkapital",
+            "start_offset": 34,
+            "end_offset": 149
+        },
+        {
+            "id": 1945,
+            "label": "Stammeinlagen",
+            "start_offset": 150,
+            "end_offset": 962
+        },
+        {
+            "id": 1938,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 1939,
+            "label": "Subsection",
+            "start_offset": 34,
+            "end_offset": 265
+        },
+        {
+            "id": 1941,
+            "label": "Subsection",
+            "start_offset": 754,
+            "end_offset": 962
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital, Gesellschaftsanteile 1. Das Grundkapital der Gesellschaft beläuft sich auf EUR 377,000,00 (in Worten: Euro dreihundertsiebenundsiebzigtausend) und ist in jeweils 377.000 Aktienanteile im Nennbetrag von EUR 1,00 unterteilt. Es ist vollständig zur Verfügung gestellt. -22. Das Grundkapital wird wie folgt übernommen: a) Dr. Kay Jeß 75.400 Aktien im Nennbetrag von EUR 1,00 jeweils mit den Nummern.1 bis 75.400, b) Dr. Ronald Crone 131.950 Anteile am Nominalbetrag von EUR 1,00 mit den Nummern 75.401 bis 207.350, c) Herr Walter Kießling 131950 Anteile am Nominalbetrag von EUR 1,00 mit den Nummern 207.351 bis 339.300, d) Herr Friedrich Crone 37.700 Anteile am Nominalbetrag von EUR 1,00 mit den Nummern 339.301 bis 377.000. 3.der ehemaligen juristischen Person HMG Beteiligungen AG mit Sitz in Hamburg, Amtsgericht Hamburg HRB , gemäß der Formänderungsentscheidung vom 7. Dezember 2023."
+}

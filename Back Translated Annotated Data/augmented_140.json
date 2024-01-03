@@ -1,0 +1,45 @@
+{
+    "id": 731,
+    "text": "§ 14 Grundungskosten Der GrOndungsaufwand (Kosten der Rechts- und Steuerberatung, die Notar-, Ge­ richts- und Veroffentlichungskosten) wird bis zum Betrag von 2.500,00 € von der Gesellschaft getragen. \nHohere Kosten tragen die Gesellschafter personlich.",
+    "entities": [
+        {
+            "id": 1824,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1826,
+            "label": "Subsection",
+            "start_offset": 202,
+            "end_offset": 253
+        },
+        {
+            "id": 1827,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 1828,
+            "label": "Kosten",
+            "start_offset": 21,
+            "end_offset": 253
+        },
+        {
+            "id": 1825,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 201
+        },
+        {
+            "id": 1829,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 253
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Grundkosten Die Kosten (Kosten der Rechts- und Steuerberatung, Notar-, Rechts- und Veröffentlichungskosten) trägt die Gesellschaft bis zu einem Betrag von 2.500,00 €. Hohe Kosten tragen die Aktionäre persönlich."
+}

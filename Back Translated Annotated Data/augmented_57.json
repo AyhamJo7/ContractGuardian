@@ -1,0 +1,57 @@
+{
+    "id": 572,
+    "text": "§5 Geschäftsführung und Vertretung Die Gesellschaft hat einen oder mehrere Geschäftsführer. \nDie Gesellschaft wird durch einen Geschäftsführer allein vertreten, wenn er alleiniger Geschäftsführer ist oder wird. \nSind mehrere Geschäftsführer bestellt, so sind jeweils zwei von ihnen gemeinschaftlich oder einer von ihnen gemeinschaftlich mit einem Prokuristen zur Vertretung der Gesellschaft befugt. \nEinzelvertretungsbefugnis und Befreiung von den Beschränkungen des § 181 BGB kann erteilt werden.",
+    "entities": [
+        {
+            "id": 626,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 627,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 399
+        },
+        {
+            "id": 628,
+            "label": "Subsection",
+            "start_offset": 400,
+            "end_offset": 497
+        },
+        {
+            "id": 629,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 630,
+            "label": "Geschäftsführung",
+            "start_offset": 35,
+            "end_offset": 398
+        },
+        {
+            "id": 631,
+            "label": "Vertretung",
+            "start_offset": 24,
+            "end_offset": 35
+        },
+        {
+            "id": 632,
+            "label": "Vertretung",
+            "start_offset": 93,
+            "end_offset": 497
+        },
+        {
+            "id": 633,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 497
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Leitung und Vertretung Die Gesellschaft hat einen oder mehrere Geschäftsführer. Die Gesellschaft wird allein durch einen Geschäftsführer vertreten, wenn sie allein Geschäftsführer ist oder wird. Werden mehrere Geschäftsführer bestellt, sind zwei von ihnen gemeinsam oder einer von ihnen mit einem bevollmächtigten Vertreter zur Vertretung der Gesellschaft.Eine individuelle Vertretungsbefugnis und Befreiung von den Beschränkungen des § 181 BGB kann gewährt werden."
+}

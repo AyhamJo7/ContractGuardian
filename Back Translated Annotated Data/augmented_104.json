@@ -1,0 +1,45 @@
+{
+    "id": 608,
+    "text": "§ 4 Stammkapital (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00 (i.W. \nEuro fünfundzwanzigtausend) und wird wie folgt übernommen: Herr Wolfgang Wienecke übernimmt 12.500 Geschäftsanteile mit je einem Nennbetrag in Höhe von € 1,00 (i.W. \nEuro eins) (Geschäftsanteile Nrn. 1 - 12.500) (Summe der Nennbeträge der Geschäftsanteile: € 12.500,00). \nHerr Thomas Becker übernimmt 12.500 Geschäftsanteile mit je einem Nennbetrag in Höhe von € 1,00 (i.W. \nEuro eins) (Geschäftsanteile Nrn. 12.501 -25.000) (Summe der Nennbeträge der Geschäftsanteile: € 12.500,00). (2) Die Leistungen auf die übernommenen Geschäftsanteile sind sofort zu 50 % in bar zu bewirken. \nDie Restbeträge sind auf Anforderung der Gesellschaft fällig.",
+    "entities": [
+        {
+            "id": 899,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 900,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 564
+        },
+        {
+            "id": 901,
+            "label": "Subsection",
+            "start_offset": 567,
+            "end_offset": 725
+        },
+        {
+            "id": 902,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 903,
+            "label": "Stammkapital",
+            "start_offset": 17,
+            "end_offset": 725
+        },
+        {
+            "id": 904,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 725
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Aktienkapital (1) Das Grundkapital der Gesellschaft beläuft sich auf € 25.000,00 (d.h. EUR 25.500) und wird wie folgt übernommen: Herr Wolfgang Wienecke erwirbt 12.500 Aktien jeweils mit einem Nennbetrag von € 1,00 (d.h. EUR eins) (Aktien der Geschäfts-Nr. 1 - 12.500) (Summe der Nominalbeträge der Aktien: € 12.500,00).Die übrigen Beträge sind auf Verlangen der Gesellschaft fällig und unterliegen der Zahlung eines Nominalbetrags von 1,00 € (d.h. Euro eins) (Geschäftsanteile Nr. 12.501 -25.000) (Summe der Nennbeträge der Aktien: 12.500,00 €). (2) Die Vorteile auf die erworbenen Aktien sind sofort bei 50 % bar zu zahlen."
+}

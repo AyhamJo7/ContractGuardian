@@ -1,0 +1,63 @@
+{
+    "id": 1005,
+    "text": "§8 Einziehung von Geschäftsanteilen\n\n(1) Die Gesellschaft ist befugt, den bzw. die Geschäftsanteil(e) eines Gesellschafters durch Beschluss nach § 34, 46 Nr. 4 GmbHG einzuziehen, wenn:\n\na) der Gesellschafter seine Gesellschaftspflichten grob verletzt hat;\nb) der Gesellschafter ohne Zustimmung der Gesellschaft auf eigene Rechnung auf dem Gebiet der Gesellschaft tätig wird;\nc) für den Gesellschafter die Betreuung angeordnet wird, sofern der Aufgabenkreis des Betreuers die Wahrnehmung der Rechte und Pflichten als Gesellschafter in der Gesellschaft ganz oder teilweise einschließt;\nd) über das Vermögen des Gesellschafters das Insolvenzverfahren eröffnet und nicht innerhalb von drei Monaten seit Eröffnung eingestellt oder die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt wird oder der Gesellschafter die Richtigkeit seines Vermögensverzeichnisses an Eides Statt zu versichern hat;\ne) die Zwangsvollstreckung in den Geschäftsanteil betrieben und nicht binnen drei Monaten aufgehoben wird;\nf) in der Person des Gesellschafters ein wichtiger Grund vorliegt, der seine Ausschließung rechtfertigen würde, insbesondere, wenn den übrigen Gesellschaftern die Fortsetzung der Gesellschaft mit dem betreffenden Gesellschafter wegen seines Verhaltens oder wegen seiner Persönlichkeit nicht mehr zumutbar ist oder durch sein Verbleiben in der Gesellschaft der Bestand der Gesellschaft ernstlich gefährdet wäre. Die weitere Zusammenarbeit gilt insbesondere dann als unzumutbar, wenn ein Gesellschafter trotz Nachfristsetzung mit Ablehnungsandrohung Verträge zwischen ihm und der Gesellschaft nicht erfüllt;\ng) der Gesellschafter Auflösungsklage erhebt oder seinen Austritt aus der Gesellschaft erklärt;\nh) ein Gesellschafter, der seine Beteiligung an der Gesellschaft mit Rücksicht auf seine Tätigkeit als Geschäftsführer der Gesellschaft erworben hat, für die Gesellschaft nicht mehr tätig ist;\ni) der Gesellschafter zustimmt.\n\n(2) Die Einziehung wird durch die Geschäftsführung erklärt. Sie bedarf eines Gesellschafterbeschlusses, der mit der Mehrheit von 75% der abgegebenen Stimmen gefasst wird. Dem betroffenen Gesellschafter steht bei Beschlüssen gem. Abs. 1 Buchst. a)—h) kein Stimmrecht zu. Der Einziehungsbeschluss wird mit seiner Mitteilung an den betroffenen Gesellschafter wirksam.\n\n(3) Anstelle der Einziehung können die übrigen Gesellschafter mit der durch diese Satzungsbestimmung — unter Befreiung von den Beschränkungen des § 181 BGB — erteilten Ermächtigung des betroffenen Gesellschafters oder seiner Rechtsnachfolger beschließen, dass der der Einziehung unterliegende Geschäftsanteil auf die Gesellschaft oder die Gesellschafter oder einen zu bestimmenden Gesellschafter oder Dritten übertragen wird.\n\n(4) Beschlüsse im Sinne der Abs. 1 bis 3 können nur innerhalb von sechs Monaten nach Eintritt des Ereignisses gefasst werden, das die Einziehung gem. Abs. 1 rechtfertigt.\n\n(5) Gesellschafter, deren Geschäftsanteile eingezogen oder gem. Abs. 3 an die Gesellschaft, Gesellschafter oder dritte Personen abgetreten werden, erhalten hierfür ein Entgelt, das dem gemeinen Wert der Geschäftsanteile iSv. § 11 Abs. 2 BewG entspricht. Zahlungen durch die Gesellschaft dürfen nur aus der freien Rücklage erfolgen. Soweit dies bei Fälligkeit nicht vollständig erfolgen kann ist die Abfindungsforderung zinslos gestundet. Schuldner des Entgelts ist die Gesellschaft, wenn Geschäftsanteile eingezogen oder von der Gesellschaft übernommen werden, sonst derjenige, an den die Geschäftsanteile abgetreten werden.",
+    "entities": [
+        {
+            "id": 3740,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3741,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 1932
+        },
+        {
+            "id": 3742,
+            "label": "Subsection",
+            "start_offset": 1934,
+            "end_offset": 2298
+        },
+        {
+            "id": 3743,
+            "label": "Subsection",
+            "start_offset": 2300,
+            "end_offset": 2725
+        },
+        {
+            "id": 3744,
+            "label": "Subsection",
+            "start_offset": 2727,
+            "end_offset": 2897
+        },
+        {
+            "id": 3745,
+            "label": "Subsection",
+            "start_offset": 2899,
+            "end_offset": 3523
+        },
+        {
+            "id": 3746,
+            "label": "Einziehung",
+            "start_offset": 3,
+            "end_offset": 35
+        },
+        {
+            "id": 3748,
+            "label": "Einziehung",
+            "start_offset": 37,
+            "end_offset": 255
+        },
+        {
+            "id": 3747,
+            "label": "Einziehung",
+            "start_offset": 186,
+            "end_offset": 3523
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Rückforderung von Aktien (1) Die Gesellschaft ist berechtigt, die Aktien eines Aktionärs durch Entscheidung gemäß § 34, 46 Nr. 4 GmbHG einzuziehen, wenn: a) der Aktionär seine Verpflichtungen gegenüber der Gesellschaft grob verletzt hat; b) der Aktionär ohne Zustimmung der Gesellschaft auf eigene Rechnung handelt; c) für den Aktionärd) das Vermögen des Hauptverpflichteten eröffnet ein Insolvenzverfahren und wird nicht innerhalb von drei Monaten nach Eröffnung oder Eröffnung eines solchen Verfahrens beendet, oderf) es gibt einen wichtigen Grund in der Person des Aktionärs, der seinen Ausschluss rechtfertigen würde, insbesondere wenn die anderen Mitglieder die Geschäftstätigkeit des Unternehmens fortsetzen würden.Bei einem Mitglied des betreffenden Unternehmens ist er wegen seines Verhaltens oder seiner Persönlichkeit nicht mehr vernünftig, oder wenn sein Aufenthalt in der Gesellschaft das Bestehen des Unternehmens ernsthaft gefährden würde.h) ein Mitglied, das unter Berücksichtigung seiner Aufgaben als Geschäftsführer der Gesellschaft seine Beteiligung an der Gesellschaft erworben hat, für die Gesellschaft nicht mehr tätig ist;Die Einziehungsentscheidung wird mit ihrer Mitteilung an das betreffende Mitglied wirksam. (3) Statt der Einziehung können die anderen Mitglieder gemäß den Bestimmungen dieser Satzung in Kraft treten.(4) Entscheidungen im Sinne der Absätze 1 bis 3 können nur innerhalb von sechs Monaten nach Bekanntgabe der Entscheidung getroffen werden.(5) Partner, deren Aktien gemäß Absatz 3 an die Gesellschaft, Mitglieder oder Dritte erhoben oder abgetreten werden, erhalten eine Vergütung, die dem gemeinsamen Wert der Aktien iSv. § 11 Abs. 2 BewG entspricht. Zahlungen der Gesellschaft können nur erfolgen aus:Soweit dies bei Fälligkeit nicht vollständig geschehen kann, wird der Anspruch auf Abfindung ohne Zinsen aufgeschoben. Schuldner der Vergütung ist die Gesellschaft, wenn Aktien von der Gesellschaft eingezogen oder übernommen werden, ansonsten die Gesellschaft, der die Aktien zugeteilt werden."
+}

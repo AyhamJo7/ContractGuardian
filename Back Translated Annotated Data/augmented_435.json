@@ -1,0 +1,39 @@
+{
+    "id": 982,
+    "text": "§9 Gründungsaufwand Die Gesellschaft trägt den Gründungsaufwand bis zur Höhe von 1.500 EUR, welcher sich wie folgt zusammensetzt: a) Kosten für den Gesellschaftsgründungsvertrag, b) Kosten für die Anmeldung und Eintragung der Gesellschaft im Handelsregister sowie Veröffentlichungskosten, c) Bankgebühren für die Einrichtung des Geschäftskontos, d) Steuerberatungskosten, e) Rechtsberatungskosten. Etwa darüber hinausgehende Gründungskosten sind von den Gesellschaftern zu tragen.",
+    "entities": [
+        {
+            "id": 3582,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 480
+        },
+        {
+            "id": 3581,
+            "label": "Kosten",
+            "start_offset": 20,
+            "end_offset": 480
+        },
+        {
+            "id": 3580,
+            "label": "Kosten",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3579,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 480
+        },
+        {
+            "id": 3578,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Gründungskosten Das Unternehmen trägt die Gründungskosten bis zu einem Betrag von 1.500 EUR, die sich aus: a) Kosten für den Gründungsvertrag der Gesellschaft, b) Kosten für die Eintragung und Registrierung der Gesellschaft im Handelsregister sowie Veröffentlichungskosten, c) Bankkosten für die Einrichtung des Geschäftskontos, d) Steuerberatungskosten, e) Rechtsberatungskosten.Darüber hinaus sind die Gründungskosten von den Aktionären zu tragen."
+}

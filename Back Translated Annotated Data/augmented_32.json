@@ -1,0 +1,33 @@
+{
+    "id": 532,
+    "text": "§ 17 Gründungskosten Die Kosten für die Beurkundung der Gründung der Gesellschaft und ihrer Eintragung im Handelsregister, im Zusammenhang mit der Gründung evtl. anfallende Steuern sowie auch ein weiterer Gründungsaufwand wie zum Beispiel Beratungskosten trägt die Gesellschaft bis zu einem Betrag von 2.500,00 € (in Worten zweitausendfünfhundert Euro).",
+    "entities": [
+        {
+            "id": 298,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 299,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 353
+        },
+        {
+            "id": 197,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 198,
+            "label": "Kosten",
+            "start_offset": 21,
+            "end_offset": 353
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Gründungskosten Die Kosten für die Beglaubigung der Gründung der Gesellschaft und deren Eintragung im Handelsregister, im Zusammenhang mit der Erhebung etwaiger Steuern sowie weiterer Gründungskosten wie Beratungskosten, trägt die Gesellschaft bis zu einem Betrag von 2.500,00 € (d.h. zweitausend fünfhundert Euro)."
+}

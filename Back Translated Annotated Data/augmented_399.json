@@ -1,0 +1,45 @@
+{
+    "id": 1021,
+    "text": "§ 4 Geschäftsjahr (1) Geschäftsjahr ist das Kalenderjahr. (2) Das erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft im Handelsregister und endet am darauffolgenden 31. Dezember.",
+    "entities": [
+        {
+            "id": 3853,
+            "label": "Subsection",
+            "start_offset": 58,
+            "end_offset": 191
+        },
+        {
+            "id": 3854,
+            "label": "Geschäftsjahr",
+            "start_offset": 4,
+            "end_offset": 18
+        },
+        {
+            "id": 3855,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 191
+        },
+        {
+            "id": 3856,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 191
+        },
+        {
+            "id": 3851,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 3852,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 57
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Geschäftsjahr (1) Geschäftsjahr ist das Kalenderjahr. (2) Das erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. Dezember."
+}

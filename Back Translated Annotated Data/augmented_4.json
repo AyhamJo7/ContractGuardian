@@ -1,0 +1,45 @@
+{
+    "id": 537,
+    "text": "§ 4 Veräußerung und Belastung von Geschäftsanteilen (1) Zur Veräußerung oder Belastung von Geschäftsanteilen (einschließlich der Begründung von Treuhandverhältnissen, Unterbeteiligungen oder stillen Gesellschaften sowie anderen vergleichbaren Rechtsverhältnissen) ist die schriftliche Zustimmung aller Gesellschafter erforderlich. (2) Wird die Zustimmung verweigert, steht den Gesellschaftern im Verhältnis ihrer Beteiligung und nach ihnen der Gesellschaft ein zustimmungsfreies Ankaufsrecht zu gleichen Konditionen zu, dessen Ausübungsfrist einen Monat beträgt. \nEtwaige unteilbare Spitzenbeträge stehen dem Gesellschafter mit der geringsten Beteiligung zu.",
+    "entities": [
+        {
+            "id": 348,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 658
+        },
+        {
+            "id": 350,
+            "label": "Veräußerung",
+            "start_offset": 52,
+            "end_offset": 658
+        },
+        {
+            "id": 346,
+            "label": "Subsection",
+            "start_offset": 52,
+            "end_offset": 330
+        },
+        {
+            "id": 347,
+            "label": "Subsection",
+            "start_offset": 331,
+            "end_offset": 658
+        },
+        {
+            "id": 345,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 51
+        },
+        {
+            "id": 349,
+            "label": "Veräußerung",
+            "start_offset": 4,
+            "end_offset": 16
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Veräußerung und Belastung von Aktien (1) Die schriftliche Zustimmung aller Mitglieder ist für den Verkauf oder die Abgabe von Aktien erforderlich (einschließlich der Gründung von Trusts, Unterbeteiligungen oder stillen Gesellschaften sowie anderer vergleichbarer Rechtsverhältnisse).Die Parteien der Vereinbarung haben das Recht, die Aktien der Gesellschaft zu gleichen Bedingungen zu erwerben, deren Ausübungsdauer einen Monat beträgt, und unteilbare Höchstbeträge werden dem Aktionär mit der niedrigsten Beteiligung gewährt."
+}

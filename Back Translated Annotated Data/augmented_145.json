@@ -1,0 +1,45 @@
+{
+    "id": 701,
+    "text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Herstellung von Nahrungs- und Futtermitteln, besonders <lurch Vermahlen und Schalen von Getreide aller Art nach dem Wirtschafts­ zweig 1061 in Krefeld, der Erwerb, der Vertrieb sowie die Be- und Verarbeitung von Nahrungsmitteln, besonders von Miihlenerzeugnissen. (2) Die Gesellschaft ist befugt, zu diesem Zweck andere Unternehmen zu griinden, zu er­ werben und sich an ihnen zu beteiligen, auch als alleinige Komplementarin, und Zweigniederlassungen zu errichten, und zwar im In- und Ausland.",
+    "entities": [
+        {
+            "id": 1598,
+            "label": "Subsection",
+            "start_offset": 335,
+            "end_offset": 565
+        },
+        {
+            "id": 1599,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 1600,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 565
+        },
+        {
+            "id": 1601,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 565
+        },
+        {
+            "id": 1596,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1597,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 334
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Herstellung von Lebens- und Futtermitteln, insbesondere von Mehlen und Schalen von Getreide aller Art nach der Wirtschaftsbranche 1061 in Krefeld, der Erwerb, Vertrieb und Verarbeitung von Lebensmitteln, insbesondere von Milchprodukten. (2) Zu diesem Zweck ist das Unternehmen berechtigt, andere Unternehmen zu nutzen.Förderung, Förderung und Beteiligung an ihnen, auch als Alleinergänzung, und Errichtung von Zweigniederlassungen im In- und Ausland."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 993,
+    "text": "§9 Gesellschafterversammlung\n\n(1) Die Gesellschafter fassen ihre Beschlüsse in der Gesellschafterversammlung. Soweit gesetzlich nicht ausdrücklich etwas anderes bestimmt ist, bedarf es der Abhaltung einer Versammlung nicht, wenn sämtliche Gesellschafter sich mit den zu fassenden Beschlüssen oder mit der schriftlichen Abgabe der Stimme einverstanden erklären.\n(2) Jeder 1,00 EUR (in Worten: ein Euro) eines Geschäftsanteils gewährt bei der Beschlussfassung eine Stimme.\n(3) Die Beschlüsse der Gesellschaft werden, soweit das Gesetz und die Satzung zwingend nichts anderes vorschreiben, mit einfacher Stimmenmehrheit gefasst. Eine Änderung des Gesellschaftsvertrages erfordert eine Mehrheit von Dreiviertel der Stimmen aller Gesellschafter.",
+    "entities": [
+        {
+            "id": 3656,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 3657,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 360
+        },
+        {
+            "id": 3658,
+            "label": "Subsection",
+            "start_offset": 361,
+            "end_offset": 470
+        },
+        {
+            "id": 3659,
+            "label": "Subsection",
+            "start_offset": 471,
+            "end_offset": 740
+        },
+        {
+            "id": 3660,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 3661,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 30,
+            "end_offset": 740
+        },
+        {
+            "id": 3662,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 740
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Hauptversammlung (1) Die Aktionäre treffen ihre Entscheidungen in der Hauptversammlung. Sofern nicht ausdrücklich etwas anderes gesetzlich vorgeschrieben ist, ist es nicht erforderlich, eine Versammlung abzuhalten, wenn alle Aktionäre mit den zu treffenden Entscheidungen einverstanden sind oder mit der schriftlichen Abgabe der Abstimmung. (2) Jeder EUR 1,00 (in Worten: ein Euro)(3) Sofern das Recht und die Satzung nichts anderes verlangen, werden die Entscheidungen der Gesellschaft mit einfacher Mehrheit der Stimmen getroffen.Eine Änderung des Gesellschaftsvertrages erfordert eine Mehrheit von drei Vierteln der Stimmen aller Mitglieder."
+}

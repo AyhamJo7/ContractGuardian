@@ -1,0 +1,57 @@
+{
+    "id": 545,
+    "text": "§ 12 Abfindung (1) Ein Gesellschafter erhält vorbehaltlich Abs. 3 in allen Fällen, in denen dieser Gesellschaftsvertrag eine Abfindung vorsieht, den Verkehrswert seiner Beteiligung. (2) Kommt eine Einigung über die Abfindung binnen sechs Monaten nach dem Tag des Ausscheidens nicht zustande, so wird sie von einem Wirtschaftsprüfer nach den Grundsätzen einer ordnungsgemäßen Unternehmensbewertung des Institutes der Wirtschaftsprüfer in Deutschland e.V. verbindlich festgelegt. \nKönnen sich die Gesellschafter nicht innerhalb von drei Wochen nach Ablauf der in Satz 1 genannten Frist auf einen Wirtschaftsprüfer einigen, so wird dieser auf Antrag eines Gesellschafters von dem Präsidenten der für den Sitz der Gesellschaft zuständigen Industrie- und Handelskammer bestimmt. \nDie Kosten der Ermittlung der Abfindung sind von der Gesellschaft und dem ausgeschiedenen Gesellschafter im Verhältnis des Obsiegens/Unterliegens zu tragen. (3) Abweichend von Abs. 1 entspricht die Abfindung im Falle einer Zwangseinziehung oder -abtretung aus wichtigem Grund dem Buchwert des Geschäftsanteils (Nennbetrag zuzüglich des Anteils an offenen Rücklagen und Gewinnvortrag abzüglich Verlustvortrag). (4) Die Abfindung ist dem ausscheidenden Gesellschafter längstens in drei gleichen Halbjahresraten auszuzahlen, die erste ein halbes Jahr nach dem Zeitpunkt des Ausscheidens. \nDer jeweils ausstehende Betrag ist mit 2 Prozentpunkten p.a. über dem Basiszinssatz zu verzinsen.",
+    "entities": [
+        {
+            "id": 410,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 181
+        },
+        {
+            "id": 413,
+            "label": "Subsection",
+            "start_offset": 1185,
+            "end_offset": 1458
+        },
+        {
+            "id": 411,
+            "label": "Subsection",
+            "start_offset": 182,
+            "end_offset": 931
+        },
+        {
+            "id": 415,
+            "label": "Abfindung",
+            "start_offset": 15,
+            "end_offset": 1458
+        },
+        {
+            "id": 416,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1458
+        },
+        {
+            "id": 409,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 412,
+            "label": "Subsection",
+            "start_offset": 932,
+            "end_offset": 1184
+        },
+        {
+            "id": 414,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Erlösung (1) Vorbehaltlich Absatz 3 erhält ein Mitglied den wirtschaftlichen Wert seiner Beteiligung in allen Fällen, in denen dieser Sozialvertrag eine Entschädigung vorsieht. (2) Wird innerhalb von sechs Monaten nach dem Tag der Abreise keine Einigung über die Entschädigung erzielt, so hat ein Wirtschaftsprüfer nach den Grundsätzen einer ordnungsgemäßen Unternehmensbewertung der Gesellschaft,Können sich die Aktionäre nicht innerhalb von drei Wochen nach Ablauf der in Satz 1 genannten Frist auf einen Wirtschaftsprüfer einigen, so wird dieser vom Präsidenten der Handelskammer, der auf Antrag eines Mitglieds für den Sitz der Gesellschaft verantwortlich ist, bestimmt.Die Vergütung wird von der Gesellschaft und dem pensionierten Gesellschafter im Verhältnis zum Sieg/Subordination getragen. (3) Abweichend von Absatz 1 entspricht die Vergütung bei obligatorischer Einziehung oder Abtretung aus wichtigen Gründen dem Buchwert der Geschäftsanteile (nomineller Betrag zuzüglich des Anteils an offenen Rücklagen und Gewinnabführung abzüglich Verlustabführung).Der ausstehende Betrag ist mit 2 Prozentpunkten pro Jahr über dem Basiszinssatz zu verzinsen."
+}

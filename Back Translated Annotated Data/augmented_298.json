@@ -1,0 +1,51 @@
+{
+    "id": 865,
+    "text": "§ 10 Einziehung (1) Geschäftsanteile können mit Zustimmung des betroffenen Gesellschafters jederzeit eingezogen werden. \nOhne Zustimmung ist die Einziehung jedes Geschäftsanteils eines Gesellschafters zulässig: a) wenn ein Gesellschafter eine eidesstattliche Versicherung gemäß § 807 ZPO abgibt, b) wenn über sein Vermögen ein Insolvenzverfahren eröffnet wurde oder wenn die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt wurde, c) wenn der Gläubiger eines Gesellschafters dessen Geschäftsanteil pfändet oder sonst die Zwangsvollstreckung in den Geschäftsanteil betreibt, d) wenn ein Gesellschafter nicht mehr als Kommanditist an der KTR GmbH & Co. \nKG beteiligt ist. (2) Steht der Anteil mehreren Berechtigten zu, genügt es, wenn die Einziehungsvoraussetzungen nur bei einem von ihnen vorliegen. (3) Über die Einziehung beschließt die Gesellschafterversammlung. \nDie Einziehung wird mit Zugang des Einziehungsbeschlusses an den betreffenden Gesellschafter wirksam. \nErfolgt die Einziehung mit Zustimmung des betroffenen Gesellschafters, so bleibt dessen Stimmrecht unberührt. \nIn allen übrigen Fällen hat der betroffene Gesellschafter im Zeitraum ab  der Beschlussfassung iiber die Einziehung zwar kein Stimmrecht, ist jedoch berechtigt, an Gesellschafterversammlungen teilzunehmen. (4) Anstelle der Einziehung kann die Gesellschafterversammlung beschliegen, dass der be­ troffene Gesellschafter seine Geschaftsanteile an einen van der Gesellschaft zu benennen­ den Dritten oder - bei Vorliegen der gesetzlichen Voraussetzungen - an die Gesellschaft selbst abzutreten hat. \nIn diesem Fall ruht das Stimmrecht aus den betroffenen Geschafts­ anteilen bis zum Wirksamwerden der Abtretung.",
+    "entities": [
+        {
+            "id": 2765,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 679
+        },
+        {
+            "id": 2766,
+            "label": "Subsection",
+            "start_offset": 680,
+            "end_offset": 808
+        },
+        {
+            "id": 2769,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 16
+        },
+        {
+            "id": 2764,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2767,
+            "label": "Subsection",
+            "start_offset": 809,
+            "end_offset": 1295
+        },
+        {
+            "id": 2768,
+            "label": "Subsection",
+            "start_offset": 1296,
+            "end_offset": 1698
+        },
+        {
+            "id": 2770,
+            "label": "Einziehung",
+            "start_offset": 16,
+            "end_offset": 1698
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Rückforderung (1) Die Einziehung von Unternehmensanteilen kann jederzeit mit Zustimmung des betreffenden Aktionärs erfolgen. Ohne Zustimmung ist die Einziehung eines Anteils eines Aktionärs zulässig: a) wenn ein Aktionär eine eidesstattliche Erklärung nach § 807 ZPO ausgibt; b) wenn ein Insolvenzverfahren über sein Vermögen eröffnet wurde oder die Eröffnung eines solchen Vertrages nicht möglich ist.(d) wenn ein Aktionär nicht mehr eine beschränkte Haftungsgesellschaft der KTR GmbH & Co. KG ist.(3) Die Hauptversammlung entscheidet über die Einziehung. Die Einziehung wird nach Erhalt der Einziehungsentscheidung an den betreffenden Aktionär wirksam. Wird die Einziehung mit Zustimmung des betreffenden Aktionärs vorgenommen, so bleiben seine Stimmrechte unberührt. In allen anderen Fällen hat das betreffende Mitglied in der Zeit ab der Einziehungsentscheidung folgende Wirkung:(4) Anstelle der Einziehung kann die Hauptversammlung von dem betreffenden Aktionär verlangen, seine Anteile an einer van der Gesellschaft zu bestimmen oder, wenn die gesetzlichen Voraussetzungen erfüllt sind, der Gesellschaft selbst zuzuordnen.Bis zum Wirksamwerden der Abtretung habe ich das Stimmrecht von den betreffenden Gesellschaften."
+}

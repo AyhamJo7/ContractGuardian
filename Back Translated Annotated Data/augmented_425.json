@@ -1,0 +1,57 @@
+{
+    "id": 953,
+    "text": "§9 Schlussbestimmungen, Gründungskosten 1. Sollten Bestimmungen dieser Urkunde oder eine zukünftige Bestimmung des Gesellschaftsvertrages ganz oder teilweise nicht rechtswirksam sein oder ihre Rechtswirksamkeit später verlieren, wird dadurch die Gültigkeit der übrigen Bestimmungen nicht berührt, soweit sie sinnvoll bleiben. Anstelle unwirksamer Bestimmungen oder zur Ausfüllung einer Lücke soll eine angemessene, rechtlich zulässige Regelung gelten, die dem mutmaßlichen Willen der Beteiligten möglichst nahe kommt. Die Gesellschafter sind verpflichtet, den Wortlaut des Gesellschaftsvertrages förmlich zu ändern. 2. Die mit ihrer Gründung verbundenen Kosten hat die Gesellschaft bis zu einem Gesamtbetrag von EUR 300,00 getragen.",
+    "entities": [
+        {
+            "id": 3398,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 39
+        },
+        {
+            "id": 3399,
+            "label": "Schlussbestimmungen",
+            "start_offset": 3,
+            "end_offset": 22
+        },
+        {
+            "id": 3403,
+            "label": "Schlussbestimmungen",
+            "start_offset": 40,
+            "end_offset": 614
+        },
+        {
+            "id": 3404,
+            "label": "Kosten",
+            "start_offset": 616,
+            "end_offset": 732
+        },
+        {
+            "id": 3405,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 732
+        },
+        {
+            "id": 3400,
+            "label": "Kosten",
+            "start_offset": 24,
+            "end_offset": 40
+        },
+        {
+            "id": 3401,
+            "label": "Subsection",
+            "start_offset": 40,
+            "end_offset": 615
+        },
+        {
+            "id": 3402,
+            "label": "Subsection",
+            "start_offset": 616,
+            "end_offset": 732
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Schlussbestimmungen, Gründungskosten 1. Sollten Bestimmungen dieses Dokuments oder eine künftige Bestimmung des Gesellschaftsvertrages ganz oder teilweise nicht rechtswirksam sein oder später ihre Rechtswirksamkeit verlieren, wird die Gültigkeit der übrigen Bestimmungen nicht berührt, wenn sie sinnvoll bleiben.Die Parteien sind verpflichtet, den Wortlaut des Sozialvertrages förmlich zu ändern. 2. Die mit seiner Gründung verbundenen Kosten wurden von der Gesellschaft bis zu einem Gesamtbetrag von 300,00 EUR getragen."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 917,
+    "text": "§ 10 Schlussbestimmungen Im Ubrigen gelten die Bestimmungen des GmbH-Gesetzes, soweit dieser Ge­ sellschaftsvertrag nicht etwas Abweichendes bestimmt. \nHiermit ist der Gesellschaftsvertrag festgestellt. \nHierauf wird die erste Gesellschafterversammlung abgehalten und folgender Beschluss gefasst: Zurn Geschaftsfilhrer der Gesellschaft wird Herr Mirko Kreckel, geboren am 16. \nAugust 1977, wohnhaft in Ratingen, bestellt. \nDem Gesellschafter und Geschaftsfilhrer Herrn Mirko Kreckel wird im gesetz­ lich zulassigen Umfang Befreiung vom Wettbewerbsverbot erteilt.  Herm Mirko Kreckel ist als Geschaftsfiihrer Einzelvertretungsberechtigung auch fi.ir den Fall eingeraumt, dass noch weitere Geschaftsfiihrer bestellt sind. \nEr ist von den Beschrankungen des § 181 BGB befreit.",
+    "entities": [
+        {
+            "id": 3149,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 3150,
+            "label": "Subsection",
+            "start_offset": 26,
+            "end_offset": 773
+        },
+        {
+            "id": 3151,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 3153,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 773
+        },
+        {
+            "id": 3152,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 773
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Schlussbestimmungen Im Übrigen gelten die Bestimmungen des GmbH-Gesetzes, es sei denn, dieser Gesellschaftsvertrag bestimmt etwas anderes. Dies legt den Gesellschaftsvertrag fest. Die erste Gesellschafterversammlung findet statt und es wird folgende Entscheidung getroffen: Herr Mirko Kreckel, geboren am 16. August 1977, ist in der Gesellschaft ansässig.Herr Mirko Kreckel wird von dem Wettbewerbsverbot im rechtlichen Anwendungsbereich befreit. Herm Mirko Kreckel ist auch berechtigt, das Unternehmen im Falle der Bestellung weiterer Mitglieder zu vertreten. Er ist von den Beschränkungen des § 181 BGB befreit."
+}

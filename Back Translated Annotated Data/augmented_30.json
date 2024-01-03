@@ -1,0 +1,33 @@
+{
+    "id": 530,
+    "text": "§ 15 Bekanntmachungen Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 295,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 87
+        },
+        {
+            "id": 294,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 186,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 22
+        },
+        {
+            "id": 187,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 87
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Bekanntmachungen Die Bekanntmachungen des Unternehmens finden nur im Bundesanzeiger statt."
+}

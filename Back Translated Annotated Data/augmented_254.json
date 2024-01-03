@@ -1,0 +1,81 @@
+{
+    "id": 802,
+    "text": "§ 15 Einziehung von Geschäftsanteilen 1. \nDie Einziehung von Geschäftsanteilen kann beschlossen werden, wenn der betroffene Gesellschafter zustimmt oder wenn einer der folgenden Fälle vorliegt: a) über sein Vermögen ein lnsolvenzverfahren eröffnet wird, über einen Antrag auf Eröffnung eines Insolvenzverfahrens ist nicht binnen zwei Monaten entschieden oder die Eröffnung wird mangels Masse abgelehnt, b) er die Richtigkeit seines Vermögensverzeichnisses nach § 807 ZPO an Eides Statt zu versichern hat, c) eine Zwangsvollstreckung in seinen Geschäftsanteil betrieben wird und die Zwangsvollstreckungsmaßnahmen nicht binnen zwei Monaten seit ihrem Beginn wieder aufgehoben werden, d) er kündigt oder seinen Austritt aus der Gesellschaft erklärt, e) ein Geschäftsanteil auf einen anderen Inhaber übergeht (egal aus welchem Rechtsgrund), ohne dass entweder eine diesen Übergang einschließlich der Person des Erwerbers unmittelbar zulassende Regelung dieses Gesellschaftsvertrages erfüllt ist (insbesondere gemäß § 12 und 16) oder die Gesellschafterversammlung entsprechend § 12 diesem konkreten Übergang einschließlich der Person des Erwerbers schriftlich zugestimmt haben. \nEine Einziehung ist insbesondere auch möglich, wenn ein Geschäftsanteil im Wege der Zwangsvollstreckung auf einen anderen Inhaber übergegangen ist. \nDie Zustimmung zu einer Verpfändung des Geschäftsanteils schließt dieses Einziehungsrecht nicht aus, wenn der verpfändete Geschäftsanteil später verwertet wird und dabei auf einen anderen Inhaber übergeht, der die Voraussetzungen des Abs. 1 nicht erfüllt, f) bei einer juristischen Person oder einer Gesellschaft, wenn deren Auflösung beschlossen wird oder die Auflösung bzw. \nLiquidation aus sonstigen beliebigen Gründen erfolgt oder deren zum Zeitpunkt ihres Beitritts in die vorliegende GmbH bei ihr herrschende Gesellschafter seine herrschende Mehrheit verliert (egal auf welche Weise) und die neue herrschende Mehrheit anderen Personen zusteht als solchen, an die nach § 12 eine unmittelbare Übertragung von Geschäftsanteilen zulässig wäre, also bei jeder Form eines mittelbaren Übergangs der Anteile an der vorliegenden GmbH unter Umgehung der Regelung in § 12, g) in seiner Person ein wichtiger Grund vorliegt, der die Ausschließung rechtfertigt; ein solcher Grund liegt vor, wenn ein weiteres Verbleiben des Gesellschafters in der Gesellschaft für diese untragbar ist, insbesondere wenn der Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsätzlich oder aus grober Fahrlässigkeit verletzt oder sonst durch sein Verhalten die Gesellschaftsinteressen erheblich schädigt. 2. \nJeder Gesellschafter ist verpflichtet, die Gesellschaft unverzüglich schriftlich zu unterrichten, wenn in seiner Person ein solcher Fall vorliegt oder vorzuliegen droht. 3. \nSteht ein Geschäftsanteil mehreren Berechtigten zu, so kann die Einziehung auch dann beschlossen werden, wenn die oben genannten Voraussetzungen nur bei einem der Berechtigten vorliegen. 4. \nStatt der Einziehung kann beschlossen werden, dass der Anteil auf die Gesellschaft oder auf eine oder mehrere von ihr benannte Personen zu übertragen ist. 5. \nDie Beschlussfassung erfolgt mit einer Mehrheit von 75% der abgegebenen Stimmen. \nDer betroffene Gesellschafter hat hierbei kein Stimmrecht. 6. \nDer ausscheidende Gesellschafter erhält abweichend von § 16 eine Abfindung in Höhe von in Höhe von 60% des Verkehrswertes seiner Beteiligung gem. der Jahresbilanz für das letzte in oder vor dem Zeitpunkt des Ausscheidens abgeschlossene Geschäftsjahr. \nDie Abfindung ist in drei gleichen Raten jeweils jährlich, beginnend 6 Monate nach dem Ausschlussstichtag zu zahlen. \nWeitere Ansprüche des ausscheidenden Gesellschafters — gleich welcher Art - sind ausgeschlossen. 7. \nDie EinziehungNerpflichtung zur Abtretung wird unabhängig von der Bezahlung der Abfindung mit der Erklärung der Einziehung/der Bekanntgabe des Einziehungsbeschlusses wirksam.",
+    "entities": [
+        {
+            "id": 2345,
+            "label": "Green Flag",
+            "start_offset": 3254,
+            "end_offset": 3963
+        },
+        {
+            "id": 2335,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 2336,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 2644
+        },
+        {
+            "id": 2337,
+            "label": "Subsection",
+            "start_offset": 2645,
+            "end_offset": 2818
+        },
+        {
+            "id": 2338,
+            "label": "Subsection",
+            "start_offset": 2819,
+            "end_offset": 3009
+        },
+        {
+            "id": 2339,
+            "label": "Subsection",
+            "start_offset": 3010,
+            "end_offset": 3168
+        },
+        {
+            "id": 2340,
+            "label": "Subsection",
+            "start_offset": 3169,
+            "end_offset": 3313
+        },
+        {
+            "id": 2341,
+            "label": "Subsection",
+            "start_offset": 3314,
+            "end_offset": 3783
+        },
+        {
+            "id": 2342,
+            "label": "Subsection",
+            "start_offset": 3785,
+            "end_offset": 3963
+        },
+        {
+            "id": 2343,
+            "label": "Einziehung",
+            "start_offset": 4,
+            "end_offset": 37
+        },
+        {
+            "id": 2344,
+            "label": "Einziehung",
+            "start_offset": 39,
+            "end_offset": 3963
+        },
+        {
+            "id": 2346,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 3254
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Rückforderung von Aktien 1. Die Rückforderung von Aktien kann beschlossen werden, wenn der betreffende Aktionär zustimmt oder wenn einer der folgenden Fälle vorliegt: a) sein Vermögen wird insolventes Verfahren eröffnet, ein Antrag auf Eröffnung eines Insolvenzverfahrens wird nicht innerhalb von zwei Monaten entschieden oder die Eröffnung wird aufgrund mangelnder Masse abgelehntc) die Zwangsvollstreckung erfolgt in ihrem Anteil an der Geschäftstätigkeit und die Vollstreckungsmaßnahmen werden nicht innerhalb von zwei Monaten nach ihrem Beginn widerrufen;(aus welchem Rechtsgrund auch immer) ohne eine Regelung dieses Sozialvertrages, die diesen Übergang unmittelbar ermöglicht, einschließlich der Person des Erwerbers, erfüllt worden ist (insbesondere gemäß § 12 und 16) oder die Gesellschafterversammlung gemäß § 12 dieser konkreten Übergangsvereinbarung schriftlich, einschließlich der Person des Erwerbers, zugestimmt hat.f) Im Falle einer Juristis ist folgendes möglich, wenn ein Teil des Geschäfts durch Abschottung auf einen anderen Inhaber übertragen worden ist: Die Zustimmung zu einem Pfand des Geschäftsanteils steht diesem Einziehungsrecht nicht entgegen, wenn der Pfandanteil des Geschäfts später ausgebeutet und auf einen anderen Inhaber übertragen wird, der die Voraussetzungen des Absatzes 1 dieses Artikels nicht erfüllt.eine Person oder eine Gesellschaft, deren Auflösung entschieden wird oder deren Auflösung oder Liquidation aus anderen Gründen erfolgt oder deren zum Zeitpunkt ihres Beitritts zur vorliegenden GmbH der beherrschende Gesellschafter seine beherrschende Mehrheit verliert (unabhängig davon, wie) und die neue beherrschende Mehrheit an andere Personen als die Personen, an die nach § 1 des Urheberrechtsgesetzes das Recht auf Auflösung oder Auflösung einer Person oder einer Gesellschaft gewährt wird, die zum Zeitpunkt ihres Beitritts zur vorliegenden GmbH ihren dominanten Gesellschafter verliert (unabhängig davon, wie viel) und die neue beherrschende Mehrheit an andere Personen als diejenigen, denen gemäß § 1 des Urheberrechts den Gesetzen der Bundesrepublik Deutschland unterliegt, berechtigt ist.2 eine direkte Übertragung von Aktien, d.h. bei jeder Form der indirekten Übertragung von Aktien an die vorliegende GmbH, durch Umgehung der Bestimmungen des § 12 g) in ihrer Person zulässig wäre, ein wichtiger Grund, der den Ausschluss rechtfertigt; ein solcher Grund besteht, wenn ein weiterer Aufenthalt des Aktionärs an der Gesellschaft für sie nicht nachhaltig ist;insbesondere dann, wenn der Gesellschafter vorsätzlich oder grob fahrlässig gegen eine ihm nach dem Sozialvertrag obliegende wesentliche Verpflichtung verstößt oder die Interessen des Unternehmens anderweitig durch sein Verhalten erheblich beeinträchtigt. 2. Jeder Gesellschafter ist verpflichtet, das Unternehmen unverzüglich schriftlich zu informieren, wenn ein solcher Fall in seiner Person vorliegt oder3. Wird ein Geschäftsanteil mehreren Begünstigten zugewiesen, so kann die Einziehung auch dann entschieden werden, wenn die vorgenannten Bedingungen nur einem der Begünstigten zur Verfügung stehen. 4. Statt der Einziehung kann entschieden werden, dass der Anteil an die Gesellschaft oder an eine oder mehrere von ihr benannte Personen zu übertragen ist.(6) Abweichend von § 16 erhält das scheidende Mitglied eine Abfindung in Höhe von 60% des Marktwertes seiner Beteiligung gemäß der Jahresbilanz des letzten Geschäftsjahres, das am oder vor dem Tag der Abreise abgeschlossen wurde. Die Abfindung erfolgt in drei Raten:7. Die Einziehungsverpflichtung zur Abtretung wird unabhängig von der Zahlung der Abfindung mit der Einziehungs-/Ankündigungserklärung der Einziehungsentscheidung wirksam."
+}

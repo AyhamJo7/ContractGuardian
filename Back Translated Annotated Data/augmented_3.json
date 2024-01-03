@@ -1,0 +1,57 @@
+{
+    "id": 536,
+    "text": "§ 3 Stammkapital (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00 (i.W.: EURO fünfundzwanzigtausend). (2) Das Stammkapital ist eingeteilt in 25.000 Geschäftsanteile mit den Nummern 1 bis 25.000 im Nennbetrag von jeweils € 1,00. (3) Hiervon übernehmen a) die Gesellschaft türkischen Rechts in Firma ZMT SOGUTMA SISTEMLERI INSAAT OTOMOTIV TURIZM GIDA SANAYI VE TICARET LIMITED SIRKETI mit dem Sitz in Eyüpsultan / Istanbul, eingetragen im Handelsregister Istanbul (Türkei), Registernummer: , die Geschäftsanteile mit den Nummern 1 bis 12.500   b) die Einzelfirma türkischen Rechts MESUT CAMBAZOGLU – KUTUP SOGUTMA, Inhaber Mesut Cambazoglu, mit dem Sitz in Adapazari / Sakarya (Türkei), eingetragen im Handelsregister Sakarya (Türkei), Registernummer: 22590, die Geschäftsanteile mit den Nummern 12.501 bis 25.000. (4) Jeder Geschäftsanteil ist in Höhe von 50 % sofort in Geld zu leisten.",
+    "entities": [
+        {
+            "id": 339,
+            "label": "Subsection",
+            "start_offset": 111,
+            "end_offset": 236
+        },
+        {
+            "id": 343,
+            "label": "Stammkapital",
+            "start_offset": 17,
+            "end_offset": 895
+        },
+        {
+            "id": 344,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 895
+        },
+        {
+            "id": 337,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 338,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 110
+        },
+        {
+            "id": 341,
+            "label": "Subsection",
+            "start_offset": 822,
+            "end_offset": 895
+        },
+        {
+            "id": 340,
+            "label": "Subsection",
+            "start_offset": 237,
+            "end_offset": 821
+        },
+        {
+            "id": 342,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Aktienkapital (1) Das Grundkapital der Gesellschaft beträgt € 25,000,00 (d.h. Euro 25 Tausend). (2) Das Grundkapital ist in 25.000 Aktien mit den Zahlen 1 bis 25.000 in Nominalbetrag von € 1,00 je unterteilt. (3) Hiervon a) übernimmt die Gesellschaft türkisches Recht in der Gesellschaft ZMT SOGUTMA SISTEMLERI INSAAT OTOMOTIV TURIZM GIDA SANAYI VE TICARET LIMITED SIRKETI mit demHauptsitz in Eyüpsultan / Istanbul, eingetragen im Handelsregister Istanbul (Türkei), Registriernummer: , die Aktien mit den Nummern 1 bis 12.500 b) alleiniger Inhaber des türkischen Rechts MESUT CAMBAZOGLU – KUTUP SOGUTMA, Inhaber von Mesut Cambazoglu, eingetragen im Handelsregister Sakarya (Türkei), Registriernummer: 22590, die Aktien mit der Numme(4) Jeder Teil des Geschäfts muss sofort in bar in Höhe von 50 % bezahlt werden."
+}

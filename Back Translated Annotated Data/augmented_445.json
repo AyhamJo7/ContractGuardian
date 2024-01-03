@@ -1,0 +1,39 @@
+{
+    "id": 971,
+    "text": "§ 8 Gründungsaufwand\n\nDie Gesellschaft trägt die mit der Gründung verbundenen Kosten (Notarkosten, Kosten des Steuerberaters/Wirtschaftsprüfers/Rechtsanwalts, Handelsregisterkosten einschließlich Veröffentlichungskosten - Gründungsaufwand -) bis zu einem Gesamtbetrag in Höhe von 2.500,00 Euro.",
+    "entities": [
+        {
+            "id": 3520,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3521,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 294
+        },
+        {
+            "id": 3524,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 294
+        },
+        {
+            "id": 3523,
+            "label": "Kosten",
+            "start_offset": 22,
+            "end_offset": 294
+        },
+        {
+            "id": 3522,
+            "label": "Kosten",
+            "start_offset": 4,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Gründungskosten Das Unternehmen trägt die mit der Stiftung verbundenen Kosten (Notarkosten, Kosten des Steuerberaters/Auditors/Juristen, Handelsregisterkosten inkl.Publikationskosten - Gründungskosten -) bis zu einem Gesamtbetrag von 2.500,00 Euro."
+}

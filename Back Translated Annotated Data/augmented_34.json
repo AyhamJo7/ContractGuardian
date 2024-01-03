@@ -1,0 +1,81 @@
+{
+    "id": 549,
+    "text": "§ 1 Firma, Sitz und Rechtsform 1.1. \nDie Firma der Gesellschaft lautet AK 46 Flensburg GmbH. 1.2. \nDie Gesellschaft hat ihren Sitz in Flensburg. 1.3. \nDie Gesellschaft ist eine Gesellschaft mit beschränkter Haftung.",
+    "entities": [
+        {
+            "id": 434,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 435,
+            "label": "Firma",
+            "start_offset": 37,
+            "end_offset": 91
+        },
+        {
+            "id": 436,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 438,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 20,
+            "end_offset": 31
+        },
+        {
+            "id": 441,
+            "label": "RED FLAG",
+            "start_offset": 31,
+            "end_offset": 144
+        },
+        {
+            "id": 437,
+            "label": "Sitz",
+            "start_offset": 99,
+            "end_offset": 144
+        },
+        {
+            "id": 439,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 151,
+            "end_offset": 215
+        },
+        {
+            "id": 440,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 433,
+            "label": "Subsection",
+            "start_offset": 145,
+            "end_offset": 215
+        },
+        {
+            "id": 430,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 431,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 92
+        },
+        {
+            "id": 432,
+            "label": "Subsection",
+            "start_offset": 93,
+            "end_offset": 144
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz und Rechtsform 1.1 Gesellschaft der Gesellschaft ist die AK 46 Flensburg GmbH. 1.2. Die Gesellschaft hat ihren Sitz in Flensburg. 1.3. Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung."
+}

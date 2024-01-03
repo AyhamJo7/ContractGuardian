@@ -1,0 +1,51 @@
+{
+    "id": 570,
+    "text": "§3 Stammkapital und Geschäftsanteile Das Stammkapital der Gesellschaft beträgt 25.000,00 Euro (i.W.: fünfundzwanzigtausend Euro) und ist aufgeteilt in 25.000 Geschäftsanteile zu je 1,00 Euro. \nDie Geschäftsanteile wurden wie folgt übernommen: Gesellschafter Anzahl der übernommenen Geschäftsanteile lfd. \nNr. der übernommenen Geschäftsanteile August Ernst Tiefbau GmbH mit Sitz in Hamburg (Amtsgericht Hamburg HRB ) 25.000 1 bis 25.000 Die Geschäftsanteile sind zu 100% unverzüglich in bar zu leisten.",
+    "entities": [
+        {
+            "id": 611,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 612,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 192
+        },
+        {
+            "id": 613,
+            "label": "Subsection",
+            "start_offset": 193,
+            "end_offset": 501
+        },
+        {
+            "id": 614,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 615,
+            "label": "Stammkapital",
+            "start_offset": 37,
+            "end_offset": 192
+        },
+        {
+            "id": 616,
+            "label": "Stammeinlagen",
+            "start_offset": 20,
+            "end_offset": 37
+        },
+        {
+            "id": 617,
+            "label": "Stammeinlagen",
+            "start_offset": 193,
+            "end_offset": 501
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital und Aktien Das Grundkapital der Gesellschaft beträgt 25.000,00 Euro (d.h. 25.500 Euro) und ist in jeweils 25.000 Aktien 1,00 Euro aufgeteilt. Die Aktien wurden wie folgt übernommen: Aktionär Anzahl der übernommenen Aktien Ifd. Anzahl der übernommenen August Ernst Tiefbau GmbH mit Sitz in Hamburg (Amtsgerich)t Hamburg HRB ) 25.000 1 bis 25.000 100% der Aktien müssen sofort in bar bezahlt werden."
+}

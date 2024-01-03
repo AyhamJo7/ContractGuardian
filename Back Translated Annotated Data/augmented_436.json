@@ -1,0 +1,39 @@
+{
+    "id": 983,
+    "text": "§10 Schlussbestimmungen Soweit in dieser Satzung nichts anderes bestimmt ist, gelten die gesetzlichen Vorschriften. Sollten einzelne Bestimmungen ungültig sein oder werden, so wird die Wirksamkeit der Satzung im Übrigen hiervon nicht berührt. Unklare Bestimmungen sind so auszulegen, dass sie dem mit ihnen beabsichtigten wirtschaftlichen Zweck am nächsten kommen.",
+    "entities": [
+        {
+            "id": 3587,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 364
+        },
+        {
+            "id": 3586,
+            "label": "Schlussbestimmungen",
+            "start_offset": 24,
+            "end_offset": 364
+        },
+        {
+            "id": 3585,
+            "label": "Schlussbestimmungen",
+            "start_offset": 4,
+            "end_offset": 24
+        },
+        {
+            "id": 3584,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 364
+        },
+        {
+            "id": 3583,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Schlussbestimmungen Sofern in dieser Satzung nichts anderes bestimmt ist, gelten die gesetzlichen Bestimmungen. Sollten einzelne Bestimmungen unwirksam sein oder werden, wird die Gültigkeit der Satzung davon nicht berührt. Unklare Bestimmungen sind so auszulegen, dass sie dem von ihnen beabsichtigten wirtschaftlichen Zweck am nächsten sind."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 603,
+    "text": "§15 Wettbewerb l. \nKein Gesellschafter darf, solange er Gesellschafter ist, sowie auf die Dauer von zwei Jahren nach seinem Ausscheiden aus der Gesellschaft ein Unternehmen n-ut gleichem Gegenstand betreiben, für ein solches Unternehmen tätig werden oder sich an einem solchen beteüigen. 2. \nDie Gesellschafterversammlung kann einzelnen Gesellschaftern unwiderriiflich Befreiung von diesem Wettbewerbsverbot erteilen. 3. \nDen Gründungsgesellschaftern wird hiermit unwiderruflich Befreiung von dem vorstehenden Wettbewerbsverbot erteilt. g 16 Allgemeine Bestimmungen l. \nJeder Gesellschafter kann in Angelegenlieiten der Gesellschaft innerhalb und außerhalb der Gesellschafterversammlung Auskünfte verlangen, Bücher und Schriften eingehen und sich durch Besichtigung von Betriebsstätten informieren. \nEr kann diese Rechte auch durch eine zur Berufsverschwiegenheit verpflichtete Person ausüben lassen, ohne dass der Gesellschaft dadurch Kosten ervvachsen dürfen. 2. \nKein Gesellschafter darf Angelegenheiten der GeseUschaft, Geschäftsgeheimnisse und sonstige Kenntnisse eigennützig verwerten oder offenbaren. 3. \nAlle das Gesellschaftsverhältonis betreffenden Vereinbarungen der Gesellschafter untereinander und irut der Gesellschaft müssen schrifüich erfolgen, soweit nicht das Gesetz eine notarieüe oder gerichüiche Beurkundung vorsclzreibt. 4. \nWenn einzelne Bestimmungen dieses Vertrages sich als ungültig erweisen sollten, wird dadurch die Gültigkeit des übrigen Vertragsinlialts nicht berührt. \nEine ungültige Bestirrunung des Gesellschaftsvertrages ist durch Beschluss der Gesellschafter so zu ergänzen oder umzudeuten, dass der mit der ungültigen Bestimmimg beabsichtigte wirtschaftliche Zweck erreicht wird.",
+    "entities": [
+        {
+            "id": 867,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 868,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 287
+        },
+        {
+            "id": 869,
+            "label": "Subsection",
+            "start_offset": 288,
+            "end_offset": 417
+        },
+        {
+            "id": 870,
+            "label": "Subsection",
+            "start_offset": 418,
+            "end_offset": 1342
+        },
+        {
+            "id": 871,
+            "label": "Subsection",
+            "start_offset": 1343,
+            "end_offset": 1715
+        },
+        {
+            "id": 872,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 873,
+            "label": "Wettbewerb",
+            "start_offset": 15,
+            "end_offset": 1715
+        },
+        {
+            "id": 874,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1715
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§15 Wettbewerb l. Kein Gesellschafter darf, solange er Aktionär ist, zwei Jahre nach seinem Ausscheiden aus der Gesellschaft ein Unternehmen desselben Gegenstandes betreiben, für ein solches Unternehmen arbeiten oder eine solche Tätigkeit ausüben. 2. Die Hauptversammlung kann einzelne Aktionäre unwiderlegbar von diesem Wettbewerb befreien.3. Den Gründungspartnern wird hiermit eine unwiderrufliche Ausnahme von dem oben genannten Wettbewerbsverbot gewährt. g 16 Allgemeine Bestimmungen l. Jeder Gesellschafter kann innerhalb und außerhalb der Gesellschafterversammlung Informationen von der Gesellschaft anfordern, Bücher und Schriften entgegennehmen und durch Besuch der Räumlichkeiten Informationen erhalten.Er kann diese Rechte auch durch eine Person ausüben, die zur Wahrung des Berufsgeheimnisses verpflichtet ist, ohne dass dem Unternehmen irgendwelche Kosten entstehen dürfen. 2. Kein Partner darf Unternehmen, Geschäftsgeheimnisse und sonstiges Wissen gewinnbringend ausschöpfen oder offenlegen. 3.4. Sollten sich einzelne Bestimmungen dieses Vertrages als ungültig erweisen, so berührt dies nicht die Gültigkeit des übrigen geltenden Vertrages. Eine ungültige Bestätigung des Sozialvertrages erfolgt durch die Entscheidung der Aktionäre in folgender Weise:Ergänzung oder Neuinterpretation, dass der wirtschaftliche Zweck der ungültigen Bestimmung erreicht wird."
+}

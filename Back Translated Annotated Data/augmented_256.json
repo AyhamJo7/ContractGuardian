@@ -1,0 +1,39 @@
+{
+    "id": 804,
+    "text": "§ 17 Wettbewerbsverbot . \nDie Gesellschafter und die Geschäftsführer können durch Gesellschafterbeschuss vom Wettbewerbsverbot befreit werden, der den Umfang der Befreiung und die Frage einer hierfür zu leistenden Entschädigung festzulegen hat. 2. \nDie Gründungsgesellschafter sind als Gesellschafter und Geschäftsführer von jedem Wettbewerbsverbot befreit.",
+    "entities": [
+        {
+            "id": 2359,
+            "label": "Wettbewerb",
+            "start_offset": 5,
+            "end_offset": 23
+        },
+        {
+            "id": 2360,
+            "label": "Wettbewerb",
+            "start_offset": 26,
+            "end_offset": 357
+        },
+        {
+            "id": 2357,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 2358,
+            "label": "Subsection",
+            "start_offset": 0,
+            "end_offset": 357
+        },
+        {
+            "id": 2361,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 357
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Wettbewerbsverbot . Die Aktionäre und die Geschäftsführer können durch die Gewährung eines Aktionärs von dem Wettbewerb freigestellt werden, der den Umfang der Freistellung und die Frage der zu zahlenden Entschädigung bestimmen muss. 2. Die Gründungsaktionäre sind als Aktionäre und Geschäftsführer von jeglichem Wettbewerbsverbot befreit."
+}

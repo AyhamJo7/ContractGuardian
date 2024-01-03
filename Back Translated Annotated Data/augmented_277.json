@@ -1,0 +1,51 @@
+{
+    "id": 836,
+    "text": "§ 16 Schlussbestimmungen (1) Sollte eine Bestimmung dieses Vertrages unwirksam sein oder werden, so gelten die ub­ rigen Bestimmungen gleichwohl. \nDie Gesellschafter verpflichten sich, die nichtige Bestim­ mung durch eine solche zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nachsten kommt. \nEntsprechendes gilt, wenn der Vertrag eine Lucke auf­ weisen sollte. (2) Bekanntmachungen der Gesellschaft erfolgen im elektronischen Bundesanzeiger. (3) Die Gesellschaft tragt die mit ihrer Grundung verbundenen Kosten bis zum Betrag von EUR 2.500,00.",
+    "entities": [
+        {
+            "id": 2559,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 388
+        },
+        {
+            "id": 2561,
+            "label": "Subsection",
+            "start_offset": 389,
+            "end_offset": 469
+        },
+        {
+            "id": 2562,
+            "label": "Subsection",
+            "start_offset": 470,
+            "end_offset": 571
+        },
+        {
+            "id": 2563,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 2565,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 571
+        },
+        {
+            "id": 2558,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 2564,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 571
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Schlussbestimmungen (1) Sollte eine Bestimmung dieses Vertrages unwirksam sein oder werden, so gelten dennoch die Bestimmungen dieses Vertrages. Die Aktionäre verpflichten sich, die unwirksame Bestimmung durch eine zu ersetzen, die am engsten mit dem wirtschaftlichen Zweck der unwirksamen Bestimmung zusammenhängt. Gleiches gilt, wenn der Vertrag eine Lucke haben sollte. (2) Bekannt(3) Die mit der Gründung verbundenen Kosten trägt das Unternehmen bis zu einem Betrag von 2.500,00 EUR."
+}

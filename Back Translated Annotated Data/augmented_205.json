@@ -1,0 +1,69 @@
+{
+    "id": 753,
+    "text": "§6 Jahresabschluss, Gewinnverwendung 1. \nDie Geschäftsführer haben den Jahresabschluss (Bilanz, Gewinn- und Verlustrechnung nebst Anhang) und - soweit nach dem Gesetz erforderlich - den Lagebericht innerhalb der Frist des § 264 Abs. 1 HOB aufzustellen, soweit das Gesetz hierfür nicht eine längere Frist einräumt. 2. \nDie Bestellung von Abschlussprüfern und deren Auswahl bedarf eines Gesellschafterbeschlusses. -43. \nDie Gesellschafterversammlung stellt den Jahresabschluss fest. \nDer Jahresüberschuss zuzüglich eines Gewinnvortrages und abzüglich eines Verlustvortrages (Jahresergebnis) ist an die Gesellschafter im Verhältnis ihrer Geschäftsanteile auszuschütten, soweit das Gesetz oder die Gesellschafterversammlung nicht etwas anderes bestimmt. \nVorabausschüttungen auf den zu erwartenden Gewinn des laufenden Geschäftsjahres können bereits vor dessen Ablauf beschlossen werden. 4. \nDie Gesellschafterversammlung kann im Beschluss über die Verwendung des Jahresergebnisses bestimmen, dass an die Gesellschafter vorab ausgeschüttete Beträge ganz oder teilweise von diesen zurückzuführen sind. \nEntsprechende Beträge sind von den Gesellschaftern sofort zurückzuzahlen und in die Rücklage einzustelJen.",
+    "entities": [
+        {
+            "id": 1967,
+            "label": "Subsection",
+            "start_offset": 414,
+            "end_offset": 883
+        },
+        {
+            "id": 1970,
+            "label": "Gewinnverteilung",
+            "start_offset": 20,
+            "end_offset": 37
+        },
+        {
+            "id": 1971,
+            "label": "Jahresabschluss",
+            "start_offset": 41,
+            "end_offset": 414
+        },
+        {
+            "id": 1972,
+            "label": "Gewinnverteilung",
+            "start_offset": 414,
+            "end_offset": 1204
+        },
+        {
+            "id": 1973,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1204
+        },
+        {
+            "id": 1964,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 1965,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 313
+        },
+        {
+            "id": 1966,
+            "label": "Subsection",
+            "start_offset": 314,
+            "end_offset": 414
+        },
+        {
+            "id": 1968,
+            "label": "Subsection",
+            "start_offset": 884,
+            "end_offset": 1204
+        },
+        {
+            "id": 1969,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Jahresabschluß, Gewinnverwendung 1. Die Geschäftsführer erstellen den Jahresabschluss (Bilanz-, Gewinn- und Verlustrechnung zusammen mit Anhang) und, soweit gesetzlich vorgeschrieben, den Lagebericht innerhalb der Frist nach § 264 Abs. 1 HOB, es sei denn, das Gesetz sieht hierzu eine längere Frist vor. 2. Die Bestellung der gesetzlichen Abschlussprüfer und deren Auswahl bedarf eines Aktionärserben.-43. Die Hauptversammlung bestimmt den Jahresabschluss. Das Konzernergebnis zuzüglich einer Gewinnübertragung und abzüglich einer Verlustübertragung (Jahresergebnis) ist an die Aktionäre im Verhältnis zu ihren Geschäftsanteilen auszuschütten, es sei denn, das Gesetz oder die Hauptversammlung bestimmen etwas anderes.4. Die Hauptversammlung kann in der Entscheidung über die Verwendung des Jahresergebnisses feststellen, dass ihnen die im Voraus an die Aktionäre ausgeschütteten Beträge ganz oder teilweise zuzurechnen sind. Die Aktionäre müssen die entsprechenden Beträge unverzüglich zurückzahlen und in die Rücklage legen.- Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein."
+}

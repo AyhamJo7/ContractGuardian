@@ -1,0 +1,45 @@
+{
+    "id": 733,
+    "text": "§ 16 Salvatorische Klausel Sollten einzelne Bestimmungen dieses Gesellschaftsvertrages unwirksam oder undurchfOhrbar sein oder werden, so lasst dies die Wirksamkeit der Obrigen Best­ immungen unberOhrt. \nDie Gesellschafter sind in diesem Fall verpflichtet, anstelle der unwirksamen oder undurchfOhrbaren Bestimmung eine Regelung zu vereinba­ ren, die den angestrebten wirtschaftlichen Zweck im Rahmen des rechtlich Mogli­ chen am besten verwirklicht.",
+    "entities": [
+        {
+            "id": 1837,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 1838,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 203
+        },
+        {
+            "id": 1841,
+            "label": "Salvatorische Klausel",
+            "start_offset": 27,
+            "end_offset": 450
+        },
+        {
+            "id": 1839,
+            "label": "Subsection",
+            "start_offset": 204,
+            "end_offset": 450
+        },
+        {
+            "id": 1840,
+            "label": "Salvatorische Klausel",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 1842,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 450
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Abfindungsklausel Sollten einzelne Bestimmungen dieses Sozialvertrages unwirksam oder undurchdringlich sein oder werden, so bleibt die Wirksamkeit der vorstehenden Bestimmungen ungestört.In diesem Fall sind die Partner verpflichtet, anstelle der unwirksamen oder undurchdringlichen Bestimmung eine Regelung zu vereinbaren, die den beabsichtigten wirtschaftlichen Zweck im Rahmen von:Dies ist der beste Weg, um rechtliche Fortschritte zu erzielen."
+}

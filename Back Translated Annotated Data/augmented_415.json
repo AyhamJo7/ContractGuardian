@@ -1,0 +1,51 @@
+{
+    "id": 962,
+    "text": "§8 Schlussbestimmungen\n(1) Sollte eine in diesem Gesellschaftsvertrag enthaltene Bestimmung unwirksam sein oder werden, so soll die Wirksamkeit der übrigen Bestimmungen hiervon unberührt bleiben. Die betreffende Bestimmung ist vielmehr so auszulegen oder zu ersetzen, dass der mit ihr erstrebte wirtschaftliche Zweck nach Möglichkeit erreicht wird. Dasselbe gilt sinngemäß für die Ausfüllung von Regelungslücken. Es ist der ausdrückliche Wille der Gesellschafter, dass diese salvatorische Klausel keine bloße Beweislastumkehr zur Folge hat, sondern § 139 BGB insgesamt abbedungen ist.\n(2) Die Gesellschaft trägt die Kosten (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten, Prüfungskosten sowie Vergütung für vorbereitende rechtliche und steuerliche Beratungstätigkeit) des Formwechsels im Hinblick auf die im Zuge des Formwechsels bei der Gesellschaft entstehende Kapitalrücklage gemäß § 272 Abs. 2 Nr. 4 HGB als Gründungskosten im Betrag von bis zu EUR 10.000, in jedem Fall jedoch lediglich bis zu einem Betrag, der das zur Deckung des Stammkapitals erforderliche Gesellschaftsvermögen um einen Betrag von höchstens EUR 10.000 (= 10 % des Stammkapitals) mindert, von künftigen Kapitalerhöhungen in voller Höhe sowie deren Durchführung (Übernahmeerklärung und ggf. Erfüllung) bis zu höchstens 10 % bezogen auf den Kapitalerhöhungsbetrag nebst eventuellem Agio oder Rücklage.\n(3) (Historische) Angaben (§ 243 Abs. 1 S. 2 Var. 2 UmwG) zu den Kosten der erstmaligen Gründung als Real Exchange AG: \"§ 17.1 Die Kosten der Gründung der Gesellschaft (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten, Prüfungskosten sowie ggf. Vergütung für vorbereitende Beratungstätigkeit) bis zu höchstens 10.000,00 EUR gehen zu Lasten der Gesellschaft. § 17.2 Die Gesellschaft trägt auch die Kosten von Kapitalerhöhungen (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten, Prüfungskosten sowie ggf. Vergütung für vorbereitende Beratungstätigkeit) und ihrer Durchführung (Zeichnung und ggf. Erfüllung) bis zu höchstens 10 % des Kapitalerhöhungsbetrages nebst Agio und Rücklage.\"",
+    "entities": [
+        {
+            "id": 3465,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 3466,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 584
+        },
+        {
+            "id": 3467,
+            "label": "Subsection",
+            "start_offset": 0,
+            "end_offset": 1382
+        },
+        {
+            "id": 3468,
+            "label": "Subsection",
+            "start_offset": 1383,
+            "end_offset": 2076
+        },
+        {
+            "id": 3469,
+            "label": "Schlussbestimmungen",
+            "start_offset": 3,
+            "end_offset": 22
+        },
+        {
+            "id": 3470,
+            "label": "Schlussbestimmungen",
+            "start_offset": 23,
+            "end_offset": 2076
+        },
+        {
+            "id": 3471,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2076
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Schlussbestimmungen (1) Sollte eine in diesem Sozialvertrag enthaltene Bestimmung unwirksam sein oder werden, so bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt. Vielmehr ist die betreffende Bestimmung so auszulegen oder zu ersetzen, dass der damit verfolgte wirtschaftliche Zweck soweit wie möglich erreicht wird.Es ist der ausdrückliche Wille der Aktionäre, dass diese Abfindungsklausel nicht zu einer bloßen Umkehr der Beweislast führt, sondern zu einer vollständigen Aufhebung des § 139 BGB. (2) Die Gesellschaft trägt die Kosten (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten, Prüfungskosten sowie Ersatz für vorbereitende Rechts- und Steuerberatungstätigkeiten) des Formwechsels in der HinteAuf jeden Fall jedoch bis zu einem Betrag, der das zur Deckung des Grundkapitals erforderliche Kapital der Gesellschaft um maximal EUR 10.000 (= 10 % des Grundkapitals) aus der künftigen Kapitalerhöhung reduziert.(3) (Historische) Information (§ 243 Abs. 1 S. 2 Var. 2 UmwG) über die Kosten der ersten Gründung als Real Exchange AG: \"§ 17.1 Die Kosten der Gründung der Gesellschaft (Gerichtsgebühren, Veröffentlichungskosten, Notar)Bis zu einem Höchstbetrag von 100,000,00 EUR wird die Gesellschaft in Rechnung gestellt. § 17.2 Die Gesellschaft trägt auch die Kosten für Kapitalerhöhungen (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten, Prüfungskosten sowie gegebenenfalls Vergütung für vorbereitende Beratungstätigkeiten) und deren Durchführung (Zeichnung und ggf. Erfüllung).bis zu einem Höchstbetrag von 10 % der Kapitalerhöhung, zusammen mit einer Prämie und Reserve.\""
+}

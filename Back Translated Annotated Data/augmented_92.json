@@ -1,0 +1,63 @@
+{
+    "id": 622,
+    "text": "§ 3 Kapital und Gesellschafter (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00 (i.W. \nEuro fünfundzwanzigtausend ) und wird wie folgt übernommen:  Die Gesellschaft in Firma Clock Tower Capital GmbH übernimmt 12.500 Geschäftsanteile mit je einem Nennbetrag in Höhe von € 1,00 (i.W. \nEuro eins) (Geschäftsanteile Nrn. 1-12.500) (Summe der Nennbeträge der Geschäftsanteile: € 12.500,00). \nDie Gesellschaft in Firma J. \nSchrull GmbH übernimmt 12.500 Geschäftsanteile mit je einem Nennbetrag in Höhe von € 1,00 (i.W. \nEuro eins) (Geschäftsanteile Nrn. 12.501-25.000) (Summe der Nennbeträge der Geschäftsanteile: € 12.500,00). (2) Die Leistungen auf die übernommenen Geschäftsanteile sind jeweils sofort zu 50 % in bar zu bewirken. \nDie Restbeträge sind auf Anforderung der Gesellschaft fällig.",
+    "entities": [
+        {
+            "id": 1012,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1017,
+            "label": "Stammeinlagen",
+            "start_offset": 129,
+            "end_offset": 629
+        },
+        {
+            "id": 1013,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 629
+        },
+        {
+            "id": 1014,
+            "label": "Subsection",
+            "start_offset": 631,
+            "end_offset": 798
+        },
+        {
+            "id": 1016,
+            "label": "Stammkapital",
+            "start_offset": 31,
+            "end_offset": 630
+        },
+        {
+            "id": 1018,
+            "label": "Stammeinlagen",
+            "start_offset": 16,
+            "end_offset": 31
+        },
+        {
+            "id": 1019,
+            "label": "Stammeinlagen",
+            "start_offset": 671,
+            "end_offset": 798
+        },
+        {
+            "id": 1020,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 798
+        },
+        {
+            "id": 1015,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 12
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Kapital und Partner (1) Das Grundkapital der Gesellschaft beträgt € 25.000,00 (d.h. EUR 25.500 ) und wird wie folgt übernommen: Die Gesellschaft in der Gesellschaft Clock Tower Capital GmbH erwirbt 12.500 Aktien mit einem Nennbetrag von € 1,00 (d.h. EUR eins) (Geschäftsanteile Nr. 1-12.500) (Summe der Nennbeträge der Aktien: € 12.500,00).Die Gesellschaft J. Schrull GmbH erwirbt 12.500 Aktien jeweils mit einem Nennbetrag von 1,00 € (d.h. Euro eins) (Geschäftsanteile Nr. 12.501-25000) (Summe aus den Nennbeträgen der Aktien: 12.500,00 €). (2) Die Vorteile auf die erworbenen Aktien müssen sofort zu 50 % in bar erfolgen. Die übrigen Beträge sind auf Verlangen der Gesellschaft fällig."
+}

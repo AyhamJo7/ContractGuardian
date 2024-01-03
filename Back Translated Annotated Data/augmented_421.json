@@ -1,0 +1,75 @@
+{
+    "id": 949,
+    "text": "§5 Geschäftsführung und Vertretung 1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. 2. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinschaftlich oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. 3. Jedem Geschäftsführer kann Einzelvertretungsbefugnis und Befreiung von den Beschränkungen des § 181 BGB erteilt werden, sodass er die Gesellschaft bei Rechtsgeschäften mit sich selbst im eigenen Namen oder als Vertreter eines Dritten vertreten kann. 4. Die vorstehenden Bestimmungen finden auch auf Liquidatoren Anwendung. 5. Gesellschaftern und Geschäftsführern kann Befreiung vom Wettbewerbsverbot erteilt werden, über Art, Umfang und Modalitäten der Befreiung beschließen die Gesellschafter mit einfacher Mehrheit.",
+    "entities": [
+        {
+            "id": 3369,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3375,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3379,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 880
+        },
+        {
+            "id": 3370,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 94
+        },
+        {
+            "id": 3371,
+            "label": "Subsection",
+            "start_offset": 95,
+            "end_offset": 359
+        },
+        {
+            "id": 3372,
+            "label": "Subsection",
+            "start_offset": 360,
+            "end_offset": 611
+        },
+        {
+            "id": 3373,
+            "label": "Subsection",
+            "start_offset": 613,
+            "end_offset": 685
+        },
+        {
+            "id": 3374,
+            "label": "Subsection",
+            "start_offset": 686,
+            "end_offset": 880
+        },
+        {
+            "id": 3376,
+            "label": "Vertretung",
+            "start_offset": 24,
+            "end_offset": 35
+        },
+        {
+            "id": 3377,
+            "label": "Vertretung",
+            "start_offset": 98,
+            "end_offset": 880
+        },
+        {
+            "id": 3378,
+            "label": "Geschäftsführung",
+            "start_offset": 35,
+            "end_offset": 359
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Leitung und Vertretung 1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. 2. Wird nur ein Geschäftsführer bestellt, vertritt er das Unternehmen allein. Werden mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer zusammen mit einem Geschäftsführer vertreten. 3.4. Die vorstehenden Bestimmungen gelten auch für Liquidatoren. 5. Aktionäre und Geschäftsführer können von dem Wettbewerbsverbot befreit werden, was Art, Umfang und Umfang des Vertrages betrifft. 5. Aktionäre und Geschäftsführer können von dem Wettbewerbsverbot befreit werden.Die Ausnahmeregelungen werden von den Aktionären mit einfacher Mehrheit beschlossen."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 834,
+    "text": "§ 14 Jahresabschluss, Gewinnverwendung (1) Der Jahresabschluss ist von der Geschaftsfuhrung innerhalb der gesetzlichen Fristen auf­ zustellen. \nFur den Fall, dass der Jahresabschluss durch einen Abschlussprufer gepruft wird, ist der Jahresabschluss der Gesellschafterversammlung unverzOglich nach Vorlage des Prufungsberichtes zur Feststellung vorzulegen, im Obrigen unverzuglich nach Aufstel­ lung des Jahresabschlusses. (2) Fur die Gewinnverteilung gilt § 29 GmbHG. (3) Auf die Gewinnverteilung anzurechnende Vorabausschottungen sind auf Grund eines Ge­ sellschafterbeschlusses moglich.",
+    "entities": [
+        {
+            "id": 2551,
+            "label": "Gewinnverteilung",
+            "start_offset": 426,
+            "end_offset": 588
+        },
+        {
+            "id": 2545,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 2552,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 588
+        },
+        {
+            "id": 2546,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 421
+        },
+        {
+            "id": 2547,
+            "label": "Subsection",
+            "start_offset": 422,
+            "end_offset": 588
+        },
+        {
+            "id": 2548,
+            "label": "Jahresabschluss",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 2549,
+            "label": "Jahresabschluss",
+            "start_offset": 43,
+            "end_offset": 420
+        },
+        {
+            "id": 2550,
+            "label": "Gewinnverteilung",
+            "start_offset": 22,
+            "end_offset": 39
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Jahresabschluss, Gewinnverwendung (1) Der Jahresabschluss muss von der Gesellschaft innerhalb der gesetzlichen Fristen zur Verfügung gestellt werden. Im Falle einer Abschlussprüfung durch eine Abschlussprüfung ist der Jahresabschluss unmittelbar nach Vorlage des Prüfungsberichts, unverzüglich nach Vorlage des Jahresabschlusses, der Hauptversammlung vorzulegen.(2) Für die Gewinnausschüttung gilt § 29 GmbHG. (3) Vorläufige Abschottungen für die Gewinnausschüttung sind auf der Grundlage einer Gesellschaftsentscheidung möglich."
+}

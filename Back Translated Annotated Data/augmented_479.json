@@ -1,0 +1,45 @@
+{
+    "id": 1016,
+    "text": "§ 7 Schlussbestimmungen (1) Sollte eine in diesem Gesellschaftsvertrag enthaltene Bestimmung unwirksam sein oder werden, so soll die Wirksamkeit der übrigen Bestimmungen hiervon unberührt bleiben. Die betreffende Bestimmung ist vielmehr so auszulegen oder zu ersetzen, dass der mit ihr erstrebte wirtschaftliche Zweck nach Möglichkeit erreicht wird. Dasselbe gilt sinngemäß für die Ausfüllung von Regelungslücken. Es ist der ausdrückliche Wille der Gesellschafter, dass diese salvatorische Klausel keine bloße Beweislastumkehr zur Folge hat, sondern § 139 BGB insgesamt abbedungen ist. (2) Die Gesellschaft trägt die Kosten (Gerichtsgebühren, Notarkosten, Bankgebühren für das Konto der Gesellschaft sowie ggf. Vergütung für vorbereitende Beratungstätigkeit) - ihrer Gründung bis zu höchstens EUR 2.500,00 (inkl. USt.), - von künftigen Kapitalerhöhungen in voller Höhe sowie deren Durchführung (Übernahmeerklärung und ggf. Erfüllung) bis zu höchstens 10 % bezogen auf den Kapitalerhöhungsbetrag nebst evtl. Agio oder Rücklage.",
+    "entities": [
+        {
+            "id": 3823,
+            "label": "Schlussbestimmungen",
+            "start_offset": 4,
+            "end_offset": 24
+        },
+        {
+            "id": 3820,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 3821,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 584
+        },
+        {
+            "id": 3822,
+            "label": "Subsection",
+            "start_offset": 586,
+            "end_offset": 1026
+        },
+        {
+            "id": 3825,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1026
+        },
+        {
+            "id": 3824,
+            "label": "Schlussbestimmungen",
+            "start_offset": 24,
+            "end_offset": 1026
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Schlussbestimmungen (1) Sollte eine in diesem Sozialvertrag enthaltene Bestimmung unwirksam sein oder werden, so bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt. Vielmehr ist die betreffende Bestimmung so auszulegen oder zu ersetzen, dass der von ihr angestrebte wirtschaftliche Zweck soweit wie möglich erreicht wird. Gleiches gilt sinngemäß für den Abschluss des Vertrages.Es ist der ausdrückliche Wille der Aktionäre, dass diese Abfindungsklausel nicht zu einer bloßen Umkehr der Beweislast führt, sondern zu einer vollständigen Aufhebung des § 139 BGB. (2) Die Gesellschaft trägt die Kosten (Gerichtsgebühren, Notarkosten, Bankgebühren für das Konto des Unternehmens und gegebenenfalls Vergütung für vorbereitende Beratungstätigkeiten) - deren Einrichtung bis zu einem Höchstbetrag von 2,5 EUR00,00 (inkl. MwSt.), - von künftigen Kapitalerhöhungen in voller Höhe sowie deren Ausführung (Annahmeerklärung und ggf. Erfüllung) bis zu einem Höchstbetrag von 10 % in Bezug auf den Kapitalerhöhungsbetrag und ggf. Agio oder Rücklage."
+}

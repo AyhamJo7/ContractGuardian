@@ -1,0 +1,39 @@
+{
+    "id": 970,
+    "text": "§ 7 Bekanntmachungen\n\nDie Bekanntmachungen der Gesellschaft erfolgen nur im elektronischen Bundesanzeiger für die Bundesrepublik Deutschland.",
+    "entities": [
+        {
+            "id": 3518,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 141
+        },
+        {
+            "id": 3517,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 3515,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3516,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 141
+        },
+        {
+            "id": 3519,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 141
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Ankündigungen Die Ankündigungen der Gesellschaft erfolgen nur im elektronischen Bundesanzeiger für die Bundesrepublik Deutschland."
+}

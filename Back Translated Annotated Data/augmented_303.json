@@ -1,0 +1,15 @@
+{
+    "id": 837,
+    "text": "Gesellschaftsvertrag",
+    "entities": [
+        {
+            "id": 2566,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Sozialvertrag"
+}

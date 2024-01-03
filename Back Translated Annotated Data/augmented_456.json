@@ -1,0 +1,87 @@
+{
+    "id": 1006,
+    "text": "§ 9 Jahresabschluss, Gewinnverwendung\n\n(1) Der Jahresabschluss (Bilanz mit Gewinn- und Verlustrechnung) sowie der Lagebericht — soweit gesetzlich erforderlich — ist von der Geschäftsführung innerhalb von drei Monaten nach Ende eines jeden Geschäftsjahres aufzustellen.\n\n(2) Der Jahresabschluss ist dem Abschlussprüfer zur Prüfung vorzulegen. Die Geschäftsführer haben den Gesellschaftern den Jahresabschluss und den Lagebericht gemeinsam mit dem schriftlichen Prüfungsbericht des Abschlussprüfers unverzüglich nach Fertigstellung mit ihren Vorschlägen zur Gewinnverwendung zur Beschlussfassung vorzulegen.\n\n(3) Der Jahresabschluss ist entsprechend den Grundsätzen ordnungsgemäßer Buchführung so zu fertigen, dass die Handelsbilanz gleichzeitig als Steuerbilanz Verwendung finden kann. Die gesetzlichen Bestimmungen der Bilanzierung und Prüfung des Jahresabschlusses bleiben unberührt.\n\n(4) Die Gesellschafterversammlung beschließt über die Verwendung des sich aus der Jahresbilanz ergebenden Jahresüberschusses zuzüglich eines Gewinnvortrages abzüglich eines Verlustvortrages. Sie kann Beträge in Gewinnrücklagen einstellen oder als Gewinn vortragen oder ganz oder teilweise an die Gesellschafter ausschütten.\n\n(5) Ausgeschüttete Gewinne sind auf die Gesellschafter nach dem Verhältnis ihrer Geschäftsanteile zu verteilen.",
+    "entities": [
+        {
+            "id": 3750,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 268
+        },
+        {
+            "id": 3751,
+            "label": "Subsection",
+            "start_offset": 270,
+            "end_offset": 605
+        },
+        {
+            "id": 3753,
+            "label": "Subsection",
+            "start_offset": 886,
+            "end_offset": 1209
+        },
+        {
+            "id": 3755,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 3752,
+            "label": "Subsection",
+            "start_offset": 607,
+            "end_offset": 884
+        },
+        {
+            "id": 3754,
+            "label": "Subsection",
+            "start_offset": 1211,
+            "end_offset": 1322
+        },
+        {
+            "id": 3756,
+            "label": "Jahresabschluss",
+            "start_offset": 39,
+            "end_offset": 268
+        },
+        {
+            "id": 3757,
+            "label": "Jahresabschluss",
+            "start_offset": 270,
+            "end_offset": 605
+        },
+        {
+            "id": 3758,
+            "label": "Jahresabschluss",
+            "start_offset": 607,
+            "end_offset": 884
+        },
+        {
+            "id": 3759,
+            "label": "Gewinnverteilung",
+            "start_offset": 886,
+            "end_offset": 1209
+        },
+        {
+            "id": 3760,
+            "label": "Gewinnverteilung",
+            "start_offset": 1211,
+            "end_offset": 1322
+        },
+        {
+            "id": 3761,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1322
+        },
+        {
+            "id": 3749,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Jahresabschluss, Gewinnauslastung (1) Der Jahresabschluss (Bilanz mit Gewinn- und Verlustrechnung) und der Lagebericht müssen, soweit gesetzlich vorgeschrieben, von der Geschäftsleitung innerhalb von drei Monaten nach Ablauf eines jeden Geschäftsjahres erstellt werden. (2) Der Jahresabschluss ist dem Abschlussprüfer zur Prüfung vorzulegen.(3) Der Jahresabschluß ist nach den Grundsätzen der ordnungsgemäßen Rechnungsführung so zu erstellen, daß die Handelsbilanz gleichzeitig als Steuersaldo verwendet werden kann.(4) Die Hauptversammlung entscheidet über die Verwendung des Jahresüberschusses aus der Jahresbilanz zuzüglich eines Gewinnvortrags abzüglich eines Verlustvortrags. Sie kann Beträge in Gewinnrücklagen festsetzen oder als Gewinne machen oder sie den Aktionären ganz oder teilweise zur Verfügung stellen.(5) Die ausgeschütteten Gewinne werden nach dem Anteil ihrer Anteile auf die Aktionäre ausgeschüttet."
+}

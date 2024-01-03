@@ -1,0 +1,81 @@
+{
+    "id": 678,
+    "text": "§5 Geschaftsfiihrung, Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschaftsfiihrer. (2) Die Gesellschaft wird durch einen Geschaftsfiihrer allein vertreten, wenn er alleiniger Geschaftsfiihrer ist oder wird bzw. durch Gesellschafterbeschluss zur Einzelvertretung ermachtigt ist. \nIm Ubrigen wird die Gesellschaft gemeinsam durch zwei Geschaftsfiih­ rer oder durch einen Geschaftsfiihrer gemeinsam mit einem Prokuristen vertreten. (3) Durch Gesellschafterbeschluss konnen einzelne oder alle Geschaftsfiihrer von dem Ver­ bot befreit werden, die Gesellschaft auch bei solchen Rechtsgeschaften zu vertreten, die sie mit sich selbst oder mit einem von ihnen vertretenen Dritten abschlieBen (Befreiung von den Beschrankungen des § 181 BGB). (4) Fiir die Vertretungsbefugnisse der Liquidatoren gelten die Regelungen iiber die Ge­ schaftsfiihrer entsprechend. (5) Durch Gesellschafterbeschluss kann eine Geschaftsordnung fiir die Geschaftsfiihrer er­ lassen werden.",
+    "entities": [
+        {
+            "id": 1422,
+            "label": "Subsection",
+            "start_offset": 747,
+            "end_offset": 863
+        },
+        {
+            "id": 1423,
+            "label": "Subsection",
+            "start_offset": 864,
+            "end_offset": 969
+        },
+        {
+            "id": 1425,
+            "label": "Geschäftsführung",
+            "start_offset": 37,
+            "end_offset": 93
+        },
+        {
+            "id": 1428,
+            "label": "Vertretung",
+            "start_offset": 95,
+            "end_offset": 969
+        },
+        {
+            "id": 1418,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 1419,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 94
+        },
+        {
+            "id": 1420,
+            "label": "Subsection",
+            "start_offset": 95,
+            "end_offset": 440
+        },
+        {
+            "id": 1421,
+            "label": "Subsection",
+            "start_offset": 441,
+            "end_offset": 746
+        },
+        {
+            "id": 1424,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 1426,
+            "label": "Geschäftsführung",
+            "start_offset": 99,
+            "end_offset": 440
+        },
+        {
+            "id": 1427,
+            "label": "Vertretung",
+            "start_offset": 22,
+            "end_offset": 33
+        },
+        {
+            "id": 1429,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 969
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Unternehmensführung, Vertretung (1) Die Gesellschaft hat ein oder mehrere Mitglieder. (2) Die Gesellschaft ist allein durch ein Mitglied vertreten, wenn sie allein Mitglied der Gesellschaft ist oder wird oder wenn sie befugt ist, die Gesellschaft einzeln durch Entscheidung des Aktionärs zu vertreten. Im Übrigen ist die Gesellschaft gemeinsam durch zwei Mitglieder oder durch ein Mitglied der Gesellschaft vertreten.(3) Einzelne oder alle Gesellschafter der Gesellschaft können von der Pflicht zur Vertretung der Gesellschaft auch in solchen juristischen Personen befreit werden, die sie mit sich selbst oder mit einem durch sie vertretenen Dritten schließen (Ausnahme von den Beschränkungen des § 181 BGB). (4) Die Befugnisse der Liquidatoren zur Vertretung der Gesellschaft unterliegen dem Recht der Mitgliedstaaten.Die Vorschriften für Gesellschaften können durch eine Entscheidung der Gesellschafter geändert werden."
+}

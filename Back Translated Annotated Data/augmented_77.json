@@ -1,0 +1,75 @@
+{
+    "id": 592,
+    "text": "§ 4 Dauer der Gesellschaft, Kündigung l. \nDie Gesellschaft begimit mit dem Tage ihrer Eintragung im Handelsregister. \nIhre Dauer ist unbestimmt. 2. \nDie Gesellschaft kann ndt einer Frist von sechs Monaten zum Ende eines Geschäftsjahres gekündigt werden. \nDie Kündigung ist an die Gesellschaft zu richten und hat durch eingeschriebenen Brief zu erfolgen.",
+    "entities": [
+        {
+            "id": 768,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 769,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 143
+        },
+        {
+            "id": 770,
+            "label": "Subsection",
+            "start_offset": 145,
+            "end_offset": 353
+        },
+        {
+            "id": 773,
+            "label": "Kündigung",
+            "start_offset": 28,
+            "end_offset": 38
+        },
+        {
+            "id": 774,
+            "label": "Kündigung",
+            "start_offset": 145,
+            "end_offset": 353
+        },
+        {
+            "id": 775,
+            "label": "Dauer",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 776,
+            "label": "Dauer",
+            "start_offset": 42,
+            "end_offset": 144
+        },
+        {
+            "id": 777,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 778,
+            "label": "Orange Flag",
+            "start_offset": 42,
+            "end_offset": 144
+        },
+        {
+            "id": 779,
+            "label": "Green Flag",
+            "start_offset": 28,
+            "end_offset": 38
+        },
+        {
+            "id": 780,
+            "label": "Green Flag",
+            "start_offset": 145,
+            "end_offset": 353
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Dauer der Gesellschaft, Kündigung l. Die Gesellschaft trägt das Datum ihrer Eintragung in das Handelsregister. Ihre Dauer ist unbestimmt. 2. Die Gesellschaft kann gekündigt werden und am Ende eines Geschäftsjahres eine Frist von sechs Monaten. Die Kündigung ist an die Gesellschaft zu richten und erfolgt per Einschreiben."
+}

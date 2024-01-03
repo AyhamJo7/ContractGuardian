@@ -1,0 +1,45 @@
+{
+    "id": 815,
+    "text": "§ 6 Vertretung (1) Die Gesellschaft wird durch einen Geschäftsführer einzeln vertreten, wenn er alleiniger Geschäftsführer ist oder wenn die Gesellschaft ihn zur Einzelvertretung ermächtigt hat. \nIm Übrigen wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten. (2) Durch Gesellschafterbeschluss kann einem oder mehreren Geschäftsführern Alleinvertretungsbefugnis und Befreiung von den Beschränkungen des § 181 BGB erteilt werden.",
+    "entities": [
+        {
+            "id": 2422,
+            "label": "Subsection",
+            "start_offset": 356,
+            "end_offset": 524
+        },
+        {
+            "id": 2423,
+            "label": "Vertretung",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 2424,
+            "label": "Vertretung",
+            "start_offset": 15,
+            "end_offset": 524
+        },
+        {
+            "id": 2425,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 524
+        },
+        {
+            "id": 2420,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2421,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 355
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Vertretung (1) Die Gesellschaft wird einzeln durch einen Geschäftsführer vertreten, wenn sie der alleinige Geschäftsführer ist oder wenn die Gesellschaft sie zur individuellen Vertretung bevollmächtigt hat. Darüber hinaus wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Bevollmächtigten vertreten. (2) Durch Aktionärsentscheidung kann eine Gesellschaft durch eineoder mehrere Geschäftsführer ausschließliche Vertretungs- und Befreiungsbefugnis von den Beschränkungen des § 181 BGB."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 930,
+    "text": "§ 4 Geschäftsjahr: 1. Das Geschäftsjahr der Gesellschaft entspricht dem Kalenderjahr. 2. Das erste Geschäftsjahr, ein Rumpfgeschäftsjahr, läuft von der Eintragung der Gesellschaft im Handelsregister bis zum darauf folgenden 31. Dezember.",
+    "entities": [
+        {
+            "id": 3225,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 3226,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 84
+        },
+        {
+            "id": 3227,
+            "label": "Subsection",
+            "start_offset": 86,
+            "end_offset": 237
+        },
+        {
+            "id": 3228,
+            "label": "Geschäftsjahr",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 3229,
+            "label": "Geschäftsjahr",
+            "start_offset": 19,
+            "end_offset": 237
+        },
+        {
+            "id": 3230,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 237
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Geschäftsjahr: 1. Das Geschäftsjahr der Gesellschaft entspricht dem Kalenderjahr. 2. Das erste Geschäftsjahr, ein Torsogeschäftsjahr, läuft von der Eintragung der Gesellschaft in das Handelsregister bis zum 31. Dezember."
+}

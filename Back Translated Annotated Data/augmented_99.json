@@ -1,0 +1,57 @@
+{
+    "id": 629,
+    "text": "§ 10 Sonstiges (1) Bekanntmachungen erfolgen nur im Bundesanzeiger. (2) Die Gesellschafter unterliegen keiner Wettbewerbsbeschränkung. (3) Für die Aufstellung und Feststellung des Jahresabschlusses sowie für die Gewinnverwendung gelten die gesetzlichen Bestimmungen. \nDie Gesellschafter können alljährlich mit Zustimmung der beeinträchtigten Gesellschafter über eine von den Beteiligungsverhältnissen abweichende Gewinnverteilung beschließen. (4) Die mit der Gesellschaftsgründung entstehenden Notar-, Gerichts- und Veröffentlichungskosten trägt die Gesellschaft bis zur Höhe von € 2.500,00.",
+    "entities": [
+        {
+            "id": 1072,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1073,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 67
+        },
+        {
+            "id": 1074,
+            "label": "Subsection",
+            "start_offset": 68,
+            "end_offset": 134
+        },
+        {
+            "id": 1075,
+            "label": "Subsection",
+            "start_offset": 135,
+            "end_offset": 442
+        },
+        {
+            "id": 1076,
+            "label": "Subsection",
+            "start_offset": 443,
+            "end_offset": 591
+        },
+        {
+            "id": 1077,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 1078,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 15,
+            "end_offset": 591
+        },
+        {
+            "id": 1079,
+            "label": "Green Flag",
+            "start_offset": 1,
+            "end_offset": 591
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Sonstige (1) Ankündigungen erfolgen nur im Bundesanzeiger. (2) Die Aktionäre unterliegen keiner Wettbewerbsbeschränkung. (3) Die gesetzlichen Bestimmungen gelten für die Erstellung und Bestimmung des Jahresabschlusses und für die Nutzung des Gewinns. Die Aktionäre können mit Zustimmung der betroffenen Aktionäre jedes Jahr auf Jahresbasis über die Beteiligung der Aktionäre entscheiden.(4) Die Gesellschaft trägt die Notar-, Gerichts- und Veröffentlichungskosten, die sich aus der Gründung der Gesellschaft ergeben, in Höhe von € 2.500,00."
+}

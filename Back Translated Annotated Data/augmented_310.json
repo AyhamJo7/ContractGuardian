@@ -1,0 +1,57 @@
+{
+    "id": 844,
+    "text": "§ 7 Jahresabschluss, Gewinnverwendung 7.1 Die GeschaftsfOhrung hat gem. § 42, 42 a GmbHG entspre­ chend § 242, 264 HGB den Jahresabschluss - Bilanz nebst Gewinn- und Verlustrechnung - fur das abgelaufene Geschafts­ jahr nebst Lagebericht aufzustellen, sofern gesetzlich vorge­ schrieben. 7 .2 Ober die Verwendung des Ergebnisses ist im Rahmen des § 29 GmbHG durch Beschluss zu entscheiden. § 29 Abs. 4 GmbHG bleibt unberOhrt.",
+    "entities": [
+        {
+            "id": 2613,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 2615,
+            "label": "Subsection",
+            "start_offset": 288,
+            "end_offset": 425
+        },
+        {
+            "id": 2617,
+            "label": "Jahresabschluss",
+            "start_offset": 38,
+            "end_offset": 286
+        },
+        {
+            "id": 2618,
+            "label": "Gewinnverteilung",
+            "start_offset": 21,
+            "end_offset": 38
+        },
+        {
+            "id": 2619,
+            "label": "Gewinnverteilung",
+            "start_offset": 288,
+            "end_offset": 425
+        },
+        {
+            "id": 2614,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 287
+        },
+        {
+            "id": 2616,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 2620,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 425
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Jahresabschluss, Gewinnauslastung 7.1 Nach § 42, 42 a GmbHG hat die Gesellschaft den Jahresabschluss - Bilanz zusammen mit Gewinn- und Verlustrechnung - für das abgelaufene Geschäftsjahr zusammen mit dem Lagebericht, soweit gesetzlich vorgeschrieben, zu erstellen. 7.2 Die Verwendung des Ergebnisses ist durch Entscheidung im Rahmen des § 29 GmbHG zu entscheiden. § 29 Abs.4 GmbHG bleibt unverändert."
+}

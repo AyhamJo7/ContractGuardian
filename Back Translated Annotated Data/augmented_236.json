@@ -1,0 +1,45 @@
+{
+    "id": 784,
+    "text": "§ 20 Schriftform Alle das Gesellschaftsverhältnis betreffenden Vereinbarungen zwischen Gesellschaftern oder zwischen Gesellschaft und Gesellschaftern bedürfen zu ihrer Wirksamkeit der Schriftform, soweit nicht kraft Gesetzes notarielle Beurkundung vorgeschrieben ist. \nDas gilt auch für einen etwaigen Verzicht auf das Erfordernis der Schriftform.",
+    "entities": [
+        {
+            "id": 2188,
+            "label": "Subsection",
+            "start_offset": 269,
+            "end_offset": 347
+        },
+        {
+            "id": 2186,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 2187,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 268
+        },
+        {
+            "id": 2190,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 17,
+            "end_offset": 347
+        },
+        {
+            "id": 2191,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 347
+        },
+        {
+            "id": 2189,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 17
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 20 Schriftliche Form Alle Vereinbarungen zwischen Partnern oder zwischen Unternehmen und Partnern im Zusammenhang mit der Beziehung müssen schriftlich sein, um wirksam zu sein, es sei denn, eine notarielle Zertifizierung ist gesetzlich vorgeschrieben.Dies gilt auch für einen Verzicht auf die Anforderung der Schriftform."
+}

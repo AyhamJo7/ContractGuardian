@@ -1,0 +1,57 @@
+{
+    "id": 1018,
+    "text": "§ 1 Firma, Sitz (1) Die Firma der Gesellschaft lautet: Verwaltung Rain Lake GmbH (2) Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 3827,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3828,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 80
+        },
+        {
+            "id": 3829,
+            "label": "Subsection",
+            "start_offset": 81,
+            "end_offset": 119
+        },
+        {
+            "id": 3830,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 3831,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 80
+        },
+        {
+            "id": 3832,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 3833,
+            "label": "Sitz",
+            "start_offset": 85,
+            "end_offset": 119
+        },
+        {
+            "id": 3834,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 119
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz (1) Gesellschaft der Gesellschaft ist: Verwaltung Rain Lake GmbH (2) Sitz der Gesellschaft ist Hamburg."
+}

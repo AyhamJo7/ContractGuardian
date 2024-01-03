@@ -1,0 +1,45 @@
+{
+    "id": 999,
+    "text": "§ 2 Gegenstand des Unternehmens\n\n(1) Der Gegenstand des Unternehmens ist der Handel und die Vermarktung von Lebensmitteln.\n\n(2) Die Gesellschaft ist zu allen nicht erlaubnispflichtigen Geschäften und Maßnahmen berechtigt, die unmittelbar oder mittelbar dem Gegenstand des Unternehmens dienen geeignet sind. Sie ist insbesondere berechtigt, im In- und Ausland Zweigniederlassungen zu errichten, sich an anderen Unternehmen gleicher oder verwandter Art im In- und Ausland zu beteiligen sowie solche Unternehmen zu erwerben, zu gründen und für eigene oder fremde Rechnung zu führen.",
+    "entities": [
+        {
+            "id": 3702,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 579
+        },
+        {
+            "id": 3697,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3698,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 122
+        },
+        {
+            "id": 3699,
+            "label": "Subsection",
+            "start_offset": 124,
+            "end_offset": 579
+        },
+        {
+            "id": 3700,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 3701,
+            "label": "Gegenstand",
+            "start_offset": 33,
+            "end_offset": 579
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Handel und die Vermarktung von Lebensmitteln. (2) Das Unternehmen hat Anspruch auf alle nicht lizenzierten Geschäfte und Maßnahmen, die sich unmittelbar oder mittelbar für den Gegenstand des Unternehmens eignen. Es ist insbesondere berechtigt, Zweigniederlassungen im In- und Ausland zu gründen, eineBeteiligung an anderen Unternehmen gleicher oder ähnlicher Art im In- und Ausland sowie Erwerb, Gründung und Führung solcher Unternehmen für eigene Rechnung oder für eigene Rechnung."
+}

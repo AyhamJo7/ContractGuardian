@@ -1,0 +1,45 @@
+{
+    "id": 721,
+    "text": "§4 Verfugungen uber Geschaftsanteile ( 1) Verfugungen jeglicher Art - einschlielslich der Belastung (insbesondere NieBbrauchbestellung oder Verpfandung) - Ober die Geschaftsanteile oder Teile davon unter Lebenden bedurfen zu ihrerWirksamkeit der Zustimmung jedes einzelnen Gesellschafters. (2) Beim Verkauf von Geschaftsanteilen haben die Obrigen Gesellschafter ein Vorkaufsrecht. \nDie Ausubungsfrist betragt einen Monat. \nDas Vorkaufsrecht steht jedem Gesellschafter einzeln zu. \nOben mehrere Gesellschafter das Vorkaufsrecht aus, erwerben sie die zu verauBernden Geschaftsanteile im Verhaltnis ihrer Beteiligungen zueinander. \nUnteilbare Spitzenbetrage ste­ hen dem Gesellschafter mit der niedrigsten Beteiligung zu. \nWird das Vor­ kaufsrecht ausgeObt, ist die Zustimmung zur Abtretung nach Abs. 1 nicht erforderlich, im Obrigen bleibt Abs. 1 unberOhrt.",
+    "entities": [
+        {
+            "id": 1740,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 1741,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 289
+        },
+        {
+            "id": 1742,
+            "label": "Subsection",
+            "start_offset": 290,
+            "end_offset": 855
+        },
+        {
+            "id": 1743,
+            "label": "Stammeinlagen",
+            "start_offset": 3,
+            "end_offset": 36
+        },
+        {
+            "id": 1745,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 855
+        },
+        {
+            "id": 1744,
+            "label": "Stammeinlagen",
+            "start_offset": 37,
+            "end_offset": 855
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Pflichten auf Gesellschaftsaktien ( 1) Alle Arten von Verpflichtungen - einschließlich der Belastung (insbesondere der Nutzungsauftrag oder das Pfand) - Sollten die Gesellschaftsanteile oder Teile davon unter lebenden Personen bei der Einholung der Zustimmung jedes einzelnen Aktionärs wirksam sein müssen. (2) Im Falle des Verkaufs von Gesellschaftsaktien haben die oben genannten Aktionäre ein Recht auf Vorkauf.Das Recht auf Vorkauf wird jedem Aktionär einzeln gewährt. Wenn mehrere Aktionäre das Recht auf Vorkauf ausüben, erwerben sie die zu erwerbenden Aktien im Verhältnis zwischen ihren Beteiligungen. Unteilbare Höchstbeträge werden dem Aktionär mit der niedrigsten Beteiligung gewährt. Wird das Recht auf Vorkauf entzogen, so gilt die Zustimmung zur Abtretung als im Einklang mit Absatz 1 dieses Artikels.nicht erforderlich ist, bleibt in Absatz 1 unerhört."
+}

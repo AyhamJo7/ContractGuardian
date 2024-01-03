@@ -1,0 +1,81 @@
+{
+    "id": 711,
+    "text": "§4 Geschaftsanteile; Verfugungen (1) Die Verfugung Ober Geschaftsanteile, insbesondere deren Abtretung oder Verpfandung, bedarf eines zustimmenden Gesellschafterbeschlusses, wenn die Gesellschaft mehr als einen Gesellschafter hat. (2) Mehrere Geschaftsanteile eines Gesellschafters, auf die die Einlagen voll erbracht sind, konnen mit dessen Zustimmung durch Gesellschafterbe­ schluss zusammengelegt werden. (3) Geschaftsanteile oder Teile davon konnen mit Zustimmung des betroffenen Gesellschafters durch Gesellschafterbeschluss gegen Abfindung eingezo­ gen werden.",
+    "entities": [
+        {
+            "id": 1668,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 1669,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 229
+        },
+        {
+            "id": 1670,
+            "label": "Subsection",
+            "start_offset": 231,
+            "end_offset": 407
+        },
+        {
+            "id": 1671,
+            "label": "Subsection",
+            "start_offset": 408,
+            "end_offset": 566
+        },
+        {
+            "id": 1672,
+            "label": "Stammeinlagen",
+            "start_offset": 3,
+            "end_offset": 19
+        },
+        {
+            "id": 1673,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 33
+        },
+        {
+            "id": 1674,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 33,
+            "end_offset": 230
+        },
+        {
+            "id": 1675,
+            "label": "Stammeinlagen",
+            "start_offset": 231,
+            "end_offset": 566
+        },
+        {
+            "id": 1676,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1677,
+            "label": "RED FLAG",
+            "start_offset": 231,
+            "end_offset": 566
+        },
+        {
+            "id": 1678,
+            "label": "Orange Flag",
+            "start_offset": 21,
+            "end_offset": 33
+        },
+        {
+            "id": 1679,
+            "label": "Orange Flag",
+            "start_offset": 33,
+            "end_offset": 230
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Aktien an der Gesellschaft; Bestimmungen (1) Die Lieferung von Aktien an der Gesellschaft, insbesondere deren Abtretung oder Verpfändung, bedarf einer Zustimmung der Aktionärsentscheidung, wenn die Gesellschaft mehr als einen Aktionär hat. (2) Mehrere Aktien an der Gesellschaft eines Aktionärs, bei dem die Einlagen vollständig getätigt wurden, können mit ihrer Zustimmung durch die Aktionärsentscheidung kombiniert werden.(3) Aktien oder Teile davon können mit Zustimmung des betreffenden Aktionärs gegen Abfindungen gezahlt werden."
+}

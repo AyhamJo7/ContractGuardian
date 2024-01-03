@@ -1,0 +1,69 @@
+{
+    "id": 842,
+    "text": "§ 5 Vertretung, Geschaftsfuhrung 5.1 Die Gesellschaft hat einen oder mehrere GeschaftsfOhrer. 1st nur ein Geschaftsf0hrer bestellt, so vertritt er die Gesellschaft allein. 5.2 Sind mehrere GeschaftsfOhrer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschaftstohrer oder durch einen GeschaftsfOhrer zusammen mit einem Prokuristen vertreten. 5.3 Durch Gesellschafterbeschluss konnen die GeschaftsfOhrer zur Alleinvertretung ermachtigt und auch van den Beschrankungen des § 181 BGB befreit werden. 5.4 Den Gesellschaftern und den Geschaftstohrern der Gesell­ schaft kann Befreiung vom Wettbewerbsverbot erteilt werden. \nArt und Umfang werden durch Gesellschafterbeschluss be­ stimmt.",
+    "entities": [
+        {
+            "id": 2592,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 2593,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 171
+        },
+        {
+            "id": 2594,
+            "label": "Subsection",
+            "start_offset": 172,
+            "end_offset": 355
+        },
+        {
+            "id": 2595,
+            "label": "Subsection",
+            "start_offset": 356,
+            "end_offset": 510
+        },
+        {
+            "id": 2597,
+            "label": "Vertretung",
+            "start_offset": 4,
+            "end_offset": 14
+        },
+        {
+            "id": 2598,
+            "label": "Geschäftsführung",
+            "start_offset": 16,
+            "end_offset": 33
+        },
+        {
+            "id": 2599,
+            "label": "Geschäftsführung",
+            "start_offset": 33,
+            "end_offset": 355
+        },
+        {
+            "id": 2600,
+            "label": "Vertretung",
+            "start_offset": 172,
+            "end_offset": 696
+        },
+        {
+            "id": 2596,
+            "label": "Subsection",
+            "start_offset": 511,
+            "end_offset": 696
+        },
+        {
+            "id": 2601,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 696
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Vertretung, Geschäftsführung 5.1 Die Gesellschaft hat ein oder mehrere Mitglieder. Wird nur ein Mitglied bestellt, so vertritt sie die Gesellschaft allein. 5.2 Werden mehrere Mitglieder bestellt, so wird die Gesellschaft gemeinsam durch zwei Mitglieder oder durch ein Mitglied der Gesellschaft zusammen mit einem Vertreter vertreten. 5.3 Durch Entscheidung des Aktionärs wird die Gesellschaft von den Aktionären, der Gesellschafter und der Gesellschafter vertreten.5.4 Die Freistellung vom Wettbewerbsverbot kann den Aktionären und den Aktionären der Gesellschaft gewährt werden. Art und Umfang der Vereinbarung werden durch die Entscheidung des Aktionärs bestimmt."
+}

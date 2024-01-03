@@ -1,0 +1,57 @@
+{
+    "id": 726,
+    "text": "§9 Gesellschafterbeschlusse (1) Gesellschafterbeschlusse werden in Gesellschafterversammlungen gefasst. \nGesellschafterbeschlusse konnen auch auP.ierhalb von Gesellschafterver­ sammlungen gefasst werden, wenn alle Gesellschafter an der Beschluss­ fassung teilnehmen und kein Gesellschafter gegen diese Art der Beschluss­ fassung widerspricht: a. im Umlauf- und/oder Sternverfahren, schriftlich, durch Telefax, E-Mail sowie mundlich oder per Telefon- oder Videokonferenz, b. in kombinierten Verfahren, insbesondere durch Kombination einer Ver­ sammlung einzelner Gesellschafter mit einer - vorherigen, gleichzeiti­ gen oder nachtraglichen - Stimmabgabe der anderen Gesellschafter im Sinne und in der Form von lit. a) sowie durch eine Kombination ver­ schiedener Stimmabgabearten im Sinne von lit. a). (2) Gesellschafterbeschlusse bedurfen der einfachen Mehrheit der abgegebe­ nen Stimmen, sofern nicht das Gesetz oder dieser Gesellschaftsvertrag eine groP.iere Mehrheit vorschreiben. \nJe EUR 1,00 des Nennbetrags eines Geschaftsanteils gewahren eine Stimme. \nStimmenthaltungen zahlen als Nein-Stimmen. (3) Jeder Gesellschafter kann sich bei Beschlussen der Gesellschafter auf Grund Vollmacht vertreten lassen. \nDie Vollmacht bedarf der Textform. (4) Ein Gesellschafterbeschluss bedarf insbesondere zu folgenden MaP.inah­ men der Einstimmigkeit: a. \nAuflosung der Gesellschaft, b. \nBestellung und Abberufung von Geschaftsfuhrern und deren Vertre­ tungsmacht, c. \nAufstellung oder Anderung einer Geschaftsordnung fur die Geschafts­ fuhrung, d. \nZustimmung zu Verfugungen Ober Geschaftsanteile (§ 4 Abs. 1 ), e. \nFeststellung des Jahresabschlusses der Gesellschaft und Ergebnisver­ wendung.",
+    "entities": [
+        {
+            "id": 1784,
+            "label": "Subsection",
+            "start_offset": 800,
+            "end_offset": 1100
+        },
+        {
+            "id": 1785,
+            "label": "Subsection",
+            "start_offset": 1101,
+            "end_offset": 1244
+        },
+        {
+            "id": 1782,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 1786,
+            "label": "Subsection",
+            "start_offset": 1245,
+            "end_offset": 1686
+        },
+        {
+            "id": 1787,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 1788,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 28,
+            "end_offset": 1686
+        },
+        {
+            "id": 1783,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 798
+        },
+        {
+            "id": 1789,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1686
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Beschlüsse der Aktionäre (1) Beschlüsse der Aktionäre werden in den Hauptversammlungen getroffen. Beschlüsse der Aktionäre können auch außerhalb der Hauptversammlungen getroffen werden, wenn alle Aktionäre am Entscheidungsprozess teilnehmen und kein Partner sich gegen diese Art der Entscheidung entscheidet: a. in Rund- und/oder Sternverfahren, schriftlich, mittelsFax, E-Mail oder telefonisch oder per Videokonferenz, b. in kombinierten Verfahren, insbesondere durch die Kombination einer Sammlung einzelner Partner mit einer Abstimmung der anderen Partner im Sinne und in Form von lit. a) und durch eine Kombination verschiedener Abstimmungsmethoden im Sinne von lit. a).(2) Die Beschlüsse der Aktionäre waren von der einfachen Mehrheit der abgegebenen Stimmen erforderlich, es sei denn, das Gesetz oder dieser Gesellschaftsvertrag erforderte eine große Mehrheit. Eine Stimme wurde je 1,00 EUR des Nennbetrags einer Gesellschaftsaktie gewährt. Gegen die Stimmenzahlungen wurden Stimmenthaltungen abgegeben. (3) Jeder Aktionär kann sich im Falle von Aktionärsentscheidungen auf der Grundlage eines Stellvertreters vertreten lassen.(4) Insbesondere erfordert die Entscheidung eines Aktionärs Einstimmigkeit in folgenden Fragen: a. die Auflösung der Gesellschaft, b. die Ernennung und Entlassung von Gesellschaftern und deren Vertretungsmacht, c. die Einrichtung oder Änderung eines Gesellschaftskodexes für die Gesellschaft, d. h. die Genehmigung von Aktien an der Gesellschaft (§ 4 Abs.1 ), e. Bestimmung des Jahresabschlusses und des Gewinns und Verlusts der Gesellschaft."
+}

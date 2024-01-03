@@ -1,0 +1,45 @@
+{
+    "id": 670,
+    "text": "§14 Wettbewerbsverbot 1. \nDie Gesellschafter und Geschaftsfuhrer unterliegen einem Wettbewerbsverbot. \nDurch Ge­ sellschafterbeschluss kann ganz oder teilweise Befreiung hiervon erteilt werden. \nDer be­ troffene Gesellschafter hat hierbei kein Stimmrecht. 2. \nDie Gesellschafterin Deutsche HansaGT GmbH ist generell van einem Wettbewerbsverbot befreit.",
+    "entities": [
+        {
+            "id": 1364,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1365,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 254
+        },
+        {
+            "id": 1366,
+            "label": "Subsection",
+            "start_offset": 256,
+            "end_offset": 352
+        },
+        {
+            "id": 1367,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 1368,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 352
+        },
+        {
+            "id": 1369,
+            "label": "Green Flag",
+            "start_offset": 19,
+            "end_offset": 352
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Wettbewerbsverbot 1. Die Aktionäre und die Eigentümer der Gesellschaft unterliegen einer Wettbewerbsverbotspflicht. Diese Freistellung kann ganz oder teilweise durch Entscheidung der Aktionäre gewährt werden. 2. Der Aktionär Deutsche HansaGT GmbH ist grundsätzlich von einer Wettbewerbsverbotspflicht befreit."
+}

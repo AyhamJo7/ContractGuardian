@@ -1,0 +1,57 @@
+{
+    "id": 616,
+    "text": "§ 12 Abfindung (1) Sofern nach diesem Gesellschaftsvertrag eine Abfindung zu zahlen ist, erfolgt sie zum Verkehrswert des Geschäftsanteils ohne Berücksichtigung eines etwaigen Firmenwertes; am Ergebnis schwebender Geschäfte nimmt der ausscheidende Gesellschafter nicht teil. \nKann keine Einigung über den Wert erzielt werden, bestimmen zwei Schiedsgutachter innerhalb von zwei Monaten den Wert mit verbindlicher Wirkung für sämtliche Beteiligte, wobei jeweils einer der Beteiligten einen der Schiedsgutachter benennt. \nKönnen sich die Schiedsgutachter nicht einigen, bestimmt ein von der Handelskammer Hamburg benannter Gutachter innerhalb von weiteren zwei Monaten den Wert inner-  halb der Grenzen der beiden vorliegenden Gutachten mit verbindlicher Wirkung für sämtliche Beteiligte. \nDie Kosten der Gutachter sind zwischen der Gesellschaft und dem Ausscheidenden entsprechend § 91 f. \nZPO im Verhältnis des Obsiegens bzw. \nUnterliegens gegenüber der zunächst beanspruchten Abfindung zu verteilen. (2) Im Falle einer Einziehung oder Übertragung nach § 10 Abs. 2 Buchstabe a), b) und c) beträgt die Abfindung 2/3 des nach Absatz 1 zu berechnenden und festzustellenden Verkehrswertes. (3) Die Abfindung ist in höchstens vier gleichen Halbjahresraten zu zahlen. \nDie erste Rate ist spätestens sechs Monate nach dem Ausscheiden des Gesellschafters fällig. \nDer jeweilige Restbetrag ist mit 2 Prozentpunkten über dem Basiszinssatz zu verzinsen. \nDer Schuldner ist befugt, die Abfindung jederzeit ganz oder teilweise vorzeitig zu leisten. (4) Sollte im Einzelfall rechtskräftig festgestellt werden, dass die Abfindungsregelung nichtig oder unanwendbar ist, so ist die niedrigste noch zulässige Abfindung zu gewähren. \nAuch wenn über die Höhe der Abfindung gestritten wird, bleibt eine Einziehung wirksam und hat eine statt der Einziehung beschlossene Übertragung zu erfolgen. \nIm Fall der Übertragung hat der Schuldner Sicherheit nach den Vorschriften des BGB zu leisten, wobei eine selbstschuldnerische Bürgschaft eines im Inland zugelassenen Kreditinstituts ausreichend ist.",
+    "entities": [
+        {
+            "id": 965,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 970,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 971,
+            "label": "Abfindung",
+            "start_offset": 15,
+            "end_offset": 2072
+        },
+        {
+            "id": 972,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2072
+        },
+        {
+            "id": 966,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 999
+        },
+        {
+            "id": 967,
+            "label": "Subsection",
+            "start_offset": 1000,
+            "end_offset": 1184
+        },
+        {
+            "id": 968,
+            "label": "Subsection",
+            "start_offset": 1185,
+            "end_offset": 1534
+        },
+        {
+            "id": 969,
+            "label": "Subsection",
+            "start_offset": 1535,
+            "end_offset": 2072
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Abfindung (1) Ist eine Abfindung nach Maßgabe dieses Sozialvertrages zu leisten, so erfolgt die Abfindung ohne Berücksichtigung eines Geschäfts- oder Firmenwerts auf den wirtschaftlichen Wert des Geschäftsanteils; der scheidende Gesellschafter beteiligt sich nicht an den ausstehenden Geschäften. Ist über den Wert keine Einigung erzielt worden, so bestimmen zwei Schiedsexperten den Wert innerhalb von zwei Monaten.Können sich die Schiedsrichter nicht einigen, so bestimmt ein von der Handelskammer Hamburg bestellter Sachverständiger innerhalb von zwei Monaten den Wert im Rahmen der beiden verfügbaren Gutachten mit verbindlicher Wirkung für alle Beteiligten.b) und c) im Falle einer Einziehung oder Übertragung gemäß § 10 Absatz 2 Buchstaben a), b) und c) beträgt die Abfindung 2/3 des gemäß Absatz 1 zu berechnenden und zu bestimmenden Verkehrswerts. (3) Die Abfindung wird gemäß Absatz 1 berechnet.Die erste Rate ist spätestens sechs Monate nach dem Ausscheiden des Aktionärs aus der Gesellschaft fällig. Der verbleibende Betrag ist mit 2 Prozentpunkten über dem Basiszinssatz zu verzinsen. Der Schuldner ist berechtigt, die Entschädigung jederzeit ganz oder teilweise vorzeitig zu zahlen. (4) Wird in einem Rechtsfall festgestellt, dassDie Abfindungsregelung ist nichtig und nichtig oder nicht anwendbar, es wird die niedrigste noch zulässige Abfindung gewährt. Selbst wenn der Betrag der Abfindung angefochten wird, bleibt die Einziehung wirksam und statt der Einziehung erfolgt eine Abfindung. Im Falle der Überstellung hat der Schuldner die Sicherheit nach den Bestimmungen des BGB zu leisten, wobei eine SelbstschuldDie Garantie eines im Land zugelassenen Kreditinstituts reicht aus."
+}

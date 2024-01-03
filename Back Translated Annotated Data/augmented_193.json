@@ -1,0 +1,45 @@
+{
+    "id": 667,
+    "text": "§ 11 Erbfolge 1. \nBeim Tode eines Gesellschafters kann dessen Geschaftsanteil innerhalb von drei Monaten seit Bekanntwerden des Eintritts der Erbfolge eingezogen werden. \nDas gilt nicht, wenn der Geschaftsanteil des verstorbenen Gesellschafters auf andere Gesellschafter ubergeht. \nDie Gesellschaft kann stattdessen auch die Rechte aus § 1 O Absatz 6 dieses Vertrags geltend machen. 2. \nSind mehrere Personen zu Rechtsnachfolgern eines Gesellschafters berufen, haben sie die Rechte und Pflichten der Gesellschaft gegenuber durch einen gemeinschaftlichen Vertreter oder durch einen Testamentsvollstrecker erfullen zu lassen. \nSolange der Bevollmachtigte nicht bestellt ist, ruhen die Gesellschafterrechte mit Ausnahme des Gewinnbezugsrechts.",
+    "entities": [
+        {
+            "id": 1340,
+            "label": "Subsection",
+            "start_offset": 383,
+            "end_offset": 740
+        },
+        {
+            "id": 1341,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 1342,
+            "label": "Erbfolge",
+            "start_offset": 14,
+            "end_offset": 740
+        },
+        {
+            "id": 1338,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 1339,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 382
+        },
+        {
+            "id": 1343,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 740
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Nachfolge 1. Im Falle des Todes eines Partners kann sein Anteil an der Gesellschaft innerhalb von drei Monaten nach dem Zeitpunkt des Erwerbs der Erbschaft eingezogen werden. Dies gilt nicht, wenn der Anteil des verstorbenen Partners an andere Partner übergeht. Stattdessen kann die Gesellschaft auch die Rechte nach § 1 O Abs. 6 dieses Vertrages geltend machen. 2.Personen, die zu den Nachfolgern eines Partners bestellt werden, haben die Rechte und Pflichten der Gesellschaft, die von einem gemeinsamen Vertreter oder von einem Testamentsvollstrecker zu erfüllen sind. Solange der Bevollmächtigte nicht bestellt wird, bleiben die Rechte des Partners mit Ausnahme des Gewinnrechts."
+}

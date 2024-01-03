@@ -1,0 +1,51 @@
+{
+    "id": 723,
+    "text": "§6 Vertretung (1) 1st nur ein GeschaftsfOhrer bestellt, so vertritt er die Gesellschaft allein. \nSind mehrere GeschaftsfOhrer bestellt, so wird die Gesellschaft durch zwei Ge­ schaftsfOhrer gemeinschaftlich oder durch einen Geschaftsfuhrer gemein­ sam mit einem Prokuristen vertreten. (2) Die Gesellschafter konnen alien oder einzelnen Geschaftsfuhrern durch Be­ schluss Einzelvertretungsbefugnis erteilen. \nDurch Gesellschafterbeschluss konnen alle oder einzelne Geschaftsfuhrer von den Beschrankungen des § 181 BGB befreit werden. (3) Die vorstehenden Bestimmungen gelten entsprechend fur Liquidatoren.",
+    "entities": [
+        {
+            "id": 1753,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 1754,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 284
+        },
+        {
+            "id": 1755,
+            "label": "Subsection",
+            "start_offset": 285,
+            "end_offset": 532
+        },
+        {
+            "id": 1756,
+            "label": "Subsection",
+            "start_offset": 533,
+            "end_offset": 604
+        },
+        {
+            "id": 1757,
+            "label": "Vertretung",
+            "start_offset": 3,
+            "end_offset": 14
+        },
+        {
+            "id": 1758,
+            "label": "Vertretung",
+            "start_offset": 14,
+            "end_offset": 604
+        },
+        {
+            "id": 1759,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 604
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Vertretung (1) Wird nur ein Vertreter bestellt, so vertritt er die Gesellschaft allein. Werden mehrere Vertreter bestellt, so wird die Gesellschaft gemeinsam durch zwei Vertreter der Gesellschaft oder durch einen Vertreter der Gesellschaft zusammen mit einem Vertreter vertreten. (2) Die Aktionäre haben das Recht, die Gesellschaft einzeln durch Entscheidung zu vertreten.Von den Beschränkungen des § 181 BGB können alle oder einzelne Händler durch Entscheidung des Aktionärs befreit werden. (3) Die vorstehenden Bestimmungen gelten sinngemäß für Liquidatoren."
+}

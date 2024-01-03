@@ -1,0 +1,75 @@
+{
+    "id": 843,
+    "text": "§ 6· Gesellschafterversammlung 6.1 Die ordentliche Gesellschafterversammlung· findet in den ers­ ten neun Monaten eines Geschaftsjahres tor das jeweils abge­ laufene Geschaftsjahr statt. \nDie GeschaftsfOhrung beruft sie mit einer Frist van zwei Wochen unter. \nAngabe der Tagesord­ nung schriftlich ein,. \nDie Einberufung ist auch formlos moglich, wenn alle Gesellschafter einverstanden sind. 6.2 Jeweils 1,00 € des Stammkapitals gewahren eine Stimme. 6.3 Die Gesellschafterversammlung ist beschlussfahig, wenn min­ destens 60 % aller St'immen vertreten sind. \nWird diese Mehr­ heit nicht erreicht, so ist mit zweiwochiger Frist eine zweite Gesellschafterversammlung einzuberufen, die ohne Rucksicht auf das vertretene Gesellschaftskapital beschlussfahig ist. \nIn der erneuten Einladung ist darauf hinzuweisen. 6.4. \nAnstelle der Beschlussfassung in der Gesellschafterversamm­ lung ist eine schriftliche oder fernschriftliche Abstimmung der Gesellschafter zulassig, wenn samtliche Gesellschafter zuge­ stimmt haben. 6.5 Jeder Gesellschafter kann sich aufgrund schriftlicher Voll­ macht durch einen anderen Gesellschafter oder durch einen  kraft Amtes zur Berufsverschwiegenheit verpflichteten Dritten vertreten lassen. 6.6 Die Einberufung einer auBerordentlichen Gesellschafterver­ sammlung durch die GeschaftsfOhrung muss erfolgen, wenn Gesellschafter, die mindestens· 10 % des Stammkapitals ver­ treten, dies schriftlich verlangen. \nWeigert sich die Geschafts­ fuhrung, eine Gesellschafterversammlung einzuberufen, so konnen Gesellschafter, die mindestens 1 O % des Stammkapi­ tals vertreten, ihrerseits eine Gesellschafterversammlung durch Einschreibebrief mit einer Frist von mindestens vier Wo­ chen einberufen. 6. 7 BeschlOsse Ober Satzungsanderungen und Abweichungen von der Satzung im Einzelfall bedOrfen der notariellen Beurkun­ dung und einer Mehrheit van mindestens 75 % der abgegebe­ nen Stimmen § 53 Abs. 2 GmbHG.",
+    "entities": [
+        {
+            "id": 2602,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2603,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 391
+        },
+        {
+            "id": 2606,
+            "label": "Subsection",
+            "start_offset": 810,
+            "end_offset": 1014
+        },
+        {
+            "id": 2607,
+            "label": "Subsection",
+            "start_offset": 1015,
+            "end_offset": 1217
+        },
+        {
+            "id": 2608,
+            "label": "Subsection",
+            "start_offset": 1218,
+            "end_offset": 1714
+        },
+        {
+            "id": 2609,
+            "label": "Subsection",
+            "start_offset": 1716,
+            "end_offset": 1925
+        },
+        {
+            "id": 2611,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 31,
+            "end_offset": 1925
+        },
+        {
+            "id": 2612,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1925
+        },
+        {
+            "id": 2604,
+            "label": "Subsection",
+            "start_offset": 392,
+            "end_offset": 450
+        },
+        {
+            "id": 2610,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 5,
+            "end_offset": 30
+        },
+        {
+            "id": 2605,
+            "label": "Subsection",
+            "start_offset": 451,
+            "end_offset": 808
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6. Hauptversammlung 6.1 Die ordentliche Hauptversammlung findet in den ersten neun Monaten eines Geschäftsjahres, des Jahres der Gesellschaft, statt. Die Hauptversammlung beruft sie mit einer Frist von zwei Wochen ein. Die Tagesordnung ist schriftlich zu erteilen. Die Einberufung der Hauptversammlung ist auch informell möglich, wenn alle Gesellschafter zustimmen. 6.2 Jewee6.3 Die Aktionärsversammlung ist beschlussfähig, wenn mindestens 60% aller Mitglieder vertreten sind. Wird diese Mehrheit nicht erreicht, so ist eine zweite Aktionärsversammlung mit zwei Wochen Kündigung, d.h. ohne einen Blick auf das vertretene Grundkapital, einzuberufen.6.4. Anstelle der Entscheidung in der Aktionärsversammlung ist eine schriftliche oder Fernabstimmung der Aktionäre zulässig, wenn die Aktionäre der Vereinbarung zugestimmt haben. 6.5 Jeder Gesellschafter kann sich aufgrund schriftlicher Vervollständigung von einem anderen Gesellschafter oder durch ein Büro dem Berufsgeheimnis unterwerfen.6.6 Die Einberufung einer außerordentlichen Aktionärsversammlung durch die Gesellschaft muss stattfinden, wenn Aktionäre, die mindestens 10 % des Grundkapitals vertreten, dies schriftlich verlangen. Weigert sich die Gesellschaft, eine Aktionärsversammlung einzuberufen, haben Aktionäre, die mindestens 1 % des Grundkapitals vertreten, Anspruch auf ihr Grundkapital.6. 7. Dezember Ober Gesetzliche Änderungen und Abweichungen von den Statuten im Einzelfall bedOrfen der notarellen Beurkundung und einem Voordnung van mind.75 % der abgegebenen Verteilungen § 53 Abs. 2 GmbHG."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 774,
+    "text": "§10 Beschlüsse und Verhandlungen des Beirates Für Verhandlungen und Beschlüsse des Beirates gilt: a) Der Beirat wird durch den Vorsitzenden oder bei seiner Verhinderung durch seinen Stellvertreter einberufen. \nEr ist eirrzuberufen, wenn mindestens zwei Mitglieder des Beirates dies verlangen. \nIn dringenden Fällen kann ihn auch die Geschäftsführung einberufen. b) Der Beirat ist beschlussfähig, wenn mindestens drei seiner Mitglieder an der Beschlussfassung teilnehmen.  c) Der Beirat fasst seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei die der Geschäftsführung angehörenden Beiratsmitglieder in jedem Fall vorbehaltlich § 47 Abs. 4 GmblIG stimmberechtigt sind. \nDer Vorsitzende bestimmt die Art der Abstimmung (offen, geheim, schriftlich), soweit der Beirat nichts anderes beschließt. d) Sofern im Beirat ein Beschlussgegenstand - auch soweit er § 9 Abs. 3 (Beirat) dieses Gesellschaftsvertrages betrifft - auf Grund von Stimmengleichheit abgelehnt wurde, ist auf Verlangen eines Beiratsmitgliedes die Gesellschafterversammlung berechtigt, über diesen Beschlussgegenstand abschließend zu entscheiden. c) Der Beirat kann Beschlüsse auch durch mündliche, schriftliche, fernschriftliche oder telekopierte Stimmabgabe fassen, wenn kein Mitglied diesem Verfahren widerspricht. f) über die Sitzungen des Beirates ist eine Niederschrift anzufertigen, die der Vorsitzende zu unterzeichnen hat In der Niederschrift sind der Ort und der Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, der wesentliche Inhalt der Verhandlungen und die Beschlüsse des Beirates anzugeben. \nEin Verstoß gegen Satz 1 oder Satz 2 macht einen Beschluss nicht unwirksam_ Jedem Mitglied des Beirates ist eine Abschrift der Sitzungsniederschrift auszuhändigen. \nAbwesende Beiratsmitglieder können dadurch an der Beschlussfassung des Beirates teilnehmen, dass sie sich durch ein tmderes Beiratsmitglied vertreten lassen oder schriftliche Stimmabgaben übieutichen lassen. \nDie schriftlichen Stimmabgaben können durch andere Beiratsmitglieder überreicht werden. sie können auch durch Personen, die nicht dem Beirat angehören, übergeben werden, wenn diese hierzu schriftlich von dem abwesenden Beiratsmitglied ermächtigt worden sind.",
+    "entities": [
+        {
+            "id": 2114,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 45
+        },
+        {
+            "id": 2115,
+            "label": "Subsection",
+            "start_offset": 46,
+            "end_offset": 2238
+        },
+        {
+            "id": 2116,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 45
+        },
+        {
+            "id": 2117,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 46,
+            "end_offset": 2238
+        },
+        {
+            "id": 2118,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2238
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§10 Beschlüsse und Verhandlungen des Beirats Für die Verhandlungen und Beschlüsse des Beirats gilt: a) Der Beirat wird vom Vorsitzenden oder, falls er nicht vom Vorsitz vertreten ist, von seinem Stellvertreter einberufen. Er wird ernannt, wenn mindestens zwei Mitglieder des Beirats dies verlangen. In dringenden Fällen kann der Beirat auch den Beirat einberufen. b) Der Beirat kann entscheiden, obc) Der Beirat trifft seine Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei die Mitglieder des Vorstands in jedem Fall nach § 47 Abs. 4 Gmblig stimmberechtigt sind. Der Vorsitzende bestimmt die Art der Abstimmung (offen, geheim, schriftlich), es sei denn, der Beirat entscheidet anders.d) Soweit ein Entscheidungsgegenstand - auch in Bezug auf § 9 Abs. 3 (Beraterrat) dieses Gesellschaftsvertrags - auf der Grundlage gleicher Stimmen abgelehnt wurde, ist die Hauptversammlung berechtigt, auf Antrag eines Mitglieds des Beirats über diesen Entscheidungsgegenstand endgültig zu entscheiden. c) Der Beirat kann auch mündlich, schriftlich, im Fernsehen entscheiden.f) Es wird ein Protokoll über die Sitzungen des Beratenden Rates erstellt, das der Vorsitzende unterzeichnet; das Protokoll enthält den Ort und das Datum der Tagung, die Teilnehmer, die Tagesordnungspunkte, den wesentlichen Inhalt der Verhandlungen und die Beschlüsse des Beratenden Rates.Ein Verstoß gegen Satz 1 oder Satz 2 erlischt keine Entscheidung_ Jedes Mitglied des Beirats erhält eine Abschrift des Sitzungsprotokolls. Mitglieder, die nicht dem Beirat angehören, können an der Entscheidungsfindung des Beirats teilnehmen, indem sie sich durch ein Mitglied des Beirats oder durch schriftliche Abstimmung vertreten lassen.können von anderen Mitgliedern des Beirats abgegeben werden. Sie können auch von Personen, die nicht Mitglieder des Beirats sind, übergeben werden, wenn sie dazu vom abwesenden Mitglied des Beirats schriftlich ermächtigt worden sind."
+}

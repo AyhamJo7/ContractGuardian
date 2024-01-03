@@ -1,0 +1,15 @@
+{
+    "id": 579,
+    "text": "GESELLSCHAFTSVERTRAG DER GESELLSCHAFT MIT BESCHRÄNKTER HAFTUNG UNTER DER FIRMA AW 32 Manufacturing GmbH",
+    "entities": [
+        {
+            "id": 678,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 103
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "VERTRAG DER GESELLSCHAFT MIT EINER RESTRIZIERTEN VERBUNDENHEIT NACH FIRMA AW 32 Manufacturing GmbH"
+}

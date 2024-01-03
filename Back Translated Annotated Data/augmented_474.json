@@ -1,0 +1,45 @@
+{
+    "id": 1011,
+    "text": "§ 2 Gegenstand des Unternehmens\n\n(1) Gegenstand des Unternehmens ist die Verwaltung eigenen Vermögens, von Beteiligungen an anderen Unternehmen, der Erwerb, die Entwicklung, die Verwaltung und die Verwertung von Immobilien nur im eigenen Namen und für eigene Rechnung, der Erwerb und die Veräußerung solcher Beteiligungen bzw. Objekte sowie insbesondere die Geschäftsführung und Vertretung der HT Projekt 5 GmbH & Co. KG als deren persönlich haftende Gesellschafterin.\n\n(2) Die Gesellschaft ist befugt, zu diesem Zweck andere Unternehmen zu gründen, zu erwerben und sich an ihnen zu beteiligen, auch als alleinige Komplementärin, und Zweigniederlassungen zu errichten, und zwar im In- und Ausland.",
+    "entities": [
+        {
+            "id": 3784,
+            "label": "Subsection",
+            "start_offset": 470,
+            "end_offset": 697
+        },
+        {
+            "id": 3785,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 31
+        },
+        {
+            "id": 3786,
+            "label": "Gegenstand",
+            "start_offset": 33,
+            "end_offset": 697
+        },
+        {
+            "id": 3783,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 468
+        },
+        {
+            "id": 3782,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3787,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 697
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Verwaltung des eigenen Vermögens, der Investitionen in andere Unternehmen, der Erwerb, die Entwicklung, das Management und die Nutzung von Immobilien nur im eigenen Namen und für eigene Rechnung, der Erwerb und die Veräußerung solcher Anlagen oder Objekte sowie insbesondere die Verwaltung und Vertretung der HT Projekt 5 GmbH & Co. KG als ihr persönlich haftender Gesellschafter. (2) Die Gesellschaft ist berechtigt, zu diesem Zweck auch als alleiniger Komplementär an anderen Gesellschaften zu gründen, zu erwerben und teilzunehmen und Zweigniederlassungen im In- und Ausland zu gründen."
+}

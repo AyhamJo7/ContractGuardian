@@ -1,0 +1,39 @@
+{
+    "id": 550,
+    "text": "§ 2 Gegenstand des Unternehmens Gegenstand des Unternehmens ist die erlaubnisfreie Verwaltung eigenen Vermögens, insbesondere die Nutzung und Verwaltung von Grundbesitz sowie die Beteiligung an anderen Gesellschaften und die Tätigkeit als geschäftsleitende Holding. \nDie Gesellschaft kann Grundbesitz kaufen und verkaufen, projektieren und entwickeln, erschließen und bebauen, vermieten und verpachten oder in sonstiger Weise nutzen. \nDie Gesellschaft kann andere Unternehmen und Gesellschaften - auch mit einem abweichenden Unternehmensgegenstand - errichten, erwerben, sich an solchen beteiligen, bei ihnen die persönliche Haftung übernehmen und deren Geschäfte führen, auch soweit hierzu bei den Beteiligungsunternehmen für deren Tätigkeit eine Erlaubnis notwendig ist.",
+    "entities": [
+        {
+            "id": 442,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 444,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 443,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 772
+        },
+        {
+            "id": 445,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 772
+        },
+        {
+            "id": 446,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 772
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand der Gesellschaft Gegenstand der Gesellschaft ist die genehmigungsfreie Verwaltung des eigenen Vermögens, insbesondere die Nutzung und Verwaltung von Immobilien sowie die Beteiligung an anderen Unternehmen und die Tätigkeit als Geschäftsführungsholding. Die Gesellschaft kann Immobilien kaufen und verkaufen, projektieren und entwickeln, bauen, vermieten und vermieten.Das Unternehmen kann die persönliche Haftung begründen, erwerben, daran teilnehmen, übernehmen und seine Geschäfte mit anderen Unternehmen und Unternehmen, auch mit einem anderen Zweck des Unternehmens, auch wenn die Erlaubnis für die Aktivitäten der beteiligten Unternehmen erforderlich ist."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 748,
+    "text": "§ 1 Firma, Sitz 1. \nDie Gesellschaft fuhrt die Firma HMG Beteiligungen GmbH 2. \nDer Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 1928,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 1929,
+            "label": "Sitz",
+            "start_offset": 80,
+            "end_offset": 118
+        },
+        {
+            "id": 1924,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 75
+        },
+        {
+            "id": 1926,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 1930,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 118
+        },
+        {
+            "id": 1925,
+            "label": "Subsection",
+            "start_offset": 76,
+            "end_offset": 118
+        },
+        {
+            "id": 1927,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 76
+        },
+        {
+            "id": 1923,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz 1. Die Gesellschaft treibt die Firma HMG Beteiligungen GmbH an 2. Sitz der Gesellschaft ist Hamburg."
+}

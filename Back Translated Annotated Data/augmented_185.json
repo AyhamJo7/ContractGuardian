@@ -1,0 +1,57 @@
+{
+    "id": 659,
+    "text": "§3 Stammkapital, Geschaftsanteile \n1. Das Stammkapital der Gesellschaft betragt EUR 25.000,00 (in Worten: Euro funfundzwan­ zigtausend). \n2. Das Stammkapital wird wie folgt ubernommen: Die Deutsche HansaGT GmbH ubernimmt 10.000 Geschaftsanteile mit Nennbetragen in Ho­ he von je EUR 1,00 (i.W. \nEuro ein) (Geschaftsanteile Nrn. 1-10.000), mithin Geschaftsanteile mit einem Gesamtnennwert in Hohe von EUR 10.000,00, Frau Mengyao Liu ubernimmt 15.000 Geschaftsanteile mit Nennbetragen in Hohe von je EUR 1,00 (i.W. \nEuro ein) (Geschaftsanteile Nrn. 10.001-25.000), mithin Geschaftsanteile mit einem Gesamtnennwert in Hohe von EUR 15.000,00. \nDie Einzahlungen sind jeweils sofort zu 100 % in Geld zu leisten.",
+    "entities": [
+        {
+            "id": 1275,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 1276,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 137
+        },
+        {
+            "id": 1280,
+            "label": "Stammeinlagen",
+            "start_offset": 17,
+            "end_offset": 34
+        },
+        {
+            "id": 1281,
+            "label": "Stammeinlagen",
+            "start_offset": 141,
+            "end_offset": 705
+        },
+        {
+            "id": 1282,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 705
+        },
+        {
+            "id": 1277,
+            "label": "Subsection",
+            "start_offset": 138,
+            "end_offset": 705
+        },
+        {
+            "id": 1278,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 1279,
+            "label": "Stammkapital",
+            "start_offset": 38,
+            "end_offset": 137
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital, Aktien an Gesellschaften 1. Das Grundkapital der Gesellschaft beträgt 25,000,00 EUR (in Worten: Euro funfundzwan-ten Tausend). 2. Das Grundkapital wird wie folgt übernommen: Die Deutsche HansaGT GmbH übernimmt 10.000 Aktien an Gesellschaften mit Nennbeträgen von 1,00 EUR (d.h. Euro) (Aktien an Gesellschaften Nr. 1-10.000) mit einem Nennwert von 1,00 EUR (d.h. Euro) (Aktien an Gesellschaften Nr. 1-10.000).EUR 10.000,00, Frau Mengyao Liu übernimmt 15.000 Aktien mit Nominalbeträgen in Höhe von EUR 1,00 (d.h. Euro) (Firmenaktien Nr. 10.001-25 000), also Aktien mit einem Nennwert von EUR 15,00,00. Die Einlagen müssen sofort bis zu 100 % an Geld getätigt werden."
+}

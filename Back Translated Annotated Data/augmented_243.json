@@ -1,0 +1,81 @@
+{
+    "id": 791,
+    "text": "§ 4 Stammkapital, Gesellschafter 1. \nDas Stammkapital der Gesellschaft beträgt EUR 25.000,00 (in Worten: Euro Fünfundzwanzigtausend.). \nEs ist eingeteilt in 25.000 Geschäftsanteile zu einem Nennbetrag von jeweils EUR 1,00. 2. \nAuf das Stammkapital übernimmt: SPREI GmbH, Hamburg, Geschäftsanteile Nr.1 — Nr. 12.500 von je EUR 1,00 EUR 12.500,00 GM Germanische Makler Geschäftsanteile Nr.12.501 — Nr. 25.000 von Gruppe GmbH, Hamburg, je EUR 1,00 EUR 12.500,00 Insgesamt: EUR 25.000,00 3. \nWird ein mit der Einzahlung seiner Einlage säumiger Gesellschafter ausgeschlossen, so kann der kaduzierte Anteil abweichend von § 23 S. 2 GmbHG auch ohne Zustimmung des betroffenen Gesellschafters auf „eine andere Art\" (insbesondere freihändig) verkauft werden. 4. \nEine Zusammenlegung mehrerer Geschäftsanteile eines Gesellschafters ist durch Gesellschafterbeschluss zulässig, wenn der betroffene Gesellschafter zustimmt, die Einlagen auf die Geschäftsanteile voll geleistet sind, keine Nachschusspflicht besteht und die betroffenen Geschäftsanteile nicht unterschiedlich belastet sind oder unterschiedliche Rechte vermitteln. \nEine Teilung seiner Geschäftsanteile ist jedem Gesellschafter auch ohne Gesellschafterbeschluss gestattet, wenn dies in einer notariellen Urkunde erfolgt. \nSie ist der Gesellschaft zu Beweiszwecken unverzüglich anzuzeigen. 5. \nDie Geschäftsführer haben unverzüglich nach Wirksamwerden jeder Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer Beteiligung eine von ihnen unterschriebene Gesellschafterliste zum Handelsregister einzureichen, soweit dies nicht nach § 40 Abs. 2 GmbHG durch einen Notar erfolgt. \nJeder Gesellschafter ist verpflichtet, den Geschäftsführern solche Veränderungen unverzüglich schriftlich mitzuteilen und nachzuweisen. \nAls Nachweis sind in der Regel entsprechende Urkunden in Urschrift oder in beglaubigter Abschrift vorzulegen. \nFür den Nachweis einer Erbfolge gilt § 35 GBO entsprechend. 6. \nDie Kosten etwaiger Kapitalerhöhungen (Notar, Gericht, evtl. \nGenehmigungen, Anwalt, Steuerberater) werden von der Gesellschaft getragen, soweit dies nicht im Erhöhungsbeschluss anders geregelt wird. \nIII.Geschäftsführunn, Vertretung",
+    "entities": [
+        {
+            "id": 2225,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 222
+        },
+        {
+            "id": 2232,
+            "label": "Stammkapital",
+            "start_offset": 37,
+            "end_offset": 135
+        },
+        {
+            "id": 2233,
+            "label": "Stammeinlagen",
+            "start_offset": 18,
+            "end_offset": 33
+        },
+        {
+            "id": 2224,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 2226,
+            "label": "Subsection",
+            "start_offset": 223,
+            "end_offset": 483
+        },
+        {
+            "id": 2227,
+            "label": "Subsection",
+            "start_offset": 484,
+            "end_offset": 749
+        },
+        {
+            "id": 2228,
+            "label": "Subsection",
+            "start_offset": 750,
+            "end_offset": 1338
+        },
+        {
+            "id": 2229,
+            "label": "Subsection",
+            "start_offset": 1340,
+            "end_offset": 1950
+        },
+        {
+            "id": 2230,
+            "label": "Subsection",
+            "start_offset": 1951,
+            "end_offset": 2189
+        },
+        {
+            "id": 2231,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 2234,
+            "label": "Stammeinlagen",
+            "start_offset": 136,
+            "end_offset": 2156
+        },
+        {
+            "id": 2235,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 2189
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Aktienkapital, Aktionär 1. Das Grundkapital der Gesellschaft beträgt EUR 25,000,00 (in Worten: EUR 25'000).Es ist in 25.000 Aktien mit einem Nennbetrag von EUR 1,00 unterteilt. 2. Das Grundkapital wird übernommen von: SPREI GmbH, Hamburg, Aktien Nr.1 — Nr. 12.500 von EUR 1,00 EUR 12.500,00 GM Germanische Makler Aktien Nr. 12.501 — Nr.25.000 von der Gruppe GmbH, Hamburg, je EUR 1,00 EUR 12.500,00 Gesamt: EUR 25,000,00 3. Ist ein Aktionär, der auf die Einlage seines Beitrags verfällt, ausgeschlossen, so kann die reduzierte Aktie abweichend von § 23 S. 2 GmbHG \"in anderer Weise\" (insbesondere von Hand) ohne Zustimmung des betroffenen Aktionärs verkauft werden. 4.Ein Aktionär ist durch die Entscheidung eines Aktionärs zulässig, wenn der betreffende Aktionär zustimmt, dass die Aktien vollständig eingezahlt werden, dass keine Margenverpflichtung besteht und dass die betreffenden Aktien nicht unterschiedlich belastet werden oder dass sie unterschiedliche Rechte verleihen.(5) Die Geschäftsführer legen dem Handelsregister unverzüglich jede Änderung der Personen der Aktionäre oder des Umfangs ihrer Beteiligung eine von ihnen unterzeichnete Liste der Mitglieder vor, soweit dies gemäß § 3 Abs.40 Abs. 2 GmbHG erfolgt durch einen Notar. Jeder Gesellschafter ist verpflichtet, diese Änderungen den Geschäftsführern unverzüglich schriftlich mitzuteilen und nachzuweisen. Als Nachweis dafür sind in der Regel entsprechende Unterlagen in Original- oder beglaubigter Abschrift vorzulegen. § 35 GBO gilt sinngemäß für den Nachweis einer Erbschaft. 6. Die Kosten etwaiger Kapitalerhöhungen (Notar), Gericht, mögliche Genehmigungen, Rechtsanwalt, Steuerberater) von der Gesellschaft getragen werden, sofern nicht anders in der Erhöhungsentscheidung geregelt. III."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 956,
+    "text": "§2 Gegenstand des Unternehmens\n\n(1) Gegenstand des Unternehmens ist im Umfang der Bereichsausnahme des § 2 Abs. 6 Satz 1 Nr. 8 des Kreditwesengesetzes die Anlagevermittlung zu Anteilen oder Aktien an inländischen offenen Investmentvermögen, offenen EU-Investmentvermögen oder ausländischen offenen Investmentvermögen, die nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen (§ 34f Abs. 1 Satz 1 Nr. 1 Gewerbeordnung) sowie Tätigkeiten nach § 34c Abs. 1 Satz 1 Nr. 1 und 2 Gewerbeordnung.\n\n(2) Die Gesellschaft ist befugt, zu diesem Zweck andere Unternehmen zu gründen, zu erwerben und sich an ihnen zu beteiligen, auch als alleinige Komplementärin, und Zweigniederlassungen zu errichten, und zwar im In- und Ausland.",
+    "entities": [
+        {
+            "id": 3420,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 722
+        },
+        {
+            "id": 3415,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 3418,
+            "label": "Gegenstand",
+            "start_offset": 2,
+            "end_offset": 30
+        },
+        {
+            "id": 3419,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 722
+        },
+        {
+            "id": 3416,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 493
+        },
+        {
+            "id": 3417,
+            "label": "Subsection",
+            "start_offset": 495,
+            "end_offset": 722
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Bereich mit Ausnahme des § 2 Abs. 6 Satz 1 Nr. 8 des Bankengesetzes die Anlagevermittlung in Aktien oder Anteile an inländischen offenen Anlagevermögen, offenen EU-Anlagevermögen oder ausländischen offenen Anlagevermögen, die nach dem Investitionsgesetz vertrieben werden kann (§ 34f Abs. 1 Satz 1(2) Die Gesellschaft ist berechtigt, zu diesem Zweck, auch als Alleinergänzung, in anderen Unternehmen zu gründen, zu erwerben und daran teilzunehmen und Zweigniederlassungen sowohl im In- als auch im Ausland zu gründen."
+}

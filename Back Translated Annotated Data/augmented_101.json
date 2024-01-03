@@ -1,0 +1,57 @@
+{
+    "id": 605,
+    "text": "§ 1 Firma, Sitz (1) Die Firma der Gesellschaft lautet: Big Pictury GmbH. (2) Die Gesellschaft hat ihren Sitz in Hamburg.",
+    "entities": [
+        {
+            "id": 876,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 877,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 72
+        },
+        {
+            "id": 878,
+            "label": "Subsection",
+            "start_offset": 73,
+            "end_offset": 120
+        },
+        {
+            "id": 879,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 881,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 72
+        },
+        {
+            "id": 882,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 883,
+            "label": "Sitz",
+            "start_offset": 77,
+            "end_offset": 120
+        },
+        {
+            "id": 884,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 120
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz (1) Gesellschaft der Gesellschaft ist: Big Pictury GmbH. (2) Die Gesellschaft hat ihren Sitz in Hamburg."
+}

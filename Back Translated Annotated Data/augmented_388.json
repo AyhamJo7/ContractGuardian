@@ -1,0 +1,45 @@
+{
+    "id": 937,
+    "text": "§ 11 Jahresabschluss\n1. Der Jahresabschluss der Gesellschaft ist durch die Geschäftsführung innerhalb der gesetzlichen Fristen aufzustellen.\n2. Jeder Gesellschafter erhält ein Exemplar des Jahresabschlusses.",
+    "entities": [
+        {
+            "id": 3298,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 140
+        },
+        {
+            "id": 3299,
+            "label": "Subsection",
+            "start_offset": 141,
+            "end_offset": 207
+        },
+        {
+            "id": 3300,
+            "label": "Jahresabschluss",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 3297,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3301,
+            "label": "Jahresabschluss",
+            "start_offset": 21,
+            "end_offset": 207
+        },
+        {
+            "id": 3302,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 207
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Jahresabschluss 1. Der Jahresabschluss der Gesellschaft muss von der Geschäftsleitung innerhalb der gesetzlichen Fristen erstellt werden. 2. Jeder Aktionär erhält eine Kopie des Jahresabschlusses."
+}

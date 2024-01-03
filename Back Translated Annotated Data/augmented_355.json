@@ -1,0 +1,57 @@
+{
+    "id": 911,
+    "text": "§4 Dauer der Gesellschaft, Geschäftsjahr (1) Die Gesellschaft wird auf unbestimmte Zeit errichtet. (2) Das Geschäftsjahr ist das Kalenderjahr. \nDas erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. \nDezember des gleichen Jahres.",
+    "entities": [
+        {
+            "id": 3114,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 282
+        },
+        {
+            "id": 3113,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 24
+        },
+        {
+            "id": 3106,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        },
+        {
+            "id": 3107,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 97
+        },
+        {
+            "id": 3108,
+            "label": "Subsection",
+            "start_offset": 99,
+            "end_offset": 282
+        },
+        {
+            "id": 3110,
+            "label": "Dauer",
+            "start_offset": 45,
+            "end_offset": 97
+        },
+        {
+            "id": 3111,
+            "label": "Geschäftsjahr",
+            "start_offset": 27,
+            "end_offset": 41
+        },
+        {
+            "id": 3112,
+            "label": "Geschäftsjahr",
+            "start_offset": 103,
+            "end_offset": 282
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Dauer der Gesellschaft, Geschäftsjahr (1) Die Gesellschaft wird auf unbestimmte Zeit gegründet. (2) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. Dezember desselben Jahres."
+}

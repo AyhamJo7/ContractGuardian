@@ -1,0 +1,63 @@
+{
+    "id": 634,
+    "text": "§ 4 Geschäftsführung, Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Die Gesellschaft wird durch einen Geschäftsführer allein vertreten, wenn er alleiniger Geschäftsführer ist oder wird bzw. durch Gesellschafterbeschluss zur Einzelvertretung ermächtigt ist. \nIm Übrigen wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. (3) Durch Gesellschafterbeschluss können einzelne oder alle Geschäftsführer von dem Verbot befreit werden, die Gesellschaft auch bei solchen Rechtsgeschäften zu vertreten, die sie mit sich selbst oder mit einem von ihnen vertretenen Dritten abschließen (Befreiung von den Beschränkungen des § 181 BGB).",
+    "entities": [
+        {
+            "id": 1104,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 1106,
+            "label": "Subsection",
+            "start_offset": 94,
+            "end_offset": 433
+        },
+        {
+            "id": 1108,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 1109,
+            "label": "Vertretung",
+            "start_offset": 22,
+            "end_offset": 33
+        },
+        {
+            "id": 1110,
+            "label": "Geschäftsführung",
+            "start_offset": 33,
+            "end_offset": 433
+        },
+        {
+            "id": 1112,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 736
+        },
+        {
+            "id": 1105,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 93
+        },
+        {
+            "id": 1107,
+            "label": "Subsection",
+            "start_offset": 434,
+            "end_offset": 736
+        },
+        {
+            "id": 1111,
+            "label": "Vertretung",
+            "start_offset": 94,
+            "end_offset": 736
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Geschäftsführung, Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Die Gesellschaft ist allein durch einen Geschäftsführer vertreten, wenn sie allein Geschäftsführer ist oder wird oder sich durch eine Aktionärsentscheidung vertreten darf. Darüber hinaus ist die Gesellschaft gemeinsam durch zwei Geschäftsführer oder einen Geschäftsführer vertreten.(3) Einzelne oder alle Geschäftsführer können von dem Verbot der Vertretung der Gesellschaft in solchen Rechtsgeschäften befreit werden, die sie mit sich selbst oder mit einem durch sie vertretenen Dritten abschließen (Ausnahme von den Beschränkungen des § 181 BGB)."
+}

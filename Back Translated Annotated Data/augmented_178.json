@@ -1,0 +1,39 @@
+{
+    "id": 743,
+    "text": "§ 9 Gründungskosten Die Kosten der Gründungsurkunde, der Gesellschafterliste, der Handelsregisteranmeldung, der Gerichtskosten für di Eintragung in das Handelsregister, die Kosten der Eintragung in das Gewerberegister sowie eine etwa entstehende Gesellschaftssteuer trägt bis zur Höhe von zusammen max. € 1. 500,00 die Gesellschaft.",
+    "entities": [
+        {
+            "id": 1903,
+            "label": "Kosten",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 1901,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1902,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 332
+        },
+        {
+            "id": 1904,
+            "label": "Kosten",
+            "start_offset": 20,
+            "end_offset": 332
+        },
+        {
+            "id": 1905,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 332
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Gründungskosten Die Kosten der Gründungsurkunde, der Aktionärsliste, der Eintragung des Handelsregisters, der rechtlichen Kosten der Eintragung im Handelsregister, der Kosten der Eintragung im Handelsregister und einer eventuell anfallenden Körperschaftsteuer trägt die Gesellschaft bis zu einem Höchstbetrag von € 1.500,00."
+}

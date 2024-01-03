@@ -1,0 +1,45 @@
+{
+    "id": 793,
+    "text": "§ 6 Geschäftsführung Die Gesellschafterversammlung kann durch Beschluss einen Katalog von Geschäften festlegen, zu deren Erledigung die Geschäftsführer der vorherigen Zustimmung der Gesellschafterversammlung bedürfen. \nDie Vertretungsbefugnis der Geschäftsführer gegenüber Dritten bleibt unberührt. \nIV.Gesellschafterversammlung, Gesellschafterbeschlüsse",
+    "entities": [
+        {
+            "id": 2243,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2245,
+            "label": "Subsection",
+            "start_offset": 219,
+            "end_offset": 299
+        },
+        {
+            "id": 2246,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 2247,
+            "label": "Geschäftsführung",
+            "start_offset": 21,
+            "end_offset": 299
+        },
+        {
+            "id": 2244,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 218
+        },
+        {
+            "id": 2248,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 299
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Geschäftsführung Die Hauptversammlung kann durch Beschluss einen Transaktionskatalog festlegen, dem die Geschäftsführer die vorherige Zustimmung der Hauptversammlung bedürfen.Die Vertretungsbefugnis der Geschäftsführung gegenüber Dritten bleibt unberührt."
+}

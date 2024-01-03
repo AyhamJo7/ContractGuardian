@@ -1,0 +1,87 @@
+{
+    "id": 893,
+    "text": "§ 15 Einziehung van Geschaftsanteilen 1. \nDie Einziehung van Geschaftsanteilen kann beschlossen werden, wenn der betroffene Gesellschafter zustimmt oder wenn einer der folgenden Falle vorliegt: a) Ober sein Vermogen ein lnsolvenzverfahren eroffnet wird, Ober einen Antrag auf Eroffnung eines lnsolvenzverfahrens ist nicht binnen zwei Monaten entschieden oder die Eroffnung wird mangels Masse abgelehnt, b) er die Richtigkeit seines Vermogensverzeichnisses nach § 807 ZPO an Eides Statt zu versichern hat, c) eine Zwangsvollstreckung in seinen Geschaftsanteil betrieben wird und die • Zwangsvollstreckungsmal1nahmen nicht binnen zwei Monaten seit ihrem Beg inn wieder aufgehoben werden, d) er kOndigt oder seinen Austritt aus der Gesellschaft erklart, e) ein Geschaftsanteil auf einen anderen lnhaber Ober geht (egal aus welchem Rechtsgrund), ohne das entweder eine diesen Obergang einschlie11lich der Person des Erwerbers unmittelbar zulassende Regelung dieses Gesellschaftsvertrages erfOllt ist oder die Gesellschafterversammlung entsprechend § 12 diesem konkreten Obergang einschliel1lich der Person des Erwerbers schriftlich zugestimmt hat. \nEine Einziehung ist insbesondere auch moglich, wenn ein Geschaftsanteil im Wege der Zwangsvollstreckung auf einen anderen lnhaber Obergegangen ist. \nDie Zustimmung zu einer Verpfandung des Geschaftsanteils schliel1t dieses Einziehungsrecht nicht aus, wenn der verpfandete Geschaftsanteil spater verwertet . wird und dabei auf einen anderen lnhaber Obergeht, der die Voraussetzungen des Abs. 1 nicht erfOllt, f) bei einer juristischen Person oder einer Gesellschaft, wenn deren Auflosung beschlossen wird oder die Auflosung bzw. \nLiquidation aus sonstigen beliebigen Grunden erfolgt oder deren zum Zeitpunkt ihres Beitritts in die vorliegende GmbH bei ihr herrschende Gesellschafter seine herrschende Mehrheit verliert (egal auf welche Weise) und die neue herrschende Mehrheit anderen Personen zusteht als solchen, an die nach § 12 eine unmittelbare Obertragung van Geschaftsanteilen zulassig ware, also bei jeder Form eines mittelbaren Obergangs der Anteile an der vorliegenden GmbH unter Umgehung der Regelung in § 12, g) • in seiner Person ein wichtiger Grund vorliegt, der die Ausschliel1ung rechtfertigt; ein solcher Grund liegt var, wenn ein weiteres Verbleiben des Gesellschafters in der Gesellschaft fur diese untragbar ist, insbesondere wenn der Gesellschafter eine ihm nach dem Gesellschaftsvertrag obliegende wesentliche Verpflichtung vorsatzlich oder aus grober Fahrlassigkeit verletzt oder sonst durch sein Verhalten die Gesellschaftsinteressen erheblich schadigt. 2. \nJeder Gesellschafter ist verpflichtet, die Gesellschaft unverzuglich schriftlich zu unterrichten, wenn in seiner Person ein solcher Fall vorliegt oder vorzuliegen droht. 3. \nSteht ein Geschaftsanteil mehreren Berechtigten zu, so kann die Einziehung auch dann beschlossen werden, wenn die oben genannten Voraussetzungen nur bei einem der Berechtigten vorliegen. 4. \nStatt der Einziehung kann beschlossen werden, dass der Anteil auf die Gesellschaft oder auf eine oder mehrere von ihr benannte Personen zu Obertragen ist. 5. \nDie Beschlussfassung erfolgt mit einer Mehrheit von 75% der abgegebenen Stimmen. \nDer betroffene Gesellschafter hat hierbei kein Stimmrecht. 6. \nDer ausscheidende Gesellschafter erhalt eine Abfindung entsprechend § 16 dieses Vertrages. \nIn den Fallen der Zwangsabtretung erhalt der Gesellschafter vom Abtretungsempfanger ein entsprechendes Entgelt. 7. \nDie EinziehungNerpflichtung zur Abtretung wird unabhangig von der Bezahlung der Abfindung mit der Erklarung der Einziehung/der Bekanntgabe des Einziehungsbeschlusses wirksam.",
+    "entities": [
+        {
+            "id": 2988,
+            "label": "Green Flag",
+            "start_offset": 2987,
+            "end_offset": 3231
+        },
+        {
+            "id": 2989,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2985
+        },
+        {
+            "id": 2980,
+            "label": "Subsection",
+            "start_offset": 2796,
+            "end_offset": 2986
+        },
+        {
+            "id": 2981,
+            "label": "Subsection",
+            "start_offset": 2987,
+            "end_offset": 3144
+        },
+        {
+            "id": 2977,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 2978,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 2620
+        },
+        {
+            "id": 2979,
+            "label": "Subsection",
+            "start_offset": 2622,
+            "end_offset": 2795
+        },
+        {
+            "id": 2982,
+            "label": "Subsection",
+            "start_offset": 3146,
+            "end_offset": 3289
+        },
+        {
+            "id": 2983,
+            "label": "Subsection",
+            "start_offset": 3291,
+            "end_offset": 3498
+        },
+        {
+            "id": 2984,
+            "label": "Subsection",
+            "start_offset": 3499,
+            "end_offset": 3677
+        },
+        {
+            "id": 2985,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        },
+        {
+            "id": 2986,
+            "label": "Einziehung",
+            "start_offset": 38,
+            "end_offset": 3677
+        },
+        {
+            "id": 2987,
+            "label": "Green Flag",
+            "start_offset": 3231,
+            "end_offset": 3677
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Einziehung von Aktien 1. Die Einziehung von Aktien kann entschieden werden, wenn der betreffende Gesellschafter zustimmt oder wenn eines der folgenden vorhanden ist: a) wenn sein Vermögen einem Insolvenzverfahren unterliegt, wenn ein Antrag auf Eröffnung eines Insolvenzverfahrens nicht innerhalb von zwei Monaten entschieden wird oder wenn die Eröffnung aufgrund mangelnder Masse abgelehnt wirdc) die Zwangsvollstreckung erfolgt in ihrem Anteil an der Gesellschaft, und die • Durchsetzungsmaßnahmen werden nicht innerhalb von zwei Monaten nach dem Zeitpunkt, zu dem sie abgeschlossen wurden, widerrufen;Im Falle einer Streitigkeit zwischen dem Erwerber und dem Erwerber hat der Erwerber Anspruch auf Rückforderung, insbesondere wenn ein Vertrag mit dem Erwerber gemäß Abschnitt 12 dieses Abkommens geschlossen wird, ohne den eine Bestimmung dieses Abkommens, einschließlich der Person des Erwerbers, die vom Erwerber unmittelbar zugelassen ist, eingehalten wurde.f) im Falle einer juristischen Person oder einer Person, die die Voraussetzungen des Absatzes 1 nicht erfüllt hat,Bei einer Entscheidung über die Auflösung oder Liquidation aus anderen Gründen oder zum Zeitpunkt ihres Beitritts zur derzeitigen Gesellschaft mit beschränkter Haftung verliert ihr kontrollierender Gesellschafter seine vorherrschende Mehrheit (unabhängig davon, wie viel) und die neue vorherrschende Mehrheit hat Anspruch auf andere Personen als die, denen nach § 12 ein direkter Vorgesetzter zusteht.Im Falle einer indirekten Übertragung der Anteile an der vorliegenden GmbH durch Umgehung der Bestimmungen des § 12 g) • gibt es einen wichtigen Grund für die Begründung des Ausschlusses; ein solcher Grund ist var, wenn der weitere Aufenthalt des Aktionärs in der Gesellschaft nicht nachhaltig ist, insbesondere wenn die Gesellschaft keinen Anspruch auf einen Anteil der Anteile an der Gesellschaft hat.2. Jeder Partner ist verpflichtet, das Unternehmen unverzüglich schriftlich zu informieren, wenn ein solcher Fall in seiner Person vorliegt oder zu bestehen droht.Wird der Anteil einer Gesellschaft mehreren Begünstigten gewährt, so kann die Einziehung auch dann entschieden werden, wenn die oben genannten Bedingungen nur von einem der Begünstigten erfüllt sind. 4. Statt der Einziehung kann beschlossen werden, dass die Aktie auf die Gesellschaft oder auf eine oder mehrere von ihr benannte Personen übertragen wird. 5. Die Entscheidung wird von der Mehrheit der folgenden Personen getroffen:6. Das scheidende Mitglied erhält eine Abfindung gemäß § 16 dieses Vertrages. Bei Zwangsabtretung erhält das Mitglied eine entsprechende Vergütung vom Abtretungsempfänger. 7. Die Einziehungspflicht für Abtretung ist unabhängig von der Zahlung der Abtretungszahlung mit derBeitreibungs-/Notifikationserklärung der Beitreibungsentscheidung wirksam."
+}

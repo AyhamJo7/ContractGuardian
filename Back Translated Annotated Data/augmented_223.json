@@ -1,0 +1,39 @@
+{
+    "id": 771,
+    "text": "§7 Gesellschafterbeschlüsse Beschlüsse der Gesellschafter werden in Versammlungen gefasst. \nAußerhalb von Versammlungen können sie, soweit nicht zwingendes Recht entgegensteht, durch schriftliche, telekopit-rrnäßige, mündliche - auch fernmündliche - Abstimmung gefasst werden, sofern sich alle Gesellschafter an der Beschlussfassung beteiligen und kein Widerspruch gegen die Art der Abstimmung erhoben wird. 5  Je Euro 50,00 eines Geschäftsanteils vermitteln eine Stimme. \nDie Gesellschafter fassen ihre Beschlüsse, sofern das Gesetz oder dieser Gesellschaftsvertrag nichts -Gegenteiliges vorsehen, mit einfacher Mehrheit der in der Gesellschafterversammlung abgegebenen Stimmen. \nStimmenthaltung gilt als Nichtabgabe der Stimme. \nBei Stimmengleichheit gilt der Antrag als abgelehnt. \nJeder Gesellschafter kann sich auf Grund schriftlich erteilter und bei der GesellSchafterversammlung vorzulegender Vollmacht vertreten lassen. \nDie Unwirksamkeit eines Gesellschafterbeschlusses kann nur binnen einer Ausschlussfrist von einem Monat nach Empfang der Abschrift geltend gemacht werden. \nNach Ablauf der Frist gilt ein etwaiger Mangel als geheilt.",
+    "entities": [
+        {
+            "id": 2101,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 2102,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 28,
+            "end_offset": 1144
+        },
+        {
+            "id": 2103,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1144
+        },
+        {
+            "id": 2100,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 1144
+        },
+        {
+            "id": 2099,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Beschlüsse der Aktionäre werden in Sitzungen gefasst. Außerhalb der Sitzungen können sie durch schriftliche, telecopit-ränßige, mündliche - auch tele-orale - Abstimmung getroffen werden, sofern alle Partner am Entscheidungsprozess teilnehmen und keine Einwände gegen die Art der Abstimmung erhoben wurden.5 Je 50,00 Euro eines Geschäftsanteils vermittelt eine Stimme. Die Aktionäre treffen ihre Entscheidungen, sofern das Gesetz oder dieser Sozialvertrag nichts Gegenteiliges vorsieht, mit einfacher Mehrheit der in der Hauptversammlung abgegebenen Stimmen. Enthaltung gilt als Nichtabstimmung. Bei gleicher Stimme gilt der Antrag als abgelehnt.Die Unwirksamkeit einer Aktionärsentscheidung kann nur innerhalb einer Ausschlussfrist von einem Monat nach Erhalt der Abschrift geltend gemacht werden. Nach Ablauf der Frist gilt ein Mangel als geheilt."
+}

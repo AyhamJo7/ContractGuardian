@@ -1,0 +1,39 @@
+{
+    "id": 889,
+    "text": "§ 11 Dauer der Gesellschaft Die Gesellschaft wird auf unbestimmte Zeit geschlossen.",
+    "entities": [
+        {
+            "id": 2949,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 83
+        },
+        {
+            "id": 2946,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 83
+        },
+        {
+            "id": 2948,
+            "label": "Dauer",
+            "start_offset": 28,
+            "end_offset": 83
+        },
+        {
+            "id": 2945,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 2947,
+            "label": "Dauer",
+            "start_offset": 5,
+            "end_offset": 27
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Dauer der Gesellschaft Die Gesellschaft wird auf unbestimmte Zeit geschlossen."
+}

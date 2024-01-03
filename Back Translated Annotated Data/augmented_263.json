@@ -1,0 +1,57 @@
+{
+    "id": 821,
+    "text": "§2 Dauer, Geschaftsjahr \n(1) Die Gesellschaft beginnt mit ihrer Eintragung in das Handelsregister. Sie ist auf unbe­ stimmte Zeit errichtet. \n(2) Das Geschaftsjahr der Gesellschaft lauft vom 1. Januar eines Jahres bis zum 31. De­zember des Jahres. \nDas erste Geschaftsjahr beginnt als Rumpfgeschaftsjahr mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31.12.2023.",
+    "entities": [
+        {
+            "id": 2451,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 2452,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 141
+        },
+        {
+            "id": 2457,
+            "label": "Geschäftsjahr",
+            "start_offset": 146,
+            "end_offset": 387
+        },
+        {
+            "id": 2458,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 387
+        },
+        {
+            "id": 2453,
+            "label": "Subsection",
+            "start_offset": 142,
+            "end_offset": 387
+        },
+        {
+            "id": 2454,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 8
+        },
+        {
+            "id": 2455,
+            "label": "Dauer",
+            "start_offset": 29,
+            "end_offset": 141
+        },
+        {
+            "id": 2456,
+            "label": "Geschäftsjahr",
+            "start_offset": 10,
+            "end_offset": 24
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Dauer, Geschäftsjahr (1) Die Gesellschaft beginnt mit der Eintragung in das Handelsregister. Sie wird auf unbestimmte Zeit errichtet. (2) Das Gesellschaftsjahr der Gesellschaft läuft vom 1. Januar eines Jahres bis zum 31. Dezember des Jahres. Das erste Gesellschaftsjahr beginnt mit der Eintragung in das Handelsregister und endet am 31. Dezember 2023."
+}

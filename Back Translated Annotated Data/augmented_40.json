@@ -1,0 +1,57 @@
+{
+    "id": 555,
+    "text": "§ 7 Wettbewerb und Verschwiegenheit 7.1. \nDie Gesellschafter können einzelne Gesellschafter und Geschäftsführer der Gesellschaft von jedem gesetzlichen und vertraglichen Wettbewerbsverbot befreien. 7.2. \nDie Gesellschafter sind verpflichtet, Verschwiegenheit über alle ihnen im Zusammenhang mit ihrer Stellung als Gesellschafter bekannt gewordenen Angelegenheiten der Gesellschaft selbst und auch aller anderen Gesellschafter zu bewahren, soweit nicht offensichtlich ist, dass ein Interesse an der Verschwiegenheit nicht besteht oder der betreffende Umstand ohne Verschulden des Verpflichteten offenkundig geworden ist. \nDiese Pflicht gilt uneingeschränkt auch nach Beendigung der Gesellschaft bzw. nach Ausscheiden des Gesellschafters aus der Gesellschaft, egal aus welchem Grund.",
+    "entities": [
+        {
+            "id": 486,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 197
+        },
+        {
+            "id": 487,
+            "label": "Subsection",
+            "start_offset": 198,
+            "end_offset": 781
+        },
+        {
+            "id": 489,
+            "label": "Wettbewerb",
+            "start_offset": 42,
+            "end_offset": 197
+        },
+        {
+            "id": 490,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 19,
+            "end_offset": 36
+        },
+        {
+            "id": 491,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 204,
+            "end_offset": 781
+        },
+        {
+            "id": 492,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 781
+        },
+        {
+            "id": 485,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 488,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Wettbewerb und Vertraulichkeit 7.1. Die Aktionäre können einzelne Gesellschafter und Geschäftsführer der Gesellschaft von jedem gesetzlichen und vertraglichen Wettbewerbsverbot befreien. 7.2. Die Aktionäre sind verpflichtet, alle Angelegenheiten der Gesellschaft und alle Angelegenheiten, die ihnen im Zusammenhang mit ihrer Stellung als Gesellschafter bekannt geworden sind, vertraulich zu behandeln.andere Partner zu schützen, es sei denn, es liegt auf der Hand, dass kein Interesse an der Geheimhaltung besteht oder dass der betreffende Umstand ohne Verschulden des Verpflichteten erkennbar geworden ist. Diese Verpflichtung gilt uneingeschränkt auch nach Beendigung der Gesellschaft oder nach Beendigung der Gesellschaft aus welchem Grund auch immer."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 825,
+    "text": "§6 Vertretung der Gesellschaft (1) Die Gesellschaft wird, wenn nur ein GeschaftsfOhrer vorhanden ist, durch diesen allein vertreten. \nSind mehrere GeschaftsfOhrer vorhanden, so wird sie durch zwei GeschaftsfOh­ rer gemeinschaftlich oder durch einen GeschaftsfOhrer gemeinsam mit einem Prokuristen vertreten. (2) Durch Beschluss der Gesellschafterversammlung kann auch bei Vorhandensein mehrerer GeschaftsfOhrer einem oder mehreren von ihnen Einzelvertretungsbefugnis erteilt werden. (3) Durch Beschluss der Gesellschafterversammlung kann einem oder mehreren Geschafts­ fOhrern Befreiung von den Beschrankungen des § 181 8GB erteilt werden. (4) Die vorstehende Regelung gilt auch fur Liquidatoren.",
+    "entities": [
+        {
+            "id": 2484,
+            "label": "Subsection",
+            "start_offset": 483,
+            "end_offset": 638
+        },
+        {
+            "id": 2485,
+            "label": "Subsection",
+            "start_offset": 640,
+            "end_offset": 696
+        },
+        {
+            "id": 2481,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2482,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 306
+        },
+        {
+            "id": 2483,
+            "label": "Subsection",
+            "start_offset": 308,
+            "end_offset": 481
+        },
+        {
+            "id": 2486,
+            "label": "Vertretung",
+            "start_offset": 3,
+            "end_offset": 29
+        },
+        {
+            "id": 2487,
+            "label": "Vertretung",
+            "start_offset": 31,
+            "end_offset": 696
+        },
+        {
+            "id": 2488,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 696
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Vertretung der Gesellschaft (1) Die Gesellschaft ist allein durch sie vertreten, wenn es nur eine Gesellschaft gibt. Bestehen mehrere Gesellschaften, so wird sie gemeinsam durch zwei Gesellschaften oder durch einen Gesellschafter zusammen mit einem Stellvertreter vertreten. (2) Durch Beschluss der Gesellschafterversammlung, auch wenn mehrere Gesellschaften existieren, ist die Gesellschaft allein durch die Gesellschaft vertreten.(3) Eine oder mehrere Gesellschaften können durch Beschluss der Hauptversammlung von den Beschränkungen des § 181 8GB befreit werden. (4) Die vorstehenden Bestimmungen gelten auch für Liquidatoren."
+}

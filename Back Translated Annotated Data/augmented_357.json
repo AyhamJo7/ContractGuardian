@@ -1,0 +1,57 @@
+{
+    "id": 913,
+    "text": "§6 Jahresabschluss, Ergebnisverwendung (1) Die Geschäftsführung hat innerhalb der gesetzlichen Frist nach Ablauf eines Geschäftsjahres den Jahresabschluss für das vergangene Geschäfts jahr aufzustellen. (2) Über die Feststellung des Jahresabschlusses beschließt die Geselischaf terversammlung. \nSie beschließt auch über die Ergebnisverwendung, also darüber, inwieweit der Jahresüberschuss zuzüglich eines Gewinnvortrags und abzüglich eines Verlustvortrags in Gewinnrücklagen eingestellt, als Gewinn vorgetragen oder an die Gesellschafter ausgeschüttet wird. \nDer ausgeschüttete Gewinn steht den Gesellschaftern entsprechend ihren Ge schäftsanteilen zu.",
+    "entities": [
+        {
+            "id": 3126,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 3127,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 201
+        },
+        {
+            "id": 3128,
+            "label": "Subsection",
+            "start_offset": 203,
+            "end_offset": 652
+        },
+        {
+            "id": 3129,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        },
+        {
+            "id": 3130,
+            "label": "Ergebnisverwendung",
+            "start_offset": 20,
+            "end_offset": 39
+        },
+        {
+            "id": 3131,
+            "label": "Jahresabschluss",
+            "start_offset": 39,
+            "end_offset": 293
+        },
+        {
+            "id": 3133,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 652
+        },
+        {
+            "id": 3132,
+            "label": "Ergebnisverwendung",
+            "start_offset": 295,
+            "end_offset": 652
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Jahresabschluss, Ergebnisverwendung (1) Der Vorstand erstellt innerhalb der gesetzlichen Frist nach Ablauf eines Geschäftsjahres den Jahresabschluss für das abgelaufene Geschäftsjahr. (2) Die Generalversammlung entscheidet über die Feststellung des Jahresabschlusses. Er entscheidet auch über die Ertragsverwendung, d.h. darüber, inwieweit der Jahresüberschuss um einenDie Gewinnausschüttung obliegt den Aktionären nach Maßgabe ihrer Geschäftsanteile."
+}

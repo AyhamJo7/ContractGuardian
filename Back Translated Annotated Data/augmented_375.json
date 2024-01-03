@@ -1,0 +1,45 @@
+{
+    "id": 924,
+    "text": "§ 6 Gesellschafterbeschlüsse (1) Beschlüsse der Gesellschafter werden in Gesellschafterversammlungen gefasst. Außerhalb von Versammlungen können Beschlüsse auch schriftlich, per Telefax, per E-Mail, mündlich oder fernmündlich gefasst werden, wenn alle Gesellschafter zustimmen. (2) Gesellschafterbeschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, soweit nicht zwingende gesetzliche Vorschriften oder dieser Vertrag eine andere Mehrheit verlangen.",
+    "entities": [
+        {
+            "id": 3195,
+            "label": "Subsection",
+            "start_offset": 278,
+            "end_offset": 469
+        },
+        {
+            "id": 3196,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        },
+        {
+            "id": 3198,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 469
+        },
+        {
+            "id": 3193,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 3194,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 277
+        },
+        {
+            "id": 3197,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 29,
+            "end_offset": 469
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Beschlüsse der Aktionäre (1) Beschlüsse der Aktionäre werden in Aktionärsversammlungen gefasst. Außerhalb der Sitzungen können Entscheidungen auch schriftlich, per Fax, per E-Mail, mündlich oder telefonisch getroffen werden, wenn alle Mitglieder zustimmen. (2) Beschlüsse der Aktionäre werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, es sei denn, verbindliche gesetzliche Bestimmungen sind erforderlich.Ich möchte um eine andere Mehrheit der Bestimmungen oder dieses Vertrags bitten."
+}

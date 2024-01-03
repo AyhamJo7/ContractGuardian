@@ -1,0 +1,45 @@
+{
+    "id": 578,
+    "text": "§11 Schlussbestimmungen Die teilweise Nichtigkeit oder Unwirksamkeit dieses Vertrages soll die Wirksamkeit der übrigen Vereinbarungen nicht berühren. \nDie die Kosten dieser Urkunde und ihrer Durchführung (Notarkosten in Höhe von ca. 850,00 Euro, Gerichtskosten in Höhe von ca. 150,00 Euro) trägt die Gesellschaft.",
+    "entities": [
+        {
+            "id": 676,
+            "label": "Schlussbestimmungen",
+            "start_offset": 24,
+            "end_offset": 313
+        },
+        {
+            "id": 672,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 677,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 313
+        },
+        {
+            "id": 673,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 150
+        },
+        {
+            "id": 674,
+            "label": "Subsection",
+            "start_offset": 151,
+            "end_offset": 313
+        },
+        {
+            "id": 675,
+            "label": "Schlussbestimmungen",
+            "start_offset": 4,
+            "end_offset": 24
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§11 Schlussbestimmungen Die teilweise Nichtigkeit oder Unwirksamkeit dieses Vertrages berührt nicht die Gültigkeit der übrigen Vereinbarungen.Die Gesellschaft trägt die Kosten dieses Dokuments und dessen Ausführung (Notarkosten von ca. 850,00 Euro, Gerichtskosten von ca. 150,00 Euro)."
+}

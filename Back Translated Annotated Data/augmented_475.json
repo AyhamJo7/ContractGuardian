@@ -1,0 +1,69 @@
+{
+    "id": 1012,
+    "text": "§ 3 Stammkapital, Geschäftsanteile\n\n(1) Das Stammkapital beträgt EUR 25.000,00. Hamburg Team Investment Management GmbH übernimmt einen Geschäftsanteil in Höhe von EUR 25.000,00, der 100 % des Stammkapitals entspricht, d. h. EUR 25.000,00 sind einzuzahlen (Geschäftsanteil Nr. 1). Die Einlagen auf die übernommenen Geschäftsanteile sind in der vorgenannten Höhe unverzüglich einzuzahlen.\n\n(2) Die Teilung und Zusammenlegung von Geschäftsanteilen bedürfen der notariell beurkundeten Erklärung des betreffenden Gesellschafters, jedoch keines Beschlusses der Gesellschafterversammlung.\n\n(3) Zur Verfügung über Geschäftsanteile oder Teile eines Geschäftsanteils ist die schriftliche Zustimmung von Gesellschaftern erforderlich, die zusammen 75 % der Stimmen auf sich vereinigen, wobei der verfügende Gesellschafter mitzählt. Dies gilt insbesondere für Abtretungen, Verpfändungen, Nießbrauchbestellungen und sonstige Belastungen, aber auch für Unterbeteiligungen, Treuhandverhältnisse und sonstige Vereinbarungen, die Dritten Rechte einräumen. Dies gilt auch bei Übertragungen an Mitgesellschafter und Verfügungen zu ihren Gunsten.",
+    "entities": [
+        {
+            "id": 3788,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3790,
+            "label": "Subsection",
+            "start_offset": 389,
+            "end_offset": 582
+        },
+        {
+            "id": 3791,
+            "label": "Subsection",
+            "start_offset": 584,
+            "end_offset": 1126
+        },
+        {
+            "id": 3792,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 3793,
+            "label": "Stammkapital",
+            "start_offset": 36,
+            "end_offset": 387
+        },
+        {
+            "id": 3794,
+            "label": "Stammeinlagen",
+            "start_offset": 18,
+            "end_offset": 34
+        },
+        {
+            "id": 3796,
+            "label": "Stammeinlagen",
+            "start_offset": 281,
+            "end_offset": 387
+        },
+        {
+            "id": 3789,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 387
+        },
+        {
+            "id": 3795,
+            "label": "Stammeinlagen",
+            "start_offset": 389,
+            "end_offset": 1126
+        },
+        {
+            "id": 3797,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 1126
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Grundkapital, Grundkapital (1) Das Grundkapital beträgt EUR 25.000,00. Die Hamburg Team Investment Management GmbH übernimmt einen Anteil von EUR 25.000,00, was 100% des Grundkapitals entspricht, d.h. EUR 25.000,00 ist einzuzahlen (Geschäftsanteil Nr. 1). Die Einlagen auf die erworbenen Aktien müssen in dem oben genannten Betrag unverzüglich eingezahlt werden. (2) Das Grundkapital beträgt EUR 25.000,00.(3) Die schriftliche Zustimmung der Mitglieder sowie 75 % der Stimmen sind dem Kontrollorgan zu erteilen.Dies gilt insbesondere für Abtretungen, Verpfändungen, Kaufaufträge und sonstige Aufwendungen, aber auch für Teilbeteiligungen, Treuhandverträge und sonstige Vereinbarungen, die Rechte an Dritte gewähren. Dies gilt auch für Übertragungen an gemeinsame Aktionäre und Verfügungen zu ihren Gunsten."
+}

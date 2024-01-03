@@ -1,0 +1,39 @@
+{
+    "id": 1001,
+    "text": "§ 4 Stammkapital\n\n(1) Das Stammkapital der Gesellschaft beträgt 725.000 Euro.",
+    "entities": [
+        {
+            "id": 3708,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 3709,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 77
+        },
+        {
+            "id": 3710,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 3711,
+            "label": "Stammkapital",
+            "start_offset": 18,
+            "end_offset": 77
+        },
+        {
+            "id": 3713,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 77
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Aktienkapital (1) Das Grundkapital der Gesellschaft beträgt 725.000 Euro."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 719,
+    "text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist das Halten und Verwalten eigenen Vermögens, insbesondere von Beteiligungen sowie von Grundbesitz. \nErlaubnispflichtige Tätigkeiten sind nicht Unternehmensgegenstand. (2) Die Gesellschaft kann alle Geschäfte betreiben, die dem Gegenstand des Unternehmens unmittelbar oder mittelbar zu dienen geeignet sind. \nSie kann sich an anderen Unternehmen beteiligen, solche Unternehmen erwerben und Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1729,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1732,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 1733,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 505
+        },
+        {
+            "id": 1734,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 505
+        },
+        {
+            "id": 1730,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 232
+        },
+        {
+            "id": 1731,
+            "label": "Subsection",
+            "start_offset": 233,
+            "end_offset": 505
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Besitz und die Verwaltung von eigenen Vermögenswerten, insbesondere von Beteiligungen sowie von Immobilien. Berechtigte Tätigkeiten sind nicht Gegenstand des Unternehmens. (2) Die Gesellschaft kann jedes Geschäft, das direkt oder indirekt geeignet ist für den Zweck des Unternehmens.Darüber hinaus hat die Kommission beschlossen, den Anwendungsbereich der Regelung auf folgende Tätigkeiten auszudehnen:"
+}

@@ -1,0 +1,63 @@
+{
+    "id": 561,
+    "text": "§ 13 Ausschluss von Gesellschaftern Einziehung von Geschäftsanteilen 13.1. \nDer Ausschluss eines Gesellschafters und die Einziehung von Geschäftsanteilen sind zulässig. \nDer Ausschluss und die Einziehung sind auch ohne Zustimmung des betroffenen Gesellschafters zulässig, wenn 13.1.1. der Gesellschafter gemäß § 10 (Dauer der Gesellschaft) seinen Austritt aus der Gesellschaft erklärt,  13.1.2. der Gesellschafter seit einem Zeitraum von mehr als einem Jahr geschäftsunfähig, sein Aufenthaltsort unbekannt oder er aus sonstigen Gründen nicht in der Lage ist, seine Belange persönlich wahrzunehmen, und ein Vertreter, der mit einer in Bezug auf die Gesellschafterstellung uneingeschränkten Vollmacht ausgestattet ist, sich nicht bei der Gesellschaft legitimiert hat, 13.1.3. der Gesellschafter verstirbt, 13.1.4. der Gesellschafter aus anderen als in Ziffer 13.1.1 genannten Gründen die Gesellschaft kündigt oder seinen Austritt aus der Gesellschaft erklärt, 13.1.5. der Gesellschafter gegen die Verpflichtung gemäß § 7 (Wettbewerb und Verschwiegenheit) dieses Vertrages verstößt und er trotz einer schriftlichen Abmahnung durch einen Gesellschafter oder die Gesellschaft die Verletzung fortsetzt, 13.1.6. der Gesellschafter gegen die Verpflichtung gemäß § 11 (Verfügung über Geschäftsanteile) dieses Vertrages verstößt, 13.1.7. der Gesellschafter seine vertraglichen oder gesetzlichen Pflichten gröblich verletzt oder in seiner Person ein sonstiger wichtiger Grund vorliegt und er trotz einer schriftlichen Abmahnung durch einen Gesellschafter oder die Gesellschaft die Verletzung fortsetzt, 13.1.8. der Geschäftsanteil von einem Gläubiger des Gesellschafters gepfändet oder sonst wie in diesen vollstreckt wird und die Vollstreckungsmaßnahme nicht innerhalb von zwei Monaten, spätestens bis zur Verwertung des Geschäftsanteiles aufgehoben wird, 13.1.9. der Geschäftsanteil aufgrund einer Verpfändung, Sicherungsabtretung, Unterbeteiligung oder aus sonstigen Gründen verwertet wird; dieses gilt auch dann, wenn die das Verwertungsrecht begründende Verfügung mit Zustimmung der Gesellschaft oder der Gesellschafter erfolgt ist, 13.1.10. über das Vermögen des Gesellschafters das Insolvenzverfahren oder ein ähnliches Verfahren eröffnet wird, die Eröffnung eines solchen Verfahrens mangels Masse abgelehnt wird, über die Eröffnung eines solchen Verfahrens nicht binnen drei Monaten seit Antrag entschieden wird oder der Gesellschafter die eidesstattliche Versicherung gemäß § 807 ZPO abgibt. \n 13.2. \nSteht ein Geschäftsanteil mehreren Mitberechtigten zu oder sind mehrere Gesellschafter aufgrund einer gemeinsamen Vertretungsanordnung wie eine Gemeinschaft zu behandeln, so ist der Ausschluss auch zulässig, wenn diese Voraussetzungen nur in der Person eines Mitberechtigten vorliegen. \nDie Mitberechtigten bzw. die Gemeinschaft ist berechtigt, den Ausschluss abzuwenden, indem sie binnen sechs Wochen nach Bekanntgabe des Ausschlusses das Ausscheiden der betreffenden Person nachweist. 13.3. \nDer Ausschluss erfolgt aufgrund eines Gesellschafterbeschlusses. \nEr wird von der Geschäftsführung erklärt und muss binnen sechs Monaten erfolgen, nachdem der Grund für den Ausschluss der Geschäftsführung bekannt geworden ist. \nDer Ausschluss wird mit der Bekanntgabe sofort wirksam. 13.4. \nDer Ausschluss hat zur Konsequenz, dass der Geschäftsanteil eingezogen und vernichtet wird. \nDie Gesellschafter können in dem Beschluss statt der Vernichtung des Anteiles bestimmen, dass dieser fortbesteht und an die Gesellschaft oder an eine oder mehrere von ihr benannte Personen abzutreten ist, und zwar auch dergestalt, dass der Geschäftsanteil teilweise eingezogen wird und im Übrigen abzutreten ist. \nFür den Zeitraum bis zur Abtretung ruhen alle Gesellschafterrechte, ausgenommen das Gewinnbezugsrecht, das insoweit dem künftigen Erwerber zusteht.",
+    "entities": [
+        {
+            "id": 538,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 68
+        },
+        {
+            "id": 539,
+            "label": "Subsection",
+            "start_offset": 69,
+            "end_offset": 2490
+        },
+        {
+            "id": 541,
+            "label": "Subsection",
+            "start_offset": 2986,
+            "end_offset": 3276
+        },
+        {
+            "id": 542,
+            "label": "Subsection",
+            "start_offset": 3277,
+            "end_offset": 3838
+        },
+        {
+            "id": 543,
+            "label": "Einziehung",
+            "start_offset": 36,
+            "end_offset": 68
+        },
+        {
+            "id": 546,
+            "label": "Green Flag",
+            "start_offset": 2499,
+            "end_offset": 3838
+        },
+        {
+            "id": 540,
+            "label": "Subsection",
+            "start_offset": 2492,
+            "end_offset": 2985
+        },
+        {
+            "id": 544,
+            "label": "Einziehung",
+            "start_offset": 69,
+            "end_offset": 3838
+        },
+        {
+            "id": 545,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2498
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Ausschluss der Aktionäre Rückforderung der Aktien 13.1. Ausschluss eines Aktionärs und Einziehung der Aktien sind zulässig. Ausschluss und Einziehung sind auch ohne Zustimmung des betroffenen Aktionärs zulässig, wenn 13.1.1. der Aktionär seinen Rücktritt von der Gesellschaft gemäß § 10 (Verlängerung der Gesellschaft), 13.1.2. des G erklärt.der Aktionär hat sich für einen Zeitraum von mehr als einem Jahr, seinen Aufenthaltsort unbekannt oder aus anderen Gründen nicht in der Lage, seine Interessen persönlich zu erfüllen, und ein Vertreter, der mit einer unbegrenzten Vollmacht in Bezug auf die Gründung der Gesellschaft ausgestattet ist, hat sich nicht mit der Gesellschaft legitimiert, 13.1.3.bt, 13.1.4. des Aktionärs aus anderen als den unter Nummer 13.1.1 genannten Gründen, das Unternehmen beendet oder erklärt seinen Rücktritt von der Gesellschaft, 13.1.5. des Aktionärs verletzt die Verpflichtung nach § 7 (Wettbewerb und Vertraulichkeit) dieses Vertrages und setzt die Verletzung trotz einer schriftlichen Mahnung eines Aktionärs oder der Gesellschaft, 13. fort.1.6. Der Gesellschafter verstößt gegen die Verpflichtung nach § 11 (Aktienvorbehalt) dieses Vertrages, 13.1.7. Der Gesellschafter verletzt grob seine vertraglichen oder rechtlichen Verpflichtungen oder hat in seiner Person einen anderen wichtigen Grund und setzt die Verletzung trotz schriftlicher Mahnung eines Gesellschafters oder der Gesellschaft, 13.1.8, fort.Der Anteil des Unternehmens wird von einem Gläubiger des Aktionärs verpfändet oder anderweitig durchgesetzt und die Durchsetzungsmaßnahme wird nicht innerhalb von zwei Monaten, spätestens bis zur Liquidation des Anteils des Unternehmens, 13.1.9, aufgehoben. Der Anteil des Unternehmens wird aufgrund einer Verpfändung, Sicherheitsabtretung, Unterbeteiligung oder aus anderen Gründen ausgenutzt; dies gilt auch für:wenn die Entscheidung über das Verwertungsrecht mit Zustimmung der Gesellschaft oder des Aktionärs getroffen wurde, 13.1.10. das Insolvenzverfahren oder ein ähnliches Verfahren auf dem Vermögen des Aktionärs eröffnet wird, die Eröffnung eines solchen Verfahrens wegen mangelnder Masse abgelehnt wird, findet die Eröffnung eines solchen Verfahrens nicht innerhalb von drei Monaten nach Antragstellung statt.13.2. Wird ein Anteil eines Unternehmens von mehreren Mitautoren gehalten oder sind mehrere Partner auf der Grundlage einer gemeinsamen Vertretungsanordnung als Gemeinschaft zu behandeln, so ist der Ausschluss auch zulässig, wenn diese Bedingungen nur in der Person eines Mitautoren bestehen.13.3. Der Ausschluss erfolgt auf der Grundlage einer Aktionärsentscheidung. Er wird von der Geschäftsleitung erklärt und muss innerhalb von sechs Monaten nach dem Grund des Ausschlusses der Geschäftsleitung erfolgen.13.4. Der Ausschluss hat zur Folge, dass der Anteil des Unternehmens eingezogen und vernichtet wird. In der Entscheidung können die Aktionäre anstelle der Zerstörung der Aktie feststellen, dass er fortbesteht und der Gesellschaft oder einer oder mehreren von ihr benannten Personen zugeordnet wird, darunter:Es ist wichtig, dass der Anteil des Unternehmens teilweise wieder eingezogen und auch übertragen wird. Für den Zeitraum bis zur Abtretung werden alle Aktionärsrechte ausgesetzt, mit Ausnahme des Rechts auf Gewinnerwerb, der in dieser Hinsicht vom zukünftigen Erwerber zu vertreten ist."
+}

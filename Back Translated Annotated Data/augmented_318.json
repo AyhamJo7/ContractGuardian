@@ -1,0 +1,39 @@
+{
+    "id": 852,
+    "text": "§ 15 Erfullungsort und Gerichtsstand ErfOllungsort und Gerichtsstand fUr alle aus diesem Vertrag entste­ henden Streitigkeiten ist Mainz, soweit nicht zwingende gesetzliche Vorschriften entgegenstehen. _",
+    "entities": [
+        {
+            "id": 2670,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 203
+        },
+        {
+            "id": 2669,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 2671,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 36
+        },
+        {
+            "id": 2672,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 203
+        },
+        {
+            "id": 2673,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 203
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Erfüllungsort und Gerichtsstand Gerichtsstand und Gerichtsstand für alle sich aus diesem Vertrag ergebenden Streitigkeiten ist Mainz, es sei denn, zwingende gesetzliche Vorschriften widersprechen. _"
+}

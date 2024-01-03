@@ -1,0 +1,51 @@
+{
+    "id": 845,
+    "text": "§ 8 Dauer der Gesellschaft 8.1 Die Gesellschaft wird auf unbestimmte Zeit errichtet. \nSie be­ ginnt im lnnenverhaltnis der Gesellschafter mit der Unter­ zeichnung dieses Vertragen, im AuBenverhaltnis mit der Ein­ tragung in das Handelsregister. 8.2 Die Gesellschaft kann von jedem Gesellschafter mit einer Frist von einem Jahr zum Ende eines Geschaftsjahres gekOndigt werden. \nDie KOndigung hat durch eingeschriebenen Brief zu erfolgen, der an die Gesellschaft zu richten ist; die Gesell-  schaft hat die Gesellschafter insgesamt unverzOglich zu unter­ richten. \nZur Fristwahrung reicht das Datum des Poststempels. 8.3 Durch die KOndigung eines Gesellschafters wird die Gesell­ schaft nicht aufgelost, vielmehr scheidet der kOndigende Ge­ sellschafter zum Ende des betreffenden Geschaftsjahres aus der Gesellschaft aus. \nDie VergOtung an den ausscheidenden Gesellschafter bemisst sich nach dem Bilanzwert der Bilanz auf den Stichtag des Ausscheidens. \nDie Bilanz ist unter Be­ achtung der Bestimmungen der § 242, 264 HGB zu erstellen.",
+    "entities": [
+        {
+            "id": 2621,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 2622,
+            "label": "Subsection",
+            "start_offset": 26,
+            "end_offset": 244
+        },
+        {
+            "id": 2624,
+            "label": "Subsection",
+            "start_offset": 615,
+            "end_offset": 1034
+        },
+        {
+            "id": 2625,
+            "label": "Dauer",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 2627,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1034
+        },
+        {
+            "id": 2623,
+            "label": "Subsection",
+            "start_offset": 245,
+            "end_offset": 614
+        },
+        {
+            "id": 2626,
+            "label": "Dauer",
+            "start_offset": 27,
+            "end_offset": 1034
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Dauer der Gesellschaft 8.1 Die Gesellschaft wird auf unbestimmte Zeit gegründet. Sie beginnt in der Beziehung mit den Aktionären mit der Unterzeichnung dieses Vertrages, in der Vereinbarung mit der Eintragung in das Handelsregister. 8.2 Die Gesellschaft kann von jedem Aktionär mit einem Zeitraum von einem Jahr am Ende eines Geschäftsjahres beauftragt werden.Das Datum des Poststempels reicht für die Aufrechterhaltung der Frist aus. 8.3 Durch die Beendigung der Partnerschaft wird das Unternehmen nicht umorganisiert, sondern am Ende des betreffenden Geschäftsjahres zieht sich das einzelne Mitglied der Gesellschaft aus der Gesellschaft zurück.Die Bilanz wird gemäß § 242, 264 HGB erstellt."
+}

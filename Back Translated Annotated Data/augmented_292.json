@@ -1,0 +1,57 @@
+{
+    "id": 859,
+    "text": "§4 Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Bei Maßnahmen der Geschäftsführung für die KTR GmbH & Co. \nKG haben die Geschäftsführer neben dem Gesetz, diesem Gesellschaftsvertrag, einer eventuellen Geschäftsordnung für die Geschäftsführung und Weisungen der Gesellschafterversammlung zusätzlich auch die sich aus dem Gesellschaftsvertrag der KTR GmbH & Co. \nKG ergebenden Bindungen der Gesellschaft als geschäftsführende persönlich haftende Gesellschafterin der KTR GmbH & Co. \nKG zu beachten. (3) Die Geschäftsführung bedarf zu allen Maßnahmen und Geschäften, die über den gewöhnlichen Geschäftsbetrieb der Gesellschaft hinausgehen oder mit denen ein außergewöhnliches wirtschaftliches Risiko verbunden ist, der vorherigen Zustimmung der Gesellschafterversammlung. \nZustimmungsbedürftige Geschäfte und Maßnahmen sind insbesondere: a) Aufstellung des jährlichen Investitions- und Finanzplans für die Gesellschaft, b) Erwerb und Veräußerung, Pacht und Verpachtung von Unternehmen jeglicher Art oder Teilen davon, c) Der Erwerb, die wesentliche Erweiterung sowie die Veräußerung von Beteiligungen an anderen Unternehmen, d) Errichtung und Auflösung von Zweigniederlassungen, e) Rechtsgeschäfte über den Erwerb und die Veräußerung von Grundstücken, f) Belastung von Grundstücken und grundstücksgleichen Rechten, g) Übernahme von Bürgschaften und Eingehen von Haftungen jeglicher Art, soweit diese nicht mit dem laufenden Geschäftsverkehr zusammenhängen, h) Aufnahme von Krediten außerhalb des gewöhnlichen Geschäftsverkehrs, i) Erteilung und Widerruf von Prokuren und Handlungsvollmachten, j) Abschluss, Änderung und Beendigung von Organschaftsverträgen sowie Betriebsübernahme- und Betriebsüberlassungsverträgen jeglicher Art,  k) Investitionen ab einem Betrag von EUR 25.000 (ohne USt.) im Einzelfall, wenn sie in dem genehmigten jährlichen Investitionsplan nicht enthalten sind, 1) die Neuaufnahme oder Aufgabe von Betätigungsfeldern, soweit dies nicht ohnehin eine Änderung des Unternehmensgegenstandes ist. (4) Die vorstehenden Regelungen gelten entsprechend für Liquidatoren. \nIm Liquidationsfall bleiben die Geschäftsführer mit ihrer dann bestehenden konkreten Vertretungsbefugnis im Amt, wenn die Gesellschafterversammlung nichts anderes beschließt.",
+    "entities": [
+        {
+            "id": 2719,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 80
+        },
+        {
+            "id": 2720,
+            "label": "Subsection",
+            "start_offset": 81,
+            "end_offset": 533
+        },
+        {
+            "id": 2721,
+            "label": "Subsection",
+            "start_offset": 534,
+            "end_offset": 2048
+        },
+        {
+            "id": 2722,
+            "label": "Subsection",
+            "start_offset": 2049,
+            "end_offset": 2294
+        },
+        {
+            "id": 2718,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 2723,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 2724,
+            "label": "Geschäftsführung",
+            "start_offset": 20,
+            "end_offset": 2294
+        },
+        {
+            "id": 2725,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 2294
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Bei Maßnahmen der Geschäftsführung der KTR GmbH & Co. KG haben die Geschäftsführer neben dem Gesetz, diesem Sozialvertrag, einer möglichen Geschäftsordnung für die Geschäftsführung und Weisungen der Aktionärsversammlung auch solche, die sich aus dem Sozialvertrag der KTR GmbH & Co. KG ergeben.(3) Die Geschäftsführung muss mit allen Maßnahmen und Transaktionen, die über die normale Geschäftstätigkeit der Gesellschaft hinausgehen oder ein außergewöhnliches wirtschaftliches Risiko mit sich bringen, der vorherigen Zustimmung der Gesellschaftervereinigung nachkommen.b) Erwerb und Veräußerung, Leasing und Leasing von Unternehmen jeglicher Art oder von Teilen davon;e) Rechtsgeschäfte im Zusammenhang mit dem Erwerb und der Veräußerung von Grundstücken, f) der Erhebung von Grundstücks- und Grundstücksrechten, g) der Übernahme von Garantien und der Zahlung jeglicher Haftung, soweit diese nicht mit laufenden Transaktionen zusammenhängen, h) der Aufnahme von Darlehen außerhalb gewöhnlicher Handelsgeschäfte, i) der Gewährung und dem Widerruf von Beschaffungen,(k) Investitionen aus einem Betrag von 25.000 EUR (ohne MwSt.) in Einzelfällen, wenn sie nicht in den genehmigten jährlichen Investitionsplan einbezogen sind, 1) die Wiedereinsetzung oder Aufgabe von Tätigkeitsbereichen, soweit dies in keinem Fall der Fall ist.(4) Die vorstehenden Bestimmungen gelten sinngemäß für Liquidatoren. Im Falle der Liquidation bleiben die Geschäftsführer bei ihrer damals bestehenden konkreten Vertretungsbehörde im Amt, es sei denn, die Hauptversammlung entscheidet etwas anderes."
+}

@@ -1,0 +1,81 @@
+{
+    "id": 573,
+    "text": "§6 Jahresabschluss, Gewinn- und Verlustverteilung Bilanz sowie Gewinn- und Verlustrechnung sind von der Geschäftsführung innerhalb der gemäß § 264 HGB bestimmten Frist aufzustellen. \nFür die Buchführung und Bilanzierung gelten die handelsrechtlichen und ertragssteuerrechtlichen Vorschriften. \nGewinn und Verlust werden im Verhältnis der Geschäftsanteile verteilt. Über die Ausschüttung des Gewinns entscheidet die Gesellschafterversammlung.",
+    "entities": [
+        {
+            "id": 634,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 49
+        },
+        {
+            "id": 635,
+            "label": "Subsection",
+            "start_offset": 50,
+            "end_offset": 182
+        },
+        {
+            "id": 636,
+            "label": "Subsection",
+            "start_offset": 183,
+            "end_offset": 293
+        },
+        {
+            "id": 637,
+            "label": "Subsection",
+            "start_offset": 294,
+            "end_offset": 441
+        },
+        {
+            "id": 640,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 441
+        },
+        {
+            "id": 641,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        },
+        {
+            "id": 642,
+            "label": "Jahresabschluss",
+            "start_offset": 50,
+            "end_offset": 182
+        },
+        {
+            "id": 643,
+            "label": "Gewinnverteilung",
+            "start_offset": 20,
+            "end_offset": 49
+        },
+        {
+            "id": 644,
+            "label": "Gewinnverteilung",
+            "start_offset": 50,
+            "end_offset": 182
+        },
+        {
+            "id": 645,
+            "label": "Gewinnverteilung",
+            "start_offset": 294,
+            "end_offset": 441
+        },
+        {
+            "id": 646,
+            "label": "Gewinnverteilung",
+            "start_offset": 183,
+            "end_offset": 293
+        },
+        {
+            "id": 647,
+            "label": "Jahresabschluss",
+            "start_offset": 183,
+            "end_offset": 293
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Jahresabschluss, Gewinn- und Verlustausschüttung Die Bilanz sowie die Gewinn- und Verlustrechnung sind von der Geschäftsleitung innerhalb der in § 264 HGB genannten Frist zu erstellen. Die Gewerbe- und Ertragsteuervorschriften gelten für die Bilanzierung und Bilanzierung. Gewinn- und Verlustverteilung erfolgt im Verhältnis zu den Geschäftsanteilen.Die Hauptversammlung findet statt."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 942,
+    "text": "§ 16 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 3327,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 3330,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 91
+        },
+        {
+            "id": 3331,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 91
+        },
+        {
+            "id": 3328,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 91
+        },
+        {
+            "id": 3329,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 22
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Ankündigungen Die Ankündigungen des Unternehmens erfolgen nur im Bundesanzeiger."
+}

@@ -1,0 +1,15 @@
+{
+    "id": 855,
+    "text": "Gesellschaftsvertrag der KTR Komplementar-GmbH mit Sitz in Hamburg",
+    "entities": [
+        {
+            "id": 2687,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 66
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Vertrag der KTR Complementar-GmbH mit Sitz in Hamburg"
+}

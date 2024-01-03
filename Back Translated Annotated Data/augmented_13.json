@@ -1,0 +1,45 @@
+{
+    "id": 546,
+    "text": "§ 13 Wettbewerb (1) Die Gesellschafter unterliegen einem Wettbewerbsverbot. (2) Durch Gesellschafterbeschluss können einzelne oder alle Gesellschafter von dem Wettbewerbsverbot befreit werden.",
+    "entities": [
+        {
+            "id": 417,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 418,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 75
+        },
+        {
+            "id": 419,
+            "label": "Subsection",
+            "start_offset": 76,
+            "end_offset": 192
+        },
+        {
+            "id": 420,
+            "label": "Wettbewerb",
+            "start_offset": 5,
+            "end_offset": 16
+        },
+        {
+            "id": 421,
+            "label": "Wettbewerb",
+            "start_offset": 16,
+            "end_offset": 192
+        },
+        {
+            "id": 422,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 192
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Wettbewerb (1) Die Partner unterliegen einer Wettbewerbsverbotspflicht. (2) Durch Entscheidung der Aktionäre können einzelne oder alle Mitglieder von der Wettbewerbsverbotspflicht befreit werden."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 910,
+    "text": "§3 Stammkapital (1) Das Stammkapital der Gesellschaft beträgt 25.000,00 EUR -in Worten: fünfiindzwanzigtausend Euro-. (2) Das Stammkapital der Gesellschaft besteht aus 25.000 Geschäftsanteilen im Nennbetrag von je 1,00 EUR (Geschäftsanteile mit den laufenden Nummern 1 bis 25.000), die von dem einzigen Gesellschafter Herrn Mir ko Kreckel übernommen werden. (3) Auf die übernommenen Geschäftsanteile ist eine Geldeinlage in Höhe des Nennbetrages der Geschäftsanteile zu leisten. \nDie Geldeinlage ist in voller Höhe vor Anmeldung der Gesellschaft zur Eintragung in das Han delsregister einzuzahlen.",
+    "entities": [
+        {
+            "id": 3098,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3099,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 116
+        },
+        {
+            "id": 3100,
+            "label": "Subsection",
+            "start_offset": 118,
+            "end_offset": 357
+        },
+        {
+            "id": 3101,
+            "label": "Subsection",
+            "start_offset": 358,
+            "end_offset": 597
+        },
+        {
+            "id": 3102,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 3103,
+            "label": "Stammkapital",
+            "start_offset": 20,
+            "end_offset": 115
+        },
+        {
+            "id": 3104,
+            "label": "Stammeinlagen",
+            "start_offset": 122,
+            "end_offset": 597
+        },
+        {
+            "id": 3105,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 597
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital (1) Das Grundkapital der Gesellschaft beträgt EUR 25,000,00 - in Worten: fünf und zwanzigtausend Euro. (2) Das Grundkapital der Gesellschaft besteht aus 25.000 Aktien im Nennbetrag von EUR 1,00 (Aktien mit den Bestellnummern 1 bis 25.000), die von dem einzigen Gesellschafter Mir ko Kreckel übernommen werden. (3) Auf den erworbenen AktienDie Kaution ist vor der Eintragung der Gesellschaft zur Eintragung in das Handelsregister vollständig zu zahlen."
+}

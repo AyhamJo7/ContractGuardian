@@ -1,0 +1,51 @@
+{
+    "id": 824,
+    "text": "§5 Geschaftsfuhrung (1) Die Gesellschaft hat einen oder mehrere GeschaftsfOhrer, die von der Gesellschafterver­ sammlung bestellt und abberufen werden. (2) Die Geschaftsfuhrer sind verpflichtet, die Geschafte der Gesellschaft in Obereinstimmung mit dem Gesetz, mit diesem Gesellschaftsvertrag sowie den Beschl0ssen der Gesellschaf­ terversammlung zu fOhren. \nDurch eine von der Gesellschafterversammlung beschlossene Geschaftsordnung kann der Umfang der GeschaftsfOhrungsbefugnis, insbesondere die Zustandigkeitsverteilung bei mehreren GeschaftsfOhrern und die Mitwirkung mehrerer Ge­ schaftsfOhrer bei Geschaftsf0hrungsmaf1nahmen, geregelt werden. (3) Die GeschaftsfOhrer bedOrfen fur Geschafte, die Ober den gewohnlichen Geschaftsbetrieb der Gesellschaft hinausgehen, der Zustimmung der Gesellschafterversammlung.",
+    "entities": [
+        {
+            "id": 2477,
+            "label": "Subsection",
+            "start_offset": 649,
+            "end_offset": 815
+        },
+        {
+            "id": 2478,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 2480,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 815
+        },
+        {
+            "id": 2479,
+            "label": "Geschäftsführung",
+            "start_offset": 20,
+            "end_offset": 815
+        },
+        {
+            "id": 2474,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 2475,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 151
+        },
+        {
+            "id": 2476,
+            "label": "Subsection",
+            "start_offset": 152,
+            "end_offset": 648
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Verhalten der Gesellschaft (1) Die Gesellschaft hat einen oder mehrere Vertreter der Gesellschaft, die von der Gesellschaftervereinigung bestellt und abgewiesen werden. (2) Die Gesellschafter sind verpflichtet, die Gesellschaften der Gesellschaft nach dem Gesetz, mit diesem Sozialvertrag und mit den Entscheidungen der Gesellschafterversammlung durchzuführen.Im Falle von Tarifverträgen kann der Umfang der Befugnisse der Gesellschaft, insbesondere die Verteilung des Status mehrerer Gesellschafter und die Beteiligung mehrerer Gesellschafter in Gesellschaftsverträgen geregelt werden.Rat."
+}

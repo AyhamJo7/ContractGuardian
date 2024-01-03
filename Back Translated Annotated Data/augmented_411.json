@@ -1,0 +1,39 @@
+{
+    "id": 958,
+    "text": "§4 Geschaftsjahr Das Geschaftsjahr ist das Kalenderjahr.",
+    "entities": [
+        {
+            "id": 3433,
+            "label": "Geschäftsjahr",
+            "start_offset": 3,
+            "end_offset": 17
+        },
+        {
+            "id": 3434,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 56
+        },
+        {
+            "id": 3431,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 3432,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 56
+        },
+        {
+            "id": 3435,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 56
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Unternehmensjahr Das Unternehmensjahr ist das Kalenderjahr."
+}

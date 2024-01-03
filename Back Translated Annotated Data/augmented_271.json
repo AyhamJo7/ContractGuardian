@@ -1,0 +1,39 @@
+{
+    "id": 829,
+    "text": "§ 10 Tod eines Gesellschafters Im Falle des Tades eines Gesellschafters wird die Gesellschaft mit seinen Erben oder Ver­ machtnisnehmern fortgesetzt. \nStattdessen kann die Gesellschafterversammlung aber auch die Einziehung des betroffenen Geschaftsanteils innerhalb von 6 Monaten nach dem Tod des Gesellschafters beschlief3.en. \nDie ErbenNermachtnisnehmer erhalten in diesem Fall eine Ab­ findung, die nach § 11 Abs. (2) g) zu ermitteln und Abs. (2) h) auszuzahlen ist. Die Testamentsvollstreckung an einem Geschaftsanteil ist auch in der Form der Verwaltungs­ testamentsvollstreckung zulassig.",
+    "entities": [
+        {
+            "id": 2515,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2517,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 594
+        },
+        {
+            "id": 2518,
+            "label": "Erbfolge",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 2519,
+            "label": "Erbfolge",
+            "start_offset": 31,
+            "end_offset": 594
+        },
+        {
+            "id": 2520,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 594
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Tod eines Gesellschafters Im Falle der Tade eines Gesellschafters wird die Gesellschaft mit ihren Erben oder Aktionären fortgesetzt. Stattdessen kann die Hauptversammlung auch die Beschlagnahme der betroffenen Aktie innerhalb von 6 Monaten nach dem Tod des Gesellschafters mit einbeziehen3.e ist nach § 11 Abs. 2 lit. g) und Abs. 2 lit. h) zu bestimmen. Die Ausführung des Willens an der Gesellschaftsanteile ist auch in Form der administrativen Ausführung des Testaments zulässig."
+}

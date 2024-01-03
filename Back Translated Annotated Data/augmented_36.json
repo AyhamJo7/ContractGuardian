@@ -1,0 +1,51 @@
+{
+    "id": 551,
+    "text": "§ 3 Stammkapital 3.1. \nDas Stammkapital der Gesellschaft beträgt 25.000,00 €. \nEine Nachschusspflicht ist ausgeschlossen. \nEs haben übernommen: • Anita Luttermann, geboren am 14.12.1946, wohnhaft in Flensburg, einen Geschäftsanteil im Nennbetrag zu 7.500,00 €. • Kim Maurice Zemma, geboren am 15.10.2002, wohnhaft in Flensburg, einen Geschäftsanteil im Nennbetrag zu 7.500,00 €. • Thorsten Zemma, geboren am 02.07.1975, wohnhaft in Glücksburg, einen Geschäftsanteil im Nennbetrag zu 10.000,00 €. \n 3.2. \nDie Einlagen der Gesellschafter sind in Geld zu leisten.",
+    "entities": [
+        {
+            "id": 447,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 448,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 496
+        },
+        {
+            "id": 453,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 560
+        },
+        {
+            "id": 452,
+            "label": "Stammeinlagen",
+            "start_offset": 504,
+            "end_offset": 560
+        },
+        {
+            "id": 449,
+            "label": "Subsection",
+            "start_offset": 498,
+            "end_offset": 560
+        },
+        {
+            "id": 450,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 451,
+            "label": "Stammkapital",
+            "start_offset": 0,
+            "end_offset": 496
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Aktienkapital 3.1. Das Grundkapital der Gesellschaft beträgt 25.000,00 €. Eine zusätzliche Margenverpflichtung ist ausgeschlossen. Sie hat übernommen: • Anita Luttermann, geboren am 14.12.1946, wohnhaft in Flensburg, eine Aktie im Nennbetrag von 7.500,00 €. • Kim Maurice Zemma, geboren am 15.10.2002, wohnhaft in Flensburg, eine Aktie im Nennbetrag von 7.500,00 €. • Thorsten Zemma, geboren am 02.07.1975, wohnhaft in Glücksburg, ein Anteil am Nennbetrag von € 10.000,00. 3.2. Die Einlagen der Aktionäre müssen in Geld gemacht werden."
+}

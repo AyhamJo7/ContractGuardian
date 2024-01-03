@@ -1,0 +1,57 @@
+{
+    "id": 589,
+    "text": "§ l Firma und Sitz l. \nDie Firma der Gesellschaft lautet: Beinling Family Office GmbH. 2. \nSitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 746,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 747,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 86
+        },
+        {
+            "id": 748,
+            "label": "Subsection",
+            "start_offset": 87,
+            "end_offset": 125
+        },
+        {
+            "id": 749,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 750,
+            "label": "Firma",
+            "start_offset": 19,
+            "end_offset": 86
+        },
+        {
+            "id": 751,
+            "label": "Sitz",
+            "start_offset": 14,
+            "end_offset": 19
+        },
+        {
+            "id": 752,
+            "label": "Sitz",
+            "start_offset": 87,
+            "end_offset": 125
+        },
+        {
+            "id": 753,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 125
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ l Gesellschaft und Firmensitz l. Gesellschaft des Unternehmens ist: Beinling Family Office GmbH. 2. Sitz des Unternehmens ist Hamburg."
+}

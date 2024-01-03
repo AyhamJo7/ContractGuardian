@@ -1,0 +1,57 @@
+{
+    "id": 669,
+    "text": "§ 13 Kundigung 1. \nJeder Gesellschafter kann das Gesellschaftsverhaltnis mit einer Frist van sechs Monaten zum Ende eines Geschaftsjahres mittels eingeschriebenen Briefes an die Gesellschaft kun­ digen, fruhestens jedoch zum 31. \nDezember 2024. 2. \nDie Kundigung hat - vorbehaltlich Absatz 4 - nicht die Auflosung der Gesellschaft, sondern das Ausscheiden des Kundigenden aus der Gesellschaft zur Falge. 3. \nDer kundigende Gesellschafter ist verpflichtet, die Einziehung seines Geschaftsanteils zu dulden. \nDie Gesellschaft kann stattdessen auch die Rechte aus § 10 Absatz 6 dieses Ver­ trags geltend machen. \nDie Abfindung betragt 75% des nach § 12 dieses Vertrags ermittelten Werts. 4. 1st der Geschaftsanteil des ausscheidenden Gesellschafters innerhalb van sechs Monaten nach seinem Ausscheiden weder vollstandig ubernommen noch eingezogen, so ist die Ge­ sellschaft aufgelost. \nDer kundigende Gesellschafter nimmt an der Abwicklung teil.",
+    "entities": [
+        {
+            "id": 1353,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1357,
+            "label": "Subsection",
+            "start_offset": 685,
+            "end_offset": 942
+        },
+        {
+            "id": 1354,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 244
+        },
+        {
+            "id": 1355,
+            "label": "Subsection",
+            "start_offset": 245,
+            "end_offset": 403
+        },
+        {
+            "id": 1356,
+            "label": "Subsection",
+            "start_offset": 404,
+            "end_offset": 683
+        },
+        {
+            "id": 1358,
+            "label": "Kündigung",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 1359,
+            "label": "Kündigung",
+            "start_offset": 15,
+            "end_offset": 942
+        },
+        {
+            "id": 1360,
+            "label": "Green Flag",
+            "start_offset": 19,
+            "end_offset": 942
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Erklärung 1. Jeder Partner kann mit einer Frist von sechs Monaten am Ende eines Geschäftsjahres ein Einschreiben an die Gesellschaft senden, aber in Ruhe, am 31. Dezember 2024. 2. Vorbehaltlich Absatz 4 hat der Kunde nicht die Auflösung der Gesellschaft, sondern die Abreise des Kunden von der Gesellschaft bis zum Ende des Geschäfts.3. Der sachkundige Gesellschafter ist verpflichtet, die Einziehung seiner Anteile an der Gesellschaft zu dulden. Stattdessen kann die Gesellschaft auch die Rechte nach § 10 Abs. 6 dieses Vertrages geltend machen. Die Entschädigung beträgt 75% des nach § 12 dieses Vertrages ermittelten Wertes.Der kompetente Partner beteiligt sich an der Liquidation."
+}

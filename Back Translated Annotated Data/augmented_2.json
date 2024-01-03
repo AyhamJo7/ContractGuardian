@@ -1,0 +1,57 @@
+{
+    "id": 535,
+    "text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Übernahme der persönlichen Haftung bei Personenhandelsgesellschaften. (2) Die Gesellschaft ist zur Vornahme aller Geschäfte berechtigt, die den Gesellschaftszweck unmittelbar oder mittelbar zu fördern geeignet sind. (3) Die Gesellschaft darf andere Unternehmen gleicher oder ähnlicher Art übernehmen, sich an ihnen beteiligen oder ihre Geschäfte führen. \nDie Gesellschaft darf ferner Zweigniederlassungen errichten.",
+    "entities": [
+        {
+            "id": 330,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 141
+        },
+        {
+            "id": 332,
+            "label": "Subsection",
+            "start_offset": 288,
+            "end_offset": 426
+        },
+        {
+            "id": 333,
+            "label": "Subsection",
+            "start_offset": 427,
+            "end_offset": 487
+        },
+        {
+            "id": 335,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 487
+        },
+        {
+            "id": 329,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 331,
+            "label": "Subsection",
+            "start_offset": 142,
+            "end_offset": 287
+        },
+        {
+            "id": 334,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 336,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 487
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Übernahme der persönlichen Haftung mit Partnerschaften. (2) Das Unternehmen ist berechtigt, alle Transaktionen durchzuführen, die in der Lage sind, den Zweck der Gesellschaft direkt oder indirekt zu fördern. (3) Das Unternehmen kann andere Gesellschaften gleicher oder ähnlicher Art übernehmen, an ihnen teilnehmen oderDas Unternehmen kann auch Zweigniederlassungen gründen."
+}

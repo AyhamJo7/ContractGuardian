@@ -1,0 +1,57 @@
+{
+    "id": 544,
+    "text": "§ 11 Kündigung (1) Jeder Gesellschafter kann das Gesellschaftsverhältnis mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres gegenüber der Gesellschaft schriftlich kündigen.   (2) Durch die Kündigung wird die Gesellschaft vorbehaltlich Abs. 4 nicht aufgelöst; vielmehr scheidet der Gesellschafter zum Ende des betreffenden Geschäftsjahres aus der Gesellschaft aus. \nAb Zugang der Kündigungserklärung ruhen seine Gesellschafterrechte mit Ausnahme der Vermögensrechte. (3) Der kündigende Gesellschafter ist verpflichtet, die Einziehung seines Geschäftsanteils zu dulden. \nIhm steht eine Abfindung zu. (4) Wurde der Anteil des kündigenden Gesellschafters innerhalb von sechs Monaten nach seinem Ausscheiden weder eingezogen noch vollständig übernommen, so ist die Gesellschaft aufgelöst; der Kündigende nimmt an der Abwicklung teil.",
+    "entities": [
+        {
+            "id": 406,
+            "label": "Kündigung",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 407,
+            "label": "Kündigung",
+            "start_offset": 15,
+            "end_offset": 842
+        },
+        {
+            "id": 408,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 842
+        },
+        {
+            "id": 401,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 402,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 186
+        },
+        {
+            "id": 403,
+            "label": "Subsection",
+            "start_offset": 189,
+            "end_offset": 479
+        },
+        {
+            "id": 404,
+            "label": "Subsection",
+            "start_offset": 480,
+            "end_offset": 611
+        },
+        {
+            "id": 405,
+            "label": "Subsection",
+            "start_offset": 612,
+            "end_offset": 842
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Kündigung (1) Jeder Aktionär kann die Beziehung mit der Gesellschaft mit einer Frist von sechs Monaten nach Ablauf eines Geschäftsjahres schriftlich kündigen. (2) Die Kündigung beendet die Gesellschaft nicht vorbehaltlich Absatz 4; vielmehr tritt der Aktionär am Ende des Geschäftsjahres von der Gesellschaft zurück.(3) Der stornierende Gesellschafter ist verpflichtet, die Rückforderung seines Geschäftsanteils zu dulden. Er hat Anspruch auf eine Abfindung. (4) Ist der Anteil des stornierenden Gesellschafters innerhalb von sechs Monaten nach seiner Pensionierung nicht vollständig eingezogen oder übernommen worden, so wird die Gesellschaft aufgelöst;r Der Befristete nimmt an der Abwicklung teil."
+}

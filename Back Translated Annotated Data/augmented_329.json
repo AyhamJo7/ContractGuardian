@@ -1,0 +1,51 @@
+{
+    "id": 887,
+    "text": "§ 9 Geschaftsjahr Das Geschaftsjahr ist das Kalenderjahr. \nDas Geschaftsjahr beginnt mit der Eintragung der Gesellschaft ins Handelsregister.",
+    "entities": [
+        {
+            "id": 2933,
+            "label": "Geschäftsjahr",
+            "start_offset": 18,
+            "end_offset": 58
+        },
+        {
+            "id": 2934,
+            "label": "Geschäftsjahr",
+            "start_offset": 59,
+            "end_offset": 141
+        },
+        {
+            "id": 2928,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 2929,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 57
+        },
+        {
+            "id": 2930,
+            "label": "Subsection",
+            "start_offset": 59,
+            "end_offset": 141
+        },
+        {
+            "id": 2932,
+            "label": "Geschäftsjahr",
+            "start_offset": 4,
+            "end_offset": 18
+        },
+        {
+            "id": 2935,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 141
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Unternehmensjahr Das Unternehmensjahr ist das Kalenderjahr. Das Unternehmensjahr beginnt mit der Eintragung der Gesellschaft in das Handelsregister."
+}

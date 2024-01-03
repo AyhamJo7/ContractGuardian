@@ -1,0 +1,39 @@
+{
+    "id": 1026,
+    "text": "§9 Bekanntmachungen\n\nBekanntmachungen der Gesellschaft werden im Bundesanzeiger veröffentlicht.",
+    "entities": [
+        {
+            "id": 3890,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 19
+        },
+        {
+            "id": 3891,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 95
+        },
+        {
+            "id": 3892,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 95
+        },
+        {
+            "id": 3888,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 3889,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 95
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Ankündigungen Bekanntmachungen des Unternehmens werden im Bundesanzeiger veröffentlicht."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 559,
+    "text": "§ 11 Verfügung über Geschäftsanteile 11.1. \nFür die Wirksamkeit aller Verfügungen über Geschäftsanteile ist die Zustimmung der Gesellschaft erforderlich, insbesondere für Abtretungen, Verpfändungen, Unterbeteiligungen, Treuhandverhältnisse und Nießbrauchsbestellungen. \nEin entsprechendes Verfügungsverbot gilt für sämtliche sich aus dem Gesellschaftsverhältnis gegenüber der Gesellschaft oder den anderen Gesellschaftern ergebenden Einzelansprüche, insbesondere für die Ansprüche auf Auskunft, Einsicht, Gewinn oder das Auseinandersetzungsguthaben. 11.2. \nDie Zustimmung kann ohne Angabe von Gründen verweigert oder mit Auflagen oder Bedingungen versehen werden. 11.3. \nDie Zustimmung erfolgt aufgrund eines Gesellschafterbeschlusses, bei dem der verfügungswillige Gesellschafter kein Stimmrecht hat. \nSie wird schriftlich durch die Geschäftsführung an den verfügenden Gesellschafter erklärt. \nDie Zustimmung oder ihre Versagung müssen binnen zwei Monaten erklärt werden, nachdem die Gesellschaft hierzu von dem verfügenden Gesellschafter aufgefordert worden ist. \nAndernfalls gilt die Zustimmung als versagt.",
+    "entities": [
+        {
+            "id": 525,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 526,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 548
+        },
+        {
+            "id": 528,
+            "label": "Subsection",
+            "start_offset": 664,
+            "end_offset": 1110
+        },
+        {
+            "id": 530,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 1110
+        },
+        {
+            "id": 527,
+            "label": "Subsection",
+            "start_offset": 550,
+            "end_offset": 662
+        },
+        {
+            "id": 529,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 36
+        },
+        {
+            "id": 531,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1110
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Verfügung über Aktien 11.1. Für die Wirksamkeit aller Verfügungen über Aktien ist die Zustimmung der Gesellschaft erforderlich, insbesondere für Abtretungen, Verpfändungen, Teilbeteiligungen, Treuhand- und Kaufaufträge. Ein entsprechendes Entsorgungsverbot gilt für alle Personen, die sich aus der Gesellschaftsbeziehung mit der Gesellschaft oder der Gesellschaft ergeben.11.2. Die Zustimmung kann ohne Angabe von Gründen oder unter Bedingungen oder Bedingungen verweigert werden. 11.3. Die Zustimmung wird auf der Grundlage einer Aktionärsentscheidung erteilt, an der der beabsichtigte Aktionär keine Stimmrechte hat.. Sie wird von der Geschäftsführung schriftlich gegenüber dem Eigentümer erklärt. Die Zustimmung oder deren Ablehnung ist innerhalb von zwei Monaten nach Aufforderung der Gesellschaft durch den Eigentümer zu erklären. Andernfalls gilt die Zustimmung als gescheitert."
+}

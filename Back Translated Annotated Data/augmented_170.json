@@ -1,0 +1,57 @@
+{
+    "id": 735,
+    "text": "§ 1 Firma, Sitz Die Firma der Gesellschaft lautet: ESTIMA GmbH (2) Sitz der Gesellschaft ist Hamburg",
+    "entities": [
+        {
+            "id": 1847,
+            "label": "Subsection",
+            "start_offset": 63,
+            "end_offset": 100
+        },
+        {
+            "id": 1852,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 100
+        },
+        {
+            "id": 1846,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 62
+        },
+        {
+            "id": 1848,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 1849,
+            "label": "Firma",
+            "start_offset": 16,
+            "end_offset": 62
+        },
+        {
+            "id": 1850,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 1851,
+            "label": "Sitz",
+            "start_offset": 67,
+            "end_offset": 100
+        },
+        {
+            "id": 1844,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, eingetragener Sitz Gesellschaft der Gesellschaft ist: ESTIMA GmbH (2) Sitz der Gesellschaft ist Hamburg"
+}

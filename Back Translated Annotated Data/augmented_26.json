@@ -1,0 +1,99 @@
+{
+    "id": 526,
+    "text": "§ 11 Verfügung über Geschäftsanteile 1. \nZur Verfügung über Geschäftsanteile und Teile von Geschäftsanteilen – insbesondere zur Abtretung, Verpfändung oder Nießbrauchbestellung – ist die schriftliche Zustimmung der übrigen Gesellschafter erforderlich. \nDie Zustimmung darf nur aus wichtigem Grund versagt werden. 2. \nBeabsichtigt ein Gesellschafter, über seinen Geschäftsanteil oder Teile seines Geschäftsanteils gemäß Absatz 1 zu verfügen, so hat er seinen Geschäftsanteil oder Teile seines Geschäftsanteils zunächst den übrigen Gesellschaftern schriftlich zum Kauf anzubieten (schriftliche Anzeige), wobei die übrigen Gesellschafter im Verhältnis ihrer bisherigen Beteiligung zueinander erwerbsberechtigt sind. \nDie erwerbsberechtigten Gesellschafter haben sich dann innerhalb eines Monats nach Eingang der schriftlichen Anzeige über ihre Erwerbsbereitschaft zu erklären. \nWird innerhalb dieser Frist keine Erklärung abgegeben, gilt die Übernahme von dem betreffenden Gesellschafter als abgelehnt. \nSoweit Gesellschafter von ihrem Ankaufsrecht keinen Gebrauch machen, wächst das Erwerbsrecht den ankaufswilligen Gesellschaftern verhältnismäßig zu ihrer bisherigen Beteiligung zu. \nEin unteilbarer Spitzenbetrag steht dem am höchsten beteiligten Gesellschafter zu. Über den Ankauf nicht übernommener Teile der Beteiligung haben sich die noch ankaufsberechtigten Gesellschafter innerhalb einer weiteren Frist von zwei Wochen zu erklären. 3. \nIm Fall der Ausübung des Ankaufsrechts erhält der veräußerungswillige Gesellschafter als Gegenleistung den Betrag, der sich gemäß § 13 Absätze 6 - 8 dieser Satzung als Wert seines Anteils errechnet. \nAbweichend von § 13 Absatz 8 ist dieser Betrag innerhalb von vier Wochen nach rechtswirksamer Anteilsübertragung zur Zahlung fällig. 4. \nFür den Fall, dass zu einer Verfügung gemäß Absatz 1 die Zustimmung der Gesellschafter nicht erteilt wird, ist der betroffene Gesellschafter berechtigt, mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres seinen Austritt aus der Gesellschaft zu erklären. \nDie Austrittserklärung hat durch eingeschriebenen Brief oder gegen Empfangsbekenntnis an die Geschäftsführung zu erfolgen. \nDie Folgen der Kündigung richten sich nach § 4 Absatz 5 dieser Satzung.",
+    "entities": [
+        {
+            "id": 130,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 36
+        },
+        {
+            "id": 131,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 41,
+            "end_offset": 312
+        },
+        {
+            "id": 132,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 317,
+            "end_offset": 1437
+        },
+        {
+            "id": 133,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 1442,
+            "end_offset": 1774
+        },
+        {
+            "id": 134,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 1779,
+            "end_offset": 2243
+        },
+        {
+            "id": 135,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 317,
+            "end_offset": 713
+        },
+        {
+            "id": 136,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 1442,
+            "end_offset": 1641
+        },
+        {
+            "id": 137,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 1642,
+            "end_offset": 1774
+        },
+        {
+            "id": 138,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 1779,
+            "end_offset": 2047
+        },
+        {
+            "id": 139,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 2048,
+            "end_offset": 2243
+        },
+        {
+            "id": 266,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 267,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 312
+        },
+        {
+            "id": 268,
+            "label": "Subsection",
+            "start_offset": 313,
+            "end_offset": 1437
+        },
+        {
+            "id": 269,
+            "label": "Subsection",
+            "start_offset": 1438,
+            "end_offset": 1773
+        },
+        {
+            "id": 270,
+            "label": "Subsection",
+            "start_offset": 1775,
+            "end_offset": 2243
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Verfügung über Aktien 1. Die schriftliche Zustimmung der anderen Aktionäre ist für Aktien und Teile von Aktien – insbesondere für Abtretung, Pfand oder Nutzungsauftrag – erforderlich. Einwilligung kann nur aus einem wichtigen Grund verweigert werden. 2. Wenn ein Aktionär dies durch seinen Anteil oder Teile von seinem Geschäft beabsichtigt.Bei Nichterfüllung seiner Verpflichtungen nach Absatz 1 hat sie den anderen Mitgliedern ihren Anteil oder einen Teil ihres Anteils zunächst schriftlich zum Kauf (schriftliche Mitteilung) anzubieten, wobei die anderen Mitglieder im Verhältnis zu ihrer vorherigen Beteiligung zum Kauf berechtigt sind.Wird innerhalb dieser Frist keine Erklärung abgegeben, so gilt die Übertragung als abgelehnt von dem betreffenden Mitglied. Soweit die Mitglieder ihr Kaufrecht nicht ausüben, erhöht sich das Recht auf Erwerb proportional zu ihrer vorherigen Teilnahme.3. Im Falle der Ausübung des Kaufrechts erhält der zum Verkauf bereite Aktionär im Gegenzug den Betrag, der nach § 13 Abs. 6 - 8 dieses Artikels dem obersten Aktionär zusteht.Abweichend von § 13 Absatz 8 ist dieser Betrag innerhalb von vier Wochen nach rechtswirksamer Übertragung der Aktien zur Zahlung fällig. 4. Wird die Zustimmung der Aktionäre nicht einer Verfügung nach § 13 Absatz 8 erteilt, so ist der betreffende Aktionär berechtigt, am Ende eines Geschäftsjahres mit einer Frist von sechs Monaten zu sein.Die Rücktrittserklärung muss per Einschreiben oder gegen Empfangsbestätigung an die Geschäftsleitung erfolgen. Die Folgen der Kündigung richten sich nach § 4 Abs. 5 dieser Satzung."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 1007,
+    "text": "§ 10 Gründungsaufwand\n\nDie durch die Errichtung der Gesellschaft entstehenden Kosten (Notar, Gericht, Beratung) übernimmt die Gesellschaft bis zur Höhe von 2000.— EUR.",
+    "entities": [
+        {
+            "id": 3766,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 167
+        },
+        {
+            "id": 3765,
+            "label": "Kosten",
+            "start_offset": 23,
+            "end_offset": 167
+        },
+        {
+            "id": 3762,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 3763,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 167
+        },
+        {
+            "id": 3764,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Gründungskosten Die Gesellschaft trägt die Kosten der Gründung der Gesellschaft (Notar, Gericht, Anhörung) bis zu einem Betrag von 2000 EUR—."
+}

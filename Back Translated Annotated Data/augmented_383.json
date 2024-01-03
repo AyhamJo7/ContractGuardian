@@ -1,0 +1,51 @@
+{
+    "id": 932,
+    "text": "§6 Übertragung von Geschäftsanteilen\n1. Die Übertragung von Geschäftsanteilen oder Teilen davon bedarf der vorherigen schriftlichen Einwilligung aller Gesellschafter.\n2. Belastungen eines Geschäftsanteils, die Einräumung einer Unterbeteiligung an einem Geschäftsanteil und die Begründung eines Treuhandverhältnisses an einem Geschäftsanteil sowie sonstige Verfügungen über den Geschäftsanteil oder über einzelne Rechte und Ansprüche aus dem Gesellschaftsverhältnis sind entsprechend § 6 Ziff. 1 zustimmungsbedürftig.\n3. Verstößt ein Gesellschafter gegen seine Pflichten aus diesem § 6, so gelten die Bestimmungen dieses Vertrags über die Einziehung seines Geschäftsanteils entsprechend. Dies gilt auch bereits für den Fall, dass sich der Gesellschafter zu einer gegen diesen § 6 verstoßenden Übertragung oder Verfügung verpflichtet.",
+    "entities": [
+        {
+            "id": 3247,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 3248,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 166
+        },
+        {
+            "id": 3249,
+            "label": "Subsection",
+            "start_offset": 167,
+            "end_offset": 516
+        },
+        {
+            "id": 3252,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 37,
+            "end_offset": 832
+        },
+        {
+            "id": 3253,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 832
+        },
+        {
+            "id": 3250,
+            "label": "Subsection",
+            "start_offset": 517,
+            "end_offset": 832
+        },
+        {
+            "id": 3251,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 36
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Übertragung von Aktien 1. Die Übertragung von Aktien oder Teilen davon bedarf der vorherigen schriftlichen Zustimmung aller Aktionäre. 2. Belastung einer Aktie, die Gewährung eines Teilanteils an einer Aktie und die Etablierung einer Treuhandbeziehung in einem Anteil am Geschäft und anderen Verfügungen über den Anteil oder Anteil am GeschäftVerstößt ein Gesellschafter gegen seine Verpflichtungen aus diesem § 6, so gelten die Bestimmungen dieses Vertrages über die Einziehung seines Geschäftsanteils entsprechend. Dies gilt auch für den Fall, dass sich der Gesellschafter unter Verletzung dieses § 6 zu einer Übertragung verpflichtet.b) das Niederlassungsrecht und das Niederlassungsrecht."
+}

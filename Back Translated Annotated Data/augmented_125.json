@@ -1,0 +1,45 @@
+{
+    "id": 640,
+    "text": "§ 10 Schlussbestimmungen (1) Soweit in diesem Vertrag keine abweichenden Bestimmungen enthalten sind, sollen die Vorschriften des GmbH-Gesetzes in ihrer jeweiligen Fassung gelten. (2) Die Kosten der Gründung der Gesellschaft (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten sowie ggf. \nVergütung für vorbereitende Beratungstätigkeit) bis zu höchstens € 2.500,00 gehen zu Lasten der Gesellschaft. \nDie Gesellschaft trägt auch die Kosten von Kapitalerhöhungen und deren Durchführung bis maximal 10 % des jeweiligen Kapitalerhöhungsbetrages.",
+    "entities": [
+        {
+            "id": 1148,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 1149,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 179
+        },
+        {
+            "id": 1150,
+            "label": "Subsection",
+            "start_offset": 180,
+            "end_offset": 545
+        },
+        {
+            "id": 1151,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 1152,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 545
+        },
+        {
+            "id": 1153,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 545
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Schlussbestimmungen (1) Soweit in diesem Vertrag keine abweichenden Bestimmungen enthalten sind, gelten die Bestimmungen des GmbH-Gesetzes in ihrer jeweiligen Fassung. (2) Die Kosten für die Gründung der Gesellschaft (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten sowie gegebenenfalls Vergütung für vorbereitende Beratungsleistungen) bis zu einem Höchstbetrag von 2.500,00 € trägt die Gesellschaftt. Die Gesellschaft trägt auch die Kosten der Kapitalerhöhungen und deren Ausführung bis zu einem Höchstbetrag von 10 % des jeweiligen Kapitalerhöhungsbetrags."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 761,
+    "text": "§14 Wettbewerbsverbot Die Gesellschafter und Geschäftsführer der Gesellschaft sind von jedweden Wettbewerbsverbot im weitest möglichen Umfang befreit.",
+    "entities": [
+        {
+            "id": 2036,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2040,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 150
+        },
+        {
+            "id": 2041,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 150
+        },
+        {
+            "id": 2038,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 150
+        },
+        {
+            "id": 2039,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§14 Wettbewerbsverbot Die Aktionäre und Geschäftsführer der Gesellschaft sind soweit wie möglich von jeglichem Wettbewerbsverbot befreit."
+}

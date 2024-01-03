@@ -1,0 +1,45 @@
+{
+    "id": 929,
+    "text": "§ 3 Geschäftspolitik der Gesellschaft\n1. Die Gesellschaft strebt an, den Umsatz der komplementären Sortimentsbausteine 'Automobilersatzteile' mit 80 % und 'Handelszubehör' mit 20 % zu gewichten und wird ihre Aktivitäten im Vertrieb entsprechend steuern.\n2. Die Gesellschaft wird Vorschläge des Gesellschafters Techno-Einkauf GmbH zur Beschaffung und zur Sortimentsbildung im Bereich Handelszubehör prüfen und im Rahmen ihres Gegenstandes berücksichtigen.",
+    "entities": [
+        {
+            "id": 3221,
+            "label": "Subsection",
+            "start_offset": 254,
+            "end_offset": 454
+        },
+        {
+            "id": 3222,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 37
+        },
+        {
+            "id": 3223,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 454
+        },
+        {
+            "id": 3219,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 3220,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 253
+        },
+        {
+            "id": 3224,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 454
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Geschäftspolitik des Unternehmens 1. Das Unternehmen zielt darauf ab, den Umsatz der komplementären Sortimentskomponenten 'Automobile Ersatzteile' mit 80 % und 'Handelszubehör' mit 20 % zu gewichten und wird seine Aktivitäten im Vertrieb entsprechend kontrollieren. 2. Das Unternehmen wird Vorschläge des Aktionärs Techno-Einkauf GmbH für die Beschaffung und die Produktentwicklung im Bereich des Handelszubehörs prund sie im Rahmen ihres Gegenstands zu berücksichtigen."
+}

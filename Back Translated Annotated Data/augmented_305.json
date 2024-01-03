@@ -1,0 +1,45 @@
+{
+    "id": 839,
+    "text": "§2 Gegenstand des Unternehmens 2. 1 Gegenstand des Untemehmens ist die Verwaltung und Strukturierung eigenen Vermogens sowie die Vermietung und Verpachtung eigener Immobilien, soweit samtliche Tatigkeiten nicht genehmigungspflichtig sind. 2.2 Di� Gesellschaft kann alle Geschafte betreiben, die dem Ge­ sellschaftszweck unmittelbar oder mittelbar dienen konnen • und/oder mit ihm im Zusammenhang stehende Aufgaben 0ber­ nehmen. \nSie kann Zweigniederlassungen errichten und/oder sich an gleichartigen oder ahnlichen Unternehmen beteiligen,",
+    "entities": [
+        {
+            "id": 2576,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2577,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 237
+        },
+        {
+            "id": 2580,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 538
+        },
+        {
+            "id": 2581,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 538
+        },
+        {
+            "id": 2578,
+            "label": "Subsection",
+            "start_offset": 238,
+            "end_offset": 538
+        },
+        {
+            "id": 2579,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens 2. 1 Gegenstand des Unternehmens ist die Verwaltung und Strukturierung des eigenen Vermögens sowie die Vermietung und Vermietung von eigenen Immobilien, soweit alle Tätigkeiten nicht genehmigungspflichtig sind. 2.2 Das Unternehmen kann alle Unternehmen betreiben, die dem Geschäftszweck direkt oder indirekt dienen können • und/oder damit verbunden sind.Sie kann Zweigniederlassungen gründen und/oder an ähnlichen oder ähnlichen Unternehmen teilnehmen."
+}

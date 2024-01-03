@@ -1,0 +1,57 @@
+{
+    "id": 827,
+    "text": "§8 Gesellschafterbeschlusse (1) Die GesellschafterbeschlOsse werden grundsatzlich in Versammlungen gefasst. \nJedoch konnen GesellschafterbeschlOsse auch schriftlich, fernschriftlich, telefonisch, E-Mail oder Telefax gefasst werden, wenn alle Gesellschafter mit dieser Art der Beschlussfassung ein­ verstanden sind. (2) Die Gesellschafterversammlung ist beschlussfahig, wenn alle Gesellschafter anwesend oder vertreten sind. 1st eine Gesellschafterversammlung hiernach nicht beschlussfahig, so ist innerhalb einer Woche eine zweite Versammlung mit gleicher Tagesordnung und einer Ladungsfrist, die bis auf sieben Tage verkOrzt werden kann, einzuberufen. \nDiese Gesell­ schafterversammlung ist ohne ROcksicht auf die Anzahl der vertretenen Stimmen be­ schlussfahig. \nHierauf ist in der Einladung hinzuweisen. (3) Je EUR 1,00 eines Geschaftsanteils gewahren eine Stimme. \nGesellschafterbesch!Osse werden mit einer Mehrheit von 75 % der abgegebenen Stimmen gefasst, soweit nicht in dieser Satzung oder im Gesetz etwas anderes bestimmt ist. (4) Gesellschafterbeschlusse konnen nur innerhalb eines Monats nach Zugang der Nieder­ schrift angefochten werden.",
+    "entities": [
+        {
+            "id": 2498,
+            "label": "Section",
+            "start_offset": 1,
+            "end_offset": 26
+        },
+        {
+            "id": 2504,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 28,
+            "end_offset": 1150
+        },
+        {
+            "id": 2499,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 314
+        },
+        {
+            "id": 2500,
+            "label": "Subsection",
+            "start_offset": 315,
+            "end_offset": 806
+        },
+        {
+            "id": 2501,
+            "label": "Subsection",
+            "start_offset": 807,
+            "end_offset": 1035
+        },
+        {
+            "id": 2502,
+            "label": "Subsection",
+            "start_offset": 1036,
+            "end_offset": 1150
+        },
+        {
+            "id": 2503,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 2505,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1150
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Entscheidungen der Aktionäre (1) Die Entscheidungen der Aktionäre werden in der Regel in Sitzungen getroffen. Die Entscheidungen der Aktionäre können jedoch auch schriftlich, per Telex, Telefon, E-Mail oder Fax getroffen werden, wenn alle Aktionäre in dieser Art von Entscheidung verstanden werden. (2) Die Hauptversammlung ist beschlussfähig, wenn alle Aktionäre über die Entscheidung informiert werden.In Ermangelung eines Beschlusses wird innerhalb einer Woche eine zweite Sitzung mit derselben Tagesordnung und einer Frist für die Ladung einberufen, die bis zu sieben Tage dauern kann.(3) Je EUR 1,00 einer Beteiligung an einer Gesellschaft wird eine Stimme gehalten. Mitgliederbeschlüsse werden mit einer Mehrheit von 75 % der abgegebenen Stimmen gefasst, sofern in dieser Satzung oder im Gesetz nichts anderes bestimmt ist. (4) Mitgliederbeschlüsse können nur innerhalb eines Monats nach Eingang des Protokolls angefochten werden."
+}

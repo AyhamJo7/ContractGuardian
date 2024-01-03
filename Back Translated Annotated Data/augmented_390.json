@@ -1,0 +1,39 @@
+{
+    "id": 939,
+    "text": "§ 13 Liquidaton Im Falle der Auflosung der Gesellschaft erfolgt die Liquidation durch die Geschaftsfuhrer, es sei denn, dass durch Beschluss der Gesellschafter die Liquidation oder Auflosung der Gesellschaft anderen Personen ubertragen wird.",
+    "entities": [
+        {
+            "id": 3309,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 241
+        },
+        {
+            "id": 3308,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3310,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 16
+        },
+        {
+            "id": 3311,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 16,
+            "end_offset": 241
+        },
+        {
+            "id": 3312,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 241
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Liquidaton Im Falle der Auflösung der Gesellschaft erfolgt die Liquidation durch die Eigentümer der Gesellschaft, es sei denn, die Liquidation oder Liquidation der Gesellschaft wird durch Entscheidung der Gesellschafter auf andere Personen übertragen."
+}

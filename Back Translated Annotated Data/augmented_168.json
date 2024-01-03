@@ -1,0 +1,51 @@
+{
+    "id": 680,
+    "text": "§7 Schluss bestimmungen (1) Sofern in diesem Gesellschaftsvertrag nicht ausdriicklich anders geregelt, sind gegeniiber den Gesellschaftern abzugebende Erklarungen an die zuletzt der Gesellschaft vom Ge­ sellschafter mitgeteilte Kommunikationsadresse zu iibersenden und werden diese mit dortigem Zugang wirksam. \nEin schriftliches Ernpfangsbekenntnis steht dern gleich. \nHat der Gesellschafter einer E-Mail-Kornrnunikation nicht ausdriicklich widersprochen, ge­ niigt die Uberrnittlung per E-Mail. (2) Sollte eine in diesem Gesellschaftsvertrag enthaltene Bestirnrnung unwirksarn sein oder werden, so soll die Wirksarnkeit der iibrigen Bestirnrnungen hiervon unberiihrt bleiben. \nDie betreffende Bestimmung ist vielrnehr so auszulegen oder zu ersetzen, class der rnit ihr erstrebte wirtschaftliche Zweck nach Moglichkeit erreicht wird. \nDasselbe gilt sinn­ gernaB fur die Ausfiillung von Regelungsliicken. \nEs ist der ausdriickliche Wille der Ge­ sellschafter, class diese salvatorische Klausel keine bloBe Beweislastumkehr zur Folge hat, sondern § 139 BGB insgesamt abbedungen ist. (3) Die Gesellschaft tragt die Kosten (Gerichtsgebiihren, Veroffentlichungskosten, Notarkosten sowie ggf. \nVergiitung fur vorbereitende Beratungstatigkeit) 3702377BAB ihrer Griindung bis zu hochstens EUR 2.500,00, von kiinftigen Kapitalerhohungen in voller Hohe sowie deren Durchfiihrung (Ubernahrneerklarung und ggf. \nErfiillung) bis zu hochstens 10 % bezogen auf den Kapitalerhohungsbetrag nebst evtl. \nAgio oder Riicklage.",
+    "entities": [
+        {
+            "id": 1437,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 1438,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 496
+        },
+        {
+            "id": 1439,
+            "label": "Subsection",
+            "start_offset": 497,
+            "end_offset": 1081
+        },
+        {
+            "id": 1441,
+            "label": "Schlussbestimmungen",
+            "start_offset": 3,
+            "end_offset": 24
+        },
+        {
+            "id": 1442,
+            "label": "Schlussbestimmungen",
+            "start_offset": 24,
+            "end_offset": 1486
+        },
+        {
+            "id": 1440,
+            "label": "Subsection",
+            "start_offset": 1082,
+            "end_offset": 1507
+        },
+        {
+            "id": 1443,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1507
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Schlussbestimmungen (1) Sofern in diesem Sozialvertrag nichts anderes bestimmt ist, sind Erklärungen gegen die Aktionäre an die letzte der Gesellschaft von der Gesellschaft mitgeteilte Kommunikationsadresse zu richten und mit dem Zugang dort wirksam zu werden.(2) Ist oder wird eine in diesem Sozialvertrag enthaltene Bestätigung unwirksam, so bleibt die Wirksamkeit der übrigen Straftaten davon unberührt. Die betreffende Bestimmung ist in viel größerer Weise auszulegen oder zu ersetzen, so ist die Klasse des von ihr angestrebten wirtschaftlichen Konflikts.Gleiches gilt für die Erfüllung von regulatorischen Anforderungen. Es ist der allgemeine Wille der Mitarbeiter, Klasse diese Bergungsklausel führt nicht zu einer bloßen Umkehr der Beweislast, sondern zu einer Gesamtreduzierung von § 139 BGB. (3) Die Gesellschaft trägt die Kosten (Gerichtsgebühren, Veröffentlichungskosten, Notarkosten sowie gegebenenfalls die Zahlung der Entschädigung).3702377BAB ihrer Gilde bis zu einem Höchstbetrag von 2500,00 EUR, aus einer hohen Kapitalerhöhung in voller Höhe und ihrer Fertigstellung (Übermittlung und gegebenenfalls Erfüllung) bis zu einem Höchstbetrag von 10 % in Bezug auf die Höhe der Kapitalerhöhung sowie mögliche Agio- oder Riicklage."
+}

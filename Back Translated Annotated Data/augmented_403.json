@@ -1,0 +1,39 @@
+{
+    "id": 1025,
+    "text": "§ 8 Dauer der Gesellschaft\n\nDie Dauer der Gesellschaft ist nicht auf eine bestimmte Zeit beschränkt.",
+    "entities": [
+        {
+            "id": 3886,
+            "label": "Dauer",
+            "start_offset": 28,
+            "end_offset": 100
+        },
+        {
+            "id": 3887,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 99
+        },
+        {
+            "id": 3883,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 3884,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 100
+        },
+        {
+            "id": 3885,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 26
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Dauer der Gesellschaft Die Dauer der Gesellschaft ist nicht auf einen bestimmten Zeitraum beschränkt."
+}

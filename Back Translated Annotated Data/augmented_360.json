@@ -1,0 +1,39 @@
+{
+    "id": 916,
+    "text": "§9 Griindungsaufwand Die Griindungskosten (Kosten des Notars und des Gerichts nach dem Ge­ richts- und Notarkostengesetz - GNotKG - sowie des Steuerberaters und Be­ kanntmachungskosten) tragt die Gesellschaft bis zu einem geschatzten Betrag von 2.500,00 EUR; etwa dariiber hinausgehende Griindungskosten tragt der Gesellschafter.",
+    "entities": [
+        {
+            "id": 3148,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 329
+        },
+        {
+            "id": 3146,
+            "label": "Kosten",
+            "start_offset": 3,
+            "end_offset": 21
+        },
+        {
+            "id": 3147,
+            "label": "Kosten",
+            "start_offset": 21,
+            "end_offset": 329
+        },
+        {
+            "id": 3144,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3145,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 329
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Griindungsverlängerung Die Kosten (Kosten des Notars und des Gerichts nach dem Gesetz und Notarkostengesetz - GNotKG - sowie der Steuerberater- und Erwerbskosten) werden von der Gesellschaft bis zu einem Betrag von 2.500,00 EUR getragen; die zusätzlichen Schleifverlängerungskosten trägt der Gesellschafter."
+}

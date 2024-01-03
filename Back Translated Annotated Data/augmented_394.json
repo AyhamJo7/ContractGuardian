@@ -1,0 +1,39 @@
+{
+    "id": 943,
+    "text": "§17 Gründungsaufwand\n\nDie Gesellschaft trägt die durch die Gründung entstehenden Kosten bis zu einem Betrag von insgesamt € 2.500,00.",
+    "entities": [
+        {
+            "id": 3333,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 133
+        },
+        {
+            "id": 3334,
+            "label": "Kosten",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 3332,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3335,
+            "label": "Kosten",
+            "start_offset": 22,
+            "end_offset": 133
+        },
+        {
+            "id": 3336,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 133
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§17 Start-up-Aufwendungen Das Unternehmen trägt die Kosten des Start-ups bis zu einem Gesamtbetrag von € 2.500,00."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 861,
+    "text": "§6 Gesellschafterbeschlüsse (1) Gesellschafterbeschlüsse werden in der Regel in der Gesellschafterversammlung gefasst. \nWenn sämtliche Gesellschafter sich damit einverstanden erklären, können Beschlüsse auch außerhalb von Gesellschafterversammlungen im schriftlichen Umlaufverfahren oder durch Abgabe der Stimmen in Textform (§ 126b BGB), mündlich, fernmündlich oder im Wege der elektronischen Kommunikation (z.B. \nVideokonferenz) oder in einer Kombination der vorgenannten Kommunikationswege gefasst werden. \nDies gilt auch dann, wenn dieser Gesellschaftsvertrag eine Gesellschafterversammlung vorsieht. (2) Den Vorsitz in der Gesellschafterversammlung führt der Gesellschafter Kjell Fischer. \nNach seinem Ausscheiden aus der Gesellschaft führt der Gesellschafter den Vorsitz, der den Vorsitz der Gesellschafterversammlung der KTR GmbH & Co. \nKG innehat. \nIn Abwesenheit  des Vorsitzenden wählt die Gesellschafterversammlung einen anwesenden Gesellschafter zum Vorsitzenden. \nJeder Euro eines Gesellschaftsanteils gewährt eine Stimme. (4) Die Gesellschafter beschließen mit einfacher Mehrheit der abgegebenen Stimmen, wenn nicht das Gesetz oder dieser Gesellschaftsvertrag eine höhere Mehrheit vorschreibt. \nStimmenthaltungen gelten als nicht abgegebene Stimmen. (5) Über jede Gesellschafterversammlung ist zu Nachweiszwecken, nicht als Wirksamkeitsvoraussetzung, von dem Vorsitzenden eine Niederschrift anzufertigen, die sämtliche in der Gesellschafterversammlung gefassten Beschlüsse mit ihrem Wortlaut enthalten muss. \nEine Abschrift der Niederschrift ist allen Gesellschaftern durch die Geschäftsführung zu übermitteln. \nDas Gleiche gilt für außerhalb von Gesellschafterversammlungen gefasste Gesellschafterbeschlüsse. (6) Einwendungen gegen die Wirksamkeit eines Gesellschafterbeschlusses können nur innerhalb einer Ausschlussfrist von einem Monat ab Zugang des betreffenden Protokolls durch Nichtigkeits- bzw. \nAnfechtungsklage geltend gemacht werden.",
+    "entities": [
+        {
+            "id": 2732,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 2736,
+            "label": "Subsection",
+            "start_offset": 1036,
+            "end_offset": 1263
+        },
+        {
+            "id": 2738,
+            "label": "Subsection",
+            "start_offset": 1264,
+            "end_offset": 1723
+        },
+        {
+            "id": 2739,
+            "label": "Subsection",
+            "start_offset": 1724,
+            "end_offset": 1958
+        },
+        {
+            "id": 2740,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 2733,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 604
+        },
+        {
+            "id": 2734,
+            "label": "Subsection",
+            "start_offset": 605,
+            "end_offset": 856
+        },
+        {
+            "id": 2735,
+            "label": "Subsection",
+            "start_offset": 857,
+            "end_offset": 1035
+        },
+        {
+            "id": 2741,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 28,
+            "end_offset": 1958
+        },
+        {
+            "id": 2742,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1958
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Beschlüsse der Aktionäre (1) Beschlüsse der Aktionäre werden in der Regel in der Hauptversammlung getroffen. Wenn alle Aktionäre dem zustimmen, können Entscheidungen auch außerhalb der Hauptversammlungen im Wege eines schriftlichen Rundschreibens oder durch Vorlage der Stimmen in Textform (§ 126b BGB), mündlich, telephonisch oder mittels elektronischer Kommunikation getroffen werden.Dies gilt auch dann, wenn in diesem Gesellschaftsvertrag eine Aktionärsversammlung vorgesehen ist. (2) Der Aktionär Kjell Fischer steht der Aktionärsversammlung vor. Nach seinem Ausscheiden aus der Gesellschaft führt der Aktionär den Vorsitz der Aktionärsversammlung.In Abwesenheit des Vorsitzenden wählt die Hauptversammlung einen anwesenden Aktionär zum Vorsitzenden. Jeder Euro eines Anteils der Gesellschaft gewährt eine Stimme. (4) Die Aktionäre entscheiden mit einfacher Mehrheit der abgegebenen Stimmen, es sei denn, das Gesetz oder dieser Sozialvertrag setzt eine höhere Mehrheit.(5) Eine Abschrift des Protokolls wird von allen Mitgliedern der Gesellschafterversammlung zum Nachweis, nicht als Voraussetzung für die Wirksamkeit, vom Vorsitzenden der Gesellschafterversammlung schriftlich erstellt, die alle Beschlüsse der Gesellschafterversammlung mit ihrem Wortlaut enthält. Eine Abschrift des Protokolls wird allen Mitgliedern von der Gesellschafterversammlung zur Verfügung gestellt.(6) Einwände gegen die Gültigkeit einer Aktionärsentscheidung können nur innerhalb einer Frist von einem Monat nach Eingang des entsprechenden Protokolls durch eine Nichtigkeits- oder Widerspruchsklage geltend gemacht werden."
+}

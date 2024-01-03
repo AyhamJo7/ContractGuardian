@@ -1,0 +1,57 @@
+{
+    "id": 760,
+    "text": "§13 Kündigung 1. \nJeder Gesellschafter kann das Gesellschaftsverhältnis mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres mittels eingeschriebenen Briefes an die Gesellschaft kündigen, frühestens jedoch zum 31. \nDezember 2024. 2. \nDie Kündigung hat - vorbehaltlich Absatz 4 - nicht die Auflösung der Gesellschaft, sondern das Ausscheiden des Kündigenden aus der Gesellschaft zur Folge. 3. \nDer kündigende Gesellschafter ist verpflichtet, seinen Geschäftsanteil nach Wahl der Gesellschaft ganz oder geteilt an die Gesellschaft selbst - sofern die VorausSatzungen des § 33 GmbHG vorliegen -, an einen oder mehrere Gesellschafter oder an einen von der Gesellschaft zu benennenden Dritten zu übertragen oder die Einziehung zu dulden. \nDie als Entgelt zu zahlende Abfindung bemisst sich nach § 12 dieses Vertrages. 4. \nIst der Geschäftsanteil des ausscheidenden Gesellschafters innerhalb von sechs Monaten nach seinem Ausscheiden weder vollständig übernommen noch eingezogen, so ist die Gesellschaft aufgelöst. \nDer kündigende Gesellschafter nimmt an der Abwicklung teil.",
+    "entities": [
+        {
+            "id": 2033,
+            "label": "Kündigung",
+            "start_offset": 4,
+            "end_offset": 14
+        },
+        {
+            "id": 2028,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 2029,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 240
+        },
+        {
+            "id": 2030,
+            "label": "Subsection",
+            "start_offset": 242,
+            "end_offset": 400
+        },
+        {
+            "id": 2031,
+            "label": "Subsection",
+            "start_offset": 401,
+            "end_offset": 824
+        },
+        {
+            "id": 2032,
+            "label": "Subsection",
+            "start_offset": 825,
+            "end_offset": 1081
+        },
+        {
+            "id": 2034,
+            "label": "Kündigung",
+            "start_offset": 14,
+            "end_offset": 1081
+        },
+        {
+            "id": 2035,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1081
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§13 Kündigung 1. Jeder Aktionär kann die Beziehung mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres durch eingeschriebenen Brief an die Gesellschaft, aber nicht vor dem 31. Dezember 2024 beenden. 2. Kündigung bedeutet nicht die Auflösung der Gesellschaft, vorbehaltlich der Ziffer 4, sondern die Beendigung der Kündigung aus der Gesellschaft.3. Der stornierende Gesellschafter ist verpflichtet, seinen Geschäftsanteil an der Gesellschaft selbst nach Wahl der Gesellschaft ganz oder teilweise zu übertragen, sofern die Bestimmungen des § 33 GmbHG in Kraft sind, an einen oder mehrere Aktionäre oder an einen Dritten, der von der Gesellschaft benannt werden soll, oder die Einziehung zu dulden.h) § 12 dieses Vertrages. 4. Ist der Geschäftsanteil des scheidenden Gesellschafters innerhalb von sechs Monaten nach seinem Rücktritt nicht vollständig übernommen oder zurückgezogen worden, so wird die Gesellschaft aufgelöst."
+}

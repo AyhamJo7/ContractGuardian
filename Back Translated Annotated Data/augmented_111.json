@@ -1,0 +1,57 @@
+{
+    "id": 615,
+    "text": "§ 11 Erbfolge (1) Die Rechtsnachfolger eines verstorbenen Gesellschafters (Erben oder Vermächtnisnehmer) haben ihre Rechtsnachfolge durch öffentliche Urkunde nachzuweisen. \nDie Ausübung von Gesellschafterrechten durch einen Testamentsvollstrecker ist zulässig. (2) Mehrere Rechtsnachfolger haben ihre Rechte und Pflichten durch einen gemeinsamen Vertreter ausüben zu lassen. \nSolange dieser Vertreter nicht bestellt ist, ruhen ihre Rechte mit Ausnahme des Gewinnbezugsrechts. (3) Der Geschäftsanteil eines verstorbenen Gesellschafters kann innerhalb von zwölf Monaten ab Bekanntwerden der Rechtsnachfolge eingezogen oder seine Übertragung verlangt werden. \nDiese Frist ist gehemmt, solange die Rechtsnachfolge nicht gemäß Absatz 1 nachgewiesen wurde. (4) Absätze 3 bis 8 der Vorschrift über die Einziehung gelten entsprechend.",
+    "entities": [
+        {
+            "id": 957,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 958,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 260
+        },
+        {
+            "id": 962,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 964,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 826
+        },
+        {
+            "id": 960,
+            "label": "Subsection",
+            "start_offset": 476,
+            "end_offset": 750
+        },
+        {
+            "id": 959,
+            "label": "Subsection",
+            "start_offset": 261,
+            "end_offset": 475
+        },
+        {
+            "id": 961,
+            "label": "Subsection",
+            "start_offset": 751,
+            "end_offset": 826
+        },
+        {
+            "id": 963,
+            "label": "Erbfolge",
+            "start_offset": 14,
+            "end_offset": 826
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Nachfolge (1) Die Rechtsnachfolger eines verstorbenen Gesellschafters (Erben oder Vermächtnisse) müssen ihre Rechtsnachfolger durch öffentliche Urkunde nachweisen.Die Ausübung von Aktionärsrechten durch einen Testamentsvollstrecker ist gestattet. (2) Mehrere Rechtsnachfolger müssen ihre Rechte und Pflichten von einem gemeinsamen Vertreter ausüben lassen.(3) Der Anteil eines verstorbenen Aktionärs kann innerhalb von 12 Monaten nach Bekanntgabe der Erbschaft oder deren Übertragung wieder eingezogen werden. Diese Frist wird ausgesetzt, solange die Erbschaft nicht gemäß Absatz 1 festgestellt wurde. (4) Die Absätze 3 bis 8 der Verordnung über den Erwerb von Aktien der Gesellschaft finden keine Anwendung.Dies ist im Vereinigten Königreich und im Vereinigten Königreich der Fall."
+}

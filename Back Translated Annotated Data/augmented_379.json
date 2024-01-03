@@ -1,0 +1,63 @@
+{
+    "id": 928,
+    "text": "§ 2 Gegenstand der Gesellschaft\n1. Zweck der Gesellschaft ist die Entwicklung und Erbringung von Marketing-, Beratungs- und Logistikdienstleistungen, die Bereitstellung von E-Commerce-Lösungen für den Onlinehandel mit Automobilersatzteilen und Handelszubehör, die Vermittlung und der Vertrieb von Produkten im Automobilersatzteil- und Handelswarengeschäft an Kraftfahrzeugwerkstätten, die keine OEM-Belieferungen von Automobilersatzteilen durch den Hersteller erhalten, in der Region Hamburg nördlich der Elbe & Schleswig-Holstein.\n2. Die Gesellschaft ist berechtigt, alle Geschäfte und Maßnahmen zu treffen, die dem vorstehenden Gesellschaftszweck zu dienen geeignet sind.\n3. Die Gesellschaft ist ferner berechtigt, wesentliche Betriebsteile und/oder Geschäftsbereiche zu veräußern. Die Gesellschaft ist berechtigt, Zweigniederlassungen, Tochtergesellschaften und Vertretungen zu errichten und solche auch zu schließen oder zu veräußern.\n4. Die Gesellschaft erbringt alle ihre Leistungen unter einem einheitlichen Marktauftritt (Corporate Identity), der von dem Gesellschafter Techno-Einkauf GmbH nach einem überregionalen Marketing-Konzept vorgegeben wird.",
+    "entities": [
+        {
+            "id": 3214,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 3236,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 3238,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 1158
+        },
+        {
+            "id": 3234,
+            "label": "Subsection",
+            "start_offset": 674,
+            "end_offset": 938
+        },
+        {
+            "id": 3215,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 539
+        },
+        {
+            "id": 3232,
+            "label": "Subsection",
+            "start_offset": 0,
+            "end_offset": 531
+        },
+        {
+            "id": 3233,
+            "label": "Subsection",
+            "start_offset": 532,
+            "end_offset": 673
+        },
+        {
+            "id": 3235,
+            "label": "Subsection",
+            "start_offset": 939,
+            "end_offset": 1158
+        },
+        {
+            "id": 3237,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 1158
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens 1. Zweck des Unternehmens ist die Entwicklung und Bereitstellung von Marketing-, Beratungs- und Logistikdienstleistungen, die Bereitstellung von E-Commerce-Lösungen für den Online-Handel mit Kfz-Ersatzteilen und -Zubehör, die Vermittlung und der Vertrieb von Produkten im Kfz-Ersatzteilen- und Warengeschäft an Kfz-Reparaturwerkstätten, die über keine OEM-B verfügen.2. Das Unternehmen ist berechtigt, alle Geschäftstätigkeiten und Maßnahmen zu ergreifen, die für die oben genannten Unternehmenszwecke geeignet sind. 3. Das Unternehmen ist auch berechtigt, wesentliche Teile des Unternehmens und/oder Geschäftsbereiche zu verkaufen. Das Unternehmen ist auch berechtigt, seine eigenen Teile und/oder Geschäftsbereiche zu verkaufen.4. Das Unternehmen erbringt alle seine Leistungen unter einer einheitlichen Marktpräsenz (Corporate Identity), die von der Techno-Einkauf GmbH nach einem überregionalen Marketingkonzept definiert wird."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 767,
+    "text": "§3 Stammkapital Das Stammkapital der Gesellschaft beträgt Euro 120.000,00. \nHiervon übernehmen: die Graf zu Solms-Wildenfels Vermögensverwaltungsgesellschaft mbH („ Graf zu 'Sohns Gesellschaft\") eine Stammeinlage von Euro 40.000,00; die Orion Holding International GmbH („Orion\") eine Stammeinlage von Euro 40:000,00; die free.net Internet Beteiligungs GmbH („freenet\") eine Stammeinlage von Euro 40.000,00 (Graf zu Sohns Gesellschaft, Orion und fi-eenet werden zusammen im Folgenden als „Gründungsgesellschafter\" bezeichnet.) ) Die Starnmeinlagen sind in Geld zu erbringen.",
+    "entities": [
+        {
+            "id": 2073,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2074,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 75
+        },
+        {
+            "id": 2076,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 2077,
+            "label": "Stammkapital",
+            "start_offset": 16,
+            "end_offset": 75
+        },
+        {
+            "id": 2078,
+            "label": "Stammeinlagen",
+            "start_offset": 76,
+            "end_offset": 574
+        },
+        {
+            "id": 2079,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 574
+        },
+        {
+            "id": 2075,
+            "label": "Subsection",
+            "start_offset": 76,
+            "end_offset": 574
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital Das Grundkapital der Gesellschaft beträgt 120,000,00 Euro.Davon übernimmt der Graf von Solms-Wildenfels Vermögensverwaltungsgesellschaft mbH ein Grundkapital von 40,000,00 Euro; die Orion Holding International GmbH (\"Orion\") ein Grundkapital von 400,00 Euro; die free.net Internet Beteiligungs GmbH (\"freenet\") ein Grundkapital von 40 Euro.000,00 (Graf zu Sohns Gesellschaft, Orion und Fieenet werden im Folgenden kollektiv als „Gründungsaktionäre\" bezeichnet). ) Starm-Einlagen sind in Geld zur Verfügung zu stellen."
+}

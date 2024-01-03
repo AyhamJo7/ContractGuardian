@@ -1,0 +1,87 @@
+{
+    "id": 934,
+    "text": "§8 Geschäftsführung und Vertretung\n1. Die Gesellschaft hat einen oder mehrere Geschäftsführer.\n2. Die Gesellschaft wird vertreten:\n   a) wenn ein Geschäftsführer vorhanden ist, durch diesen;\n   b) wenn mehrere Geschäftsführer bestellt sind, durch zwei Geschäftsführer oder einen Geschäftsführer in Gemeinschaft mit einem Prokuristen.\n3. Die Geschäftsführer der Gesellschaft sind vom Verbot der Mehrfachvertretung (§ 181 2. Alternative BGB) befreit. Die Gesellschafterversammlung kann die Befreiung von den Beschränkungen des § 181 BGB generell oder für den Einzelfall erweitern oder einschränken.\n4. Durch Beschluss der Gesellschafterversammlung kann einzelnen oder mehreren Geschäftsführern Einzelvertretungsberechtigung erteilt werden.\n5. Der oder die Geschäftsführer dürfen nicht ohne vorherige Zustimmung der Gesellschafterversammlung folgende Geschäfte der Gesellschaft vornehmen und Maßnahmen treffen:\n   a) Abschluss, Kündigung und Änderung von Dienstleistungsverträgen mit Lieferanten von Automobilersatzteilen und damit zusammenhängender Produkte;\n   b) Abschluss, Kündigung und Änderung von Verträgen mit Gesellschaftern und ihnen nahestehenden Personen, mit Ausnahme von Verträgen des täglichen operativen Liefer- und Leistungsgeschäfts, soweit diese zu Bedingungen wie unter Dritten abgeschlossen werden;\n   c) Erwerb, Veräußerung und Belastung von Grundstücken und grundstücksgleichen Rechten; Anschaffung und Veräußerung von Gegenständen des Anlagevermögens mit Verpflichtungen für die Gesellschafter oder im (Verkehrs-)Wert von mehr als € 15.000,00;\n   d) Abschluss von Miet-, Pacht- sowie Leasingverträgen mit einer Laufzeit von mehr als 5 Jahren mit jährlichen Miet-, Pacht- und Leasinggebühren von mehr als € 5.000,00 im Einzelfall;\n   e) Abschluss, Änderung und Kündigung von Unternehmensverträgen im Sinne der §§ 291 ff. AktG;\n   f) Erteilung, Änderung und Beendigung von Pensions- und sonstigen Versorgungszusagen;\n   g) Aufnahme und Gewährung von Darlehen und Krediten außerhalb des üblichen Geschäftsverkehrs;\n   h) Errichtung und Aufgabe von Standorten sowie Erwerb, Pacht und/oder Miete von Betrieben und Teilbetrieben und der Beteiligung an anderen Unternehmen;\n   i) Erteilung von Prokuren und Generalvollmachten;\n   j) Geschäfte und Maßnahmen im Sinne der Ziffern lit. a) bis j) bei Tochter- und Beteiligungsgesellschaften;\nDie Gesellschafterversammlung kann den Kreis der zustimmungspflichtigen Geschäfte jederzeit erweitern.\n6. Die Gesellschafterversammlung kann, soweit dies nicht gegen zwingendes Recht verstößt, der Geschäftsführung im Einzelfall oder generell Weisungen erteilen.",
+    "entities": [
+        {
+            "id": 3263,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3271,
+            "label": "Geschäftsführung",
+            "start_offset": 35,
+            "end_offset": 94
+        },
+        {
+            "id": 3264,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 94
+        },
+        {
+            "id": 3265,
+            "label": "Subsection",
+            "start_offset": 95,
+            "end_offset": 333
+        },
+        {
+            "id": 3266,
+            "label": "Subsection",
+            "start_offset": 334,
+            "end_offset": 596
+        },
+        {
+            "id": 3269,
+            "label": "Subsection",
+            "start_offset": 2455,
+            "end_offset": 2613
+        },
+        {
+            "id": 3270,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3274,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 737
+        },
+        {
+            "id": 3275,
+            "label": "Orange Flag",
+            "start_offset": 1217,
+            "end_offset": 2613
+        },
+        {
+            "id": 3267,
+            "label": "Subsection",
+            "start_offset": 597,
+            "end_offset": 737
+        },
+        {
+            "id": 3268,
+            "label": "Subsection",
+            "start_offset": 738,
+            "end_offset": 2454
+        },
+        {
+            "id": 3272,
+            "label": "Vertretung",
+            "start_offset": 24,
+            "end_offset": 34
+        },
+        {
+            "id": 3273,
+            "label": "Vertretung",
+            "start_offset": 95,
+            "end_offset": 2613
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Leitung und Vertretung 1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. 2. Die Gesellschaft ist vertreten: a) wenn ein Geschäftsführer anwesend ist, durch ihn; b) wenn mehrere Geschäftsführer bestellt werden, durch zwei Geschäftsführer oder einen Geschäftsführer in Verbindung mit einem Bevollmächtigten. 3. Die Geschäftsführer der Gesellschaft sind vom Verbot der MehrfaDie Hauptversammlung kann die Befreiung von den Beschränkungen des § 181 BGB im Allgemeinen oder im Einzelfall verlängern oder einschränken. 4. Durch Beschluss der Hauptversammlung können einzelne Direktoren individuelle Vertretungsrechte erhalten. 5.a) Abschluss, Beendigung und Änderung von Dienstleistungsverträgen mit Zulieferern von Kfz-Ersatzteilen und verwandten Produkten;c) Erwerb, Veräußerung und Abgabe von Grundstücks- und Grundstücksrechten; Erwerb und Veräußerung von Anlagevermögen mit Verpflichtungen für Aktionäre oder im (Verkehrs-)Wert von mehr als 15.000,00 €;e) Abschluss, Änderung und Beendigung von Geschäftsverträgen im Sinne der §§ 291 ff. AktG;h) Errichtung und Aufgabe von Standorten, Erwerb, Pacht und/oder Vermietung von Betrieben und Untereinheiten sowie Beteiligung an anderen Unternehmen;6. Soweit dies nicht gegen zwingendes Recht verstößt, kann die Hauptversammlung in Einzelfällen oder im Allgemeinen Weisungen an die Geschäftsleitung erteilen."
+}

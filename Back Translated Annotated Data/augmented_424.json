@@ -1,0 +1,39 @@
+{
+    "id": 952,
+    "text": "§8 Bekanntmachungen Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 3393,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 3394,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 85
+        },
+        {
+            "id": 3395,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 3396,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 20,
+            "end_offset": 85
+        },
+        {
+            "id": 3397,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 84
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Bekanntmachungen Die Bekanntmachungen des Unternehmens finden nur im Bundesanzeiger statt."
+}

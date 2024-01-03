@@ -1,0 +1,69 @@
+{
+    "id": 718,
+    "text": "§1 Firma, Sitz, Dauer (1) Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung und führt die Firma: (2) (3) Brobeck GmbH Der Sitz der Gesellschaft ist Hamburg. \nDie Gesellschaft ist für unbestimmte Zeit errichtet.",
+    "entities": [
+        {
+            "id": 1728,
+            "label": "Orange Flag",
+            "start_offset": 172,
+            "end_offset": 224
+        },
+        {
+            "id": 1723,
+            "label": "Subsection",
+            "start_offset": 172,
+            "end_offset": 224
+        },
+        {
+            "id": 1719,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 109
+        },
+        {
+            "id": 1720,
+            "label": "Subsection",
+            "start_offset": 111,
+            "end_offset": 114
+        },
+        {
+            "id": 1721,
+            "label": "Subsection",
+            "start_offset": 119,
+            "end_offset": 171
+        },
+        {
+            "id": 1722,
+            "label": "Subsection",
+            "start_offset": 115,
+            "end_offset": 118
+        },
+        {
+            "id": 1725,
+            "label": "RED FLAG",
+            "start_offset": 22,
+            "end_offset": 171
+        },
+        {
+            "id": 1718,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 1724,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1726,
+            "label": "Orange Flag",
+            "start_offset": 16,
+            "end_offset": 22
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§1 Gesellschaft, Sitz, Dauer (1) Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung und führt die Gesellschaft: (2) (3) Brobeck GmbH Sitz der Gesellschaft ist Hamburg. Die Gesellschaft ist auf unbestimmte Zeit gegründet."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 876,
+    "text": "§6. Bekanntmachungen Bekanntmachungen erfolgen nur im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 2846,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2847,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 69
+        },
+        {
+            "id": 2850,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 69
+        },
+        {
+            "id": 2851,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 69
+        },
+        {
+            "id": 2848,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6. Ankündigungen Ankündigungen erfolgen nur im Bundesanzeiger."
+}

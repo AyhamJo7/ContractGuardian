@@ -1,0 +1,57 @@
+{
+    "id": 931,
+    "text": "§5 Stammkapital\n1. Das Stammkapital der Gesellschaft beträgt € 25.000 (in Worten: Euro fünfundzwanzigtausend).\n2. Hiervon entfallen auf \n   a) die Techno-Einkauf GmbH der Geschäftsanteil Nr. 1 im Nennbetrag von € 5.000,00,\n   b) die Nord-Ostsee Automobile GmbH & Co. KG der Geschäftsanteil Nr. 2 im Nennbetrag von € 10.000,00,\n   c) die Nord-Ostsee Automobile GmbH & Co. KG der Geschäftsanteil Nr. 3 im Nennbetrag von € 10.000,00.\n3. Die auf die Geschäftsanteile anfallenden Stammeinlagen sind in Geld zu leisten und sofort fällig.",
+    "entities": [
+        {
+            "id": 3245,
+            "label": "Stammeinlagen",
+            "start_offset": 111,
+            "end_offset": 531
+        },
+        {
+            "id": 3239,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3241,
+            "label": "Subsection",
+            "start_offset": 111,
+            "end_offset": 430
+        },
+        {
+            "id": 3242,
+            "label": "Subsection",
+            "start_offset": 431,
+            "end_offset": 531
+        },
+        {
+            "id": 3243,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 3246,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 531
+        },
+        {
+            "id": 3240,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 110
+        },
+        {
+            "id": 3244,
+            "label": "Stammkapital",
+            "start_offset": 19,
+            "end_offset": 110
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Aktienkapital 1. Das Grundkapital der Gesellschaft beläuft sich auf 25.000 € (in Worten: 25 000 EUR). 2. Davon a) Anteil der Techno-Einkauf GmbH an der Geschäftsanteile Nr. 1 im Nennbetrag von 5.000,00 €, b) Anteil der Nord-Ostsee Automobile GmbH & Co. KG an der Nord-Ostsee Automobile GmbH & Co. KG an der Nennsumme von 10.000,00 €, c) Anteil der Nord-Ostsee Automobile GmbH & Co. KG an der 3im Nennbetrag von € 10.000,00. 3. Die Muttereinlagen auf die Aktien sind zahlbar in Geld und sind sofort fällig."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 881,
+    "text": "§ 3 Gegenstand des Unternehmens 1. \nGegenstand des Unternehmens ist FOhren van Gastronomiebetrieben, insbesondere des Leon Restaurants in MOnchen, die Erbringung van gastronomischen Dienstleistungen, Consultingdienstleistungen in der Gastronomiebranche nebst aller damit im Zusammenhang stehender Tatigkeiten. 2. \nDie Gesellschaft ist befugt, Unternehmen zu erwerben, zu pachten, sich an Unternehmen zu beteiligen, deren personliche Haftung und Vertretung zu Obernehmen, Betriebsstatten und Zweigniederlassungen im In- und Ausland zu errichten sowie alle Geschafte zu betreiben, die geeignet sind, die Unternehmungen der Gesellschaft zu fordern. 11.Kapital, Gesellschafter",
+    "entities": [
+        {
+            "id": 2874,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 2879,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 645
+        },
+        {
+            "id": 2875,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 309
+        },
+        {
+            "id": 2876,
+            "label": "Subsection",
+            "start_offset": 310,
+            "end_offset": 645
+        },
+        {
+            "id": 2877,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 2878,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 645
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Gegenstand der Gesellschaft 1. Gegenstand der Gesellschaft ist Fohren van Gastronomiebetriebe, insbesondere das Leon Restaurant in MOnchen, die Erbringung von Dienstleistungen von Van Gastronomie, Beratungsleistungen in der Gastronomie, zusammen mit allen damit verbundenen Tätigkeiten. 2. Das Unternehmen ist berechtigt, Gesellschaften zu erwerben, zu vermieten, zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, Gesellschaften zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben, zu erwerben, eine Gesellschaft zu erwerben11.Kapital, Mitglieder der Gesellschaft. 11.Kapital, Mitglieder der Gesellschaft."
+}

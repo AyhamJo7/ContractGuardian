@@ -1,0 +1,57 @@
+{
+    "id": 800,
+    "text": "§ 13 Ankaufsrecht 1. \nEin Gesellschafter, der seine Geschäftsanteile ganz oder teilweise veräußern will, hat sie zunächst den übrigen Gesellschaftern schriftlich zum Erwerb anzubieten. \nHierfür gilt: a) Jeder Gesellschafter hat das Recht, diese zu erwerben, wenn er seine Erwerbsbereitschaft innerhalb eines Monats nach Zugang des Angebots schriftlich erklärt, b) das Erwerbsrecht kann nur insgesamt ausgeübt werden. Üben mehrere Gesellschafter das Erwerbsrecht aus, so sind sie entsprechend § 472 BGB erwerbsberechtigt, intern im Verhältnis ihrer Beteiligung am Stammkapital der Gesellschaft, wenn sie sich nicht anders einigen; ein unteilbarer Spitzenbetrag wird ggf. per Losentscheid zugewiesen, c) die Übertragung der Geschäftsanteile hat innerhalb eines Monats nach Ausübung des Erwerbsrechts zu erfolgen, d) der Erwerbspreis und seine Bezahlung richten sich nach § 16 der Satzung. \nWird zu für den Erwerber günstigeren Bedingungen verkauft oder ist dies beabsichtigt, so sind diese auch den Erwerbsberechtigten anzubieten, e) soweit hier etwas nicht ausdrücklich geregelt ist, gelten ergänzend die gesetzlichen Bestimmungen über Vorkaufsrechte. 2. \nErklärt kein Gesellschafter fristgerecht seine Erwerbsbereitschaft oder gerät der Erwerbsberechtigte in Annahmeverzug, kann die Gesellschaft die Übertragung auf sich oder eine von ihr benannte Person (Mitgesellschafter oder Dritte) verlangen. \nDie Gesellschafterversammlung beschließt darüber mit einer Mehrheit von 75% der abgegebenen Stimmen unter Ausschluss des anbietenden Gesellschafters. \nDie Ausübung und ggf. die Benennung hat zu erfolgen binnen eines Monats nach Kenntnis der Gesellschaft von ihrem Erwerbsrecht. \nMit dieser Ausübung oder Benennung durch die Gesellschaft entfällt das Erwerbsrecht des in Annahmeverzug geratenen Erwerbsberechtigten, wenn nicht vor dieser Ausübung oder Benennung die Übertragung auf den nach Absatz 1 Erwerbsberechtigten rechtswirksam wurde. 3. \nWird das Ankaufsrecht nicht ausgeübt, so haben die Gesellschafter der dann erfolgenden Anteilsveräußerung zuzustimmen, sofern nicht wichtige Gründe in der Person des Erwerbers entgegenstehen. \nDies gilt nur, soweit die Anteilsveräußerung innerhalb einer Frist von sechs Monaten vorgenommen wird, nachdem die Nichtausübung des Ankaufsrechts durch die Gesellschafter bzw. die Nichtausübung der Anordnung der Übertragung des Gesellschaftsanteils auf die Gesellschaft oder eine von dieser benannten Person durch die Gesellschaft feststeht, und soweit die Übertragung nicht zu Bedingungen stattfindet, die für den Erwerber günstiger sind. 4. \nDie Ankaufsrechte nach Absätze 1 und 2 bestehen nicht bei Veräußerungen an andere Gesellschafter.",
+    "entities": [
+        {
+            "id": 2323,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 18,
+            "end_offset": 2678
+        },
+        {
+            "id": 2324,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2678
+        },
+        {
+            "id": 2316,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 2319,
+            "label": "Subsection",
+            "start_offset": 1939,
+            "end_offset": 2575
+        },
+        {
+            "id": 2321,
+            "label": "Subsection",
+            "start_offset": 2577,
+            "end_offset": 2678
+        },
+        {
+            "id": 2322,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 18
+        },
+        {
+            "id": 2317,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 1149
+        },
+        {
+            "id": 2318,
+            "label": "Subsection",
+            "start_offset": 1151,
+            "end_offset": 1937
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Kaufrecht 1. Ein Aktionär, der seine Anteile ganz oder teilweise veräußern möchte, bietet sie zunächst schriftlich an die anderen Aktionäre zum Kauf an. Dies gilt: a) Jeder Aktionär hat das Recht, sie zu erwerben, wenn er seine Bereitschaft erklärt, sie innerhalb eines Monats nach Erhalt des Angebots schriftlich zu erwerben; b) das Erwerbsrecht darf nur insgesamt gewährt werdenWenn mehrere Aktionäre das Erwerbsrecht ausüben, sind sie nach § 472 BGB berechtigt, intern im Verhältnis zu ihrer Beteiligung am Grundkapital der Gesellschaft zu erwerben, sofern sie nichts anderes vereinbaren; ein unteilbarer Höchstbetrag kann durch Losentscheidung zugeteilt werden, c) die Übertragung der Aktien wird innerhalb eines Monats nach Ausübung des Erwerbsrechts gezahlt.(d) der Kaufpreis und seine Zahlung gemäß § 16 der Satzung. Werden günstigere Bedingungen für den Erwerber verkauft oder ist dies beabsichtigt, so sind diese auch dem Erwerber anzubieten, e) wenn hier etwas nicht ausdrücklich geregelt ist, gelten zusätzlich die gesetzlichen Bestimmungen über Vorkaufsrechte. 2. Wenn kein Aktionär innerhalb der Frist erklärt, dass er sich innerhalb der Frist befinde,Die Gesellschaft kann die Übertragung an sich oder an eine von ihr benannte Person (Miteigentümer oder Dritte) verlangen, wenn der Erwerber in Annahmeverzug ist. Die Hauptversammlung entscheidet hierzu mit einer Mehrheit von 75% der abgegebenen Stimmen, ausgenommen des Anbieters.n innerhalb eines Monats nach Kenntnis der Gesellschaft von ihrem Erwerbsrecht. Mit dieser Ausübung oder Benennung durch die Gesellschaft endet das Erwerbsrecht des Erwerbers, wenn die Übertragung an den Erwerber nach Absatz 1 vor dieser Ausübung oder Benennung nicht rechtswirksam geworden ist. 3. Wird das Recht des Erwerbers nicht ausgeübt, so hat der ErwerberDies gilt nur in dem Umfang, in dem der Verkauf innerhalb einer Frist von sechs Monaten nach der Nichterfüllung des Kaufrechts durch die Aktionäre oder der Nichterfüllung des Beschlusses über die Übertragung des Anteils der Gesellschaft auf die betreffenden Gesellschaften erfolgt.(4) Die in den Absätzen 1 und 2 genannten Kaufrechte bestehen im Falle von Veräußerungen an andere Aktionäre nicht."
+}

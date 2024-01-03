@@ -1,0 +1,57 @@
+{
+    "id": 922,
+    "text": "§ 4 Vertretung, Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft von zwei Geschäftsführern oder durch einen Geschäftsführer gemeinschaftlich mit einem Prokuristen vertreten. Die Gesellschafter können den Geschäftsführern Einzelvertretungsbefugnis und Befreiung von den Beschränkungen des § 181 BGB erteilen. (2) Zu Erklärungen, die den Gesellschaftsvertrag der Mutter Wittig Restaurant GmbH & Co. KG berühren, insbesondere zur Kündigung des Gesellschaftsvertrages der Mutter Wittig Restaurant GmbH & Co. KG, bedürfen die Geschäftsführer eines vorherigen zustimmenden einstimmigen Beschlusses der Gesellschafter",
+    "entities": [
+        {
+            "id": 3176,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 478
+        },
+        {
+            "id": 3177,
+            "label": "Subsection",
+            "start_offset": 479,
+            "end_offset": 781
+        },
+        {
+            "id": 3178,
+            "label": "Vertretung",
+            "start_offset": 4,
+            "end_offset": 14
+        },
+        {
+            "id": 3182,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 781
+        },
+        {
+            "id": 3175,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 3179,
+            "label": "Geschäftsführung",
+            "start_offset": 16,
+            "end_offset": 33
+        },
+        {
+            "id": 3180,
+            "label": "Geschäftsführung",
+            "start_offset": 33,
+            "end_offset": 478
+        },
+        {
+            "id": 3181,
+            "label": "Vertretung",
+            "start_offset": 479,
+            "end_offset": 781
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Vertretung, Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. Wird nur ein Geschäftsführer bestellt, vertritt er das Unternehmen allein. Werden mehrere Geschäftsführer bestellt, wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Geschäftsführer vertreten.(2) Für Erklärungen zum Gesellschaftsvertrag der Mutter Wittig Restaurant GmbH & Co. KG, insbesondere zur Beendigung des Gesellschaftsvertrages der Mutter Wittig Restaurant GmbH & Co. KG, bedarf es einer vorherigen einstimmigen Entscheidung der Aktionäre."
+}

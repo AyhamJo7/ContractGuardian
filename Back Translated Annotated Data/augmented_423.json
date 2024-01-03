@@ -1,0 +1,39 @@
+{
+    "id": 951,
+    "text": "§7 Verfügung über Geschäftsanteile Verfügungen über einen Geschäftsanteil oder Teile eines Geschäftsanteils, insbesondere die Abtretung und Belastung, sind nur wirksam, wenn die Gesellschafterversammlung mit einer Mehrheit aller vorhandenen Stimmen oder alle Gesellschafter schriftlich zustimmen. Dies gilt nicht bei einer Veräußerung an Mitgesellschafter.",
+    "entities": [
+        {
+            "id": 3388,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3389,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 356
+        },
+        {
+            "id": 3392,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 356
+        },
+        {
+            "id": 3390,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3391,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 35,
+            "end_offset": 356
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Verfügung über Aktien einstweilige Verfügungen über einen Anteil eines Unternehmens oder einen Teil eines Unternehmensanteils, insbesondere die Abtretung und Belastung, sind nur wirksam, wenn die Hauptversammlung schriftlich mit der Mehrheit aller bestehenden Stimmen oder aller Aktionäre einverstanden ist. Dies gilt nicht für einen Verkauf an gemeinsame Aktionäre."
+}

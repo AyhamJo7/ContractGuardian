@@ -1,0 +1,63 @@
+{
+    "id": 556,
+    "text": "§ 8 Gesellschafterbeschlüsse 8.1. \nAlle Entscheidungen, Zustimmungen und sonstigen Bestimmungen der Gesellschafter erfolgen durch Beschluss. \nDie Beschlüsse werden in den Versammlungen gefasst. \nAußerhalb von Versammlungen können sie, soweit nicht zwingendes Recht entgegensteht, mündlich, schriftlich im Umlaufverfahren, oder in sonst geeigneter Weise durch Abstimmung gefasst werden, wenn sich jeder Gesellschafter persönlich oder durch einen Vertreter an der Abstimmung beteiligt und keine Einwendungen gegen dieses Verfahren erhoben werden oder das Gesetz eine solche Abstimmung vorsieht. \n 8.2. \nDie Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, soweit nicht der Gesellschaftsvertrag oder das Gesetz zwingend eine andere Mehrheit vorschreiben. \nAbgestimmt wird nach Geschäftsanteilen. \nJe 1,00 € eines Geschäftsanteiles gewähren eine Stimme. 8.3. \nEin Gesellschafter hat kein Stimmrecht, wenn er entlastet, sein Anteil eingezogen oder verwertet, einem Rechtsgeschäft mit ihm, der Geltendmachung von Ansprüchen oder Prozesshandlungen gegen ihn zugestimmt werden soll. \nEr kann sich insoweit nicht vertreten lassen und auch nicht das Stimmrecht für andere ausüben. \nVorsorglich wird klargestellt, dass folgende Beschlussgegenstände nicht unter das Stimmverbot fallen: die Einforderung von Einlagen, die Bestellung und ordentliche Abberufung von Geschäftsführern, der Abschluss von Unternehmensverträgen. 8.4. Über die Beschlüsse ist eine von allen teilnehmenden Gesellschaftern zu unterzeichnende Niederschrift anzufertigen, sofern sie nicht in das Protokoll der Versammlung aufgenommen werden. \nZiffer 9.9 gilt entsprechend. 8.5. \nDie Befugnis, Beschlüsse anzufechten, wird für folgende Fälle ausgeschlossen: 8.5.1. \nDer Gesellschafter war bei der Beschlussfassung anwesend oder wirksam vertreten und hat dem Beschluss nicht innerhalb eines Monates schriftlich gegenüber der Gesellschaft widersprochen. 8.5.2. \nDie Klage wird nicht innerhalb eines Monates nach Zugang des Protokolls erhoben.",
+    "entities": [
+        {
+            "id": 493,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 494,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 593
+        },
+        {
+            "id": 495,
+            "label": "Subsection",
+            "start_offset": 595,
+            "end_offset": 874
+        },
+        {
+            "id": 501,
+            "label": "Green Flag",
+            "start_offset": 33,
+            "end_offset": 2023
+        },
+        {
+            "id": 496,
+            "label": "Subsection",
+            "start_offset": 875,
+            "end_offset": 1434
+        },
+        {
+            "id": 497,
+            "label": "Subsection",
+            "start_offset": 1435,
+            "end_offset": 1656
+        },
+        {
+            "id": 498,
+            "label": "Subsection",
+            "start_offset": 1657,
+            "end_offset": 2023
+        },
+        {
+            "id": 499,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        },
+        {
+            "id": 500,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 29,
+            "end_offset": 2023
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Aktionärsbeschlüsse 8.1. Alle Entscheidungen, Zustimmungen und sonstigen Bestimmungen der Gesellschafter werden durch Entscheidung getroffen. Die Entscheidungen werden in den Sitzungen getroffen. Außerhalb der Sitzungen können sie mündlich, schriftlich im Rundschreiben oder in anderer geeigneter Weise durch Abstimmung getroffen werden, es sei denn, das Gesetz verstößt gegen das Gesetz.Die Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, es sei denn, der Gesellschaftsvertrag oder das Gesetz verlangen eine andere Mehrheit.8.3. Ein Aktionär ist nicht stimmberechtigt, wenn er sich von der Last entlastet, seinen Anteil einnimmt oder ausbeutet, ein Rechtsgeschäft mit ihm, ist zu vereinbaren, Ansprüche oder rechtliche Schritte gegen ihn geltend zu machen. In diesem Zusammenhang darf er nicht vertreten sein und auch nicht das Stimmrecht für andere ausüben.Es wird klargestellt, dass die folgenden Entscheidungsgründe nicht unter das Stimmrechtsverbot fallen: Einziehung von Einlagen, Ernennung und ordentliche Entlassung von Direktoren, Abschluss von Geschäftsverträgen. 8.4. Die Beschlüsse werden von allen teilnehmenden Aktionären unterzeichnet, es sei denn, sie werden in das Sitzungsprotokoll eingetragen.Ziffer 9.9 gilt sinngemäß. 8.5. Die Befugnis zur Anfechtung von Entscheidungen ist in folgenden Fällen ausgeschlossen: 8.5.1 Der Aktionär war im Entscheidungsprozess anwesend oder wirksam vertreten und hat der Entscheidung gegenüber der Gesellschaft innerhalb eines Monats nicht schriftlich widersprochen. 8.5.2.des Protokolls."
+}

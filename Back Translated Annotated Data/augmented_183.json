@@ -1,0 +1,57 @@
+{
+    "id": 657,
+    "text": "§ 1 Firma, Sitz \n1. Die Gesellschaft fuhrt die FirmaDayDream GmbH. \n2. Der Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 1262,
+            "label": "Subsection",
+            "start_offset": 68,
+            "end_offset": 109
+        },
+        {
+            "id": 1264,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 67
+        },
+        {
+            "id": 1267,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 109
+        },
+        {
+            "id": 1260,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 1263,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 1265,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 1266,
+            "label": "Sitz",
+            "start_offset": 71,
+            "end_offset": 109
+        },
+        {
+            "id": 1261,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 67
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Firmensitz 1. Die Gesellschaft treibt die FirmaDayDream GmbH an. 2. Sitz der Gesellschaft ist Hamburg."
+}

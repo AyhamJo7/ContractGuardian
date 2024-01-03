@@ -1,0 +1,57 @@
+{
+    "id": 765,
+    "text": "§ 1 Firma, Sitz (1) Die Firma der Gesellschaft lautet: Jestoro GmbH (2) Die Gesellschaft hat ihren Sitz in Hamburg.",
+    "entities": [
+        {
+            "id": 2057,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2059,
+            "label": "Subsection",
+            "start_offset": 68,
+            "end_offset": 115
+        },
+        {
+            "id": 2062,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 2063,
+            "label": "Sitz",
+            "start_offset": 72,
+            "end_offset": 115
+        },
+        {
+            "id": 2058,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 67
+        },
+        {
+            "id": 2060,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 2064,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 115
+        },
+        {
+            "id": 2061,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 67
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz (1) Gesellschaft der Gesellschaft ist: Jestoro GmbH (2) Die Gesellschaft hat ihren Sitz in Hamburg."
+}

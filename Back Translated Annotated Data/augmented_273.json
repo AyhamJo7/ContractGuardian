@@ -1,0 +1,51 @@
+{
+    "id": 832,
+    "text": "§ 12 Erwerbsrecht ( 1) Stirbt ein Gesellschafter, dann haben die Obrigen Gesellschafter im Verhaltnis ihrer Ge­ schaftsanteile untereinander das Recht, den Geschaftsanteil des verstorbenen Gesell­ schafters zu erwerben. \nOben einer oder mehrere Gesellschafter das ihnen zustehende Erwerbsrecht nicht aus, dann steht dieses den ausObungswilligen Gesellschaftern im Verhaltnis ihrer Geschaftsanteile zu. \nDas Erwerbsrecht hat ein jeder Gesellschafter schrift­ lich binnen einer Frist von einem Jahr ab dem Todestag des verstorbenen Gesellschafters bei den Erben geltend zu machen, wobei die Gesellschaft eine Kopie des Schreibens er­ halt. (2) Die Erben des verstorbenen Gesellschafters sind verpflichtet, den Geschaftsanteil auf Ver­ langen des uberlebenden Gesellschafters an diesen abzutreten. (3) Das Stimmrecht der Gesellschaftererben, die gemal:li Abs. 2 zur Abtretung des Geschafts­ anteils verpflichtet sind, ruht langstens bis zum Ablauf von neun Monaten ab dem Tode des Gesellschafters.",
+    "entities": [
+        {
+            "id": 2531,
+            "label": "Subsection",
+            "start_offset": 638,
+            "end_offset": 794
+        },
+        {
+            "id": 2532,
+            "label": "Subsection",
+            "start_offset": 795,
+            "end_offset": 994
+        },
+        {
+            "id": 2533,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 2529,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 2530,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 637
+        },
+        {
+            "id": 2534,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 18,
+            "end_offset": 994
+        },
+        {
+            "id": 2535,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 994
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Arbeitsrecht ( 1) Wenn ein Partner stirbt, dann haben die oben genannten Partner das Recht, die Anteile des verstorbenen Partners untereinander in Bezug auf ihre Anteile an der Gesellschaft zu erwerben. Wenn ein oder mehrere Partner nicht das Recht haben, die Anteile der Gesellschaft zu erwerben, dann hat letzterer Anspruch auf die Anteile der Gesellschaft in Bezug auf ihre Anteile an der Gesellschaft.Das Recht auf Erwerb ist von den Erben jedes Partners innerhalb einer Frist von einem Jahr nach dem Tod des verstorbenen Partners schriftlich auszuüben, wobei die Gesellschaft eine Kopie des Schreibens besitzt. (2) Die Erben des verstorbenen Partners sind verpflichtet, ihnen den Anteil der Gesellschaft auf der Grundlage des überlebenden Partners zuzuteilen. (3) Ddie Stimmrechte der Erben der Gesellschaft, die zur Abtretung des Gesellschaftsanteils gemäß Absatz 2 verpflichtet sind, ruhen größtenteils bis zum Ablauf von neun Monaten ab dem Tag des Todes des Aktionärs."
+}

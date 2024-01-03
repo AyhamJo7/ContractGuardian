@@ -1,0 +1,39 @@
+{
+    "id": 742,
+    "text": "§ 8 Wettbewerbsklausel Den Gesellschaftern und den Geschäftsführern der Gesellschaft kann Befreiung vom Wettbewerbsverbot erteilt werden. Über Art und Umfang der Befreiung beschließen die Gesellschafter mit einfacher Mehrheit.",
+    "entities": [
+        {
+            "id": 1896,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 1897,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 226
+        },
+        {
+            "id": 1898,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 23
+        },
+        {
+            "id": 1899,
+            "label": "Wettbewerb",
+            "start_offset": 23,
+            "end_offset": 226
+        },
+        {
+            "id": 1900,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 226
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Wettbewerbsklausel Die Aktionäre und die Geschäftsführer der Gesellschaft können vom Verbot des Wettbewerbs befreit werden.Die Mitglieder entscheiden über Art und Umfang der Freistellung mit einfacher Mehrheit."
+}

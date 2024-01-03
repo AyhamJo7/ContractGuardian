@@ -1,0 +1,51 @@
+{
+    "id": 874,
+    "text": "§4. Verfügung über Geschäftsanteile 4.1 Verfügungen über Geschäftsanteile, insbesondere Veräußerungen oder Belastungen, bedürfen der Zustimmung aller Gesellschafter. 4.2 Jeder Gesellschafter kann seine Geschäftsanteile ohne Zustimmung der übrigen Gesellschafter mit sofortiger Wirksamkeit teilen und, wenn die Geschäftsanteile ohne Nachschusspflicht voll erbracht sind und keine unterschiedlichen Rechte vermitteln, zusammenlegen. \nTeilung und Zusammenlegung sind der Geschäftsführung unverzüglich mitzuteilen. 4.3 Jeder Gesellschafter ist verpflichtet, der Geschäftsführung Veränderungen in seiner Person oder seiner Beteiligung an der Gesellschaft schriftlich mitzuteilen. \nNachweise sind durch Urschriften oder beglaubigte Abschriften zu führen. \nIm Falle der Erbfolge gilt § 35 GBO entsprechend. ",
+    "entities": [
+        {
+            "id": 2827,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 2828,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 165
+        },
+        {
+            "id": 2829,
+            "label": "Subsection",
+            "start_offset": 166,
+            "end_offset": 510
+        },
+        {
+            "id": 2830,
+            "label": "Subsection",
+            "start_offset": 511,
+            "end_offset": 800
+        },
+        {
+            "id": 2831,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 35
+        },
+        {
+            "id": 2832,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 36,
+            "end_offset": 800
+        },
+        {
+            "id": 2833,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 800
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4. Verfügung über Aktien 4.1 Verfügungen über Aktien, insbesondere Veräußerungen oder Gebühren, bedürfen der Zustimmung aller Aktionäre. 4.2 Jeder Aktionär kann seine Aktien ohne Zustimmung der anderen Aktionäre mit sofortiger Wirkung teilen und wenn die Aktien ohne Margenverpflichtung vollständig zur Verfügung gestellt werden und keine unterschiedlichen Konten zur Verfügung stehen.4.3 Jeder Aktionär ist verpflichtet, die Geschäftsführung über Änderungen seiner Person oder seine Beteiligung an der Gesellschaft schriftlich zu unterrichten. Nachweise müssen durch Originale oder beglaubigte Abschriften erbracht werden. Im Falle der Nachfolge gilt § 35 GBO entsprechend."
+}

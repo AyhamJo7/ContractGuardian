@@ -1,0 +1,39 @@
+{
+    "id": 972,
+    "text": "§ 9 Schlussbestimmungen\n\nSollten einzelne Bestimmungen dieses Vertrages ganz oder teilweise unwirksam oder unanwendbar sein oder werden, oder sollte sich in dem Vertrag eine Lücke befinden, so soll hierdurch die Gültigkeit der übrigen Bestimmungen nicht berührt werden. In diesem Fall verpflichten sich die Parteien, eine Regelung zu vereinbaren, die soweit rechtlich möglich, dem am nächsten kommt, was die Parteien gewollt haben oder nach dem Sinn und Zweck dieses Vertrages gewollt haben würden, wenn sie den Punkt bedacht hätten.",
+    "entities": [
+        {
+            "id": 3527,
+            "label": "Schlussbestimmungen",
+            "start_offset": 4,
+            "end_offset": 23
+        },
+        {
+            "id": 3528,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 533
+        },
+        {
+            "id": 3525,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 3526,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 533
+        },
+        {
+            "id": 3529,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 533
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Schlussbestimmungen Sollten einzelne Bestimmungen dieses Vertrages ganz oder teilweise unwirksam oder nicht anwendbar sein oder werden, oder sollte eine Lücke im Vertrag bestehen, so bleibt die Gültigkeit der übrigen Bestimmungen davon unberührt. In diesem Fall verpflichten sich die Parteien, eine Regelung zu vereinbaren, die dem Vertrag, soweit rechtlich möglich, am nächsten steht,was die Parteien für den Zweck dieses Vertrages gewollt oder gewünscht hätten, wenn sie den Punkt in Betracht gezogen hätten."
+}

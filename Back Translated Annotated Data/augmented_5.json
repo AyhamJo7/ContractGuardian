@@ -1,0 +1,75 @@
+{
+    "id": 538,
+    "text": "§ 5 Geschäftsführung, Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. \nSind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. \nIst nur ein Geschäftsführer bestellt, vertritt dieser die Gesellschaft allein. (2) Durch Gesellschafterbeschluss kann allen oder einzelnen Geschäftsführern Einzelvertretungsbefugnis und/oder Befreiung von den Beschränkungen des § 181 BGB erteilt werden. (3) Abs. 1 und 2 gelten für Liquidatoren entsprechend.",
+    "entities": [
+        {
+            "id": 351,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 360,
+            "label": "Subsection",
+            "start_offset": 523,
+            "end_offset": 577
+        },
+        {
+            "id": 352,
+            "label": "Geschäftsführung",
+            "start_offset": 37,
+            "end_offset": 347
+        },
+        {
+            "id": 357,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 358,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 347
+        },
+        {
+            "id": 359,
+            "label": "Subsection",
+            "start_offset": 348,
+            "end_offset": 522
+        },
+        {
+            "id": 353,
+            "label": "Geschäftsführung",
+            "start_offset": 352,
+            "end_offset": 522
+        },
+        {
+            "id": 354,
+            "label": "Vertretung",
+            "start_offset": 527,
+            "end_offset": 577
+        },
+        {
+            "id": 355,
+            "label": "Vertretung",
+            "start_offset": 352,
+            "end_offset": 522
+        },
+        {
+            "id": 356,
+            "label": "Vertretung",
+            "start_offset": 22,
+            "end_offset": 33
+        },
+        {
+            "id": 361,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 577
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Geschäftsführung, Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. Werden mehrere Geschäftsführer bestellt, wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Stellvertreter vertreten. Wird nur ein Geschäftsführer bestellt, so vertritt die Gesellschaft die Gesellschaft allein. (2) Durch Aktionärsentscheidung, alle oder mehrere(3) Die Absätze 1 und 2 gelten sinngemäß für Liquidatoren."
+}

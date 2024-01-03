@@ -1,0 +1,39 @@
+{
+    "id": 740,
+    "text": "§ 6 Übertragung und Belastung VQn Geschäftsanteilen Die Übertragung oder Belastung von Geschäftsanteilen oder Teilen von Geschäftsanteilen ist nur mit Zustimmung aller Gesellschafter zulässig.",
+    "entities": [
+        {
+            "id": 1886,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 51
+        },
+        {
+            "id": 1887,
+            "label": "Subsection",
+            "start_offset": 52,
+            "end_offset": 192
+        },
+        {
+            "id": 1888,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 51
+        },
+        {
+            "id": 1889,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 52,
+            "end_offset": 192
+        },
+        {
+            "id": 1890,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 192
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Übertragung und Abgabe von VQn-Aktien Die Übertragung oder Abgabe von Aktien oder Teilen von Aktien ist nur mit Zustimmung aller Aktionäre gestattet."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 799,
+    "text": "§ 12 Verfügung über Geschäftsanteile 1. \nJede Verfügung über Geschäftsanteile oder Teile von solchen (insbesondere Übertragungen, Verpfändungen, Nießbrauchsbestellungen) sowie schuldrechtliche Abreden über Geschäftsanteile oder Teile von solchen (insbesondere offene oder verdeckte Treuhandabreden) bedürfen der schriftlichen Zustimmung der Gesellschafterversammlung mit einer Mehrheit von 75,0% der abgegebenen Stimmen unter Ausschluss des verfügungs- bzw. rechtshandlungswilligen Gesellschafters. 2. \nAusgenommen von der Verfügungsbeschränkung nach Abs. 1 sind Verfügungen zu Gunsten von anderen Gesellschaftern. 3. \nAnsprüche der Gesellschafter auf Gewinn- und Liquidationserlöse sowie sonstige Ansprüche der Gesellschafter sind nur mit Zustimmung der Gesellschaft übertragbar.",
+    "entities": [
+        {
+            "id": 2312,
+            "label": "Subsection",
+            "start_offset": 615,
+            "end_offset": 780
+        },
+        {
+            "id": 2313,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 36
+        },
+        {
+            "id": 2315,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 780
+        },
+        {
+            "id": 2314,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 780
+        },
+        {
+            "id": 2309,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        },
+        {
+            "id": 2310,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 497
+        },
+        {
+            "id": 2311,
+            "label": "Subsection",
+            "start_offset": 499,
+            "end_offset": 614
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Verfügung über Aktien 1. Jede Verfügung über Aktien oder Teile solcher Aktien (insbesondere Übertragungen, Verpfändungen, Zahlungsaufträge) sowie schuldhafte Vereinbarungen über Aktien oder Teile solcher Aktien (insbesondere offene oder verdeckte Treuhandverträge) bedarf der schriftlichen Zustimmung der Hauptversammlung mit einer Mehrheit von 75,0% der2. Vorbehaltlich der Beschränkung der Verfügung nach Absatz 1 sind Verfügungen zugunsten anderer Gesellschafter ausgeschlossen. 3. Die Ansprüche der Gesellschafter auf Gewinn- und Liquidationserlöse sowie sonstige Ansprüche der Gesellschafter sind nur mit Zustimmung der Gesellschaft übertragbar."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 712,
+    "text": "§5 Geschaftsfuhrung (1) Die Gesellschaft hat einen oder mehrere GeschaftsfOhrer. (2) Die Gesellschafterversammlung kann die GeschaftsfOhrungsbefugnisse, insbesondere die zustimmungsbedOrftigen Geschafte, und die Aufgaben­ verteilung in einer Geschaftsordnung oder durch Weisung regeln.",
+    "entities": [
+        {
+            "id": 1680,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 1681,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 80
+        },
+        {
+            "id": 1682,
+            "label": "Subsection",
+            "start_offset": 81,
+            "end_offset": 285
+        },
+        {
+            "id": 1683,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 20
+        },
+        {
+            "id": 1684,
+            "label": "Geschäftsführung",
+            "start_offset": 20,
+            "end_offset": 285
+        },
+        {
+            "id": 1685,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 285
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Verhalten der Gesellschaft (1) Die Gesellschaft hat einen oder mehrere Gesellschaftervertreter. (2) Die Hauptversammlung kann die Führungsbefugnisse der Gesellschaft, insbesondere die jeweiligen Gesellschaften, und die Aufgaben der Verteilung in einer Gesellschaftsordnung oder durch Weisungen regeln."
+}

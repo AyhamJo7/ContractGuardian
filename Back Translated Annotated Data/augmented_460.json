@@ -1,0 +1,75 @@
+{
+    "id": 985,
+    "text": "§ 1 Firma und Sitz\n(1) Die Firma der Gesellschaft lautet: \"Vehsa Sicherheit GmbH.\"\n(2) Der Sitz der Gesellschaft ist: Hamburg.\n(3) Die Geschäftsführung ist befugt, den Verwaltungssitz an jeden beliebigen Ort im In- und Ausland zu verlegen, sofern die Gesellschafterversammlung dem mit einfacher Stimmenmehrheit zugestimmt hat.",
+    "entities": [
+        {
+            "id": 3590,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 82
+        },
+        {
+            "id": 3591,
+            "label": "Subsection",
+            "start_offset": 83,
+            "end_offset": 126
+        },
+        {
+            "id": 3597,
+            "label": "Geschäftsführung",
+            "start_offset": 127,
+            "end_offset": 326
+        },
+        {
+            "id": 3598,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 126
+        },
+        {
+            "id": 3599,
+            "label": "Orange Flag",
+            "start_offset": 127,
+            "end_offset": 326
+        },
+        {
+            "id": 3589,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 3592,
+            "label": "Subsection",
+            "start_offset": 127,
+            "end_offset": 326
+        },
+        {
+            "id": 3593,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 3594,
+            "label": "Firma",
+            "start_offset": 19,
+            "end_offset": 82
+        },
+        {
+            "id": 3595,
+            "label": "Sitz",
+            "start_offset": 14,
+            "end_offset": 18
+        },
+        {
+            "id": 3596,
+            "label": "Sitz",
+            "start_offset": 83,
+            "end_offset": 126
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft und Sitz (1) Die Gesellschaft der Gesellschaft ist: \"Vehsa Sicherheit GmbH.\" (2) Sitz der Gesellschaft ist: Hamburg. (3) Die Geschäftsführung ist berechtigt, den Sitz an einen beliebigen Ort im In- und Ausland zu übertragen, sofern die Aktionärsversammlung diesem mit einfacher Mehrheit zugestimmt hat."
+}

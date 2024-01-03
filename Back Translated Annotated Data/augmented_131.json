@@ -1,0 +1,51 @@
+{
+    "id": 722,
+    "text": "§ 5 Geschaftsfilhrung (1) Die Gesellschaft hat einen oder mehrere Geschaftsfuhrer. (2) Die Geschaftsfuhrer sind an das Gesetz, diesen Gesellschaftsvertrag und die Weisungen der Gesellschafter gebunden. \nDie Gesellschafter konnen durch Beschluss eine Geschaftsordnung fur die GeschaftsfOhrung erlassen. (3) Die Gesellschafter konnen durch Beschluss einen Katalog von MaBnahmen festlegen, fur die die GeschaftsfOhrer der vorherigen Zustimmung der Ge­ sellschafterversammlung bedurfen. \nDie Vertretungsbefugnis der Geschafts­ fuhrer gegenOber Dritten bleibt davon unberuhrt.",
+    "entities": [
+        {
+            "id": 1747,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 82
+        },
+        {
+            "id": 1748,
+            "label": "Subsection",
+            "start_offset": 83,
+            "end_offset": 301
+        },
+        {
+            "id": 1752,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 571
+        },
+        {
+            "id": 1749,
+            "label": "Subsection",
+            "start_offset": 302,
+            "end_offset": 571
+        },
+        {
+            "id": 1751,
+            "label": "Geschäftsführung",
+            "start_offset": 22,
+            "end_offset": 571
+        },
+        {
+            "id": 1750,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 1746,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Firmenname (1) Die Gesellschaft hat einen oder mehrere Geschäftsinhaber. (2) Die Geschäftsinhaber sind an das Gesetz, diesen Gesellschaftsvertrag und die Weisungen der Aktionäre gebunden. Die Aktionäre können durch Entscheidung einen Gesellschaftskodex für die Unternehmensleitung erlassen. (3) Die Aktionäre können durch Entscheidung einen Maßnahmenkatalog festlegen, für den die Gesellschaften verantwortlich sind.Die Vertretungsbefugnis der Mitglieder des Vereins gegen die überragenden Dritten bleibt widersprochen."
+}

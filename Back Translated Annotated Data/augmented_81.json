@@ -1,0 +1,75 @@
+{
+    "id": 596,
+    "text": "§ 8 Gesellschafterbeschlüsse l. \nSolange die Gesellschaft lediglich aus einem Gesellschafter besteht, wird eine Gesellschafterversammlung nicht einberufen. \nDer Emmanngesellschafter fasst seine Beschlüsse als oberstes Organ der Gesellschaft und fertigt nach Beschlussfassung eine von üim unterzeichnete Niederschrift. 2. \nDie Gesellschafterversaminlung ist beschlussfähig, wenn mindestens die Hälfte des Stammkapitals vertreten ist. \nFehlt es daran, so ist innerhalb von vier Wochen eine neue Versammlung mit gleicher Tagesordnung eiiizuberufen, die immer beschlussfähig ist. 3. \nGesellschafterbeschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, soweit nicht die Satzung oder das Gesetz zwingend eine andere Mehrheit vorschreiben. \nBei Stimmengleichheit gut em Antrag als abgelehnt. 4. Über die Bestellung und Abberufung von Geschäftsführern beschließt die Gesellschafterversamnilung mit Dreiviertelmehrheit, 5. \nWerden durch einen Beschluss Sonderrechte der Gesellschafter beeinträchtigt oder Sonderpflichten neu eingeführt bzw. erweitert, so ist die Zustimmung der betroffenen Gesellschafter erforderlich. 6. \nAbgestünmt wird nach Geschäftsanteüen. \nJe ein Euro eines Geschäftsanteils gewährt eine Stimme. 7. \nBeschlüsse der Gesellschafter können nur innerhalb eines Monats nach BescNussfassung durch Klage angefochten werden.",
+    "entities": [
+        {
+            "id": 806,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 807,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 317
+        },
+        {
+            "id": 808,
+            "label": "Subsection",
+            "start_offset": 318,
+            "end_offset": 575
+        },
+        {
+            "id": 809,
+            "label": "Subsection",
+            "start_offset": 576,
+            "end_offset": 804
+        },
+        {
+            "id": 810,
+            "label": "Subsection",
+            "start_offset": 805,
+            "end_offset": 930
+        },
+        {
+            "id": 811,
+            "label": "Subsection",
+            "start_offset": 931,
+            "end_offset": 1129
+        },
+        {
+            "id": 812,
+            "label": "Subsection",
+            "start_offset": 1130,
+            "end_offset": 1229
+        },
+        {
+            "id": 813,
+            "label": "Subsection",
+            "start_offset": 1230,
+            "end_offset": 1350
+        },
+        {
+            "id": 814,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        },
+        {
+            "id": 815,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 29,
+            "end_offset": 1350
+        },
+        {
+            "id": 816,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1350
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Entscheidungen der Aktionäre l. Solange die Gesellschaft nur aus einem Aktionär besteht, wird die Hauptversammlung nicht einberufen. Der Emmann-Aktionär trifft seine Entscheidungen als höchstes Organ der Gesellschaft und produziert nach Entscheidung einen unterzeichneten Rekord. 2. Die Hauptversammlung ist beschlussfähig, wenn mindestens die Hälfte der Entscheidung der GesellschaftIn Ermangelung eines Beschlusses wird innerhalb von vier Wochen eine neue Sitzung mit derselben Tagesordnung einberufen, die immer beschlussfähig ist. 3. Die Beschlüsse der Aktionäre werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, es sei denn, die Satzung oder das Gesetz verlangen eine andere Mehrheit.4. Der Aktionärsverband entscheidet über die Bestellung und Entlassung von Geschäftsführern mit drei Viertelmehrheit, 5. Werden besondere Rechte der Aktionäre durch eine Entscheidung berührt oder werden besondere Verpflichtungen neu eingeführt oder verlängert, so ist die Zustimmung der betroffenen Aktionäre erforderlich. 6. Die Zustimmung wird nach Geschäftsabsicht erteilt.(7) Die Entscheidungen der Mitglieder können nur innerhalb eines Monats nach der Anrufung des Gerichtshofes angefochten werden."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 1024,
+    "text": "§ 7 Jahresabschluss und Gewinnverwendung (1) Die Bilanz nebst Gewinn- und Verlustrechnung ist von den Geschäftsführern binnen der gesetzlichen Fristen aufzustellen und der Gesellschafterversammlung zur Feststellung vorzulegen. Dabei sind die gesetzlichen Vorschriften über die Aufstellung der Bilanzen bzw. Jahresabschlüsse sowie ggf. des Lageberichtes - § 42, 42 a GmbHG in Verbindung mit § 242, 264 HGB - zu beachten. (2) Über die Verwendung des festgestellten Jahresergebnisses entscheiden die Gesellschafter im Rahmen des § 29 GmbHG durch Beschluss. Die Bildung von Rücklagen gemäß § 29 Abs. 4 GmbHG ist zulässig.",
+    "entities": [
+        {
+            "id": 3876,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 419
+        },
+        {
+            "id": 3877,
+            "label": "Subsection",
+            "start_offset": 421,
+            "end_offset": 616
+        },
+        {
+            "id": 3878,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 3880,
+            "label": "Gewinnverteilung",
+            "start_offset": 24,
+            "end_offset": 41
+        },
+        {
+            "id": 3879,
+            "label": "Jahresabschluss",
+            "start_offset": 41,
+            "end_offset": 418
+        },
+        {
+            "id": 3881,
+            "label": "Gewinnverteilung",
+            "start_offset": 420,
+            "end_offset": 617
+        },
+        {
+            "id": 3882,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 617
+        },
+        {
+            "id": 3875,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Jahresabschluss und Gewinnauslastung (1) Die Bilanz sowie die Gewinn- und Verlustrechnung sind von den Geschäftsführern innerhalb der gesetzlichen Fristen zu erstellen und der Hauptversammlung zur Feststellung vorzulegen. Die gesetzlichen Bestimmungen über die Erstellung der Bilanz oder des Jahresabschlusses sowie gegebenenfalls der Lagebericht - § 42, 42 a GmbHG in Verbindung mit § 242, 264(2) Die Aktionäre entscheiden über die Verwendung des ermittelten Jahresergebnisses im Rahmen des § 29 GmbHG durch Beschluss. Die Bildung von Rücklagen nach § 29 Abs. 4 GmbHG ist zulässig."
+}

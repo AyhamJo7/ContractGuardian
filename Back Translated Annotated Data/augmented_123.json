@@ -1,0 +1,51 @@
+{
+    "id": 638,
+    "text": "§ 8 Wettbewerbsverbot (1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegenüber der Gesellschaft. \nEin Entgelt ist hierfür nicht zu zahlen. (2) Entsprechendes gilt für Geschäftsführer vorbehaltlich einer abweichenden Regelung im Geschäftsführervertrag.",
+    "entities": [
+        {
+            "id": 1136,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 1137,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 151
+        },
+        {
+            "id": 1139,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 1141,
+            "label": "Wettbewerb",
+            "start_offset": 152,
+            "end_offset": 264
+        },
+        {
+            "id": 1142,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 264
+        },
+        {
+            "id": 1138,
+            "label": "Subsection",
+            "start_offset": 152,
+            "end_offset": 264
+        },
+        {
+            "id": 1140,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 151
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Wettbewerbsverbot (1) Für die Aktionäre gilt kein Wettbewerbsverbot gegenüber der Gesellschaft. Zu diesem Zweck ist eine Gebühr nicht zu entrichten. (2) Gleiches gilt für Geschäftsführer, die im Vertrag des Geschäftsführers einer anderen Regelung unterliegen."
+}

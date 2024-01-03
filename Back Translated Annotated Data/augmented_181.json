@@ -1,0 +1,45 @@
+{
+    "id": 746,
+    "text": "§12 Salvatorische Klausel Sollte eine der Bestimmungen dieses Vertrages unwirksam sein oder werden, so sollen alle übrigen Bestimmungen dieses Vertrages gleichwohl gültig bleiben. \nDie Gesellschafter sind verpflichtet, eine unwirksame Bestimmung alsbald durch eine wirksame Bestimmung zu ersetzen, welche dem wirtschaftlichen Sinn und Zweck der unwirksamen Bestimmung entspricht.",
+    "entities": [
+        {
+            "id": 1916,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 25
+        },
+        {
+            "id": 1919,
+            "label": "Salvatorische Klausel",
+            "start_offset": 4,
+            "end_offset": 25
+        },
+        {
+            "id": 1920,
+            "label": "Salvatorische Klausel",
+            "start_offset": 26,
+            "end_offset": 379
+        },
+        {
+            "id": 1921,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 379
+        },
+        {
+            "id": 1917,
+            "label": "Subsection",
+            "start_offset": 26,
+            "end_offset": 180
+        },
+        {
+            "id": 1918,
+            "label": "Subsection",
+            "start_offset": 181,
+            "end_offset": 379
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§12 Abfindungsklausel Sollte eine der Bestimmungen dieses Vertrages unwirksam sein oder werden, bleiben alle anderen Bestimmungen dieses Vertrages dennoch gültig. Die Partner sind verpflichtet, eine unwirksame Bestimmung durch eine wirksame Bestimmung zu ersetzen, die dem wirtschaftlichen Zweck und Zweck der unwirksamen Bestimmung entspricht."
+}

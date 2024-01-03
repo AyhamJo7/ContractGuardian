@@ -1,0 +1,45 @@
+{
+    "id": 822,
+    "text": "§3 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Betrieb einer gastronomischen Einrichtung, ins­ besondere aber nicht ausschlief1Iich unter den Namen Kiez Alm, Rock Alm und Creque Alm und alle damit im Zusammenhang stehenden Tatigkeiten. (2) Die Gesellschaft ist berechtigt, alle Geschafte zu tatigen, die dem Gesellschaftszweck unmittelbar und mittelbar dienen, soweit sie nicht einer besonderen Erlaubnis bedOrfen.",
+    "entities": [
+        {
+            "id": 2463,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 438
+        },
+        {
+            "id": 2464,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 438
+        },
+        {
+            "id": 2459,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2460,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 259
+        },
+        {
+            "id": 2461,
+            "label": "Subsection",
+            "start_offset": 260,
+            "end_offset": 438
+        },
+        {
+            "id": 2462,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Betrieb eines gastronomischen Betriebes, insbesondere aber nicht ausgeschlafen1Ich unter den Namen Kiez Alm, Rock Alm und Creque Alm sowie alle damit verbundenen Tätigkeiten. (2) Das Unternehmen ist berechtigt, alle Unternehmen zu handeln, die dem Zweck des Unternehmens direkt und indirekt dienen, soweit sie nichtt ein spezielles Genehmigungsbett Orfen."
+}

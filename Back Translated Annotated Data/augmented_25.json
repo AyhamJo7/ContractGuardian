@@ -1,0 +1,51 @@
+{
+    "id": 525,
+    "text": "§ 10 Teilung und Vereinigung von Geschäftsanteilen 1. \nDie Teilung von Geschäftsanteilen erfolgt durch Gesellschafterbeschluss, auf Antrag oder mit Zustimmung des betroffenen Gesellschafters. 2. \nIst ein Gesellschafter Inhaber mehrerer Geschäftsanteile, die jeweils in voller Höhe eingezahlt worden sind, können diese Geschäftsanteile auf Antrag oder mit Zustimmung des betreffenden Gesellschafters durch Gesellschafterbeschluss miteinander vereinigt werden.",
+    "entities": [
+        {
+            "id": 118,
+            "label": "Veräußerung",
+            "start_offset": 5,
+            "end_offset": 50
+        },
+        {
+            "id": 122,
+            "label": "Veräußerung",
+            "start_offset": 55,
+            "end_offset": 191
+        },
+        {
+            "id": 123,
+            "label": "Veräußerung",
+            "start_offset": 196,
+            "end_offset": 458
+        },
+        {
+            "id": 262,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 50
+        },
+        {
+            "id": 263,
+            "label": "Subsection",
+            "start_offset": 51,
+            "end_offset": 191
+        },
+        {
+            "id": 264,
+            "label": "Subsection",
+            "start_offset": 192,
+            "end_offset": 458
+        },
+        {
+            "id": 265,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 458
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Teilung und Vereinigung von Aktien 1. Die Teilung von Aktien erfolgt durch Entscheidung des Aktionärs, auf Antrag des betreffenden Aktionärs oder mit Zustimmung des betroffenen Aktionärs. 2. Besitzt ein Aktionär mehrere Aktien, von denen jede vollständig eingezahlt wurde, so können diese Aktien auf Antrag oder mit Zustimmung des betreffenden Aktionärs,In diesem Zusammenhang ist darauf hinzuweisen, dass zur Erreichung der im Vertrag über die Europäische Union festgelegten Ziele den Bedürfnissen der Mitgliedstaaten und der Mitgliedstaaten Rechnung getragen werden muss, um die im Vertrag über die Europäische Union festgelegten Ziele und insbesondere die Ziele des Vertrags über die Europäische Union und des Vertrags über die Europäische Union sowie des Vertrags über die Europäische Union, der Europäischen Union und des Vertrags über die Europäische Union zu erreichen."
+}

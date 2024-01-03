@@ -1,0 +1,63 @@
+{
+    "id": 903,
+    "text": "§3 Stammkapital, Geschaftsanteile 1. \nDas Stammkapital der Gesellschaft betragt EUR 25.000,00 (in Worten: Euro funfundzwanzig­ tausend). \n 2. \nDas Stammkapital wird wie folgt ubernommen: Herr Michael Milosevic ubernimmt 25.000 Geschaftsanteile mit Nennbetragen in Hohe von je 1,00 EUR (i.W. \nEuro ein) (Geschaftsanteile Nr. 1-25.000), mithin Geschaftsanteile mit einem Gesamtnennwert in Hohe von 25.000,00 EUR, 3. \nDie Einzahlungen sind sofort zu 50 % in Geld zu leisten; der Rest auf jederzeit mogliche An­ forderung durch die Geschaftsfuhrung.",
+    "entities": [
+        {
+            "id": 3056,
+            "label": "Subsection",
+            "start_offset": 411,
+            "end_offset": 545
+        },
+        {
+            "id": 3057,
+            "label": "Stammkapital",
+            "start_offset": 34,
+            "end_offset": 137
+        },
+        {
+            "id": 3058,
+            "label": "Stammeinlagen",
+            "start_offset": 139,
+            "end_offset": 545
+        },
+        {
+            "id": 3046,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 3047,
+            "label": "Subsection",
+            "start_offset": 34,
+            "end_offset": 137
+        },
+        {
+            "id": 3050,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 3051,
+            "label": "Stammeinlagen",
+            "start_offset": 17,
+            "end_offset": 34
+        },
+        {
+            "id": 3055,
+            "label": "Subsection",
+            "start_offset": 139,
+            "end_offset": 409
+        },
+        {
+            "id": 3059,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 545
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital, Gesellschaftsanteile 1. Das Grundkapital der Gesellschaft beträgt EUR 25,000,00 (in Worten: Euro 25 Tausend). 2. Das Grundkapital wird wie folgt übernommen: Herr Michael Milosevic übernimmt 25.000 Aktien mit Nominalbeträgen von EUR 1,00 (d.h. Euro) (Unternehmensanteile Nr. 1-25.000), mit einem Nennwert von insgesamt 25,0EUR 00,00, 3. Kautionen müssen sofort bei 50 % an Geld geleistet werden; der Rest muss jederzeit vom Unternehmen bezahlt werden."
+}

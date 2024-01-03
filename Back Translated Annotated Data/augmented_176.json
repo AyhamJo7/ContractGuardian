@@ -1,0 +1,39 @@
+{
+    "id": 741,
+    "text": "§ 7 Jahresabschluss Der Jahresabschluss ist von der Geschäftsführung unter Beachtung der einschlägigen gesetzlichen Vorschriften aufzustellen. Über die Verwendung eines etwaigen Gewinns entscheidet die Gesellschafterversammlung.",
+    "entities": [
+        {
+            "id": 1895,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 228
+        },
+        {
+            "id": 1891,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 1893,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 1894,
+            "label": "Jahresabschluss",
+            "start_offset": 20,
+            "end_offset": 228
+        },
+        {
+            "id": 1892,
+            "label": "Subsection",
+            "start_offset": 20,
+            "end_offset": 228
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Jahresabschluss Der Jahresabschluss muss von der Geschäftsleitung gemäß den einschlägigen gesetzlichen Bestimmungen erstellt werden.Die Aktionärsversammlung entscheidet über die Nutzung des Gewinns."
+}

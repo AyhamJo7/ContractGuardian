@@ -1,0 +1,51 @@
+{
+    "id": 736,
+    "text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Verwaltung eigenen Vermögens, insbesondere die Gründung von Tochtergesellschaften und der Erwerb, die Verwaltung sowie die Veräußerung von Mehrheitsbeteiligungen. (2) Die Gesellschaft ist zu allen Geschäften und Maßnahmen berechtigt, die zur Erreichung des Gesellschaftszwecks erforderlich sind oder nützlich erscheinen. (3) Die Gesellschaft darf andere Unternehmen übernehmen, sich an ihnen beteiligen, auch als persönlich haftende Gesellschafterin, oder deren Geschäfte führen. \nDie Gesellschaft darf ferner Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1853,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 1856,
+            "label": "Subsection",
+            "start_offset": 393,
+            "end_offset": 632
+        },
+        {
+            "id": 1858,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 632
+        },
+        {
+            "id": 1859,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 632
+        },
+        {
+            "id": 1854,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 234
+        },
+        {
+            "id": 1855,
+            "label": "Subsection",
+            "start_offset": 235,
+            "end_offset": 392
+        },
+        {
+            "id": 1857,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Verwaltung des eigenen Vermögens, insbesondere die Gründung von Tochtergesellschaften und der Erwerb, die Geschäftsführung und die Veräußerung von Mehrheitsbeteiligungen. (2) Die Gesellschaft hat Anspruch auf alle Transaktionen und Maßnahmen, die zur Erreichung des Unternehmenszwecks erforderlich oder sinnvoll erscheinen. (3) Die Gesellschaft hat Anspruch auf dieDie Gesellschaft kann andere Unternehmen übernehmen, daran teilnehmen, auch als persönlich haftender Partner, oder ihre Geschäfte führen. Das Unternehmen kann auch Niederlassungen im In- und Ausland gründen."
+}

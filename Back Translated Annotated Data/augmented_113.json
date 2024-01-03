@@ -1,0 +1,57 @@
+{
+    "id": 617,
+    "text": "§ 13 Schlussbestimmungen (1) Soweit in dieser Satzung nichts anderes bestimmt ist, gelten die Vorschriften des GmbHG. (2) Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger. (3) Sollten einzelne Bestimmungen dieses Vertrages nichtig oder unwirksam sein, wird die Gültigkeit des Vertrages im Übrigen nicht berührt. \nAn die Stelle der unwirksamen oder  nichtigen Bestimmung tritt eine solche, die im Ergebnis der unwirksamen oder nichtigen Bestimmung inhaltlich und wirtschaftlich am nächsten kommt. (4) Gerichtsstand für alle Streitigkeiten aus und im Zusammenhang mit diesem Gesellschaftsvertrag ist - soweit zulässig - das für den Sitz der Gesellschaft zuständige Landgericht.",
+    "entities": [
+        {
+            "id": 973,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 976,
+            "label": "Subsection",
+            "start_offset": 188,
+            "end_offset": 511
+        },
+        {
+            "id": 978,
+            "label": "Subsection",
+            "start_offset": 512,
+            "end_offset": 691
+        },
+        {
+            "id": 979,
+            "label": "Schlussbestimmungen",
+            "start_offset": 5,
+            "end_offset": 25
+        },
+        {
+            "id": 980,
+            "label": "Schlussbestimmungen",
+            "start_offset": 25,
+            "end_offset": 691
+        },
+        {
+            "id": 975,
+            "label": "Subsection",
+            "start_offset": 118,
+            "end_offset": 187
+        },
+        {
+            "id": 981,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 691
+        },
+        {
+            "id": 974,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 117
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Schlussbestimmungen (1) Sofern in dieser Satzung nichts anderes bestimmt ist, finden die Bestimmungen der GmbHG Anwendung. (2) Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger. (3) Sollten einzelne Bestimmungen dieses Vertrages nichtig oder unwirksam sein, wird die Gültigkeit des Vertrages durch den Rest nicht berührt.(4) Gerichtsstand für alle Streitigkeiten aus und im Zusammenhang mit diesem Sozialvertrag ist - soweit zulässig - das für den Sitz der Gesellschaft zuständige Landesgericht."
+}

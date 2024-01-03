@@ -1,0 +1,39 @@
+{
+    "id": 979,
+    "text": "§6 Vertretung Die Gesellschaft wird durch einen Geschäftsführer alleine vertreten, wenn er alleiniger Geschäftsführer ist oder wenn die Gesellschafter ihn zur Einzelvertretung ermächtigt haben. Im Übrigen wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Jedem Geschäftsführer kann die Befugnis erteilt werden, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen (Befreiung von den Beschränkungen des § 181 BGB). Vorstehende Regelungen gelten entsprechend für Liquidatoren.",
+    "entities": [
+        {
+            "id": 3563,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 3565,
+            "label": "Vertretung",
+            "start_offset": 3,
+            "end_offset": 14
+        },
+        {
+            "id": 3567,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 628
+        },
+        {
+            "id": 3566,
+            "label": "Vertretung",
+            "start_offset": 14,
+            "end_offset": 628
+        },
+        {
+            "id": 3564,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 628
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Vertretung Die Gesellschaft wird allein durch einen Geschäftsführer vertreten, wenn sie allein Geschäftsführer ist oder wenn die Aktionäre sie zur individuellen Vertretung bevollmächtigt haben. Darüber hinaus wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer zusammen mit einem bevollmächtigten Vertreter vertreten.n Rechtsgeschäfte im Namen der Gesellschaft im eigenen Namen oder als Vertreter eines Dritten (Ausnahme von den Beschränkungen des § 181 BGB) zu tätigen. Die vorstehenden Bestimmungen gelten sinngemäß für Liquidatoren."
+}

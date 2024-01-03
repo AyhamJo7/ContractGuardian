@@ -1,0 +1,81 @@
+{
+    "id": 527,
+    "text": "§ 12 Erbfolge 1. \nIm Fall des Todes eines Gesellschafters wird die Gesellschaft mit seinen Erben oder den anderweitig durch Verfügung von Todes wegen Begünstigten fortgesetzt. 2. \nMehrere Rechtsnachfolger haben ihre Rechte bis zu einer endgültigen Auseinandersetzung durch einen gemeinsamen Bevollmächtigten erfüllen zu lassen. \nBevollmächtigter kann einer der Miterben oder Mit-Vermächtnisnehmer, ein Mitgesellschafter oder eine zur Berufsverschwiegenheit verpflichtete sachkundige Person sein, die in keinem Wettbewerb zur Gesellschaft steht. \nSolange der Bevollmächtigte nicht bestellt ist, ruhen die Gesellschafterrechte mit Ausnahme des Gewinnbezugsrechts. 3. \nHat ein verstorbener Gesellschafter einen Testamentsvollstrecker bezüglich seiner Beteiligung eingesetzt, ist der Testamentsvollstrecker berechtigt, alle gesellschaftsrechtlichen Rechte der Gesellschafternachfolger wahrzunehmen. 4. \nIm Fall des Todes eines Gesellschafters kann die Gesellschafterversammlung nach Maßgabe der Bestimmungen dieses Gesellschaftsvertrags wahlweise die Einziehung oder Abtretung des Geschäftsanteils beschließen, oder dessen verhältnismäßigen Ankauf durch die verbleibenden Gesellschafter. \nDer Beschluss kann nur innerhalb von zwölf Monaten nach Vorliegen der Erbnachweise bei der Gesellschaft gefasst werden. \nDer Erbe / die Erben ist / sind bei dieser Beschlussfassung nicht stimmberechtigt. \nAls Vergütung ist in diesem Fall abweichend von den nachstehenden Regelungen des § 13 Abs. 6 der Verkehrswert des eingezogenen bzw. zwangsweise abgetretenen Geschäftsanteils maßgeblich. § 13 Abs. 7 bis 8 dieser Satzung gelten entsprechend.",
+    "entities": [
+        {
+            "id": 141,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 147,
+            "label": "Erbfolge",
+            "start_offset": 18,
+            "end_offset": 175
+        },
+        {
+            "id": 148,
+            "label": "Erbfolge",
+            "start_offset": 180,
+            "end_offset": 662
+        },
+        {
+            "id": 149,
+            "label": "Erbfolge",
+            "start_offset": 666,
+            "end_offset": 894
+        },
+        {
+            "id": 150,
+            "label": "Erbfolge",
+            "start_offset": 899,
+            "end_offset": 1629
+        },
+        {
+            "id": 151,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 1390,
+            "end_offset": 1629
+        },
+        {
+            "id": 271,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 272,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 174
+        },
+        {
+            "id": 273,
+            "label": "Subsection",
+            "start_offset": 176,
+            "end_offset": 661
+        },
+        {
+            "id": 274,
+            "label": "Subsection",
+            "start_offset": 662,
+            "end_offset": 894
+        },
+        {
+            "id": 275,
+            "label": "Subsection",
+            "start_offset": 895,
+            "end_offset": 1629
+        },
+        {
+            "id": 276,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1629
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Nachfolge 1. Im Falle des Todes eines Partners wird die Gesellschaft mit ihren Erben oder auf andere Weise auf Anordnung des Todes wegen der Begünstigten fortbestehen. 2. Mehrere Nachfolger haben ihre Rechte bis zur endgültigen Auseinandersetzung durch einen Mitvertreter zu erfüllen.Hat ein verstorbener Partner einen Testamentsvollstrecker in Bezug auf seine Teilnahme eingesetzt, so erfolgt die Vollstreckung des Testaments.(4) Im Falle des Todes eines Aktionärs kann die Hauptversammlung gemäß den Bestimmungen dieses Gesellschaftsvertrages entscheiden, ob sie den Anteil des Unternehmens einnimmt oder abtretet oder ihn von den übrigen Aktionären anteilig ankauft.Die Erben sind/sind in dieser Entscheidung nicht stimmberechtigt. Abweichend von § 13 Abs. 6 ist in diesem Fall der Handelswert der eingezogenen oder zwangsweise zugewiesenen Geschäftsanteile als Entschädigung maßgeblich. § 13 Abs. 7 bis 8 dieserDie Satzung gilt sinngemäß."
+}

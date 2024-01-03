@@ -1,0 +1,51 @@
+{
+    "id": 906,
+    "text": "§6 Weitere Bestimmungen 1. \nDie Bekanntmachungen der Gesellschaft erscheinen im Bundesanzeiger. 2. \nSollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder werden, so wird die Rechtswirksamkeit der ubrigen Bestimmungen dadurch nicht beruhrt. \nDie betreffende Bestim­ mung ist durch eine wirksame zu ersetzen, die dem angestrebten wirtschaftlichen Zweck mog­ lichst nahe kommt. \nEntsprechendes gilt fur etwaige Vertragslucken. 3. \nDie Gesellschaft tragt die mit der Grundung verbundenen Kosten und Gebuhren (Notar- und Gerichtsgebuhren sowie Beratungskosten Steuerberater und Rechtsanwalt) bis zu einem Ge­ samtbetrag von insgesamt EUR 2.500,00.",
+    "entities": [
+        {
+            "id": 3081,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 655
+        },
+        {
+            "id": 3075,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 3076,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 95
+        },
+        {
+            "id": 3077,
+            "label": "Subsection",
+            "start_offset": 96,
+            "end_offset": 435
+        },
+        {
+            "id": 3078,
+            "label": "Subsection",
+            "start_offset": 437,
+            "end_offset": 655
+        },
+        {
+            "id": 3079,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 23
+        },
+        {
+            "id": 3080,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 24,
+            "end_offset": 655
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Weitere Bestimmungen 1. Die Bekanntmachungen der Gesellschaft erscheinen im Bundesanzeiger. 2. Sollten einzelne Bestimmungen dieses Vertrages unwirksam sein oder werden, so wird die Rechtswirksamkeit der übrigen Bestimmungen hiervon nicht erfasst. An die Stelle der betreffenden Bestimmung muss eine wirksame Bestimmung treten, die dem beabsichtigten wirtschaftlichen Zweck mehr oder weniger nahe ist.3. Die mit der Stiftung verbundenen Kosten und Gebühren (Notar- und Gerichtsgebühren sowie Beratungskosten Steuerberater und Rechtsanwalt) trägt das Unternehmen bis zu einem Gesamtbetrag von EUR 2.500,00."
+}

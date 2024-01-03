@@ -1,0 +1,39 @@
+{
+    "id": 1000,
+    "text": "§ 3 Bekanntmachungen\n\nBekanntmachungen der Gesellschaft erfolgen ausschließlich im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 3704,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 98
+        },
+        {
+            "id": 3705,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 3707,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 98
+        },
+        {
+            "id": 3703,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3706,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 98
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen ausschließlich im Bundesanzeiger."
+}

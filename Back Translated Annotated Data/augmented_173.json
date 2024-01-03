@@ -1,0 +1,63 @@
+{
+    "id": 738,
+    "text": "§4 Dauer der Gesellschaft, Geschäftsjahr (1) Die Gesellschaft wird auf unbestimmte Zeit geschlossen. (2) Das Geschäftsjahr beginnt am 01. 07. und endet am 30. 06. des darauffolgenden Jahres. \nDas erste Geschäftsjahr ist ein Rumpfgeschäftsjahr und endet am 30. 06.2024.",
+    "entities": [
+        {
+            "id": 1867,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        },
+        {
+            "id": 1868,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 100
+        },
+        {
+            "id": 1874,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 25
+        },
+        {
+            "id": 1872,
+            "label": "Dauer",
+            "start_offset": 41,
+            "end_offset": 100
+        },
+        {
+            "id": 1873,
+            "label": "Geschäftsjahr",
+            "start_offset": 27,
+            "end_offset": 40
+        },
+        {
+            "id": 1875,
+            "label": "Geschäftsjahr",
+            "start_offset": 101,
+            "end_offset": 268
+        },
+        {
+            "id": 1876,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 268
+        },
+        {
+            "id": 1869,
+            "label": "Subsection",
+            "start_offset": 101,
+            "end_offset": 191
+        },
+        {
+            "id": 1870,
+            "label": "Subsection",
+            "start_offset": 192,
+            "end_offset": 268
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Dauer der Gesellschaft, Geschäftsjahr (1) Die Gesellschaft wird auf unbestimmte Zeit geschlossen. (2) Das Geschäftsjahr beginnt am 01. 07. und endet am 30. 06. des Folgejahres. Das erste Geschäftsjahr ist ein Torsogeschäftsjahr und endet am 30. 06.2024."
+}

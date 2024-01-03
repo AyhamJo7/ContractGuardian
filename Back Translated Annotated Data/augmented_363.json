@@ -1,0 +1,57 @@
+{
+    "id": 901,
+    "text": "§ 1 Firma, Sitz 1. \nDie Gesellschaft fuhrt die Firma MM Verwaltungs GmbH. 2. \nDer Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 3031,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3032,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 73
+        },
+        {
+            "id": 3033,
+            "label": "Subsection",
+            "start_offset": 74,
+            "end_offset": 116
+        },
+        {
+            "id": 3034,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 3038,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 116
+        },
+        {
+            "id": 3035,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 72
+        },
+        {
+            "id": 3036,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 3037,
+            "label": "Sitz",
+            "start_offset": 78,
+            "end_offset": 116
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Firmensitz 1. Die Gesellschaft treibt die Firma MM Verwaltungs GmbH an. 2. Sitz der Gesellschaft ist Hamburg."
+}

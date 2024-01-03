@@ -1,0 +1,57 @@
+{
+    "id": 948,
+    "text": "§4 Dauer der Gesellschaft, Geschäftsjahr 1. Die Gesellschaft wird auf unbestimmte Zeit errichtet. 2. Geschäftsjahr der Gesellschaft ist das Kalenderjahr.",
+    "entities": [
+        {
+            "id": 3367,
+            "label": "Geschäftsjahr",
+            "start_offset": 98,
+            "end_offset": 153
+        },
+        {
+            "id": 3368,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 153
+        },
+        {
+            "id": 3363,
+            "label": "Subsection",
+            "start_offset": 98,
+            "end_offset": 153
+        },
+        {
+            "id": 3364,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 25
+        },
+        {
+            "id": 3365,
+            "label": "Dauer",
+            "start_offset": 41,
+            "end_offset": 96
+        },
+        {
+            "id": 3361,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 41
+        },
+        {
+            "id": 3362,
+            "label": "Subsection",
+            "start_offset": 40,
+            "end_offset": 96
+        },
+        {
+            "id": 3366,
+            "label": "Geschäftsjahr",
+            "start_offset": 27,
+            "end_offset": 41
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Dauer der Gesellschaft, Geschäftsjahr 1. Die Gesellschaft wird auf unbestimmte Zeit gegründet. 2. Das Geschäftsjahr der Gesellschaft ist das Kalenderjahr."
+}

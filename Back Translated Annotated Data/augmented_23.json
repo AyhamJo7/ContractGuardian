@@ -1,0 +1,81 @@
+{
+    "id": 523,
+    "text": "§ 8 Gesellschafterbeschlüsse 1. \nGesellschafterbeschlüsse bedürfen zu ihrer Wirksamkeit grundsätzlich der Mehrheit der Stimmen. \nAbgestimmt wird nach Geschäftsanteilen, je 1,00 € eines Geschäftsanteils gewähren eine Stimme. 2. Über wichtige Gesellschafterbeschlüsse ist – sofern nicht notarielle Beurkundung erforderlich ist – unverzüglich eine Niederschrift aufzunehmen, die jedem Gesellschafter in Abschrift auszuhändigen oder zu übersenden ist. 3. \nBeschlüsse der Gesellschafterversammlung können nur innerhalb einer Frist von drei Monaten seit der Beschlussfassung oder bei schriftlicher Bekanntgabe nach Zugang der Benachrichtigung angefochten werden. \nDie Anfechtungsfrist ist nur gewahrt, wenn innerhalb dieser Frist die Klage erhoben wird. \nZur Erhebung der Klage ist jeder Gesellschafter und Geschäftsführer berechtigt. 4. \nGesellschafterbeschlüsse können auch außerhalb einer Gesellschafterversammlung schriftlich, telefonisch, per E-Mail oder per Telefax gefasst werden, wenn sich sämtliche Gesellschafter mit der vorgeschlagenen Abstimmungsart einverstanden erklären oder an der Abstimmung teilnehmen und keine zwingenden gesetzlichen Formvorschriften entgegenstehen.",
+    "entities": [
+        {
+            "id": 89,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        },
+        {
+            "id": 95,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 33,
+            "end_offset": 223
+        },
+        {
+            "id": 96,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 227,
+            "end_offset": 447
+        },
+        {
+            "id": 97,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 452,
+            "end_offset": 828
+        },
+        {
+            "id": 98,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 833,
+            "end_offset": 1179
+        },
+        {
+            "id": 245,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 246,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 222
+        },
+        {
+            "id": 247,
+            "label": "Subsection",
+            "start_offset": 224,
+            "end_offset": 447
+        },
+        {
+            "id": 249,
+            "label": "Subsection",
+            "start_offset": 448,
+            "end_offset": 828
+        },
+        {
+            "id": 250,
+            "label": "Subsection",
+            "start_offset": 829,
+            "end_offset": 1179
+        },
+        {
+            "id": 252,
+            "label": "Green Flag",
+            "start_offset": 940,
+            "end_offset": 1179
+        },
+        {
+            "id": 253,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 938
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Aktionärsbeschlüsse 1. Aktionärsbeschlüsse bedürfen grundsätzlich der Mehrheit der Stimmen, um wirksam zu sein. Gewählt nach Aktien, pro 1,00 € einer Aktie, wird eine Stimme erteilt. 2. Wichtige Aktionärsbeschlüsse sind unverzüglich zu erfassen, es sei denn, notarielle Erklärungen sind erforderlich.3. Entscheidungen der Hauptversammlung können nur innerhalb einer Frist von drei Monaten nach der Entscheidung oder im Falle einer schriftlichen Mitteilung nach Eingang der Mitteilung angefochten werden. Die Beschwerdefrist wird nur eingehalten, wenn die Klage innerhalb dieser Frist erhoben wird.4. Die Entscheidungen der Aktionäre können auch schriftlich, telefonisch, per E-Mail oder per Fax außerhalb einer Aktionärsversammlung getroffen werden, wenn alle Aktionäre der vorgeschlagenen Abstimmungsmethode zustimmen oder an der Abstimmung teilnehmen und sich nicht gegen zwingende gesetzliche Formvorschriften aussprechen."
+}

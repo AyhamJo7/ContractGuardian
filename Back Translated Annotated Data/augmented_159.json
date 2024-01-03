@@ -1,0 +1,45 @@
+{
+    "id": 715,
+    "text": "§8 Wettbewerbsverbote (1) Die Gesellschafter unterliegen keinem Wettbewerbsverbot gegenOber der Gesellschaft. (2) Abs. 1 gilt entsprechend fur Gesellschafter-GeschaftsfOhrer, soweit ihr An­ stellungsvertrag nichts Abweichendes bestimmt.",
+    "entities": [
+        {
+            "id": 1705,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 1706,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 109
+        },
+        {
+            "id": 1707,
+            "label": "Subsection",
+            "start_offset": 110,
+            "end_offset": 236
+        },
+        {
+            "id": 1708,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 22
+        },
+        {
+            "id": 1709,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 236
+        },
+        {
+            "id": 1710,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 236
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Wettbewerbsverbot (1) Die Partner unterliegen keinem Wettbewerbsverbot gegen die Ober der Gesellschaft. (2) Absatz 1 gilt sinngemäß für die Mitglieder der Gesellschaft, es sei denn, ihr Arbeitsvertrag bestimmt etwas anderes."
+}

@@ -1,0 +1,15 @@
+{
+    "id": 973,
+    "text": "Satzung der Gesellschaft mit beschränkter Haftung",
+    "entities": [
+        {
+            "id": 3530,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 49
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Satzung der Gesellschaft mit beschränkter Haftung"
+}

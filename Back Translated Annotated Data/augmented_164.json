@@ -1,0 +1,63 @@
+{
+    "id": 676,
+    "text": "§3 Stammkapital, Geschaftsanteile (1) Das Stammkapital betragt (EUR fiinfundzwanzigtausend). \nHierauf iibernimmt: A VEX Group GmbH mit Sitz in Hamburg EUR 25.000,00 (Amtsgericht Hamburg, HRB neu) einen Geschaftsanteil in Hohe von auf den 50,00 %, d. h. zu leisten sind (Geschaftsanteil Nr. 1). \nEUR EUR 25.000,00 12.500,00 Die Einlagen auf die iibernommenen Geschaftsanteile sind in der vorgenannten Hohe unverziiglich einzuzahlen. \nUber die Anforderung ausstehender Einlagen entscheidet die 3702377BAB Gesellschafterversammlung. \nSie werden mit Anforderung durch die Geschaftsfiihrung fallig. (2) Die Teilung und die Zusammenlegung von Geschaftsanteilen bediirfen der notariell be­ urkundeten Erklarung des betreffenden Gesellschafters, jedoch keiner Zustimmung der iibrigen Gesellschafter oder der Gesellschafterversammlung. (3) Halt ein Gesellschafter mehrere Geschaftsanteile, ist aus diesen eine unterschiedliche Ausiibung der Stimmrechte zulassig.",
+    "entities": [
+        {
+            "id": 1403,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 1406,
+            "label": "Subsection",
+            "start_offset": 827,
+            "end_offset": 953
+        },
+        {
+            "id": 1407,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 1409,
+            "label": "Stammkapital",
+            "start_offset": 38,
+            "end_offset": 93
+        },
+        {
+            "id": 1410,
+            "label": "Stammeinlagen",
+            "start_offset": 17,
+            "end_offset": 34
+        },
+        {
+            "id": 1411,
+            "label": "Stammeinlagen",
+            "start_offset": 94,
+            "end_offset": 953
+        },
+        {
+            "id": 1412,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 953
+        },
+        {
+            "id": 1404,
+            "label": "Subsection",
+            "start_offset": 34,
+            "end_offset": 593
+        },
+        {
+            "id": 1405,
+            "label": "Subsection",
+            "start_offset": 594,
+            "end_offset": 826
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital, Gesellschaftsanteile (1) Aktienkapital in Höhe von 25 000 Euro. Eine VEX Group GmbH mit Sitz in Hamburg EUR 25,000,00 (Amtsgericht Hamburg, HRB neu) erwirbt einen Anteil an der Gesellschaft in hohen Beträgen von 50,00 %, d.h. zu zahlender Anteil (Gesellschaftsproportion Nr. 1). EUR 25,000,00 12.500,00 Die Einlagen auf die erworbenen Aktien sind in den vorstehend genannten zu zahlendenDie Hauptversammlung der 3702377BAB entscheidet über das Erfordernis ausstehender Einlagen. Sie unterliegen der Anforderung des Gemeinschaftsunternehmens. (2) Die Spaltung und die Kombination von Aktien unterliegen der notariellen Erklärung des betreffenden Aktionärs, unterliegen aber nicht der Zustimmung der übrigen Aktionäre oder der Aktionäre.(3) Besitzt ein Aktionär mehrere Aktien an der Gesellschaft, so unterscheiden sich die Stimmrechte von den Stimmrechten."
+}

@@ -1,0 +1,51 @@
+{
+    "id": 749,
+    "text": "§2 Gegenstand 1. \nGegenstand des Unternehmens ist die betriebswirtschaftliche Beratung von Unter­ nehmen im In- und Ausland; Beteiligung an anderen Unternehmen und Gesell­ schaften im In- und Ausland, insbesondere bei deren Grundung, in deren Aufbau­ phase oder im Zusammenhang mit deren Umstrukturierung oder Nachfolgerege­ lungen; ausgeschlossen sind Tatigkeiten, die unter das Gesetz uber Unterneh­ mensbeteiligungen (UBGG), das Gesetz uber Kapitalgesellschaften (KAAG) oder das Borsengesetz (BorsenG) fallen; Aufbau- und Restrukturierungsmanagement auf Zeit, ausgenommen hiervon ist jedoch jede Rechts- und Steuerberatertatigkeit. 2. \nDie Gesellschaft ist zur Vornahme aller Geschafte berechtigt, die den Gesell­ schaftszweck unmittelbar oder mittelbar zu fordern geeignet sind. 3. \nDie Gesellschaft darf Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1932,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 634
+        },
+        {
+            "id": 1933,
+            "label": "Subsection",
+            "start_offset": 635,
+            "end_offset": 782
+        },
+        {
+            "id": 1931,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 1934,
+            "label": "Subsection",
+            "start_offset": 783,
+            "end_offset": 859
+        },
+        {
+            "id": 1936,
+            "label": "Gegenstand",
+            "start_offset": 14,
+            "end_offset": 859
+        },
+        {
+            "id": 1937,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 859
+        },
+        {
+            "id": 1935,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 14
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand 1. Gegenstand des Unternehmens ist die Unternehmensberatung von Unternehmen im In- und Ausland; Beteiligung an anderen Unternehmen und Unternehmen im In- und Ausland, insbesondere in ihrer Gründung, in ihrer Bauphase oder im Zusammenhang mit ihrer Umstrukturierung oder Nachfolge; ausgeschlossen sind Tätigkeiten, die dem Unternehmensrecht unterliegen.3. Die Gesellschaft ist berechtigt, alle Gesellschaften zu führen, die unmittelbar oder mittelbar haftbar sind, um den Zweck der Gesellschaft zu verlangen. 3. Die Gesellschaft ist berechtigt, alle Gesellschaften durchzuführen, die unmittelbar oder mittelbar haftbar sind, um den Zweck der Gesellschaft zu verlangen.Achtern kann Filialen im In- und Ausland gründen."
+}

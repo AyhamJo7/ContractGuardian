@@ -1,0 +1,39 @@
+{
+    "id": 840,
+    "text": "§ 3 Stammkapital Das Stammkapital der Gesellschaft betri.:igt 25.000,00 Euro (LW. fOnfundzwanzigtausend 00/100 Euro).",
+    "entities": [
+        {
+            "id": 2582,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 2583,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 117
+        },
+        {
+            "id": 2584,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 2585,
+            "label": "Stammkapital",
+            "start_offset": 17,
+            "end_offset": 117
+        },
+        {
+            "id": 2586,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 117
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Aktienkapital Das Grundkapital der Gesellschaft beträgt 250,00 EUR (LW. fOnf 24 Tausend EUR 00/100)."
+}

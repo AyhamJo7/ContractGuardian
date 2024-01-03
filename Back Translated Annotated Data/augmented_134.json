@@ -1,0 +1,57 @@
+{
+    "id": 725,
+    "text": "§8 Gesellschafterversammlungen (1) Gesellschafterversammlungen werden durch die Geschaftsfuhrer einberu­ fen. \nJeder Geschaftsfuhrer ist allein zur Einberufung ermachtigt. (2) Die Gesellschafter sind zu den Gesellschafterversammlungen durch einge­ schriebenen Brief oder in Textform zu laden. \nDie Ladung hat mit einer Frist van zwei Wochen zu erfolgen, wobei der Tag der Ladung und der Tag der Versammlung nicht mitzurechnen sind. \nTagungsort, Tagungszeit und Ta­ gesordnung sind in der Ladung mitzuteilen. (3) Gesellschafter konnen sich in der Gesellschafterversammlung vertreten las­ sen. \nVollmachten sind in Textform vorzulegen. (4) Eine Gesellschafterversammlung ist nur beschlussfahig, wenn das gesamte Stammkapital vertreten ist. 1st nicht das gesamte Stammkapital vertreten, ist unter Beachtung van Abs. 1 und Abs. 2 unverzOglich eine neue Gesell­ schafterversammlung mit gleicher Tagesordnung einzuberufen. \nDiese ist ohne ROcksicht auf das vertretene Stammkapital beschlussfahig, falls hie­ rauf in der Einberufung hingewiesen wird.",
+    "entities": [
+        {
+            "id": 1774,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1775,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 170
+        },
+        {
+            "id": 1776,
+            "label": "Subsection",
+            "start_offset": 172,
+            "end_offset": 507
+        },
+        {
+            "id": 1778,
+            "label": "Subsection",
+            "start_offset": 634,
+            "end_offset": 1043
+        },
+        {
+            "id": 1781,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1043
+        },
+        {
+            "id": 1777,
+            "label": "Subsection",
+            "start_offset": 508,
+            "end_offset": 633
+        },
+        {
+            "id": 1779,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 3,
+            "end_offset": 31
+        },
+        {
+            "id": 1780,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 31,
+            "end_offset": 1043
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Hauptversammlungen (1) Hauptversammlungen werden von den Eigentümern der Gesellschaft arrangiert. Jedes Mitglied der Gesellschaft wird ausschließlich zum Zwecke der Einberufung ernannt. (2) Die Mitglieder werden zu den Hauptversammlungen per Brief oder in Textform eingeladen. Die Einberufung erfolgt innerhalb von zwei Wochen, dem Tag der Einberufung und dem Tag der Versa.(3) Die Aktionäre können in der Hauptversammlung vertreten werden. Vollmachten müssen in Textform vorgelegt werden. (4) Eine Hauptversammlung ist nur möglich, wenn das gesamte Grundkapital vertreten ist.ung van Abs. 1 und Abs. 2 müssen unverzüglich eine neue Gesellschaftsversammlung mit derselben Tagesordnung einberufen, über die ohne Rücksicht auf das vertretene Grundkapital entschieden werden kann, wenn sie in der Einberufung erwähnt wird."
+}

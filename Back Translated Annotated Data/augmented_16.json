@@ -1,0 +1,57 @@
+{
+    "id": 516,
+    "text": "§ 1 Firma und Sitz 1. \nDie Firma der Gesellschaft lautet: 4Sports GmbH. 2. \nDie Gesellschaft hat ihren Sitz in Norderstedt.",
+    "entities": [
+        {
+            "id": 5,
+            "label": "Firma",
+            "start_offset": 3,
+            "end_offset": 9
+        },
+        {
+            "id": 6,
+            "label": "Firma",
+            "start_offset": 23,
+            "end_offset": 71
+        },
+        {
+            "id": 8,
+            "label": "Sitz",
+            "start_offset": 14,
+            "end_offset": 19
+        },
+        {
+            "id": 9,
+            "label": "Sitz",
+            "start_offset": 76,
+            "end_offset": 123
+        },
+        {
+            "id": 211,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 212,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 71
+        },
+        {
+            "id": 213,
+            "label": "Subsection",
+            "start_offset": 72,
+            "end_offset": 123
+        },
+        {
+            "id": 214,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 123
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft und Sitz 1. Gesellschaft der Gesellschaft ist: 4Sports GmbH. 2. Die Gesellschaft hat ihren Sitz in Norderstedt."
+}

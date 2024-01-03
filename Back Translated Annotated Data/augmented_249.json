@@ -1,0 +1,63 @@
+{
+    "id": 797,
+    "text": "§ 10 Jahresabschluss, Gewinnverwendung und —verteilung 1. \nDer Jahresabschluss (Bilanz, Gewinn- und Verlustrechnung nebst Anhang) sowie — soweit gesetzlich vorgeschrieben — der Lagebericht sind alljährlich innerhalb der gesetzlichen Fristen von den Geschäftsführern aufzustellen und den Gesellschaftern zur Feststellung vorzulegen. § 42 a GmbHG ist zu beachten. 2. \nFür den Jahresabschluss, die Gewinnverteilung und die Gewinnverwendung gelten die gesetzlichen Vorschriften, insbesondere § 264 HGB (Jahresabschluss) und § 29 GmbHG (Gewinnverteilung nach dem Verhältnis der Geschäftsanteile, Gewinnverwendung). 3. \nEine disquotale Gewinnverteilung ist mit Zustimmung des betroffenen Gesellschafters zulässig. \nVI.Gesellschafterwechsel, Ausscheiden von Gesellschaftern",
+    "entities": [
+        {
+            "id": 2297,
+            "label": "Subsection",
+            "start_offset": 610,
+            "end_offset": 708
+        },
+        {
+            "id": 2298,
+            "label": "Jahresabschluss",
+            "start_offset": 5,
+            "end_offset": 20
+        },
+        {
+            "id": 2302,
+            "label": "Gewinnverteilung",
+            "start_offset": 366,
+            "end_offset": 708
+        },
+        {
+            "id": 2293,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 54
+        },
+        {
+            "id": 2303,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 708
+        },
+        {
+            "id": 2294,
+            "label": "Subsection",
+            "start_offset": 55,
+            "end_offset": 361
+        },
+        {
+            "id": 2295,
+            "label": "Subsection",
+            "start_offset": 362,
+            "end_offset": 609
+        },
+        {
+            "id": 2299,
+            "label": "Jahresabschluss",
+            "start_offset": 59,
+            "end_offset": 360
+        },
+        {
+            "id": 2301,
+            "label": "Gewinnverteilung",
+            "start_offset": 22,
+            "end_offset": 54
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Jahresabschluss, Gewinn- und Verlustverwendung 1. Der Jahresabschluss (Bilanz-, Gewinn- und Verlustrechnung und Anhang) und, falls gesetzlich vorgeschrieben, der Lagebericht müssen jährlich von den Geschäftsführern erstellt und den Aktionären zur Feststellung vorgelegt werden. § 42 a GmbHG ist zu beachten. 2. Für den Jahresabschluss ist der GewinDie Gewinnausschüttung und die Gewinnverwendung unterliegen den gesetzlichen Bestimmungen, insbesondere § 264 HGB und § 29 GG. 3. Eine diszitale Gewinnausschüttung ist mit Zustimmung des betreffenden Aktionärs zulässig. VI."
+}

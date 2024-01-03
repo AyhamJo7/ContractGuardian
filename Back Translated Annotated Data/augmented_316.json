@@ -1,0 +1,51 @@
+{
+    "id": 850,
+    "text": "§ 13 Tod eines Gesellschafters 13.1 Im Falle des Todes eines Gesellschafters wird die Gesell­ schaft mit seinen Erben oder den anderweitig durch VerfO­ gung von Todes wegen Begunstigten fortgesetzt. 13.2 Mehrere Rechtsnachfolger haben ihre Rechte und Pflichten der Gesellschaft gegenliber durch einen gemeinsamen Ver­ treter oder durch einen Testamentsvollstrecker erfOllen zu lassen. \nSolange der Bevollmachtigte nicht bestellt ist, ruhen die Gesellschafterrechte mit Ausnahme des Gewinnbezugs­ rechtes. 13.3 For den Fall, daP.t andere Personen als der Oberlebende Ehegatte oder Kinder den Geschaftsanteil von Todes wegen erwerben, ist die Gesellschaft zum Einzug der Geschaftsan­ teile entsprechend den hierzu getroffenen Regelungen be­ rechtigt. \nStatt der Einziehung kann die Gesellschaft auch die Abtretung des Geschaftsanteiles - ganz oder geteilt - an die Gesellschaft oder an einen oder mehrere von 1hr benannte Dritte verlangen. \nDie in diesem Vertrag getroffenen Rege­ lungen zur Abfindung des ausscheidenden Gesellschafters bleiben hiervon unberuhrt und finden Anwendung.",
+    "entities": [
+        {
+            "id": 2660,
+            "label": "Subsection",
+            "start_offset": 505,
+            "end_offset": 1082
+        },
+        {
+            "id": 2661,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 30
+        },
+        {
+            "id": 2662,
+            "label": "Erbfolge",
+            "start_offset": 31,
+            "end_offset": 1082
+        },
+        {
+            "id": 2657,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 2658,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 198
+        },
+        {
+            "id": 2659,
+            "label": "Subsection",
+            "start_offset": 199,
+            "end_offset": 504
+        },
+        {
+            "id": 2663,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1082
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Tod eines Partners 13.1 Im Falle des Todes eines Partners wird das Unternehmen mit seinen Erben oder anderweitig durch Tod zugunsten der Berechtigten fortfahren. 13.2 Mehrere Rechtsnachfolger haben ihre Rechte und Pflichten von einem gemeinsamen Bevollmächtigten oder einem Testamentsvollstrecker zu erfüllen.13.3 Für den Fall, dass P.t Ehegatten oder andere Kinder als den überlebenden Ehegatten oder die überlebenden Kinder als Anteil am Anteil der Gesellschaft am Tod erwirbt, ist die Gesellschaft berechtigt, die Aktien der Gesellschaft gemäß den zu diesem Zweck festgelegten Vorschriften einzuziehen. Anstelle der Einziehung kann die Gesellschaft auch die Aktien der Gesellschaft einziehen.Die in diesem Vertrag festgelegten Regeln für die Ablösung der Dispensation des Dispensierenden Partners bleiben unrichtig und gelten."
+}

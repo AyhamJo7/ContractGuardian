@@ -1,0 +1,39 @@
+{
+    "id": 988,
+    "text": "§4 Verfügung über Geschäftsanteile\n\nVerfügungen über Geschäftsanteile oder Teile davon, ungeachtet ihrer Art, bedürfen der Zustimmung der Gesellschaft.",
+    "entities": [
+        {
+            "id": 3621,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3619,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 34
+        },
+        {
+            "id": 3620,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 151
+        },
+        {
+            "id": 3622,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 36,
+            "end_offset": 151
+        },
+        {
+            "id": 3623,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 151
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Verfügung über Aktien Verfügungen über Aktien oder Teile davon, unabhängig von ihrer Art, bedürfen der Zustimmung der Gesellschaft."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 618,
+    "text": "§ 14 Gründungskosten Die mit der Gesellschaftsgründung entstehenden Notar-, Gerichts- und Veröffentlichungskosten trägt die Gesellschaft bis zur Höhe von € 2.500,00.",
+    "entities": [
+        {
+            "id": 982,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 983,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 165
+        },
+        {
+            "id": 984,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 985,
+            "label": "Kosten",
+            "start_offset": 21,
+            "end_offset": 165
+        },
+        {
+            "id": 986,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 165
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Gründungskosten Die Notar-, Gerichts- und Veröffentlichungskosten, die der Gründung der Gesellschaft entstehen, werden von der Gesellschaft bis zu einem Betrag von € 2.500,00 getragen."
+}

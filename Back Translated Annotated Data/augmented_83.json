@@ -1,0 +1,51 @@
+{
+    "id": 598,
+    "text": "§ 10 Abtretung, Verpfändung und Teilung von Geschäftsanteilen l. \nDie Abtretung oder die Verpfändung sowie die Bestellung eines Nießbrauchs an Geschäftsanteilen oder Teilen davon an einen anderen Gesellschafter, den Ehegatten oder Abkömmlingei-i eines Gesellschafters bedarf der Zustimmung der Gesellschafterversammlung mit einfacher Mehrheit. \nSoll em Geschäftsanteil oder Teile von Geschäftsanteilen an andere Personen als vorstehend bestimmt abgetreten werden, so bedarf dies der Zusämmung sämtlicher Gesellschafter. 2. \nAm Geschäftsanteü eines jeden Gesellschafters steht den übrigen Gesellschaftern einzeln ein Ankaufsrecht zu, wenn der Geschäftsanteü an Personen abgetreten werden soll, die nicht Gesellschafter, der Ehegatte oder Abkömmlinge eines Gesellschafters sind. \nDemgemäß ist bei Abtretung eines GeschäftsanteÜs an sonstige Personen der Anteil zunächst den übrigen Gesellschaftern zum Kauf anzubieten. \nFür die Ausübung des Kaufrechts gelten alsdann die gesetzlichen Bestimmungen für das Vorkaufsrecht sinngeinäß mit der Maßgabe, dass der Kaufpreis nach den Vorschriften dieses Verteages zu erreclinen ist und melireren ankaufsberechtigten Gesellschaftern das Kaufrecht im Verhältnis ihrer Geschäftsanteile zusteht. \nDabei kommt der Verzicht eines oder einzelner Gesellschafter den übrigen Gesellschaftern zugute. \nAn einen Nichtberechtigten darf eine Veräußerung nur erfolgen, weru-i alle berechtigten Gesellschafter von ihrem Kaufrecht nicht fristgemäß Gebrauch gemacht oder auf ihre Rechte verzichtet haben. 3. \nAnsprüche der Gesellschafter, gleichviel aus welchem. \nRechtsgrund sie hergeleitet werdeni können, insbesondere der Anspruch auf Gewinn und Liquidationserlös, smd nicht auf Dritte übertragbar.",
+    "entities": [
+        {
+            "id": 831,
+            "label": "Subsection",
+            "start_offset": 520,
+            "end_offset": 1525
+        },
+        {
+            "id": 829,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 61
+        },
+        {
+            "id": 830,
+            "label": "Subsection",
+            "start_offset": 62,
+            "end_offset": 519
+        },
+        {
+            "id": 833,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 61
+        },
+        {
+            "id": 834,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 62,
+            "end_offset": 1722
+        },
+        {
+            "id": 835,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1722
+        },
+        {
+            "id": 832,
+            "label": "Subsection",
+            "start_offset": 1526,
+            "end_offset": 1722
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Übertragung, Verpfändung und Teilung von Aktien l. Die Abtretung oder Verpfändung sowie die Bestellung eines Gewinns oder Verlusts in Aktien oder Teilen davon an einen anderen Gesellschafter, die Ehegatten oder Nachkommen eines Gesellschafters bedürfen der Zustimmung der Gesellschafterversammlung mit einfacher Mehrheit.(2) Die anderen Mitglieder haben einzeln Anspruch auf ein Kaufrecht in den Geschäftsräumen jedes Partners, wenn die Geschäftsräume Personen zugeordnet werden sollen, die keine Mitglieder, Ehegatten oder Nachkommen eines Partners sind.Zur Ausübung des Kaufrechts gelten die gesetzlichen Vorschriften für das Recht auf Vorkauf sinngemäß, sofern der Kaufpreis nach den Bestimmungen dieses Vertrages zu berechnen ist und den Aktionären, die zum Erwerb des Kaufrechts berechtigt sind, das Recht auf Kauf im Verhältnis zuDie anderen Aktionäre profitieren vom Verzicht auf eine oder mehrere ihrer Aktien. Ein Verkauf darf nur an eine nicht legitime Partei erfolgen, die alle legitimen Partner nicht rechtzeitig von ihrem Kaufrecht Gebrauch gemacht oder auf ihre Rechte verzichtet hat. 3. Ansprüche der Aktionäre, egal was passiert.Insbesondere darf das Recht auf Gewinn und Liquidation nicht auf Dritte übertragbar sein."
+}

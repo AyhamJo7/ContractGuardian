@@ -1,0 +1,99 @@
+{
+    "id": 1004,
+    "text": "§ 7 Gesellschafterversammlung\n\n(1) Beschlüsse der Gesellschafter werden in Gesellschafterversammlungen gefasst.\n(2) Eine ordentliche Gesellschafterversammlung ist mindestens einmal im Jahr abzuhalten zum Zwecke der Beschlussfassung über:\ndie Berichterstattung über den Verlauf des abgelaufenen Geschäftsjahres,\ndie Feststellung des Jahresabschlusses,\ndie Gewinnverwendung,\ndie Entlastung der Geschäftsführer und\ndie Wahl des Abschlussprüfers, soweit erforderlich.\n(3) Außerordentliche Gesellschafterversammlungen sind einzuberufen, wenn die Situation der Gesellschaft dies erfordert oder ein oder mehrere Gesellschafter, die zusammen über mindestens 10% des Stammkapitals verfügen, dies verlangen. Wird dem Verlangen nicht entsprochen, so sind die Gesellschafter berechtigt, die Versammlung selbst einzuberufen; Absatz 4 gilt entsprechend.\n(4) Die Einberufung einer Gesellschafterversammlung erfolgt durch die Geschäftsführung durch eingeschriebenen Brief an die Gesellschafter, der mindestens zwei Wochen vor dem Tag der Gesellschafterversammlung zur Post aufzugeben ist und die Tagesordnung enthalten muss. Für außerordentliche Gesellschafterversammlungen kann in dringenden Fällen die Einberufungsfrist auf eine Woche abgekürzt werden. In diesem Fall beginnt die Frist am zweiten Tage nach der Absendung des Einschreibens und endet am Tage vor der Versammlung.\n(5) Eine nicht ordnungsgemäß einberufene Gesellschafterversammlung kann Beschlüsse nur fassen, wenn sämtliche Gesellschafter vertreten sind und kein Widerspruch gegen die Beschlussfassung erhoben wird. Wird diese Mehrheit nicht erreicht, so ist eine neue Gesellschafterversammlung mit der gleichen Tagesordnung einzuberufen, die aber nicht vor Ablauf von sieben Tagen, gerechnet vom Tage der Absendung der erneuten Einladung, und nicht später als einen Monat, gerechnet vom Tage der ersten Gesellschafterversammlung, stattfinden darf. Diese Gesellschafterversammlung ist unabhängig von den vertretenen Stimmen stets beschlussfähig, wenn in der Einladung auf diese Rechtsfolge ausdrücklich hingewiesen worden ist.\n(6) Beschlüsse können auch — soweit gesetzlich zulässig — außerhalb einer Gesellschafterversammlung durch schriftliche Abstimmung gefasst werden, wenn alle Gesellschafter sich damit im Rahmen der Abstimmung schriftlich einverstanden erklärt haben.\n(7) Über jede Gesellschafterversammlung hat die Geschäftsführung ein Protokoll zu erstellen, das die Namen aller anwesenden Personen, den Wortlaut der Anträge und der Beschlüsse sowie das Ergebnis der Abstimmung enthalten muss, soweit nicht durch das Gesetz eine andere Form vorgeschrieben ist.\n(8) Die Gesellschafter fassen ihre Beschlüsse mit einfacher Mehrheit aller vorhandenen Stimmen, soweit sich aus diesem Gesellschaftsvertrag oder aus zwingenden gesetzlichen Vorschriften nichts Anderes ergibt. Beschlüsse über die Änderung des Gesellschaftsvertrages bedürfen, soweit nicht gesetzlich weitergehende Erfordernisse bestehen einer Mehrheit von 75% aller vorhandenen Stimmen; dies betrifft auch Umwandlungen nach dem UmwG.\n(9) Jeder Gesellschafter kann sich bei der Gesellschafterversammlung durch einen anderen Gesellschafter oder durch eine gesetzlich zur Berufsverschwiegenheit verpflichtete Person vertreten lassen. Der Vertreter muss eine schriftliche Vollmacht vorlegen.\n(10) Ein Gesellschafter, der bei der Beschlussfassung anwesend war, kann Beschlüsse der Gesellschafter nur innerhalb eines Monats seit der Beschlussfassung, sonst innerhalb eines Monats nach Zustellung des Protokolls über die Gesellschafterversammlung durch Klage anfechten.",
+    "entities": [
+        {
+            "id": 3727,
+            "label": "Subsection",
+            "start_offset": 112,
+            "end_offset": 463
+        },
+        {
+            "id": 3728,
+            "label": "Subsection",
+            "start_offset": 464,
+            "end_offset": 839
+        },
+        {
+            "id": 3730,
+            "label": "Subsection",
+            "start_offset": 1364,
+            "end_offset": 2076
+        },
+        {
+            "id": 3731,
+            "label": "Subsection",
+            "start_offset": 2077,
+            "end_offset": 2324
+        },
+        {
+            "id": 3732,
+            "label": "Subsection",
+            "start_offset": 2325,
+            "end_offset": 2619
+        },
+        {
+            "id": 3737,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 238,
+            "end_offset": 3581
+        },
+        {
+            "id": 3725,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 3726,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 111
+        },
+        {
+            "id": 3733,
+            "label": "Subsection",
+            "start_offset": 2620,
+            "end_offset": 3052
+        },
+        {
+            "id": 3738,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 3052
+        },
+        {
+            "id": 3739,
+            "label": "Orange Flag",
+            "start_offset": 3053,
+            "end_offset": 3581
+        },
+        {
+            "id": 3729,
+            "label": "Subsection",
+            "start_offset": 840,
+            "end_offset": 1363
+        },
+        {
+            "id": 3734,
+            "label": "Subsection",
+            "start_offset": 3053,
+            "end_offset": 3306
+        },
+        {
+            "id": 3735,
+            "label": "Subsection",
+            "start_offset": 3307,
+            "end_offset": 3581
+        },
+        {
+            "id": 3736,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 29
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Hauptversammlung (1) Beschlüsse der Aktionäre werden in Hauptversammlungen gefasst. (2) Eine ordentliche Hauptversammlung ist mindestens einmal jährlich für die Entscheidung über: Berichterstattung über den Verlauf des abgelaufenen Geschäftsjahres, die Feststellung des Jahresabschlusses, die Verwendung von Gewinnen, die Entlastung des Geschäfts(3) Außerordentliche Hauptversammlungen werden einberufen, wenn die Lage der Gesellschaft dies erfordert oder wenn ein oder mehrere Mitglieder, die zusammen mindestens 10 % des Grundkapitals haben, dies erfordern.(4) Die Einberufung einer Hauptversammlung erfolgt durch die Geschäftsführung durch eingeschriebenes Schreiben an die Aktionäre, das mindestens zwei Wochen vor dem Tag der Hauptversammlung abgegeben werden muss und die Tagesordnung enthalten muss. Für außerordentliche Hauptversammlungen kann die Einberufung in dringenden Fällen erfolgen.In diesem Fall beginnt die Frist am zweiten Tag nach Absendung des Einschreibens und endet am Tag vor der Hauptversammlung. (5) Eine nicht einberufene Hauptversammlung der Aktionäre kann nur entscheiden, wenn alle Mitglieder vertreten sind und gegen die Entscheidung kein Einspruch erhoben wird. Wird diese Mehrheit nicht erreicht, so wird die Mehrheit auf eine Woche aufgehoben.Eine neue Aktionärsversammlung wird auf derselben Tagesordnung einberufen, darf jedoch nicht vor Ablauf von sieben Tagen, gerechnet ab dem Tag der Absendung der neuen Einladung, und nicht später als einen Monat, gerechnet ab dem Tag der ersten Aktionärsversammlung, einberufen werden. Diese Aktionärsversammlung ist unabhängig von den vertretenen Stimmen stets beschlussfähig, wenn(6) Entscheidungen können auch außerhalb einer Aktionärsversammlung durch schriftliche Abstimmung getroffen werden, wenn alle Mitglieder im Rahmen der Abstimmung schriftlich zugestimmt haben. (7) Die Geschäftsführung jeder Aktionärsversammlung hat ein Protokoll(8) Die Aktionäre treffen ihre Entscheidungen mit einfacher Mehrheit aller bestehenden Stimmen, soweit dieser Assoziierungsvertrag oder zwingende Rechtsvorschriften ihnen das Recht zur Erstellung der Namen aller anwesenden Personen, des Textes der Anträge, der Beschlüsse und des Abstimmungsergebnisses verleihen, sofern dies nicht gesetzlich vorgeschrieben ist.Liegen keine weiteren gesetzlichen Voraussetzungen vor, so ist eine Mehrheit von 75% aller bestehenden Stimmen erforderlich. Dies gilt auch für Rechtsumwandlungen. (9) In der Aktionärsversammlung kann jeder Aktionär entweder durch einen anderen Aktionär oder durch einen gesetzlichen Arbeitsvertrag.10. Ein Mitglied, das beim Entscheidungsprozess anwesend war, kann Entscheidungen der Mitglieder nur innerhalb eines Monats nach dem Entscheidungsprozess anfechten, andernfalls innerhalb eines Monats nach der Mitteilung des Protokolls über die Hauptversammlung durch Beschwerde."
+}

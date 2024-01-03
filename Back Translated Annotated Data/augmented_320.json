@@ -1,0 +1,51 @@
+{
+    "id": 854,
+    "text": "§ 17 Salvatorische Klausel Die etwaige Unwirksamkeit einzelner Vereinbarungen dieses Vor­ trages hat auf die Wirksamkeit der Obrigen Vertragsbedingungen sowie des ganzen Vertrages im Obrigen keinen EinfluB. \nDie Partei­ en sind sich darliber einig, dass eine eventuell unwirksame Verein­ barung durch eine solche zu ersetzen ist, die dem gewollten wirt­ schaftlichen Zweck der unwirksamen Bedingung am Nachsten kommt. \nGleiches gilt fur den Fall, dass dieser Vertrag IOckenhaft sein sollte.",
+    "entities": [
+        {
+            "id": 2682,
+            "label": "Subsection",
+            "start_offset": 208,
+            "end_offset": 418
+        },
+        {
+            "id": 2685,
+            "label": "Salvatorische Klausel",
+            "start_offset": 27,
+            "end_offset": 490
+        },
+        {
+            "id": 2680,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 2681,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 207
+        },
+        {
+            "id": 2683,
+            "label": "Subsection",
+            "start_offset": 419,
+            "end_offset": 490
+        },
+        {
+            "id": 2684,
+            "label": "Salvatorische Klausel",
+            "start_offset": 4,
+            "end_offset": 25
+        },
+        {
+            "id": 2686,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 490
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Abfindungsklausel Die mögliche Unwirksamkeit einzelner Vereinbarungen in diesem Vertrag hat keinen Einfluss auf die Wirksamkeit der vorstehenden Geschäftsbedingungen und des gesamten Vertrages. Die Parteien vereinbaren, dass jede unwirksame Vereinbarung durch eine solche Vereinbarung ersetzt werden muss, die dem beabsichtigten wirtschaftlichen Zweck der unwirksamen Bedingung dienen würde.Gleiches gilt für den Fall, dass dieser Vertrag ionisch sein sollte."
+}

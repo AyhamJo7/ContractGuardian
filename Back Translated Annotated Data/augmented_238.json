@@ -1,0 +1,51 @@
+{
+    "id": 786,
+    "text": "§22 Salvatorische Klausel Falls einzelne Bestimmungen dieses Vertrages unwirksam sein sollten oder dieser Vertrag Lücicen enthält, wird dadurch die Wirksamkeit der übrigen Bestimmungen nicht berührt. \nAnstelle der unwirksam= Bestimmung werden die Gesellschafter diejenige wirksame Bestimmung vereinbaren, welche dem Sinn und Zweck der unwirksamen Bestimmung entspricht. \nIm Fall von Lücken werden die Gesellschafter diejenige Bestinunung vereinbaren, die dem entspricht, was nach dem Sinn und Zweck dieses Vertrages vernünftigerweise vereinbart worden wäre, hätte man die Angelegenheit von vornherein bedacht.",
+    "entities": [
+        {
+            "id": 2197,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 25
+        },
+        {
+            "id": 2198,
+            "label": "Subsection",
+            "start_offset": 26,
+            "end_offset": 199
+        },
+        {
+            "id": 2199,
+            "label": "Subsection",
+            "start_offset": 201,
+            "end_offset": 369
+        },
+        {
+            "id": 2200,
+            "label": "Subsection",
+            "start_offset": 371,
+            "end_offset": 609
+        },
+        {
+            "id": 2201,
+            "label": "Salvatorische Klausel",
+            "start_offset": 4,
+            "end_offset": 25
+        },
+        {
+            "id": 2202,
+            "label": "Salvatorische Klausel",
+            "start_offset": 26,
+            "end_offset": 609
+        },
+        {
+            "id": 2203,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 609
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§22 Abfindungsklausel Sollten einzelne Bestimmungen dieses Vertrages ungültig sein oder dieser Vertrag Cookies enthält, so berührt dies nicht die Gültigkeit der übrigen Bestimmungen. Anstelle der unwirksamen = Bestimmung vereinbaren die Partner die wirksame Bestimmung, die der Bedeutung und dem Zweck der unwirksamen Bestimmung entspricht.Die Parteien der Vereinbarung hätten die Angelegenheit von Anfang an in Betracht gezogen, wenn die Vereinbarung auf der Grundlage des Zwecks und des Zwecks der Vereinbarung erreicht worden wäre."
+}

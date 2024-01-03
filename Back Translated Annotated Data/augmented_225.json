@@ -1,0 +1,39 @@
+{
+    "id": 773,
+    "text": "§9 Beirat Für die Gesellschaft wird auf Verlangen von mindestens einem der Gründungsgesellschafter ein Beirat gebildet Der Beirat ist kein Aufsichtsrat. \nDer Beirat besteht aus drei Mitgliedern, die auch der Geschäftsführung der Gesellschaft angehören können_ Die Gründungsgesellschafter haben jeweils das gesellschaftsvertragliche Sonderrecht, ein Beiratsmitglied zu bestellen und das jeweils von ihnen bestellte Beiratsmitglied auch abzuberufen. \nDen Vorsitz des Beirates übernimmt das älteste Beiratsmitglied; dessen Stellvertretung das Zweitälteste. \nDer Beirat überwacht die Geschäftsführung. \nEr ist ermächtigt, der Geschäftsführung Weisungen zu erteilen und die Rechtsgeschäfte und Maßnahmen zu bestimmen, die seiner vorherigen Zustimmung bedürfen. \nDer Beirat kann seine Zustimmung zu Geschäften bestimmter Axt auch allgemein erteilen. \nIm übrigen bleiben die Rechte der Gesellschafterversammlung unberührt.",
+    "entities": [
+        {
+            "id": 2109,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 9
+        },
+        {
+            "id": 2110,
+            "label": "Subsection",
+            "start_offset": 10,
+            "end_offset": 915
+        },
+        {
+            "id": 2112,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 10,
+            "end_offset": 915
+        },
+        {
+            "id": 2113,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 915
+        },
+        {
+            "id": 2111,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 3,
+            "end_offset": 10
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Beirat Auf Antrag von mindestens einem der Gründungspartner wird ein Beirat gebildet. Der Beirat ist kein Aufsichtsrat. Der Beirat besteht aus drei Mitgliedern, die auch Mitglied der Geschäftsführung der Gesellschaft sein können_ Die Gründungsaktionäre haben das besondere Sozialvertragsrecht, ein Beiratsmitglied zu ernennen und jedes von ihnen hat dasDer Verwaltungsrat ist befugt, der Geschäftsleitung Weisungen zu erteilen und die Rechtsgeschäfte und Maßnahmen zu bestimmen, die seine vorherige Zustimmung erfordern. Der Verwaltungsrat kann auch ein bestelltes Mitglied des Verwaltungsrats ernennen.Darüber hinaus werden die Rechte der Hauptversammlung nicht berührt."
+}

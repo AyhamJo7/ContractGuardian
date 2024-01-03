@@ -1,0 +1,111 @@
+{
+    "id": 856,
+    "text": "§1 Firma, Sitz, Dauer Geschaftsjahr (1) Die Firma der Gesellschaft lautet: KTR Komplementar-GmbH (2) Sitz der Gesellschaft ist Hamburg. (3) Die Gesellschaft ist fiir unbestimmte Dauer errichtet. ( 4) Das Geschaftsjahr ist das Kalenderjahr.",
+    "entities": [
+        {
+            "id": 2689,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 96
+        },
+        {
+            "id": 2690,
+            "label": "Subsection",
+            "start_offset": 97,
+            "end_offset": 135
+        },
+        {
+            "id": 2691,
+            "label": "Subsection",
+            "start_offset": 136,
+            "end_offset": 194
+        },
+        {
+            "id": 2692,
+            "label": "Subsection",
+            "start_offset": 195,
+            "end_offset": 239
+        },
+        {
+            "id": 2693,
+            "label": "Firma",
+            "start_offset": 3,
+            "end_offset": 8
+        },
+        {
+            "id": 2695,
+            "label": "Sitz",
+            "start_offset": 10,
+            "end_offset": 14
+        },
+        {
+            "id": 2696,
+            "label": "Sitz",
+            "start_offset": 101,
+            "end_offset": 135
+        },
+        {
+            "id": 2697,
+            "label": "Dauer",
+            "start_offset": 16,
+            "end_offset": 22
+        },
+        {
+            "id": 2699,
+            "label": "Geschäftsjahr",
+            "start_offset": 22,
+            "end_offset": 36
+        },
+        {
+            "id": 2700,
+            "label": "Geschäftsjahr",
+            "start_offset": 200,
+            "end_offset": 239
+        },
+        {
+            "id": 2702,
+            "label": "RED FLAG",
+            "start_offset": 36,
+            "end_offset": 135
+        },
+        {
+            "id": 2704,
+            "label": "Orange Flag",
+            "start_offset": 135,
+            "end_offset": 239
+        },
+        {
+            "id": 2688,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 2698,
+            "label": "Dauer",
+            "start_offset": 140,
+            "end_offset": 192
+        },
+        {
+            "id": 2701,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2703,
+            "label": "Orange Flag",
+            "start_offset": 16,
+            "end_offset": 35
+        },
+        {
+            "id": 2694,
+            "label": "Firma",
+            "start_offset": 40,
+            "end_offset": 96
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§1 Gesellschaft, eingetragener Sitz, Dauer des Geschäftsjahres (1) Gesellschaft der Gesellschaft ist: KTR Komplementar-GmbH (2) Sitz der Gesellschaft ist Hamburg. (3) Die Gesellschaft ist auf unbestimmte Zeit gegründet.(4) Der eingetragene Sitz ist das Kalenderjahr."
+}

@@ -1,0 +1,15 @@
+{
+    "id": 567,
+    "text": "Gesellschaftsvertrag der Firma August Ernst Tiefbau Beteiligungs GmbH",
+    "entities": [
+        {
+            "id": 596,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 69
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Gesellschaftsvertrag der Firma August Ernst Tiefbau Beteiligungs GmbH"
+}

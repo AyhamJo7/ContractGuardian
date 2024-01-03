@@ -1,0 +1,117 @@
+{
+    "id": 524,
+    "text": "§ 9 Jahresabschluss, Ergebnisverwendung 1. \nDer Jahresabschluss und – soweit erforderlich – der Lagebericht sind gemäß den gesetzlichen Vorgaben von der Geschäftsführung innerhalb der gesetzlichen Fristen aufzustellen, zu unterzeichnen und den Gesellschaftern zum Zweck der Feststellung vorzulegen. 2. \nDie Gesellschafter haben innerhalb der gesetzlichen Fristen über die Feststellung des Jahresabschlusses und die Ergebnisverwendung zu beschließen. 3. \nDer ausgeschüttete Gewinn steht den Gesellschaftern im Verhältnis ihrer Geschäftsanteile zu.  4. \nVorabausschüttungen auf den zu erwartenden Gewinn des Geschäftsjahres können bereits vor dessen Ablauf beschlossen werden. 5. \nIm Übrigen gilt für die Verwendung des Jahresergebnisses die gesetzliche Bestimmung des § 29 GmbHG. 6. \nDie Gesellschafter können durch einen einstimmigen und schriftlich begründeten Gesellschafterbeschluss eine von den vorstehenden Regelungen abweichende, auch inkongruente Gewinnverwendung und Gewinnverteilung festlegen.",
+    "entities": [
+        {
+            "id": 107,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 108,
+            "label": "Jahresabschluss",
+            "start_offset": 44,
+            "end_offset": 298
+        },
+        {
+            "id": 109,
+            "label": "Jahresabschluss",
+            "start_offset": 303,
+            "end_offset": 449
+        },
+        {
+            "id": 110,
+            "label": "Ergebnisverwendung",
+            "start_offset": 21,
+            "end_offset": 40
+        },
+        {
+            "id": 111,
+            "label": "Ergebnisverwendung",
+            "start_offset": 303,
+            "end_offset": 449
+        },
+        {
+            "id": 112,
+            "label": "Ergebnisverwendung",
+            "start_offset": 454,
+            "end_offset": 546
+        },
+        {
+            "id": 113,
+            "label": "Ergebnisverwendung",
+            "start_offset": 552,
+            "end_offset": 674
+        },
+        {
+            "id": 114,
+            "label": "Ergebnisverwendung",
+            "start_offset": 679,
+            "end_offset": 777
+        },
+        {
+            "id": 115,
+            "label": "Ergebnisverwendung",
+            "start_offset": 783,
+            "end_offset": 1002
+        },
+        {
+            "id": 116,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 679,
+            "end_offset": 777
+        },
+        {
+            "id": 254,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        },
+        {
+            "id": 258,
+            "label": "Subsection",
+            "start_offset": 548,
+            "end_offset": 674
+        },
+        {
+            "id": 255,
+            "label": "Subsection",
+            "start_offset": 40,
+            "end_offset": 298
+        },
+        {
+            "id": 256,
+            "label": "Subsection",
+            "start_offset": 299,
+            "end_offset": 449
+        },
+        {
+            "id": 257,
+            "label": "Subsection",
+            "start_offset": 450,
+            "end_offset": 547
+        },
+        {
+            "id": 259,
+            "label": "Subsection",
+            "start_offset": 675,
+            "end_offset": 778
+        },
+        {
+            "id": 260,
+            "label": "Subsection",
+            "start_offset": 779,
+            "end_offset": 1002
+        },
+        {
+            "id": 261,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1002
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Abschluss, Ergebnisverwendung 1. Der Jahresabschluss und gegebenenfalls der Lagebericht sind den Aktionären innerhalb der gesetzlichen Fristen nach Maßgabe der gesetzlichen Vorgaben zu erstellen, zu unterzeichnen und vorzulegen.3. Das ausgeschüttete Ergebnis ist den Aktionären im Verhältnis zu ihren Geschäftsanteilen zuzurechnen. 4. Vorabausschüttungen auf das erwartete Ergebnis des Geschäftsjahres können bereits vor Ende des Geschäftsjahres entschieden werden. 5. Darüber hinaus gilt die gesetzliche Bestimmung des § 29 GmbHG für die Verwendung des Jahresergebnisses. 6. Die Gesellschaftenr kann durch einstimmige und schriftliche Entscheidung des Aktionärs eine von den vorstehenden Regeln abweichende und auch mit der Gewinnausschüttung unvereinbare Verwendung von Gewinnen bestimmen."
+}

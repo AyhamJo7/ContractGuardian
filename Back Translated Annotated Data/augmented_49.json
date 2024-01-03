@@ -1,0 +1,39 @@
+{
+    "id": 564,
+    "text": "§ 16 Liquidation Die für die Geschäftsführer geltenden Bestimmungen zur Geschäftsführung und Vertretung gelten entsprechend für die Liquidatoren.",
+    "entities": [
+        {
+            "id": 579,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 580,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 145
+        },
+        {
+            "id": 581,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 17
+        },
+        {
+            "id": 583,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 145
+        },
+        {
+            "id": 582,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 17,
+            "end_offset": 145
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Liquidation Für die Liquidatoren gelten sinngemäß die für die Geschäftsführer geltenden Regeln für die Geschäftsführung und Vertretung."
+}

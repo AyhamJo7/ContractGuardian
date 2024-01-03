@@ -1,0 +1,45 @@
+{
+    "id": 751,
+    "text": "§4 Geschäftsjahr Das Geschäftsjahr ist das Kalenderjahr. \nDas erste Geschäftsjahr beginnt mit der Gründüng und endet am 31. \nDezember desselben Jahres.",
+    "entities": [
+        {
+            "id": 1947,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 1948,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 57
+        },
+        {
+            "id": 1950,
+            "label": "Geschäftsjahr",
+            "start_offset": 3,
+            "end_offset": 17
+        },
+        {
+            "id": 1949,
+            "label": "Subsection",
+            "start_offset": 58,
+            "end_offset": 151
+        },
+        {
+            "id": 1951,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 151
+        },
+        {
+            "id": 1952,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 151
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Geschäftsjahr Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der grünen Düngung und endet am 31. Dezember desselben Jahres."
+}

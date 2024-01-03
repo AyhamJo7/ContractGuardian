@@ -1,0 +1,39 @@
+{
+    "id": 975,
+    "text": "§2 Gegenstand des Unternehmens: Gegenstand des Unternehmens ist der Betrieb des Restaurants im Haus Bayerwald und die Durchführung aller damit zusammenhängenden artverwandten Geschäfte. Die Gesellschaft kann alle Geschäfte einschließlich Neben- und Hilfsgeschäfte durchführen und alle Rechtshandlungen vornehmen, die den Zweck der Gesellschaft zu fördern geeignet sind. Die Gesellschaft ist berechtigt, andere gleichartige oder ähnliche Unternehmen zu erwerben und zu betreiben oder sich an solchen Unternehmen oder Gesellschaften zu beteiligen.",
+    "entities": [
+        {
+            "id": 3540,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 545
+        },
+        {
+            "id": 3543,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 545
+        },
+        {
+            "id": 3542,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 545
+        },
+        {
+            "id": 3541,
+            "label": "Gegenstand",
+            "start_offset": 2,
+            "end_offset": 30
+        },
+        {
+            "id": 3539,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens: Gegenstand des Unternehmens ist der Betrieb des Restaurants im Bayerwald und die Durchführung aller damit verbundenen Geschäfte. Das Unternehmen kann sämtliche Geschäfte einschließlich Neben- und Nebengeschäften durchführen und alle Rechtshandlungen durchführen, die geeignet sind, den Zweck des Unternehmens zu fördern.t andere ähnliche oder ähnliche Unternehmen zu erwerben und zu betreiben oder sich an solchen Unternehmen oder Gesellschaften zu beteiligen."
+}

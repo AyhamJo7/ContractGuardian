@@ -1,0 +1,39 @@
+{
+    "id": 869,
+    "text": "§ 14 Salvatorische Klausel Sollte eine Bestimmung dieses Gesellschaftsvertrags ganz oder teilweise unwirksam oder un­ durchfiihrbar sein oder werden, so wird dadurch die Wirksamkeit der iibrigen Bestimmungen dieses Gesellschaftsvertrags nicht beriihrt. \nDas Gleiche gilt, wenn und soweit sich in diesem Ge­ sellschaftsvertrag eine Lucke herausstellen sollte. \nAnstelle der unwirksamen oder undurchfiihr­ baren Bestimmung oder zur Ausfiillung der Lucke soll diejenige angemessene Regelung gelten, die, soweit rechtlich moglich, dem am nachsten kommt, was die Vertragsparteien wirtschaftlich gewollt haben oder nach dem Sinn und Zweck dieses Gesellschaftsvertrags gewollt hatten, so­ fern sie bei Abschluss dieses Gesellschaftsvertrags oder der spateren Aufnahme der Bestimmung diesen Punkt bedacht hatten. \nDie Gesellschafter verpflichten sich, eine entsprechende Ersatz­ oder Erganzungsregel in der erforderlichen Form zu beschliegen. \nDer Rechtsgedanke des § 139 BGB findet keine Anwendung, auch nicht in Form einer Beweislastregel.",
+    "entities": [
+        {
+            "id": 2793,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 2794,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 1033
+        },
+        {
+            "id": 2795,
+            "label": "Salvatorische Klausel",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 2796,
+            "label": "Salvatorische Klausel",
+            "start_offset": 27,
+            "end_offset": 1033
+        },
+        {
+            "id": 2797,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1033
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Abfindungsklausel Sollte eine Bestimmung dieses Gesellschaftsvertrages ganz oder teilweise unwirksam oder unwirksam sein oder werden, so wird die Gültigkeit der übrigen Bestimmungen dieses Gesellschaftsvertrages nicht berührt. Gleiches gilt, wenn und soweit in diesem Gesellschaftsvertrag ein Lucke entstehen soll.Um sicherzustellen, dass die Bestimmungen dieses Abkommens eingehalten werden, ist es angebracht, geeignete Regeln festzulegen, die, soweit rechtlich möglich, den wirtschaftlichen oder zweckgemäßen Wünschen der Parteien am besten entsprechen, soweit sie diesen Punkt zum Zeitpunkt des Abschlusses dieses Sozialvertrags oder der späteren Annahme der Bestimmung in Betracht gezogen haben.Die Aktionäre verpflichten sich, eine entsprechende Ersatz- oder Abschlussregel in der vorgeschriebenen Form zur Verfügung zu stellen. Die Rechtsidee des § 139 BGB findet weder Anwendung, noch in Form einer Beweislastregel."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 964,
+    "text": "§ 1 Firma und Sitz Die Gesellschaft ist eine Gesellschaft mit beschrankter Haftung unter der Firma Restaurant Odeon GmbH mit dem Sitz in Hattingen.",
+    "entities": [
+        {
+            "id": 3476,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 3477,
+            "label": "Firma",
+            "start_offset": 19,
+            "end_offset": 120
+        },
+        {
+            "id": 3479,
+            "label": "Sitz",
+            "start_offset": 121,
+            "end_offset": 147
+        },
+        {
+            "id": 3478,
+            "label": "Sitz",
+            "start_offset": 14,
+            "end_offset": 19
+        },
+        {
+            "id": 3473,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 19
+        },
+        {
+            "id": 3475,
+            "label": "Subsection",
+            "start_offset": 121,
+            "end_offset": 147
+        },
+        {
+            "id": 3474,
+            "label": "Subsection",
+            "start_offset": 19,
+            "end_offset": 120
+        },
+        {
+            "id": 3480,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 147
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft und Sitz Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung unter der Gesellschaft Restaurant Odeon GmbH mit Sitz in Hattingen."
+}

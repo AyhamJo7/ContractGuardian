@@ -1,0 +1,45 @@
+{
+    "id": 569,
+    "text": "§2 Gegenstand des Unternehmens Gegenstand des Unternehmens ist die Verwaltung eigenen Vermogens sowie die Beteiligung an anderen Unternehmen nebst alien damit im Zusammenhang stehenden Tatigkeiten aller Art soweit diese nicht einer besonderen Erlaubnis bedurfen. \nDie Gesellschaft kann sich an anderen Unternehmen beteiligen und Zweignie­ derlassungen errichten. 2",
+    "entities": [
+        {
+            "id": 605,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 606,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 262
+        },
+        {
+            "id": 607,
+            "label": "Subsection",
+            "start_offset": 264,
+            "end_offset": 362
+        },
+        {
+            "id": 608,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 609,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 362
+        },
+        {
+            "id": 610,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 362
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens ist die Verwaltung des eigenen Vermögens der Gesellschaft und die Beteiligung an anderen Unternehmen zusammen mit allen damit verbundenen Tätigkeiten, soweit sie keine besondere Erlaubnis erfordern. Die Gesellschaft kann an anderen Unternehmen teilnehmen und Zweigniederlassungen gründen. 2"
+}

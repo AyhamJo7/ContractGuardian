@@ -1,0 +1,33 @@
+{
+    "id": 521,
+    "text": "§ 6 Wettbewerbsverbot Von einem vertraglichen Wettbewerbsverbot wird bei der Gründung abgesehen.",
+    "entities": [
+        {
+            "id": 62,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 68,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 96
+        },
+        {
+            "id": 230,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 231,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 96
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Wettbewerbsverbot Ein vertraglicher Wettbewerbsverbot ist zum Zeitpunkt der Gründung ausgeschlossen."
+}

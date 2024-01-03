@@ -1,0 +1,81 @@
+{
+    "id": 554,
+    "text": "§ 6 Gesellschafterstellung 6.1. \nGrundsätzlich soll jeder Gesellschafter die mit seiner Stellung als Gesellschafter verbundenen Belange (Rechte, Pflichten etc.) persönlich wahrnehmen. \nDas gilt insbesondere für die Teilnahme an Gesellschafterversammlungen und sonstigen Sitzungen sowie für die Ausübung von Stimm-, Auskunfts-, Einsichts- und sonstigen Rechten. \nEine Vertretung ist jedoch zulässig. 6.2. \nFür jeden Gesellschafter kann als Vertreter jeweils nur eine Person die Belange wahrnehmen, insbesondere Rechte ausüben. \nDiese Person muss befugt sein, den Gesellschafter allein und ohne Einschränkung zu vertreten. \nSteht ein Geschäftsanteil ungeteilt mehreren Personen zu, so müssen sie sich durch einen gemeinsamen Bevollmächtigten vertreten lassen. \nEntsprechendes gilt bei gesetzlicher oder vereinbarter Gesamtvertretung von Organen. 6.3. \nVertreter kann ein anderer Gesellschafter, ein Betreuer, ein zugelassener Rechtsanwalt, Steuerberater oder Wirtschaftsprüfer, der Ehegatte oder eine mit dem Gesellschafter im ersten Grad verwandte bzw. verschwägerte Person sein. \nAndere Personen können ohne Angabe von Gründen von dem Versammlungsleiter abgelehnt werden. \nSie können sich jedoch ihrerseits durch einen zugelassenen Vertreter vertreten lassen. 6.4. \nDer Vertreter hat sich gegenüber der Gesellschaft und den Gesellschaftern durch Vorlage einer schriftlichen Vollmacht auszuweisen. \nEinschränkungen in der Vertretungsmacht müssen in der Vollmachtsurkunde dokumentiert sein. \nIm Falle der Nichtvorlage der Vollmachtsurkunde oder bei Einschränkungen der Vertretungsmacht kann der Vertreter abgelehnt werden. 6.5. \nWenn der Gesellschafter nicht in der Lage ist, seine Belange persönlich wahrzunehmen, und ein Vertreter nicht bestellt oder abgelehnt worden ist, ruhen seine Rechte mit Ausnahme des Gewinnbezugsrechtes. \nEntsprechendes gilt, wenn ein gemeinsamer Bevollmächtigter erforderlich aber nicht vorhanden ist. \n 6.6. \nEine Testamentsvollstreckung ist zulässig, und zwar sowohl in Dauer als auch für die Auseinandersetzung. \nFür den Testamentsvollstrecker gelten die gleichen Bestimmungen wie für einen Vertreter, ausgenommen das Erfordernis der persönlichen Qualifikation gemäß Ziffer 6.3. 6.7. \nDie Gesellschafter können bei der Wahrnehmung ihrer Belange, insbesondere bei Gesellschafterversammlungen, ihren Ehepartner, einen zugelassenen Rechtsanwalt, Steuerberater oder Wirtschaftsprüfer hinzuziehen. \nAndere Personen können ohne Angabe von Gründen abgelehnt werden.",
+    "entities": [
+        {
+            "id": 474,
+            "label": "Subsection",
+            "start_offset": 399,
+            "end_offset": 843
+        },
+        {
+            "id": 475,
+            "label": "Subsection",
+            "start_offset": 844,
+            "end_offset": 1259
+        },
+        {
+            "id": 480,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 27
+        },
+        {
+            "id": 476,
+            "label": "Subsection",
+            "start_offset": 1260,
+            "end_offset": 1620
+        },
+        {
+            "id": 472,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 477,
+            "label": "Subsection",
+            "start_offset": 1621,
+            "end_offset": 1929
+        },
+        {
+            "id": 483,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2209
+        },
+        {
+            "id": 473,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 397
+        },
+        {
+            "id": 478,
+            "label": "Subsection",
+            "start_offset": 1931,
+            "end_offset": 2209
+        },
+        {
+            "id": 479,
+            "label": "Subsection",
+            "start_offset": 2209,
+            "end_offset": 2488
+        },
+        {
+            "id": 481,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 27,
+            "end_offset": 2488
+        },
+        {
+            "id": 484,
+            "label": "Green Flag",
+            "start_offset": 2209,
+            "end_offset": 2488
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Gründung der Gesellschaft 6.1. Grundsätzlich sollte jeder Aktionär die mit seiner Stellung als Aktionär verbundenen Interessen (Rechte, Pflichten usw.) persönlich ausüben. Dies gilt insbesondere für die Teilnahme an Aktionärsversammlungen und anderen Sitzungen sowie die Ausübung von Abstimmungs-, Informations-, Einsichts- und sonstigen Rechten. Eine Vertretung ist jedoch zulässig. 62. Für jeden Aktionär kann nur eine Person die Interessen ausüben, insbesondere Rechte. Diese Person muss berechtigt sein, den Aktionär allein und ohne Einschränkung zu vertreten. Gehört ein Anteil an einem Unternehmen mehreren Personen, so muss sie durch einen Mitvertreter vertreten sein.6.3. Vertreter können ein anderer Partner, ein Vorgesetzter, ein zugelassener Rechtsanwalt, Steuerberater oder Wirtschaftsprüfer, der Ehepartner oder eine Person, die mit dem Partner in erster Linie verbunden oder verbunden ist. Andere Personen können vom Leiter der Sitzung ohne Angabe von Gründen abgelehnt werden. Sie können jedoch Mitglieder des Verwaltungsrats werden.6.4. Der Vertreter hat sich der Gesellschaft und ihren Mitgliedern durch schriftliche Genehmigung zu zeigen. Beschränkungen in der Vertretungsbefugnis sind in der Vollmacht zu dokumentieren. Im Falle der Nichtvorlage der Vollmacht oder bei Beschränkungen der Vertretungsmacht kann der Vertreter6.5. Ist der Partner nicht in der Lage, seine Interessen persönlich auszuüben und ein Vertreter nicht bestellt oder abgelehnt worden, so bleiben seine Rechte mit Ausnahme des Rechts auf Gewinnerwerb. Ist daher ein gemeinsamer Bevollmächtigter erforderlich, aber nicht anwesend. 6.6. Eine Vollstreckung des Testaments ist zulässig, beides in D.Für den Testamentsvollstrecker gelten die gleichen Bestimmungen wie für einen Vertreter, mit Ausnahme der Anforderung der persönlichen Qualifikation gemäß Abschnitt 6.3.6.7.7. Die Partner können in Ausübung ihrer Interessen, insbesondere bei Aktionärsversammlungen, ihre Ehegatten, einen zugelassenen Anwalt, Steuerberater oder Wirtschaftsteilnehmer.Andere Personen können ohne Angabe von Gründen abgelehnt werden."
+}

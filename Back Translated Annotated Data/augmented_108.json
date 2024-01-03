@@ -1,0 +1,39 @@
+{
+    "id": 612,
+    "text": "§ 8 Abtretung von Geschäftsanteilen Die Abtretung oder Verpfändung von Geschäftsanteilen ist nur mit Zustimmung der Gesellschafterversammlung statthaft.",
+    "entities": [
+        {
+            "id": 934,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 35
+        },
+        {
+            "id": 935,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 36,
+            "end_offset": 152
+        },
+        {
+            "id": 936,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 152
+        },
+        {
+            "id": 937,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 152
+        },
+        {
+            "id": 933,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Übertragung von Aktien Die Abtretung oder Verpfändung von Aktien ist nur mit Zustimmung der Hauptversammlung zulässig."
+}

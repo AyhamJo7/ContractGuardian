@@ -1,0 +1,51 @@
+{
+    "id": 658,
+    "text": "§2 Gegenstand 1. \nGegenstand des Unternehmens sind Kultur- und Eventveranstaltungen, Gastronomiebetrieb, Hobbybetrieb, Reiseorganisation und -begleitung, Im- und Export von und Handel mit Waren aller Art, insbesondere Spielwaren, e-commerce sowie alle damit im Zusammenhang ste­ henden Tatigkeiten. 2. \nDie Gesellschaft ist zur Vornahme aller Geschafte berechtigt, die den Gesellschaftszweck unmittelbar oder mittelbar zu fordern geeignet sind. 3. \nDie Gesellschaft darf andere Unternehmen gleicher oder ahnlicher Art ubernehmen, sich an ihnen beteiligen oder ihre Geschafte fuhren. \nDie Gesellschaft darf Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1268,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 1269,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 298
+        },
+        {
+            "id": 1270,
+            "label": "Subsection",
+            "start_offset": 299,
+            "end_offset": 444
+        },
+        {
+            "id": 1272,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 14
+        },
+        {
+            "id": 1273,
+            "label": "Gegenstand",
+            "start_offset": 14,
+            "end_offset": 656
+        },
+        {
+            "id": 1274,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 656
+        },
+        {
+            "id": 1271,
+            "label": "Subsection",
+            "start_offset": 445,
+            "end_offset": 656
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand 1. Gegenstand des Unternehmens sind Kultur- und Veranstaltungsveranstaltungen, Gastronomie, Hobbygeschäft, Reiseorganisation und -unterstützung, Import und Export von und Handel mit Waren aller Art, insbesondere Spielzeug, E-Commerce sowie alle damit verbundenen Aktivitäten. 2. Das Unternehmen ist berechtigt, alle Unternehmen durchzuführen, die den Zweck des Unternehmens unmittelbar erfüllen.(3) Die Gesellschaft kann andere Unternehmen gleicher oder ähnlicher Art übernehmen, an ihnen teilnehmen oder ihre Tätigkeit ausüben; die Gesellschaft kann Zweigniederlassungen im In- und Ausland gründen."
+}

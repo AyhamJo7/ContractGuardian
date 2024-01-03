@@ -1,0 +1,51 @@
+{
+    "id": 732,
+    "text": "§15 Schlichtung (1) Bei samtlichen Streitigkeiten zwischen einzelnen Gesellschaftem oder zwischen einem Gesellschafter und der Gesellschaft aus diesem Gesell­ schaftsvertrag ist zunachst ein Schlichtungsverfahren durchzufOhren, Ober das sich die Gesellschafter in gesonderter Urkunde verstandigen. (2) Der Antrag auf Einleitung des Schlichtungsverfahrens bedarf der Schrift­ form und ist gegenOber der Gesellschaft und allen Obrigen Gesellschaftern zu erklaren. (3) Die ordentlichen Gerichte konnen von den Parteien erst nach Ablauf von drei Monaten nach Antrag auf Einleitung des Schlichtungsverfahrens ange­ rufen werden.",
+    "entities": [
+        {
+            "id": 1834,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 1830,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 1835,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 16,
+            "end_offset": 623
+        },
+        {
+            "id": 1836,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 623
+        },
+        {
+            "id": 1833,
+            "label": "Subsection",
+            "start_offset": 462,
+            "end_offset": 623
+        },
+        {
+            "id": 1831,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 297
+        },
+        {
+            "id": 1832,
+            "label": "Subsection",
+            "start_offset": 298,
+            "end_offset": 461
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§15 Schlichtung (1) Bei Kollektivstreitigkeiten zwischen einzelnen Partnern oder zwischen einem Partner und dem Unternehmen im Rahmen dieses Assoziierungsvertrages ist in der Folge ein Schlichtungsverfahren durchzuführen, das die Partner in einem gesonderten Dokument verstehen. (2) Der Antrag auf Einleitung des Schlichtungsverfahrens erfordert die Form einer schriftlichen Mitteilung und richtet sich gegen Ober de(3) Die ordentlichen Gerichte dürfen von den Parteien erst nach Ablauf von drei Monaten ab dem Zeitpunkt des Antrags auf Einleitung des Vermittlungsverfahrens angerufen werden."
+}

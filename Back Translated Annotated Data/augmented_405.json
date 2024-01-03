@@ -1,0 +1,39 @@
+{
+    "id": 1027,
+    "text": "§ 10 Gründungsaufwand\n\nDen Gründungsaufwand (Notar- und Gerichtskosten, etwaige Veröffentlichungskosten, Kosten der steuerlichen Beratung) trägt die Gesellschaft bis zu einem Betrag von € 2.500,00.",
+    "entities": [
+        {
+            "id": 3894,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 197
+        },
+        {
+            "id": 3897,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 197
+        },
+        {
+            "id": 3895,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 21
+        },
+        {
+            "id": 3896,
+            "label": "Kosten",
+            "start_offset": 23,
+            "end_offset": 197
+        },
+        {
+            "id": 3893,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Gründungskosten Das Unternehmen zahlt für die Gründungskosten (Notar- und Gerichtskosten, mögliche Veröffentlichungskosten, Kosten der Steuerberatung) bis zu einem Betrag von € 2.500,00."
+}

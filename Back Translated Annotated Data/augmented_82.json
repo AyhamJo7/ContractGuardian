@@ -1,0 +1,81 @@
+{
+    "id": 597,
+    "text": "§ 9 Jahresabschluss, Gewinnverteilung und Ausschüttung l. \nDer Jahresabschluss ist gemäß den gesetzlichen Bestimmungen von den Geschäftsführern auf den Schluss eines jeden Geschäftsjahres mnerhalb der gesetzlich vorgesehenen Fristen aufzustellen. \nDer Jahresabschluss umfasst eine Bilanz mit Gewinn- und Verlustrechnung imd einen Anhang. \nDie Bewertungen in der Bilanz haben nach den ertragssteueriichen Vorschriften zu erfolgen. 2. \nDen Gesellschaftern ist unverzüglich nach Aufstellung eine Abschrift des Jahresabschlusses zwecks Genehmigung auszuhändigen oder zuzusenden. \nDie Genehinigung gilt als erteilt, falls nicht irmerhalb einer Frist von sechs Wochen seit Zugang schriftlich Widerspruch erhoben wird. 3. \nDie Verteüung des Bilanzgewinns erfolgt gemäß § 29 GmbHG.",
+    "entities": [
+        {
+            "id": 817,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 54
+        },
+        {
+            "id": 818,
+            "label": "Subsection",
+            "start_offset": 55,
+            "end_offset": 429
+        },
+        {
+            "id": 819,
+            "label": "Subsection",
+            "start_offset": 430,
+            "end_offset": 711
+        },
+        {
+            "id": 820,
+            "label": "Subsection",
+            "start_offset": 712,
+            "end_offset": 773
+        },
+        {
+            "id": 821,
+            "label": "Jahresabschluss",
+            "start_offset": 4,
+            "end_offset": 19
+        },
+        {
+            "id": 822,
+            "label": "Jahresabschluss",
+            "start_offset": 0,
+            "end_offset": 429
+        },
+        {
+            "id": 823,
+            "label": "Gewinnverteilung",
+            "start_offset": 21,
+            "end_offset": 38
+        },
+        {
+            "id": 825,
+            "label": "Jahresabschluss",
+            "start_offset": 430,
+            "end_offset": 711
+        },
+        {
+            "id": 826,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 42,
+            "end_offset": 55
+        },
+        {
+            "id": 827,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 712,
+            "end_offset": 773
+        },
+        {
+            "id": 828,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 773
+        },
+        {
+            "id": 824,
+            "label": "Gewinnverteilung",
+            "start_offset": 59,
+            "end_offset": 429
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Jahresabschluß, Gewinnausschüttung und Dividendenausschüttung l. Der Jahresabschluß ist von den Geschäftsführern nach den gesetzlichen Bestimmungen am Ende jedes Geschäftsjahres innerhalb der gesetzlich vorgeschriebenen Fristen zu erstellen. Der Jahresabschluß besteht aus einer Bilanz mit Gewinn- und Verlustrechnung und einem Anhang.2. Eine Abschrift des Jahresabschlusses ist den Aktionären unverzüglich nach der Vorbereitung zur Genehmigung zu übergeben oder zu übermitteln. Die Zustimmung gilt als erteilt, wenn innerhalb von sechs Wochen nach Eingang kein schriftlicher Widerspruch eingelegt wurde. 3. Die Offenlegung des Bilanzgewinns erfolgt gemäß § 29 GmbHG."
+}

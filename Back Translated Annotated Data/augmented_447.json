@@ -1,0 +1,15 @@
+{
+    "id": 997,
+    "text": "Gesellschaftsvertrag der Sternovate GmbH",
+    "entities": [
+        {
+            "id": 3682,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 40
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Gesellschaftsvertrag der Sternovate GmbH"
+}

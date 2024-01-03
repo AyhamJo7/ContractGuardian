@@ -1,0 +1,51 @@
+{
+    "id": 902,
+    "text": "§2 Gegenstand 1. \nGegenstand des Unternehmens ist der Erwerb und die Verwaltung von Beteiligungen im eige­ nen Namen, auf eigene Rechnung und die Verwaltung des eigenen Gesellschaftsvermogens sowie die Obernahme der personlichen Haftung und der Geschaftsfuhrung in Handelsgesell­ schaften, insbesondere an der MM Grundstucks GmbH & Co. \nKG. 2. \nDie Gesellschaft ist zur Vornahme aller Geschafte berechtigt, die den Gesellschaftszweck un­ mittelbar oder mittelbar zu fordern geeignet sind. 3. \nDie Gesellschaft darf andere Unternehmen gleicher oder ahnlicher Art 0bernehmen, sich an ihnen beteiligen oder ihre Geschafte fuhren. \nDie Gesellschaft darf Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 3043,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 14
+        },
+        {
+            "id": 3044,
+            "label": "Gegenstand",
+            "start_offset": 14,
+            "end_offset": 700
+        },
+        {
+            "id": 3041,
+            "label": "Subsection",
+            "start_offset": 341,
+            "end_offset": 488
+        },
+        {
+            "id": 3042,
+            "label": "Subsection",
+            "start_offset": 489,
+            "end_offset": 700
+        },
+        {
+            "id": 3045,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 700
+        },
+        {
+            "id": 3040,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 339
+        },
+        {
+            "id": 3039,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand 1. Gegenstand der Gesellschaft ist der Erwerb und die Verwaltung von Beteiligungen im eigenen Namen, auf eigene Rechnung und die Verwaltung des eigenen Unternehmensvermögens sowie die Übernahme der persönlichen Haftung und des unternehmerischen Verhaltens in Handelsgesellschaften, insbesondere bei der MM Grundstucks GmbH & Co. KG. 2. Die Gesellschaft ist für die Durchführung aller Gesellschaften verantwortlich.(3) Die Gesellschaft kann andere Unternehmen gleicher oder ähnlicher Art übernehmen, an ihnen teilnehmen oder ihre Gesellschaften antreiben; die Gesellschaft kann Zweigniederlassungen im In- und Ausland gründen."
+}

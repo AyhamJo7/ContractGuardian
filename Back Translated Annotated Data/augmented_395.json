@@ -1,0 +1,15 @@
+{
+    "id": 1017,
+    "text": "Gesellschaftsvertrag Verwaltung Rain Lake GmbH",
+    "entities": [
+        {
+            "id": 3826,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 46
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Sozialvertrag Verwaltung Rain Lake GmbH"
+}

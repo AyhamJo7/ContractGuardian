@@ -1,0 +1,111 @@
+{
+    "id": 620,
+    "text": "§ 1 Firma, Sitz, Geschäftsjahr und Dauer (1) Die Firma der Gesellschaft lautet: Belgreen Development GmbH (2) Der Satzungssitz der Gesellschaft ist Hamburg. (3) Das Geschäftsjahr ist das Kalenderjahr. \nDie Dauer der Gesellschaft ist unbestimmt.",
+    "entities": [
+        {
+            "id": 1002,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 1003,
+            "label": "RED FLAG",
+            "start_offset": 41,
+            "end_offset": 157
+        },
+        {
+            "id": 991,
+            "label": "Subsection",
+            "start_offset": 106,
+            "end_offset": 156
+        },
+        {
+            "id": 996,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 15
+        },
+        {
+            "id": 997,
+            "label": "Sitz",
+            "start_offset": 110,
+            "end_offset": 156
+        },
+        {
+            "id": 999,
+            "label": "Geschäftsjahr",
+            "start_offset": 161,
+            "end_offset": 201
+        },
+        {
+            "id": 1004,
+            "label": "Orange Flag",
+            "start_offset": 17,
+            "end_offset": 40
+        },
+        {
+            "id": 1005,
+            "label": "Orange Flag",
+            "start_offset": 157,
+            "end_offset": 244
+        },
+        {
+            "id": 993,
+            "label": "Subsection",
+            "start_offset": 202,
+            "end_offset": 244
+        },
+        {
+            "id": 998,
+            "label": "Geschäftsjahr",
+            "start_offset": 17,
+            "end_offset": 31
+        },
+        {
+            "id": 990,
+            "label": "Subsection",
+            "start_offset": 41,
+            "end_offset": 105
+        },
+        {
+            "id": 992,
+            "label": "Subsection",
+            "start_offset": 157,
+            "end_offset": 200
+        },
+        {
+            "id": 994,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 995,
+            "label": "Firma",
+            "start_offset": 45,
+            "end_offset": 105
+        },
+        {
+            "id": 1000,
+            "label": "Dauer",
+            "start_offset": 35,
+            "end_offset": 41
+        },
+        {
+            "id": 1001,
+            "label": "Dauer",
+            "start_offset": 202,
+            "end_offset": 244
+        },
+        {
+            "id": 989,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 40
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz, Geschäftsjahr und Laufzeit (1) Gesellschaft der Gesellschaft ist: Belgreen Development GmbH (2) Sitz der Gesellschaft ist Hamburg. (3) Das Geschäftsjahr ist das Kalenderjahr. Die Dauer der Gesellschaft ist unbegrenzt."
+}

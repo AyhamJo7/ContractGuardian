@@ -1,0 +1,81 @@
+{
+    "id": 714,
+    "text": "§7 Geschaftsjahr, Jahresabschluss (1) Das Geschaftsjahr der Gesellschaft ist das Kalenderjahr. \nDas erste Ge­ schaftsjahr beginnt mit der GrOndung der Gesellschaft und endet mit Ablauf des 31. \nDezember des gleichen Jahres. (2) Die GeschaftsfOhrer haben innerhalb der gesetzlichen Fristen den Jahres­ abschluss (Bilanz nebst Gewinn- und Verlustrechnung) und, falls durch Ge­ setz oder Gesellschafterbeschluss angeordnet, den Anhang bzw. den Lagebericht fur das abgelaufene Geschaftsjahr aufzustellen und der Gesell­ schafterversammlung mit ihrem Ergebnisverwendungsvorschlag vorzule­ gen. (3) Die Gesellschafter haben innerhalb der gesetzlichen Fristen Ober die Fest­ stellung des Jahresabschlusses und die Ergebnisverwendung zu beschlie­ Ben.",
+    "entities": [
+        {
+            "id": 1693,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 1694,
+            "label": "Subsection",
+            "start_offset": 34,
+            "end_offset": 223
+        },
+        {
+            "id": 1695,
+            "label": "Subsection",
+            "start_offset": 224,
+            "end_offset": 588
+        },
+        {
+            "id": 1696,
+            "label": "Subsection",
+            "start_offset": 589,
+            "end_offset": 743
+        },
+        {
+            "id": 1697,
+            "label": "Geschäftsjahr",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 1698,
+            "label": "Geschäftsjahr",
+            "start_offset": 34,
+            "end_offset": 223
+        },
+        {
+            "id": 1699,
+            "label": "Jahresabschluss",
+            "start_offset": 18,
+            "end_offset": 34
+        },
+        {
+            "id": 1700,
+            "label": "Jahresabschluss",
+            "start_offset": 223,
+            "end_offset": 743
+        },
+        {
+            "id": 1701,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 17
+        },
+        {
+            "id": 1702,
+            "label": "Orange Flag",
+            "start_offset": 34,
+            "end_offset": 223
+        },
+        {
+            "id": 1703,
+            "label": "Green Flag",
+            "start_offset": 18,
+            "end_offset": 34
+        },
+        {
+            "id": 1704,
+            "label": "Green Flag",
+            "start_offset": 224,
+            "end_offset": 743
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Geschäftsjahr, Jahresabschluss (1) Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr beginnt mit der Größe der Gesellschaft und endet mit Ende 31. Dezember desselben Jahres. (2) Das Geschäftsjahr hat den Jahresabschluss (Bilanz und Gewinn- und Verlustrechnung) innerhalb der gesetzlichen Fristen und, falls gesetzlich oder gesellschaftsrechtlich vorgeschrieben,(3) Die Aktionäre müssen innerhalb der gesetzlichen Fristen über die Erstellung des Jahresabschlusses und die Verwendung der Ergebnisse entscheiden."
+}

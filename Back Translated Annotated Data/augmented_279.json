@@ -1,0 +1,57 @@
+{
+    "id": 810,
+    "text": "§ 1 Firma, Sitz (1) Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung unter der Firma Kreta Gyros Restaurant und Grillhaus Verwaltungs GmbH (2) die Gesellschaft hat ihren Sitz in Salzhausen.",
+    "entities": [
+        {
+            "id": 2389,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 2390,
+            "label": "Firma",
+            "start_offset": 20,
+            "end_offset": 153
+        },
+        {
+            "id": 2391,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 2393,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 204
+        },
+        {
+            "id": 2387,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 153
+        },
+        {
+            "id": 2392,
+            "label": "Sitz",
+            "start_offset": 158,
+            "end_offset": 204
+        },
+        {
+            "id": 2386,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2388,
+            "label": "Subsection",
+            "start_offset": 154,
+            "end_offset": 204
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz (1) Die Gesellschaft ist eine Gesellschaft mit beschränkter Haftung unter der Gesellschaft Kreta Gyros Restaurant und Grillhaus Verwaltungs GmbH (2) die Gesellschaft hat ihren eingetragenen Sitz in Salzhausen."
+}

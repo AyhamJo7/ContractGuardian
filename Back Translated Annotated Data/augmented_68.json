@@ -1,0 +1,63 @@
+{
+    "id": 583,
+    "text": "§ 4 DAUER DER GESELLSCHAFT UND GESCHÄFTSJAHR (1) Die Gesellschaft ist auf unbestimmte Dauer errichtet. (2) Das Geschäftsjahr entspricht dem Kalenderjahr. \nDas erste Geschäftsjahr ist ein Rumpfgeschäftsjahr, beginnend mit der Eintragung der Gesellschaft in das Handelsregister und endend am 31.12. desselben Jahres.",
+    "entities": [
+        {
+            "id": 704,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 44
+        },
+        {
+            "id": 705,
+            "label": "Subsection",
+            "start_offset": 45,
+            "end_offset": 102
+        },
+        {
+            "id": 706,
+            "label": "Subsection",
+            "start_offset": 103,
+            "end_offset": 314
+        },
+        {
+            "id": 707,
+            "label": "Dauer",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 708,
+            "label": "Geschäftsjahr",
+            "start_offset": 31,
+            "end_offset": 45
+        },
+        {
+            "id": 709,
+            "label": "Geschäftsjahr",
+            "start_offset": 107,
+            "end_offset": 314
+        },
+        {
+            "id": 710,
+            "label": "Dauer",
+            "start_offset": 49,
+            "end_offset": 102
+        },
+        {
+            "id": 711,
+            "label": "Orange Flag",
+            "start_offset": 154,
+            "end_offset": 314
+        },
+        {
+            "id": 713,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 314
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 DAUER DES UNTERNEHMENS- UND UNTERNEHMENSJAHRES (1) Die Gesellschaft ist auf unbestimmte Zeit gegründet. (2) Das Geschäftsjahr entspricht dem Kalenderjahr. Das erste Geschäftsjahr ist ein Torsogeschäftsjahr, beginnend mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. Dezember desselben Jahres."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 575,
+    "text": "§ 8 Einziehung eines Geschäftsanteils Die Gesellschaft kann den Geschäftsanteil eines Gesellschafters einziehen, wenn - er das Gesellschaftsverhältnis kündigt, in seinen Geschäftsanteil Zwangsvollstreckungsmaßnahmen vorgenommen werden und nicht innerhalb einer Frist von 8 Wochen aufgehoben werden, - über sein Vermögen das Insolvenzverfahren eröffnet oder die Eröffnung mangels Masse abgelehnt wird. \nDie Gesellschaft kann statt der Einziehung den Geschäftsanteil für die Gesellschaft vorbehaltlich der Bestimmungen des § 33 GmbHG erwerben oder die Übertragung auf einen Dritten verlangen.",
+    "entities": [
+        {
+            "id": 653,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 654,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 401
+        },
+        {
+            "id": 655,
+            "label": "Subsection",
+            "start_offset": 402,
+            "end_offset": 590
+        },
+        {
+            "id": 656,
+            "label": "Einziehung",
+            "start_offset": 4,
+            "end_offset": 37
+        },
+        {
+            "id": 657,
+            "label": "Einziehung",
+            "start_offset": 38,
+            "end_offset": 590
+        },
+        {
+            "id": 658,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 590
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Rückforderung eines Unternehmensanteils Die Gesellschaft kann den Anteil eines Aktionärs einziehen, wenn - er kündigt die Partnerschaftsbeziehungen an, in seinem Anteil an der Geschäftsabschottung Maßnahmen durchgeführt werden und nicht innerhalb einer Frist von 8 Wochen gekündigt werden, - das Insolvenzverfahren eröffnet wird oder die Eröffnung wegen mangelnder Masse abgelehnt wird.Anstelle der Einziehung kann die Gesellschaft den Geschäftsanteil für die Gesellschaft nach den Bestimmungen des § 33 GmbHG erwerben oder die Übertragung an einen Dritten verlangen."
+}

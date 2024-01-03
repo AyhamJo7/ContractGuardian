@@ -1,0 +1,93 @@
+{
+    "id": 708,
+    "text": "§1 Firma, Sitz, Dauer (1) Die Gesellschaft ist eine Gesellschaft mit beschrankter Haftung und f0hrt die Firma: EHM Elb Handwerk Malereibetrieb GmbH (2) Der Sitz der Gesellschaft ist Hamburg. (3) Die Gesellschaft ist fur unbestimmte Zeit errichtet.",
+    "entities": [
+        {
+            "id": 1641,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 1642,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 147
+        },
+        {
+            "id": 1643,
+            "label": "Subsection",
+            "start_offset": 148,
+            "end_offset": 190
+        },
+        {
+            "id": 1644,
+            "label": "Subsection",
+            "start_offset": 191,
+            "end_offset": 247
+        },
+        {
+            "id": 1645,
+            "label": "Firma",
+            "start_offset": 3,
+            "end_offset": 8
+        },
+        {
+            "id": 1646,
+            "label": "Firma",
+            "start_offset": 26,
+            "end_offset": 147
+        },
+        {
+            "id": 1647,
+            "label": "Sitz",
+            "start_offset": 10,
+            "end_offset": 14
+        },
+        {
+            "id": 1648,
+            "label": "Sitz",
+            "start_offset": 152,
+            "end_offset": 189
+        },
+        {
+            "id": 1649,
+            "label": "Dauer",
+            "start_offset": 16,
+            "end_offset": 22
+        },
+        {
+            "id": 1650,
+            "label": "Dauer",
+            "start_offset": 195,
+            "end_offset": 247
+        },
+        {
+            "id": 1651,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1652,
+            "label": "RED FLAG",
+            "start_offset": 23,
+            "end_offset": 190
+        },
+        {
+            "id": 1653,
+            "label": "Orange Flag",
+            "start_offset": 16,
+            "end_offset": 21
+        },
+        {
+            "id": 1654,
+            "label": "Orange Flag",
+            "start_offset": 191,
+            "end_offset": 247
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§1 Gesellschaft, eingetragener Sitz, Dauer (1) Gesellschaft mit beschränkter Haftung und Gesellschaft: EHM Elb Handwerk Malereibetrieb GmbH (2) Sitz der Gesellschaft ist Hamburg. (3) Die Gesellschaft ist auf unbestimmte Zeit gegründet."
+}

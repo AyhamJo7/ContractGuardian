@@ -1,0 +1,69 @@
+{
+    "id": 801,
+    "text": "§ 14 Kündigung, Austritt 1. \nJeder Gesellschafter kann mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres (= Kündigungstermin) die Gesellschaft kündigen oder — mit denselben Rechtswirkungen — seinen Austritt aus der Gesellschaft erklären. \nDie Kündigung oder der Austritt sind jeweils frühestens zum 31.12.2025 möglich. \nDie Kündigungs- oder Austrittserklärung hat schriftlich an die Gesellschaft zu erfolgen. \nDas Recht zur Kündigung oder zum Austritt aus wichtigem Grund bleibt unberührt, ist also auch zu einem früheren Termin zulässig. 2. \nDie Kündigung kann von einem oder mehreren übrigen Gesellschaftern zum Anlass genommen werden, ihrerseits die Gesellschaft zu kündigen. \nHierfür gilt eine um einen Monat verkürzte Kündigungsfrist. 3. \nKündigt ein Gesellschafter die Gesellschaft, so wird sie durch die übrigen Gesellschafter fortgeführt, wenn diese nicht innerhalb von drei Monaten nach dem Zugang der Kündigung die Auflösung beschließen. \nIn letzterem Fall nimmt der kündigende Gesellschafter an der Liquidation teil; ansonsten scheidet er aus der Gesellschaft gemäß nachstehenden Bestimmungen aus. 4. \nDie Gesellschaft kann die Geschäftsanteile des ausscheidenden Gesellschafters nach § 15 einziehen oder ihre Übertragung auf sich oder eine von ihr benannte Person (Mitgesellschafter oder Dritte) verlangen. \nDie Gesellschafterversammlung beschließt darüber mit einer Mehrheit von 75% der abgegebenen Stimmen unter Ausschluss des ausscheidenden Gesellschafters. \nDer Abtretungsempfänger hat dafür eine Abfindung nach Maßgabe von § 16 zu bezahlen. 5. \nDie Gesellschaft hat die Geschäftsanteile des ausscheidenden Gesellschafters bis zum Kündigungstermin zu übernehmen; im Falle einer außerordentlichen Kündigung binnen drei Monaten nach der Kündigung. \nWird ihr Übernahmerecht nicht fristgemäß ausgeübt, so ist der kündigende Gesellschafter befugt, seine Geschäftsanteile ohne Zustimmung nach § 12 und ohne Erwerbsrecht nach § 13 frei zu veräußern. \nSolange auch dies nicht erfolgt, bleibt daneben das Übernahmerecht der Gesellschaft nach Abs. 4 bestehen. \nNach seiner Wahl kann der ausscheidende Gesellschafter dann auch die Einziehung seiner Geschäftsanteile verlangen. \nIst eine Einziehung nach allgemeinen Grundsätzen unzulässig (z. \nB. bei zu geringem Vermögen der Gesellschaft), so ist dann die Gesellschaft aufzulösen. 6. \nDas Stimmrecht eines Gesellschafters, der die Gesellschaft gekündigt hat, ruht ab dem Zugang seiner Kündigung bei der Gesellschaft. \nDas Ausscheiden/die Übertragung seiner Geschäftsanteile hat zu erfolgen mit Wirkung zum Kündigungstermin, unabhängig von der Bezahlung der Abfindung.",
+    "entities": [
+        {
+            "id": 2325,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 24
+        },
+        {
+            "id": 2326,
+            "label": "Subsection",
+            "start_offset": 25,
+            "end_offset": 552
+        },
+        {
+            "id": 2329,
+            "label": "Subsection",
+            "start_offset": 1124,
+            "end_offset": 1572
+        },
+        {
+            "id": 2332,
+            "label": "Kündigung",
+            "start_offset": 4,
+            "end_offset": 24
+        },
+        {
+            "id": 2327,
+            "label": "Subsection",
+            "start_offset": 554,
+            "end_offset": 754
+        },
+        {
+            "id": 2328,
+            "label": "Subsection",
+            "start_offset": 755,
+            "end_offset": 1123
+        },
+        {
+            "id": 2330,
+            "label": "Subsection",
+            "start_offset": 1573,
+            "end_offset": 2350
+        },
+        {
+            "id": 2331,
+            "label": "Subsection",
+            "start_offset": 2351,
+            "end_offset": 2637
+        },
+        {
+            "id": 2333,
+            "label": "Kündigung",
+            "start_offset": 25,
+            "end_offset": 2637
+        },
+        {
+            "id": 2334,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2637
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Kündigung, Rücktritt 1. Jedes Mitglied kann die Gesellschaft mit einer Frist von sechs Monaten zum Ende eines Geschäftsjahres (= Kündigungsdatum) kündigen oder mit gleicher Rechtswirkung seinen Rücktritt von der Gesellschaft erklären.Das Recht, aus wichtigen Gründen zu kündigen oder zurückzutreten, bleibt unberührt und ist daher auch zu einem früheren Zeitpunkt zulässig. 2. Die Kündigung kann von einem oder mehreren anderen Gesellschaftern als Möglichkeit zur Kündigung des Unternehmens wahrgenommen werden. Dies gilt vorbehaltlich einer um einen Monat verkürzten Kündigungsfrist. 3. Beendet ein Gesellschafter das Geschäft des UnternehmensIn letzterem Fall beteiligt sich der Beteiligte an der Liquidation; andernfalls verlässt er die Gesellschaft gemäß den nachstehenden Bestimmungen. (4) Die Gesellschaft kann die Anteile der Gesellschaft, die die Gesellschaft verlässt, behalten.Die Hauptversammlung entscheidet hierzu mit der Mehrheit von 75 % der abgegebenen Stimmen, ausgenommen der ausscheidende Gesellschafter. Der Zeichner zahlt eine Abfindung gemäß § 16. 5. Die Gesellschaft hate Bis zum Kündigungsdatum zu übernehmende Aktien des ausscheidenden Aktionärs; im Falle einer außerordentlichen Kündigung innerhalb von drei Monaten nach Kündigung. Wird ihr Recht auf Übernahme nicht rechtzeitig ausgeübt, so ist der stornierende Aktionär berechtigt, seine Aktien ohne Zustimmung nach § 12 und ohne Erwerbsrecht nach § 13 frei zu veräußern.Darüber hinaus bleibt das Recht, die Gesellschaft zu übernehmen, nach Absatz 4. Bei ihrer Wahl kann der scheidende Aktionär dann auch die Einziehung seiner Geschäftsanteile verlangen. Ist eine Einziehung nach allgemeinen Grundsätzen unzulässig (z.B. wenn das Vermögen der Gesellschaft zu klein ist), so muss die Gesellschaft aufgelöst werden. 6. Die Stimmrechte eines Aktionärs, der das Recht hat, die Gesellschaft zu übernehmen, werden aufgelöst.Die Kündigung/Übertragung ihrer Aktien muss mit Wirkung vom Kündigungsdatum erfolgen, unabhängig von der Zahlung der Entschädigung."
+}

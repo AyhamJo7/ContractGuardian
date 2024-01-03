@@ -1,0 +1,51 @@
+{
+    "id": 637,
+    "text": "§ 7 Liquidation (1) Für den Fall der Liquidation der Gesellschaft erfolgt diese - sofern nichts anderes durch Gesellschafterbeschluss bestimmt wird - durch die Geschäftsführer im Rahmen ihrer bestehenden Vertretungsbefugnis. (2) Für die Vertretungsbefugnisse der Liquidatoren gelten die Regelungen über die Geschäftsführer entsprechend.",
+    "entities": [
+        {
+            "id": 1133,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 16,
+            "end_offset": 224
+        },
+        {
+            "id": 1134,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 225,
+            "end_offset": 336
+        },
+        {
+            "id": 1135,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 336
+        },
+        {
+            "id": 1129,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 1130,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 224
+        },
+        {
+            "id": 1131,
+            "label": "Subsection",
+            "start_offset": 225,
+            "end_offset": 336
+        },
+        {
+            "id": 1132,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 16
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Liquidation (1) Im Falle der Liquidation der Gesellschaft erfolgt dies durch die Geschäftsführer im Rahmen ihrer bestehenden Vertretungsbefugnisse, es sei denn, eine Aktionärsentscheidung bestimmt etwas anderes. (2) Die Regeln für die Geschäftsführer gelten sinngemäß für die repräsentativen Befugnisse der Liquidatoren."
+}

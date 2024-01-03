@@ -1,0 +1,51 @@
+{
+    "id": 966,
+    "text": "§ 3 Stammkapital und Stammeinlage\n\nDas Stammkapital beträgt 25.000,00 Euro (in Worten: fünfundzwanzigtausend Euro). Die Gesellschafterin bei Gründung der Gesellschaft, Frau Anna Protopapa, geboren am 01.11.1982, Hattingen, übernimmt eine Stammeinlage in gleicher Höhe (Geschäftsanteil Nr. 1). Diese Stammeinlagen sind in bar, und zwar 50 % sofort und der Rest auf Anforderung der Gesellschaft, einzuzahlen.",
+    "entities": [
+        {
+            "id": 3489,
+            "label": "Stammkapital",
+            "start_offset": 35,
+            "end_offset": 115
+        },
+        {
+            "id": 3488,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 3490,
+            "label": "Stammeinlagen",
+            "start_offset": 21,
+            "end_offset": 33
+        },
+        {
+            "id": 3491,
+            "label": "Stammeinlagen",
+            "start_offset": 116,
+            "end_offset": 406
+        },
+        {
+            "id": 3486,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 3487,
+            "label": "Subsection",
+            "start_offset": 35,
+            "end_offset": 406
+        },
+        {
+            "id": 3492,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 406
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Aktienkapital und Aktienbeitrag Das Grundkapital beträgt 25.000,00 Euro (in Worten: 25.00 000 Euro).Die Gesellschafterin Anna Protopapa, geboren am 01.11.1982, Hattingen, übernimmt ein Grundkapital in gleicher Höhe (Anteil am Unternehmen Nr. 1). Diese Grundkapitaleinlagen sind Barmittel, d.h. sofort 50 % und der Rest auf Antrag der Gesellschaft, das Grundkapital in bar zu zahlen.In diesem Fall ist darauf hinzuweisen, dass dies im Vereinigten Königreich nicht der Fall ist."
+}

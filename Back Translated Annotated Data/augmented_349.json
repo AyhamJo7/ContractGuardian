@@ -1,0 +1,45 @@
+{
+    "id": 877,
+    "text": "§7. Sonstiges 7.1 Die Gesellschafter unterliegen keiner Wettbewerbsbeschränkung. 7.2 Für die Aufstellung und Feststellung des Jahresabschlusses sowie für die Gewinnverwendung gelten die gesetzlichen Bestimmungen. \nDie Gesellschafter können alljährlich mit Zustimmung der beeinträchtigten Gesellschafter über eine von den Beteiligungsverhältnissen abweichende Gewinnverteilung beschließen.",
+    "entities": [
+        {
+            "id": 2852,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 2854,
+            "label": "Subsection",
+            "start_offset": 81,
+            "end_offset": 388
+        },
+        {
+            "id": 2856,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 14,
+            "end_offset": 388
+        },
+        {
+            "id": 2857,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 388
+        },
+        {
+            "id": 2853,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 80
+        },
+        {
+            "id": 2855,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 14
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7. Sonstige 7.1 Die Aktionäre unterliegen keiner Wettbewerbsbeschränkung. 7.2 Die gesetzlichen Bestimmungen gelten für die Aufstellung und Bestimmung des Jahresabschlusses sowie für die Gewinnverwendung. Die Aktionäre können jährlich mit Zustimmung der betroffenen Partner über eine von den Beteiligungsbeziehungen abweichende Gewinnausschüttung entscheiden."
+}

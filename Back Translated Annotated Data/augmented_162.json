@@ -1,0 +1,57 @@
+{
+    "id": 674,
+    "text": "§1 Firma, Sitz (1) Die Firma der Gesellschaft lautet: Epic Minds GmbH (2) Der Sitz der Gesellschaft ist Hamburg.",
+    "entities": [
+        {
+            "id": 1389,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1390,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 69
+        },
+        {
+            "id": 1391,
+            "label": "Subsection",
+            "start_offset": 70,
+            "end_offset": 112
+        },
+        {
+            "id": 1392,
+            "label": "Firma",
+            "start_offset": 3,
+            "end_offset": 8
+        },
+        {
+            "id": 1393,
+            "label": "Firma",
+            "start_offset": 19,
+            "end_offset": 69
+        },
+        {
+            "id": 1394,
+            "label": "Sitz",
+            "start_offset": 10,
+            "end_offset": 15
+        },
+        {
+            "id": 1395,
+            "label": "Sitz",
+            "start_offset": 74,
+            "end_offset": 112
+        },
+        {
+            "id": 1396,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 112
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§1 Gesellschaft, Sitz (1) Gesellschaft der Gesellschaft ist: Epic Minds GmbH (2) Sitz der Gesellschaft ist Hamburg."
+}

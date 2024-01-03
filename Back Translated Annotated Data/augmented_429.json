@@ -1,0 +1,45 @@
+{
+    "id": 976,
+    "text": "§3 Stammkapital Das Stammkapital der Gesellschaft beträgt 25.000,00 EUR. Hiervon übernimmt Herr Rainer Weingartner einen Geschäftsanteil mit einem Nennbetrag in Höhe von 25.000,00 EUR. Samtliche Einlagen sind jeweils in voller Höhe sofort in Geld einzuzahlen.",
+    "entities": [
+        {
+            "id": 3546,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 259
+        },
+        {
+            "id": 3549,
+            "label": "Stammeinlagen",
+            "start_offset": 73,
+            "end_offset": 259
+        },
+        {
+            "id": 3547,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 3545,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 3548,
+            "label": "Stammkapital",
+            "start_offset": 16,
+            "end_offset": 71
+        },
+        {
+            "id": 3550,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 259
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital Das Grundkapital der Gesellschaft beträgt EUR 25,000,00. Hieraus erwirbt Herr Rainer Weingartner eine Beteiligung an der Gesellschaft mit einem Nennbetrag von EUR 25,000,00."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 831,
+    "text": "§ 11 Einziehung (1) Die Einziehung von Geschaftsanteilen mit Zustimmung des Betroffenen ist zulassig. (2) Der Zustimmung des betroffenen Gesellschafters bedarf es nicht, wenn a) Ober das Vermogen des Gesellschafters das lnsolvenzverfahren eroffnet ist und nicht binnen drei Monaten wieder aufgehoben wird oder die Eroffnung abgelehnt wird; b) von Seiten des Glaubigers des Gesellschafters Zwangsvollstreckungsmar.!.nahmen in den Geschaftsanteil des Gesellschafters vorgenommen werden und es den lnhabern des Geschaftsanteils nicht binnen zwei Monaten seit Beginn dieser Mar.!.nahme gelun­ gen ist, ihre Aufhebung zu erreichen; c) in der Person des Gesellschafters ein wichtiger, seinen Ausschluss rechtfertigender Grund vorliegt; d.h. wenn der Gesellschafter vorsatzlich oder grob fahrlassig wesentli­ che Pflichten des Vertrages verletzt oder wenn aufgrund seines Verhaltens den Obrigen Gesellschaftern die Fortsetzung der Gesellschaft nicht mehr zugemutet werden kann. d) Statt der Einziehung kann im Falle des Abs. 1 wie im Falle des Abs. 2 die Gesellschaf­ terversammlung in notariell beurkundeter Form die Obertragung des Geschaftsanteils oder von Teilen davon auf die Gesellschaft, auf zur Obernahme bereite Gesellschafter im Verhaltnis ihrer Beteiligung oder, falls kein Gesellschafter zur Obernahme bereit ist, auf einen Dritten beschlier.!.en. \nIm Falle einer Obertragung auf Gesellschafter oder Dritte gelten ferner Abs. 2 g) und h) mit der Maf!igabe, dass die VergOtung nicht von der Gesellschaft, sondern vom Erwerber geschuldet wird. \nDie Obertragung wird wirk­ sam, sobald die Abfindung gezahlt oder tor die noch nicht fallige Abfindung eine selbst­ schuldnerische und unwiderrufliche Bankburgschaft gestellt ist. e) Bei den Beschlussen gemar.!. \nAbs. 2 ist der betroffene Gesellschafter vom Stimmrecht ausgeschlossen. f) Von dem Gesellschafterbeschluss an, der die Einziehung oder die Obertragung des Geschaftsanteils anordnet, ruht das Stimmrecht des betroffenen Gesellschafters. g) Dem betroffenen Gesellschafter steht eine Abfindung zu, die sich aus seiner geleiste­ ten Stammeinlage zuzOglich einem seiner Stammeinlage entsprechenden Anteil am Bilanzgewinn und an den KapitalrOcklagen der Gesellschaft abzOglich eines evtl. \nVer­ lustvortrages bemisst. \nGrundlage der Abfindung ist dabei die unter Beachtung steuer­ licher Vorschriften aufgestellte Handelsbilanz der Gesellschaft zum Ende des laufen­ den Geschaftsjahres, wenn die Einziehung zu diesem Stichtag erfolgt, im Obrigen die entsprechende Bilanz zum Ende des vorangegangenen Geschaftsjahres der Gesell­ schaft. h) Die Abfindung ist vom Tage des Beschlusses an mit einem Prozentpunkt Ober dem jeweiligen Basiszinssatz gemaf3. § 247 BGB zu verzinsen und in vier gleichen Jahres­ raten, die erste fallig sechs Monate nach Bekanntgabe des Einziehungsbeschlusses bzw. sechs Monate nach erfolgter AnteilsObertragung, zu zahlen. 1st zu diesem Zeit­ punkt die Abfindung noch nicht festgestellt, so sind angemessene Abschlagszahlungen entsprechend den in Satz 1 festgelegten Raten zu leisten. \nDer zur Zahlung der Abfin­ dung Verpflichtete ist zu einer frOheren vollstandigen oder teilweisen Zahlung berech­ tigt. \nDie Zinszahlung erfolgt zusammen mit der jeweiligen Jahresrate. \nWird zur Durch­ fOhrung der Einziehung eine Herabsetzung des Stammkapitals beschlossen, so kann die Zahlung der Abfindung nicht vor Ablauf des Sperrjahres gefordert werden. i) Anstelle eines eingezogenen Geschaftsanteils kann durch Gesellschafterbeschluss ein neuer gebildet werden. j) Wird ein Geschaftsanteil gepfandet, so ist die Gesellschaft berechtigt, den Pfandglau­ biger zu befriedigen. \nDem betroffenen Gesellschafter steht hierbei ein Widerspruchs­ recht nicht zu.",
+    "entities": [
+        {
+            "id": 2524,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 16
+        },
+        {
+            "id": 2522,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 101
+        },
+        {
+            "id": 2523,
+            "label": "Subsection",
+            "start_offset": 102,
+            "end_offset": 3724
+        },
+        {
+            "id": 2526,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2272
+        },
+        {
+            "id": 2527,
+            "label": "Green Flag",
+            "start_offset": 2273,
+            "end_offset": 2931
+        },
+        {
+            "id": 2528,
+            "label": "Green Flag",
+            "start_offset": 2931,
+            "end_offset": 3724
+        },
+        {
+            "id": 2521,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        },
+        {
+            "id": 2525,
+            "label": "Einziehung",
+            "start_offset": 16,
+            "end_offset": 3724
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Rückforderung (1) Die Einziehung von Aktien mit Zustimmung der betroffenen Partei ist zulässig. (2) Die Zustimmung der betroffenen Partei muss nicht eingeholt werden, wenn: (a) das Festmachen des Aktionärs das Insolvenzverfahren eröffnet hat und nicht innerhalb von drei Monaten wieder widerrufen wird oder wenn die Eröffnung abgelehnt wird; (b) wenn der Glaube des Aktionärs gewaltsam ist;c) in der Person des Aktionärs gibt es einen wichtigen Grund, der seinen Ausschluss rechtfertigt, d. h. wenn der Aktionär präventiv oder grob verhandelbar ist;d) Anstelle der Einziehung kann im Fall von Absatz 1 wie im Fall von Absatz 2 die notariell beglaubigte Gesellschaftsversammlung die Übertragung des Anteils der Gesellschaft oder Teile davon auf die Gesellschaft, auf der Grundlage des Vertrages oder auf der Grundlage des Vertrages sein.Im Falle einer Übertragung auf einen Partner oder einen Dritten gilt Absatz 2 Buchstaben g und h auch im Falle einer Übertragung auf einen Partner oder einen Dritten mit der Mafia, dass die Übertragung nicht durch die Gesellschaft, sondern durch den Erwerber fällig ist. Die Übertragung wird wirksam, sobald die Abfindung erfolgt.e) Bei Entscheidungen nach Absatz 2 wird das betreffende Mitglied von den Stimmrechten ausgeschlossen. f) Von der Entscheidung des Aktionärs, die die Einziehung oder Übertragung der Aktien an die Gesellschaft anordnet, werden die Stimmrechte des betreffenden Mitglieds ausgesetzt. g) DIm Falle des betreffenden Aktionärs erfolgt eine Abfindung, die anhand des Anteils des Gesellschaftsgewinns in der Bilanz und in den Kapitalforderungen der Gesellschaft aufgrund ihrer regelmäßigen Einlage bestimmt wird. Grundlage für die Abfindung ist die Handelsbilanz der Gesellschaft, die gemäß den steuerrechtlichen Vorschriften aufgestellt wird.h) Ab dem Datum der Entscheidung wird der Ausgleich zu einem Prozentpunkt über dem jeweiligen Basiszinssatz gemäß § 247 BGB und in vier derselben Jahre, den ersten sechs Monaten nach dem Datum der Entscheidung, zum Zinssatz gemäß § 247 BGB gezahlt.Wurde der Ausgleich zu diesem Zeitpunkt noch nicht festgestellt, so erfolgt eine angemessene Abzugszahlung nach den Sätzen des ersten Satzes. Der zur Zahlung verpflichtete Zahlungspflichtige hat Anspruch auf eine vollständige oder teilweise Zahlung.Wird eine Herabsetzung des Grundkapitals zur Durchführung der Rückforderung beschlossen, so kann die Zahlung der Entschädigung nicht vor Ablauf des Sperrjahres verlangt werden. i) Statt eines eingesammelten Anteils der Gesellschaft kann eine neue Aktie durch eine Aktionärsentscheidung gebildet werden. j) Wird ein Anteil der Gesellschaft verpfändet, wird die Gesellschaft neu verhandelt.In diesem Fall ist der betroffene Partner nicht berechtigt, Einwände zu erheben."
+}

@@ -1,0 +1,93 @@
+{
+    "id": 557,
+    "text": "§ 9 Gesellschafterversammlung 9.1. \nDie Gesellschafterversammlung ist zumindest einmal jährlich einzuberufen. \nSie ist weiter einzuberufen, wenn es im Wohl oder Interesse der Gesellschaft erforderlich erscheint oder ein Gesellschafter es verlangt. \nSie wird durch die Geschäftsführung einberufen, jeder Geschäftsführer ist dazu allein berechtigt. \nPersonen, die in das Handelsregister als Geschäftsführer eingetragen sind, gelten insoweit als befugt. \n 9.2. \nAlle Gesellschafter sind zur Versammlung mit einer Frist von mindestens zwei Wochen unter Angabe von Ort, Zeit und Tagesordnung zu laden. \nDie Ladung erfolgt in Textform an die letzte bekannte Adresse des Gesellschafters. \nDer Lauf der Frist beginnt mit dem der Absendung folgenden Tag. \nDer Tag der Versammlung wird bei der Berechnung der Frist nicht mitgezählt. \nDie Tagesordnung kann im Nachhinein ergänzt werden; die Ergänzung muss in Textform erfolgen und den Gesellschaftern spätestens drei Tage vor der Versammlung zugehen. 9.3. \nSofern alle Gesellschafter einverstanden sind, können sie jederzeit unter Verzicht auf Form- und Fristerfordernisse zu einer Versammlung zusammentreten. 9.4. \nDie Versammlung findet am Verwaltungssitz der Gesellschaft statt; für einen anderen Versammlungsort ist die Zustimmung aller Gesellschafter erforderlich. 9.5. \nDie Versammlung wird von dem Gesellschafter mit der höchsten Kapitalbeteiligung geleitet. \nBei Kapitalgleichheit leitet die Versammlung der älteste Gesellschafter bzw. der älteste Vertreter eines Gesellschafters. \nDie Gesellschafterversammlung kann mit einfacher Mehrheit etwas anderes bestimmen. \nDer Versammlungsleiter stellt insbesondere die Tagesordnungspunkte zur Abstimmung. \nDie Reihenfolge der Abstimmung sowie deren Verfahren bestimmt er nach billigem Ermessen. \nDer Versammlungsleiter stellt die Beschlüsse fest und verkündet sie. 9.6. \nDie Versammlung kann per Videokonferenz stattfinden, sofern alle Gesellschafter in zumutbarer Entfernung Zugang zu einer Videoanlage haben. Über die Art der Durchführung der Versammlung entscheidet die Geschäftsführung in freiem Ermessen. 9.7. \nDie Versammlung ist nur dann beschlussfähig, wenn alle stimmberechtigten Stimmen vertreten sind. \nKommt eine beschlussfähige Versammlung nicht zustande, so kann eine zweite Versammlung einberufen werden, die dann ohne Rücksicht auf die Zahl der vertretenen Stimmen beschlussfähig ist. \nFür die Einberufung sind die Bestimmungen in Ziffer 9.2 maßgebend mit folgenden Ergänzungen: Die Einberufung muss innerhalb von zwei Wochen nach der fehlgeschlagenen Versammlung erfolgen. \nSie kann auch durch Beschluss der in der Hauptsache beschlussunfähigen Versammlung erfolgen. \nDie Ladungsfrist kann auf eine Woche verkürzt werden. \nIn der Ladung ist auf die erste fehlgeschlagene Versammlung und darauf hinzuweisen, dass die neue Versammlung ohne Rücksicht auf die Zahl der vertretenen Stimmen beschlussfähig ist. \n 9.8. \nDer Leiter der Versammlung kann einen Protokollführer und weitere Berater, die von der Gesellschaft beauftragt sind, hinzuziehen. 9.9. \nSoweit über die Verhandlung der Versammlung nicht eine notarielle Niederschrift aufgenommen wird, ist von dem Leiter bzw. dem Protokollführer lediglich zu Beweiszwecken ein Protokoll anzufertigen. \nDarin sind Ort und Tag der Sitzung, die Teilnehmer, die Gegenstände der Tagesordnung, der wesentliche Inhalt der Verhandlung und die Beschlüsse der Versammlung anzugeben. \nDas Protokoll ist von dem Leiter zu unterzeichnen und jedem Gesellschafter in Kopie zu übersenden. \nDas Protokoll soll auf der nächsten Versammlung genehmigt werden.",
+    "entities": [
+        {
+            "id": 503,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 451
+        },
+        {
+            "id": 505,
+            "label": "Subsection",
+            "start_offset": 990,
+            "end_offset": 1148
+        },
+        {
+            "id": 511,
+            "label": "Subsection",
+            "start_offset": 2101,
+            "end_offset": 2912
+        },
+        {
+            "id": 504,
+            "label": "Subsection",
+            "start_offset": 453,
+            "end_offset": 989
+        },
+        {
+            "id": 508,
+            "label": "Subsection",
+            "start_offset": 1856,
+            "end_offset": 2100
+        },
+        {
+            "id": 512,
+            "label": "Subsection",
+            "start_offset": 2915,
+            "end_offset": 3050
+        },
+        {
+            "id": 513,
+            "label": "Subsection",
+            "start_offset": 3051,
+            "end_offset": 3592
+        },
+        {
+            "id": 502,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 506,
+            "label": "Subsection",
+            "start_offset": 1149,
+            "end_offset": 1308
+        },
+        {
+            "id": 515,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 30,
+            "end_offset": 3592
+        },
+        {
+            "id": 516,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2105
+        },
+        {
+            "id": 507,
+            "label": "Subsection",
+            "start_offset": 1309,
+            "end_offset": 1855
+        },
+        {
+            "id": 514,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 517,
+            "label": "Green Flag",
+            "start_offset": 2582,
+            "end_offset": 3592
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Hauptversammlung 9.1. Die Hauptversammlung wird mindestens einmal jährlich einberufen. Sie wird weiterhin einberufen, wenn sie im Interesse oder Interesse der Gesellschaft erforderlich erscheint oder wenn ein Partner dies verlangt. Sie wird vom Vorstand einberufen, jeder Geschäftsführer ist dazu allein berechtigt.9.2. Alle Partner werden mit einer Frist von mindestens zwei Wochen zu dem Treffen eingeladen, wobei Ort, Uhrzeit und Tagesordnung angegeben werden. Die Ladung erfolgt in Textform an die letzte bekannte Anschrift des Partners. Der Ablauf der Frist beginnt mit dem Tag nach dem Versand. Der Tag der Sitzung ist der Tag der Berechnung des FDie Tagesordnung kann im Nachhinein ergänzt werden; die Ergänzung muss in Textform erfolgen und den Aktionären spätestens drei Tage vor der Sitzung zugestellt werden. 9.3. Stimmen alle Aktionäre zu, so können sie jederzeit in einer Sitzung zusammentreten, wenn keine formalen und zeitlichen Voraussetzungen vorliegen. 9.4. Die Sitzung findet am Verwaltungssitz der Versammlung statt.9.5. Die Hauptversammlung wird von dem Aktionär mit dem höchsten Aktienkapital geleitet. Im Falle des Eigenkapitals wird die Hauptversammlung von dem ältesten Aktionär oder dem ältesten Vertreter eines Aktionärs geleitet. Die Hauptversammlung kann mit einfacher Mehrheit etwas anderes sein.Insbesondere legt der Leiter der Versammlung die Tagesordnungspunkte zur Abstimmung. Er bestimmt die Reihenfolge der Abstimmung und deren Verfahren nach seinem Ermessen. Der Leiter der Versammlung legt die Beschlüsse fest und gibt sie bekannt. 9.6. Die Versammlung kann auf Videokonferenz stattfinden, sofern alle Aktionäre Zugang zu einem Videosystem in angemessener Entfernung haben.9.7. Die Sitzung ist nur beschlussfähig, wenn alle stimmberechtigten Stimmen vertreten sind. Wird ein Beschluss nicht erreicht, so kann eine zweite Sitzung einberufen werden, die ohne Rücksicht auf die Anzahl der vertretenen Stimmen beschlussfähig sein kann.Die Einberufung unterliegt den Bestimmungen des Absatzes 9.2 mit folgenden Ergänzungen: Die Einberufung muss innerhalb von zwei Wochen nach der Einberufung erfolgen. Sie kann auch durch im Wesentlichen unhaltbare Entscheidung der Versammlung erfolgen. Die Einberufungsfrist kann auf eine Woche verkürzt werden. In der Einberufung erfolgt die Einberufung auf die erste Einberufung und damit auf die erste Einberufung.9.8. Der Leiter der Versammlung kann einen vom Unternehmen bestellten Rekordhalter und andere Berater konsultieren. 9.9. Sofern in der Anhörung der Versammlung kein notarieller Bericht aufgezeichnet ist, hat der Leiter oder der Inhaber der AufzeichnungenDas Protokoll wird vom Leiter unterzeichnet und jedem Mitglied in einer Abschrift zugeleitet. Das Protokoll wird in der nächsten Sitzung genehmigt."
+}

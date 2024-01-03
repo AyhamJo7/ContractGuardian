@@ -1,0 +1,45 @@
+{
+    "id": 611,
+    "text": "§ 7 Gewinnverwendung Die Gesellschafterversammlung beschließt nach freiem Ermessen über die Gewinnverwendung im Rahmen des § 29 GmbHG, § 29 Abs. 4 GmbHG bleibt unberührt. \nDie quotalen Gewinnausschüttungen sind mit Zustimmung der beeinträchtigten Gesellschafter zulässig.",
+    "entities": [
+        {
+            "id": 929,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 930,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 171
+        },
+        {
+            "id": 931,
+            "label": "Subsection",
+            "start_offset": 172,
+            "end_offset": 271
+        },
+        {
+            "id": 932,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 271
+        },
+        {
+            "id": 927,
+            "label": "Ergebnisverwendung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 928,
+            "label": "Ergebnisverwendung",
+            "start_offset": 21,
+            "end_offset": 271
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Gewinnverwendung Die Hauptversammlung entscheidet nach eigenem Ermessen über die Gewinnverwendung im Rahmen des § 29 GmbHG, § 29 Abs. 4 GmbHG.Die Quotenausschüttungen sind mit Zustimmung der betroffenen Aktionäre zulässig."
+}

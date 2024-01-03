@@ -1,0 +1,39 @@
+{
+    "id": 805,
+    "text": "§ 18 Zugang schriftlicher Erklärungen Für alle insbesondere in diesem Vertrag vorgesehenen schriftlichen Mitteilungen und Erklärungen — der Gesellschaft an Gesellschafter, — der Gesellschafter an die Gesellschaft und — der Gesellschafter untereinander gilt jeweils: a) Jeder Gesellschafter hat der Gesellschaft die Anschrift anzugeben, unter der ihm gegenüber schriftliche Mitteilungen und Erklärungen aller Art abzugeben sind. \nEr hat jede Änderung dieser Anschrift unverzüglich mitzuteilen, b) Erklärungen an die Gesellschafter sind an die der Gesellschaft zuletzt nach lit, a) angegebenen Anschriften der Gesellschafter zu richten, c) ist für Erklärungen eine Frist bestimmt, so genügt zur Wahrung der Frist die rechtzeitige Aufgabe des Briefes zur Post an die angegebene Anschrift, d) die schriftlichen Mitteilungen und Erklärungen sind entweder gegen Empfangsbekenntnis zu übergeben oder per Einwurf-Einschreiben zu übersenden.",
+    "entities": [
+        {
+            "id": 2366,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 932
+        },
+        {
+            "id": 2362,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 2363,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 932
+        },
+        {
+            "id": 2365,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 932
+        },
+        {
+            "id": 2364,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 18 Zugang zu schriftlichen Erklärungen Alle schriftlichen Mitteilungen und Erklärungen — die Gesellschaft an ihre Mitglieder — der Gesellschafter an die Gesellschaft und — der Gesellschafter an einander, wie insbesondere in diesem Vertrag vorgesehen, unterliegen folgenden Bedingungen:b) Erklärungen an die Mitglieder der Gesellschaft sind an die Anschriften der Mitglieder zu richten, die zuletzt gemäß den Buchstaben a), c) angegeben wurden, wenn eine Frist für Erklärungen festgelegt ist, so genügt die rechtzeitige Zustellung des Schreibens per Post an die angegebene Anschrift, um sicherzustellen, dass die Frist eingehalten wird.Mitteilungen und Erklärungen müssen entweder gegen Empfangsbestätigung oder per Einschreiben erfolgen."
+}

@@ -1,0 +1,75 @@
+{
+    "id": 752,
+    "text": "§5 Geschäftsführung, Vertretung 1. \nDie Gesellschaft hat einen oder mehrere Geschäftsführer. \nSind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei von ihnen gemeinschaftlich oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. \nHat die Gesellschaft nur einen Geschäftsführer, so vertritt dieser die Gesellschaft allein, unabhängig davon, ob von vornherein nur ein Geschäftsführer bestellt worden ist oder nachträglich alle bis auf einen weggefallen sind. 2. \nDurch Gesellschafterbeschluss kann allen oder einzelnen Geschäftsführern Einzelvertretungsbefugnis und/oder Befreiung von dem Verbot, im Namen derGesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen, erteilt werden. 3. \nIm Falle der Liquidation gelten die vorstehenden Ziffern 1 und 2 für Liquidatoren entsprechend. -34. \nDie Gesellschafterversammlung kann jederzeit durch Beschluss die Vornähme von Rechtsgeschäften oder Arten von Rechtsgeschäften von der vorherigen ZuStimmung der Gesellschafter^ersammlung abhängig machen. 5. \nEin Geschäftsführer bedarf für folgende Maßnahmen im Innenverhältnis der ZuStimmung der Gesellschafterversammlung: a) Erwerb, Veräußerung und Belastung von Grundstücken und grundstücksgleichen Rechten; b) Errichtung von Gebäuden oder Umbauten; c) Anschaffung von Wirtschaftsgütern des Anlagevermögens von Jeweils mehr als EUR 10.000,OOAnschaffungskosten; d) Abschluss von Miet- und Pachtverträgen; e) Einstellung von Mitarbeitern mit einem Jahresgehalt von mehr als EUR 30.000,00 einschließlich etwaiger Zuschläge, Tantiemen, Provisionen sowie der Erteilung von Prokura, Handlungsvollmachten und Pensionszusagen; f) Errichtung von Zweigniederlassungen; g) Erwerb, Veräußerung und Gründung von Unternehmen oder Beteiligungen; h) Aufnahme von Krediten und Anleihen, Eingehen von Wechselverbindlichkeiten, Bürgschaften und Garantieversprechen; i) Änderung der Geschäftspolitik des Unternehmens.",
+    "entities": [
+        {
+            "id": 1958,
+            "label": "Subsection",
+            "start_offset": 1083,
+            "end_offset": 1978
+        },
+        {
+            "id": 1959,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 19
+        },
+        {
+            "id": 1960,
+            "label": "Geschäftsführung",
+            "start_offset": 36,
+            "end_offset": 504
+        },
+        {
+            "id": 1953,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 1956,
+            "label": "Subsection",
+            "start_offset": 773,
+            "end_offset": 874
+        },
+        {
+            "id": 1957,
+            "label": "Subsection",
+            "start_offset": 875,
+            "end_offset": 1082
+        },
+        {
+            "id": 1954,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 504
+        },
+        {
+            "id": 1955,
+            "label": "Subsection",
+            "start_offset": 506,
+            "end_offset": 772
+        },
+        {
+            "id": 1961,
+            "label": "Vertretung",
+            "start_offset": 21,
+            "end_offset": 32
+        },
+        {
+            "id": 1962,
+            "label": "Vertretung",
+            "start_offset": 506,
+            "end_offset": 1978
+        },
+        {
+            "id": 1963,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1978
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Geschäftsführung, Vertretung 1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. Werden mehrere Geschäftsführer bestellt, ist die Gesellschaft gemeinsam durch zwei von ihnen oder durch einen Geschäftsführer in Gemeinschaft mit einem Bevollmächtigten vertreten. Hat die Gesellschaft nur einen Geschäftsführer, vertritt die Gesellschaft das Unternehmen allein, unabhängig davon, ob von Anfang anIm Falle der Liquidation ist nur ein Geschäftsführer bestellt worden oder alle, aber in der Folge einer weggelassen worden. 2. Durch Entscheidung des Aktionärs können alle oder einzelne Geschäftsführer eine individuelle Vertretungsbefugnis und/oder Befreiung von dem Verbot der Durchführung von Rechtsgeschäften im Namen der Gesellschaft in ihrem eigenen Namen oder als Vertreter eines Dritten erhalten. 3.Die Hauptversammlung kann jederzeit durch Beschluss Rechtsgeschäfte oder Arten von Rechtsgeschäften von der vorherigen Zustimmung der Hauptversammlung abhängig machen. 5. Ein Geschäftsführer verlangt für die folgenden internen Maßnahmen die Zustimmung der Hauptversammlung gemäß den Absätzen 1 und 2.e) Einstellung von Arbeitnehmern mit einem Jahresgehalt von mehr als 30.000,00 EUR einschließlich etwaiger Zuschläge;(f) Niederlassung von Zweigniederlassungen; (g) Erwerb, Veräußerung und Gründung von Unternehmen oder Beteiligungen; (h) Anleihen und Anleihen, Annahme von Umtauschverbindlichkeiten, Garantien und Garantien; (i) Änderung der Geschäftspolitik der Gesellschaft."
+}

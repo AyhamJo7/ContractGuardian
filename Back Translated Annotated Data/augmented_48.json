@@ -1,0 +1,93 @@
+{
+    "id": 563,
+    "text": "§ 15 Geschäftsjahr, Jahresabschluss und Gewinnverwendung 15.1. \nGeschäftsjahr ist das Kalenderjahr. \nDas erste Geschäftsjahr ist ein Rumpfgeschäftsjahr und beginnt mit Aufnahme der Geschäftstätigkeit, spätestens jedoch mit der Eintragung der Gesellschaft in das Handelsregister. 15.2. \nDer Jahresabschluss und gegebenenfalls der Lagebericht sind von der Geschäftsführung in der gesetzlich vorgeschriebenen Frist aufzustellen und den Gesellschaftern unverzüglich nach Fertigstellung mit einem Vorschlag zur Gewinnverwendung zur Feststellung vorzulegen. \n 15.3. \nDer Gewinn ist zunächst zu verwenden, um einen etwaigen Verlustvortrag auszugleichen. \nSodann wird der verbleibende Gewinn als Gewinn vorgetragen. \nBeschließen die Gesellschafter die Ausschüttung, so steht der Gewinn den Gesellschaftern im Verhältnis ihrer Geschäftsanteile zu, soweit sie nicht unter Zustimmung des oder der nachteilig betroffenen Gesellschafter etwas anderes beschließen.",
+    "entities": [
+        {
+            "id": 565,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 56
+        },
+        {
+            "id": 566,
+            "label": "Subsection",
+            "start_offset": 57,
+            "end_offset": 278
+        },
+        {
+            "id": 567,
+            "label": "Subsection",
+            "start_offset": 279,
+            "end_offset": 552
+        },
+        {
+            "id": 568,
+            "label": "Subsection",
+            "start_offset": 554,
+            "end_offset": 950
+        },
+        {
+            "id": 576,
+            "label": "Orange Flag",
+            "start_offset": 64,
+            "end_offset": 277
+        },
+        {
+            "id": 578,
+            "label": "Green Flag",
+            "start_offset": 279,
+            "end_offset": 950
+        },
+        {
+            "id": 569,
+            "label": "Geschäftsjahr",
+            "start_offset": 5,
+            "end_offset": 18
+        },
+        {
+            "id": 572,
+            "label": "Gewinnverteilung",
+            "start_offset": 561,
+            "end_offset": 950
+        },
+        {
+            "id": 570,
+            "label": "Geschäftsjahr",
+            "start_offset": 64,
+            "end_offset": 278
+        },
+        {
+            "id": 571,
+            "label": "Gewinnverteilung",
+            "start_offset": 40,
+            "end_offset": 57
+        },
+        {
+            "id": 573,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 20,
+            "end_offset": 36
+        },
+        {
+            "id": 574,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 286,
+            "end_offset": 552
+        },
+        {
+            "id": 575,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 577,
+            "label": "Green Flag",
+            "start_offset": 20,
+            "end_offset": 56
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 15 Geschäftsjahr, Jahresabschluss und Gewinnauslastung 15.1. Das Geschäftsjahr ist das Kalenderjahr. Das erste Geschäftsjahr ist ein Torsogeschäftsjahr und beginnt mit dem Beginn der Geschäftstätigkeit, spätestens aber mit der Eintragung der Gesellschaft in das Handelsregister. 15.2. Der Jahresabschluss und gegebenenfalls der Lagebericht sind gesetzlich vorgeschrieben.15.3. Der Gewinn wird zunächst zur Kompensation der übertragenen Verluste verwendet. Dann wird der verbleibende Gewinn als Gewinn dargestellt. Entscheiden sich die Aktionäre für die Ausschüttung des Gewinns, so wird der Gewinn wie folgt an die Aktionäre gezahlt:das Verhältnis ihrer Aktien zu ihren Aktien, sofern sie sich nicht anders entscheiden, mit Zustimmung des Partners oder der betroffenen Gesellschafter."
+}

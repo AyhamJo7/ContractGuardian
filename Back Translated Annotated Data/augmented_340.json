@@ -1,0 +1,39 @@
+{
+    "id": 898,
+    "text": "§ 20 Salvatorische Klausel Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam sein oder werden, so wird die Wirksamkeit der Satzung im Obrigen hierdurch nicht berOhrt. \nDie unwirksame, nichtige oder anfechtbare Bestimmung ist so umzudeuten oder durch Satzungsanderung zu andern bzw. zu erganzen, dass der damit verfolgte Zweck im Rahmen der gesetzlichen Bestimmungen soweit wie moglich erreicht wird. \nDasselbe gilt bei Vorhandensein van Lucken.",
+    "entities": [
+        {
+            "id": 3019,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 3020,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 469
+        },
+        {
+            "id": 3021,
+            "label": "Salvatorische Klausel",
+            "start_offset": 5,
+            "end_offset": 26
+        },
+        {
+            "id": 3022,
+            "label": "Salvatorische Klausel",
+            "start_offset": 27,
+            "end_offset": 469
+        },
+        {
+            "id": 3023,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 469
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 20 Abfindungsklausel Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise ungültig sein oder werden, so wird die Gültigkeit der Satzung in der vorstehenden Fassung nicht berührt. Die unwirksame, nichtige oder anfechtbare Bestimmung wird dadurch durch Änderung der Satzung neu ausgelegt, geändert oder ergänzt, dass der im Rahmen der gesetzlichen Bestimmungen verfolgte Zweck so weit wie möglich ist:Das gleiche gilt für die Anwesenheit von van Lucken."
+}

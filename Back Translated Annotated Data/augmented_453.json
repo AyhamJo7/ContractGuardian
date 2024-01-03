@@ -1,0 +1,45 @@
+{
+    "id": 1003,
+    "text": "§ 6 Geschäftsführung\n\n(1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist nur ein Geschäftsführer bestellt, so vertritt dieser die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so sind je zwei Geschäftsführer oder ein Geschäftsführer mit einem Prokuristen gemeinschaftlich zur Vertretung der Gesellschaft berechtigt. Einzelvertretungsbefugnis kann erteilt werden. Den Geschäftsführern kann weiter gestattet werden, bei der Vertretung der Gesellschaft zugleich in Vertretung eines Dritten und/oder in eigenem Namen zu handeln.\n\n(2) Die Geschäftsführer führen die Geschäfte der Gesellschaft nach Maßgabe der gesetzlichen Bestimmungen, der Vorschriften dieses Gesellschaftsvertrages sowie der Beschlüsse der Gesellschafter. Sie sind gegenüber der Gesellschaft verpflichtet, die Bindungen einzuhalten, die ihnen der Anstellungsvertrag auferlegt.",
+    "entities": [
+        {
+            "id": 3721,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 20
+        },
+        {
+            "id": 3724,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 868
+        },
+        {
+            "id": 3719,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 3722,
+            "label": "Subsection",
+            "start_offset": 554,
+            "end_offset": 868
+        },
+        {
+            "id": 3720,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 552
+        },
+        {
+            "id": 3723,
+            "label": "Geschäftsführung",
+            "start_offset": 22,
+            "end_offset": 868
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Geschäftsführung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. Wird nur ein Geschäftsführer bestellt, vertritt er das Unternehmen allein. Werden mehrere Geschäftsführer bestellt, sind zwei Geschäftsführer oder ein Geschäftsführer zusammen mit einem Geschäftsführer berechtigt, das Unternehmen zu vertreten.(2) Die Geschäftsführer führen die Geschäfte der Gesellschaft nach den gesetzlichen Bestimmungen, den Bestimmungen dieses Gesellschaftsvertrages und den Entscheidungen der Aktionäre. Sie sind verpflichtet,die ihnen durch den Arbeitsvertrag auferlegten Verpflichtungen zu erfüllen."
+}

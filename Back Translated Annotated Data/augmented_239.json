@@ -1,0 +1,15 @@
+{
+    "id": 787,
+    "text": "Gesellschaftsvertrag I.Allgemeine Bestimmungen",
+    "entities": [
+        {
+            "id": 2204,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 20
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Sozialvertrag I.Allgemeine Bestimmungen"
+}

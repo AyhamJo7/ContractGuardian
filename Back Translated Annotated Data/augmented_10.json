@@ -1,0 +1,51 @@
+{
+    "id": 543,
+    "text": "§ 10 Erbfolge (1) Im Falle des Todes eines Gesellschafters wird die Gesellschaft mit dessen Erben oder anderweitig durch Verfügung von Todes wegen Begünstigten fortgeführt. (2) Mehrere Rechtsnachfolger haben die Rechte und Pflichten der Gesellschaft gegenüber durch einen gemeinschaftlichen Vertreter oder durch einen Testamentsvollstrecker erfüllen zu lassen. \nSolange dieser nicht bestimmt ist, ruhen die Gesellschafterrechte mit Ausnahme des Gewinnbezugsrechtes. (3) Der Geschäftsanteil des verstorbenen Gesellschafters kann innerhalb von drei Monaten seit Bekanntwerden des Eintritts der Erbfolge eingezogen werden. \nDem ausscheidenden Rechtsnachfolger steht eine Abfindung zu.",
+    "entities": [
+        {
+            "id": 394,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 13
+        },
+        {
+            "id": 395,
+            "label": "Subsection",
+            "start_offset": 14,
+            "end_offset": 172
+        },
+        {
+            "id": 397,
+            "label": "Subsection",
+            "start_offset": 466,
+            "end_offset": 681
+        },
+        {
+            "id": 396,
+            "label": "Subsection",
+            "start_offset": 173,
+            "end_offset": 465
+        },
+        {
+            "id": 398,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 399,
+            "label": "Erbfolge",
+            "start_offset": 14,
+            "end_offset": 681
+        },
+        {
+            "id": 400,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 681
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Nachfolge (1) Im Falle des Todes eines Gesellschafters wird die Gesellschaft mit ihren Erben oder auf andere Weise durch Todesurteil wegen der Begünstigten fortbestehen. (2) Mehrere Nachfolger haben die Rechte und Pflichten der Gesellschaft, die von einem gemeinsamen Vertreter oder von einem Testamentsvollstrecker zu erfüllen sind.(3) Der Anteil des verstorbenen Aktionärs kann innerhalb von drei Monaten nach Bekanntwerden der Nachfolge eingezogen werden. Dem scheidenden Nachfolger wird eine Abfindung gewährt."
+}

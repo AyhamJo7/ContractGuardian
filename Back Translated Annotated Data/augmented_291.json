@@ -1,0 +1,57 @@
+{
+    "id": 858,
+    "text": "§3 Stammkapital (1) Das Stammkapital der Gesellschaft betragt EUR 25.000 (in Worten: Euro fiinfundzwanzig­ tausend) und ist eingeteilt in 25.000 (in Worten: fiinfundzwanzigtausend) Geschii.ftsantei­ le im Nennbetrag von jeweils EUR 1,00. (2) Hiervon iibernimmt Herr Kjell Fischer, geboren am 28. \nMai 1983, wohnhaft in Hamburg, samtliche 25.000 (in Worten: fiinfundzwanzigtausend) Geschaftsanteile mit den laufenden Nummern 1 bis 25.000 im Nennbetrag von jeweils EUR 1,00. (3) Jeder Geschaftsanteil ist sofort in H6he von 50 % seines Nennbetrages in bar einzuzahlen. \nDer Restbetrag ist auf Anforderung der Gesellschafterversammlung fallig.",
+    "entities": [
+        {
+            "id": 2710,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 2714,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 16
+        },
+        {
+            "id": 2715,
+            "label": "Stammkapital",
+            "start_offset": 19,
+            "end_offset": 236
+        },
+        {
+            "id": 2716,
+            "label": "Stammeinlagen",
+            "start_offset": 238,
+            "end_offset": 640
+        },
+        {
+            "id": 2717,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 640
+        },
+        {
+            "id": 2711,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 237
+        },
+        {
+            "id": 2712,
+            "label": "Subsection",
+            "start_offset": 238,
+            "end_offset": 472
+        },
+        {
+            "id": 2713,
+            "label": "Subsection",
+            "start_offset": 473,
+            "end_offset": 640
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital (1) Das Grundkapital der Gesellschaft beläuft sich auf 25.000 EUR (in Worten: 25 000 EUR) und ist in 25.000 (in Worten: 25 000 EUR) Aktien im Nennbetrag von jeweils 1,00 EUR unterteilt. (2) Herr Kjell Fischer, geboren am 28. Mai 1983, lebt zusammen mit 25.000 (in Worten: 25 000) Aktien in Hamburg.(3) Jede Aktie ist unverzüglich in Höhe von 50 % ihres Nennbetrags in bar zu zahlen; der Restbetrag ist auf Antrag der Hauptversammlung fällig."
+}

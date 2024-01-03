@@ -1,0 +1,51 @@
+{
+    "id": 1028,
+    "text": "§ 11 Sonstiges\n\nDie etwaige Unwirksamkeit einzelner Bestimmungen dieser Satzung hat auf die Wirksamkeit der Satzung in ihren übrigen Teilen keinen Einfluss. Eine eventuell unwirksame Bestimmung ist durch eine solche zu ersetzen, die ihrem wirtschaftlichen Zweck unter Berücksichtigung des Satzungsinhaltes am nächsten kommt. Gleiches gilt, soweit die Satzung lückenhaft sein sollte.",
+    "entities": [
+        {
+            "id": 2006,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2007,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 387
+        },
+        {
+            "id": 3898,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 382
+        },
+        {
+            "id": 3899,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 3900,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 16,
+            "end_offset": 382
+        },
+        {
+            "id": 3901,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 382
+        },
+        {
+            "id": 2009,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 15,
+            "end_offset": 387
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Sonstiges Die mögliche Unwirksamkeit einzelner Bestimmungen dieser Satzung hat keinen Einfluss auf die Gültigkeit der Satzung in ihren übrigen Teilen. Eine möglicherweise unwirksame Bestimmung muss durch eine ersetzt werden, die ihrem wirtschaftlichen Zweck am nächsten kommt, unter Berücksichtigung des Inhalts der Satzung. Gleiches gilt, soweit die Satzung unvollständig sein sollte."
+}

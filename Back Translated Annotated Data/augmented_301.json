@@ -1,0 +1,39 @@
+{
+    "id": 868,
+    "text": "§ 13 Grfindungsaufwand Die Kosten der Griindung (Kosten fur Notar, Registergericht, Veroffentlichung) tragt die Gesell­ schaft bis zu einem Betrag von EUR 2.500.",
+    "entities": [
+        {
+            "id": 2785,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2786,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 161
+        },
+        {
+            "id": 2790,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 161
+        },
+        {
+            "id": 2787,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 23
+        },
+        {
+            "id": 2788,
+            "label": "Kosten",
+            "start_offset": 23,
+            "end_offset": 161
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Die Kosten der Mahlung (Kosten für Notar, Registergericht, Veröffentlichung) trägt das Unternehmen bis zu einem Betrag von 2.500 EUR."
+}

@@ -1,0 +1,33 @@
+{
+    "id": 531,
+    "text": "§ 16 Sonstiges Die Unwirksamkeit einzelner Bestimmungen dieses Vertrags lässt die Wirksamkeit des Vertrags im Übrigen unberührt. \nIn einem solchen Fall ist die ungültige Bestimmung durch eine zulässige Regelung zu ersetzen, die dem gewünschten wirtschaftlichen Ergebnis am nächsten kommt.",
+    "entities": [
+        {
+            "id": 297,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 288
+        },
+        {
+            "id": 296,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 189,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 14
+        },
+        {
+            "id": 190,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 15,
+            "end_offset": 288
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Sonstiges Die Unwirksamkeit einzelner Bestimmungen dieses Vertrages berührt im Übrigen nicht die Wirksamkeit des Vertrages. In diesem Fall ist die unwirksame Bestimmung durch eine zulässige Regelung zu ersetzen, die dem gewünschten wirtschaftlichen Ergebnis am nächsten kommt."
+}

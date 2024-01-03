@@ -1,0 +1,75 @@
+{
+    "id": 968,
+    "text": "§ 5 Geschäftsführung und Vertretung\n\n(1) Die Gesellschaft hat einen oder mehrere Geschäftsführer.\n(2) Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft einzeln. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten.\n(3) Die Gesellschafterversammlung kann allen oder einzelnen Geschäftsführern die Befugnis zur alleinigen Vertretung der Gesellschaft erteilen, Geschäftsführer von den Beschränkungen des § 181 BGB und vom gesetzlichen Wettbewerbsverbot befreien.\n(4) Die Rechte und Pflichten der Geschäftsführer ergeben sich aus dem Gesetz, dem Anstellungsvertrag und den von den Gesellschaftern gegebenen Weisungen.\n(5) Die Vertretungsbefugnis der Geschäftsführer im Außenverhältnis ist unbeschränkt. Geschäftsführungsmaßnahmen, die über den gewöhnlichen Geschäftsverkehr hinausgehen, bedürfen jedoch im Innenverhältnis der vorherigen Zustimmung der Gesellschafterversammlung.\n(6) Vorstehende Regelung gilt auch für Liquidatoren. Wird die Gesellschaft nach § 66 Abs. 1 GmbHG von den bisherigen Geschäftsführern liquidiert, so besteht deren konkrete Vertretungsbefugnis auch als Liquidatoren fort.",
+    "entities": [
+        {
+            "id": 3506,
+            "label": "Geschäftsführung",
+            "start_offset": 37,
+            "end_offset": 363
+        },
+        {
+            "id": 3505,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 3507,
+            "label": "Vertretung",
+            "start_offset": 98,
+            "end_offset": 1243
+        },
+        {
+            "id": 3498,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3502,
+            "label": "Subsection",
+            "start_offset": 609,
+            "end_offset": 762
+        },
+        {
+            "id": 3501,
+            "label": "Subsection",
+            "start_offset": 364,
+            "end_offset": 608
+        },
+        {
+            "id": 3500,
+            "label": "Subsection",
+            "start_offset": 98,
+            "end_offset": 363
+        },
+        {
+            "id": 3499,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 97
+        },
+        {
+            "id": 3503,
+            "label": "Subsection",
+            "start_offset": 763,
+            "end_offset": 1023
+        },
+        {
+            "id": 3504,
+            "label": "Subsection",
+            "start_offset": 1024,
+            "end_offset": 1243
+        },
+        {
+            "id": 3508,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1243
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Leitung und Vertretung (1) Die Gesellschaft hat einen oder mehrere Geschäftsführer. (2) Wird nur ein Geschäftsführer bestellt, vertritt er das Unternehmen einzeln. Werden mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinsam durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Geschäftsführer vertreten. (3) Die Gesellschafterversammlung(4) Die Rechte und Pflichten der Geschäftsführer ergeben sich aus dem Gesetz, dem Arbeitsvertrag und den Weisungen der Aktionäre. (5) Die Vertretungsbefugnis der GesellschaftDie Geschäftsführungsmaßnahmen, die über die ordentlichen Geschäftsvorgänge hinausgehen, bedürfen jedoch der vorherigen Zustimmung der Hauptversammlung. (6) Die vorstehenden Regeln gelten auch für Liquidatoren. Wird die Gesellschaft von den bisherigen Geschäftsführern gemäß § 66 Abs. 1 GmbHG liquidiert, ist die Gesellschaft konkret für die Geschäftsführung der Gesellschaft verantwortlich.Im Falle einer Gesellschaft, die keine Tochtergesellschaft einer Gesellschaft ist, kann die Gesellschaft auch weiterhin als Liquidator tätig sein."
+}

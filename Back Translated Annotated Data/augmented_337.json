@@ -1,0 +1,39 @@
+{
+    "id": 895,
+    "text": "§ 17 Wettbewerbsverbot Die Gesellschafter und die Geschaftsfi.ihrer unterliegen keinem Wettbewerbsverbot. \nEs ist zulassig, iii gesonderter schriftlicher Vereinbarung (insbesondere in Anstellungsvertragen der Geschaftsfi.ihrer) im Einzelfall oder generell Wettbewerbsverbote zu vereinbaren.",
+    "entities": [
+        {
+            "id": 3004,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 3005,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 290
+        },
+        {
+            "id": 3007,
+            "label": "Wettbewerb",
+            "start_offset": 23,
+            "end_offset": 290
+        },
+        {
+            "id": 3008,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 290
+        },
+        {
+            "id": 3006,
+            "label": "Wettbewerb",
+            "start_offset": 5,
+            "end_offset": 23
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Wettbewerbsverbot Die Gesellschafter und ihre Gesellschafter unterliegen keinem Wettbewerbsverbot. Es ist zulässig, in Einzelfällen oder im allgemeinen Wettbewerbsverbot eine gesonderte schriftliche Vereinbarung (insbesondere in den Arbeitsverträgen der Unternehmen) zu vereinbaren."
+}

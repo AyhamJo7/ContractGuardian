@@ -1,0 +1,63 @@
+{
+    "id": 933,
+    "text": "§7 Einziehung von Geschäftsanteilen\n1. Gesellschafter können die Einziehung von Geschäftsanteilen mit Zustimmung des betroffenen Gesellschafters stets beschließen.\n2. Der Zustimmung des betroffenen Gesellschafters bedarf es nicht, wenn ein wichtiger Grund in der Person und in dem Verhalten des betroffenen Gesellschafters gegeben ist, insbesondere, wenn der Gesellschafter durch nachhaltiges geschäftswidriges Verhalten einen wichtigen Grund zur Einziehung seines Geschäftsanteils gegeben hat, der sein Verbleiben in der Gesellschaft oder für die anderen Gesellschafter unzumutbar erscheinen lässt. Ein wichtiger Grund liegt auch vor, wenn der Dienstleistungsvertrag mit einem Gesellschafter entgegen § 15 endet.\n3. Bei der Beschlussfassung der Gesellschafterversammlung hat der betroffene Gesellschafter kein Stimmrecht.\n4. Statt der Einziehung kann die Gesellschafterversammlung beschließen, dass der Anteil von der Gesellschaft erworben oder auf eine von ihr benannte Person oder Gesellschaft übertragen wird. In diesem Fall ist der Erwerber zur Zahlung des Ausgleichs entsprechend § 7 Ziff. 5. zu verpflichten; die Gesellschaft haftet als Gesamtschuldner für die Zahlung.\n5. Die Einziehungsvergütung besteht in einem Geldbetrag in Höhe desjenigen Anteils am Eigenkapital (Stammkapital zzgl. Kapital- und Gewinnrücklagen und eines etwaigen Bilanzgewinns abzüglich eines etwaigen Bilanzverlustes) der Gesellschaft zum Stichtag, der dem Verhältnis des eingezogenen Geschäftsanteils zum Stammkapital entspricht. Hiervon abzuziehen ist ein Betrag in Höhe desjenigen Teiles des in der Bilanz zum Stichtag ausgewiesenen Bilanzgewinns, der an den ausscheidenden Gesellschafter ausgeschüttet wird. Hinzuzurechnen ist derjenige Betrag, der an den ausscheidenden Gesellschafter ausgeschüttet werden müsste, wenn der auf seinen Geschäftsanteil zeitanteilig entfallende Teil des ausschüttungsfähigen Jahresüberschusses des Geschäftsjahres, in dem die Einziehung erfolgt, voll an ihn ausgeschüttet würde.",
+    "entities": [
+        {
+            "id": 3261,
+            "label": "Einziehung",
+            "start_offset": 36,
+            "end_offset": 1995
+        },
+        {
+            "id": 3254,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3255,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 163
+        },
+        {
+            "id": 3256,
+            "label": "Subsection",
+            "start_offset": 164,
+            "end_offset": 713
+        },
+        {
+            "id": 3257,
+            "label": "Subsection",
+            "start_offset": 714,
+            "end_offset": 822
+        },
+        {
+            "id": 3258,
+            "label": "Subsection",
+            "start_offset": 823,
+            "end_offset": 1176
+        },
+        {
+            "id": 3260,
+            "label": "Einziehung",
+            "start_offset": 2,
+            "end_offset": 35
+        },
+        {
+            "id": 3262,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1995
+        },
+        {
+            "id": 3259,
+            "label": "Subsection",
+            "start_offset": 1177,
+            "end_offset": 1995
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Rückforderung von Aktien 1. Die Aktionäre können jederzeit mit Zustimmung des betreffenden Aktionärs beschließen, Aktien zu sammeln. 2. Die Zustimmung des betroffenen Aktionärs ist nicht erforderlich, wenn es einen wichtigen Grund in der Person und im Verhalten des betreffenden Aktionärs gibt, insbesondere wenn der Aktionär bei einer nachhaltigen Gesellschaft beschäftigt ist.Das tswährige Verhalten hat einen wichtigen Grund für die Beschlagnahme seines Anteils am Geschäft gegeben, der seinen Aufenthalt in der Gesellschaft oder für die anderen Gesellschafter unvernünftig macht. Ein wichtiger Grund ist auch dort, wenn der Servicevertrag mit einem Gesellschafter gegen § 15. endet. 3. In der Auflösung der Gesellschafterversammlung hat die betroffene Gesellschaft4. Statt der Einziehung kann die Hauptversammlung beschließen, dass der Anteil von der Gesellschaft erworben oder auf eine von ihr benannte Person oder Gesellschaft übertragen wird. In diesem Fall ist der Erwerber verpflichtet, die Entschädigung gemäß § 7 Abs. 5 zu zahlen. Die Gesellschaft haftet als Gesamtschuldner für die Zahlung.Die Höhe des Geldes entspricht dem Anteil des Eigenkapitals der Gesellschaft (Kapital plus Kapital- und Gewinnrücklagen und etwaiger Nettogewinn abzüglich etwaiger Verluste in der Bilanz) am Bilanzstichtag, der dem Verhältnis des erworbenen Anteils der Gesellschaft zum Grundkapital entspricht. Von diesem Betrag wird ein Betrag in Höhe dieses Teils der Bilanz abgezogen.Darüber hinaus würde der Betrag, der an den ausgebenden Aktionär zu verteilen wäre, wenn der Anteil des ausschüttbaren Jahresüberschusses des Geschäftsjahres, in dem die Rückforderung erfolgt, der proportional zu seinem Anteil am Unternehmen der Gesellschaft ist, vollständig an sie verteilt würde."
+}

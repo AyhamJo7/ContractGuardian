@@ -1,0 +1,57 @@
+{
+    "id": 940,
+    "text": "§14 Wettbewerbsverbot und Geheimhaltungsverpflichtung\n1. Kein Gesellschafter und kein Geschäftsführer darf während ihrer Zugehörigkeit zu der Gesellschaft mit dieser unmittelbar oder mittelbar in Wettbewerb treten.\n2. Wettbewerb ist jede selbständige oder unselbständige, mittelbare oder unmittelbare Tätigkeit im sachlichen und örtlichen Tätigkeitsbereich der Gesellschaft.\n3. Dieses Wettbewerbsverbot gilt für die Gesellschafter und Geschäftsführer nicht für die von ihnen jeweils zur Zeit des Vertragsabschlusses oder ihres Beitritts zur Gesellschaft vertriebenen Waren und/oder Dienstleistungen der Kraftfahrzeug-Branche sowie für die unmittelbaren oder mittelbaren Beteiligungen an Kraftfahrzeugbetrieben, soweit sie den Vertrieb von Waren und die Erbringung von Dienstleistungen in oder an Vertragswerkstätten der Kraftfahrzeughersteller betreffen. Dieses gilt auch für Kraftfahrzeugbetriebe, welche ein Gesellschafter künftig erwirbt. Das Wettbewerbsverbot gilt ferner nicht für die Übernahme und das Halten von Beteiligungen an börsennotierten Gesellschaften bis zur Höhe von 5 % des stimmberechtigten Kapitals. Im Übrigen gilt dieses Wettbewerbsverbot nur, soweit es rechtlich zulässig vereinbart werden kann.\n4. Die Gesellschafter haben alle vertraulichen Informationen, die sie als Gesellschafter der Gesellschaft über diese und über ihre Mitgesellschafter und deren Unternehmen, Kunden und Partnerbetriebe erhalten, streng geheim zu halten.",
+    "entities": [
+        {
+            "id": 3314,
+            "label": "Subsection",
+            "start_offset": 54,
+            "end_offset": 214
+        },
+        {
+            "id": 3315,
+            "label": "Subsection",
+            "start_offset": 215,
+            "end_offset": 374
+        },
+        {
+            "id": 3316,
+            "label": "Subsection",
+            "start_offset": 375,
+            "end_offset": 1218
+        },
+        {
+            "id": 3317,
+            "label": "Subsection",
+            "start_offset": 1219,
+            "end_offset": 1452
+        },
+        {
+            "id": 3318,
+            "label": "Wettbewerb",
+            "start_offset": 3,
+            "end_offset": 53
+        },
+        {
+            "id": 3319,
+            "label": "Wettbewerb",
+            "start_offset": 54,
+            "end_offset": 1452
+        },
+        {
+            "id": 3320,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1452
+        },
+        {
+            "id": 3313,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 53
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§14 Verbot des Wettbewerbs und der Geheimhaltungspflicht 1. Kein Gesellschafter und kein Geschäftsführer darf während ihrer Mitgliedschaft in der Gesellschaft direkt oder indirekt mit dem Unternehmen in Wettbewerb treten. 2. Der Wettbewerb ist jede selbständige oder abhängige, indirekte oder direkte Tätigkeit im Tätigkeits- und Standortbereich des Unternehmens.a) gilt nicht für die Partner und Geschäftsführer der Waren und/oder Dienstleistungen der Kraftfahrzeugindustrie, die von ihnen zum Zeitpunkt des Vertragsabschlusses oder ihres Beitritts zum Unternehmen vermarktet werden, sowie für die direkte oder indirekte Beteiligung an Kfz-Unternehmen, soweit sie für den Vertrieb von Waren und die Erbringung von Dienstleistungen in oder im Namen des Unternehmens verantwortlich sind;Dies gilt auch für Kfz-Gesellschaften, die ein Aktionär künftig erwerben wird. Darüber hinaus gilt das Wettbewerbsverbot nicht für den Erwerb und die Beteiligung an börsennotierten Gesellschaften bis zu 5 % des stimmberechtigten Kapitals. Darüber hinaus gilt dieses Wettbewerbsverbot nur, soweit es gesetzlich zulässig ist,4. Die Aktionäre halten alle vertraulichen Informationen, die sie als Gesellschafter des Unternehmens erhalten, über sie und über ihre Partner und ihre Unternehmen, Kunden und Partnerunternehmen."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 794,
+    "text": "§ 7 Einberufung von Gesellschafterversammlungen 1. \nDie Gesellschafterversammlungen werden durch die Geschäftsführer einberufen. \nJeder Geschäftsführer ist alleine einberufungsbefugt. 2. \nIn jedem Geschäftsjahr findet innerhalb der gesetzlichen Fristen die ordentliche Gesellschafterversammlung statt, in der insbesondere der Jahresabschluss festzustellen ist. 3. \nAußerordentliche Gesellschafterversammlungen sind einzuberufen, wenn dies im Interesse der Gesellschaft erforderlich erscheint. \nGesellschafter, denen zusammen mindestens 10 vom Hundert der Stimmen gehören, können unter Angabe des Zwecks und der Gründe die Einberufung einer außerordentlichen Gesellschafterversammlung verlangen. \nErfolgt dann nicht binnen 14 Tagen nach diesem Verlangen eine Einberufung durch die Geschäftsführer, so sind die Gesellschafter befugt, die Ladung selbst vorzunehmen. 4. \nDie Einberufung der Gesellschafterversammlung hat schriftlich an sämtliche Gesellschafter mit einer Frist von mindestens 14 Tagen zu erfolgen. \nSoweit die Ladung nicht persönlich übergeben wird, beginnt der Lauf der Frist mit dem Tage der Aufgabe zur Post. \nDer Tag der Versammlung wird nicht mitgerechnet. 5. \nDie Einladung hat den Ort und den Zeitpunkt sowie die Tagesordnung der Gesellschafterversammlung zu enthalten. Über Punkte, die nicht in dieser vorgesehenen Tagesordnung enthalten sind, können Beschlüsse nur gefasst werden, wenn alle Gesellschafter anwesend oder vertreten und mit der Behandlung der betreffenden Punkte einverstanden sind. 6. \nSoweit zwingende Vorschriften nicht entgegenstehen, ist ein Verzicht auf alle satzungsmäßigen oder gesetzlichen Vorschriften über Form und Frist der Ladung zulässig.",
+    "entities": [
+        {
+            "id": 2250,
+            "label": "Subsection",
+            "start_offset": 48,
+            "end_offset": 183
+        },
+        {
+            "id": 2253,
+            "label": "Subsection",
+            "start_offset": 863,
+            "end_offset": 1172
+        },
+        {
+            "id": 2254,
+            "label": "Subsection",
+            "start_offset": 1174,
+            "end_offset": 1516
+        },
+        {
+            "id": 2255,
+            "label": "Subsection",
+            "start_offset": 1518,
+            "end_offset": 1687
+        },
+        {
+            "id": 2256,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 47
+        },
+        {
+            "id": 2257,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 48,
+            "end_offset": 1687
+        },
+        {
+            "id": 2258,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1687
+        },
+        {
+            "id": 2249,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 47
+        },
+        {
+            "id": 2251,
+            "label": "Subsection",
+            "start_offset": 184,
+            "end_offset": 359
+        },
+        {
+            "id": 2252,
+            "label": "Subsection",
+            "start_offset": 361,
+            "end_offset": 862
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 Einberufung der Hauptversammlung 1. Die Hauptversammlungen werden von den geschäftsführenden Direktoren einberufen. Jeder geschäftsführende Direktor ist ausschließlich zur Einberufung der Hauptversammlung berechtigt. 2. In jedem Geschäftsjahr findet die ordentliche Hauptversammlung innerhalb der gesetzlichen Fristen statt, in denen insbesondere der Jahresabschluss zu bestimmen ist. 3. Außerordentliche Aktionärsversicherungwenn dies im Interesse der Gesellschaft erforderlich ist, können Aktionäre, die zusammen mindestens 10 der hundert Stimmen haben, die Einberufung einer außerordentlichen Aktionärsversammlung unter Angabe des Zwecks und der Gründe verlangen. Wenn keine Einberufung durch die Geschäftsführer innerhalb von 14 Tagen nach diesem Antrag erfolgt,(4) Die Einberufung der Hauptversammlung erfolgt schriftlich an alle Aktionäre mit einer Frist von mindestens 14 Tagen. Sofern die Ladung nicht persönlich übergeben wird, beginnt die Frist mit dem Tag der Abtretung auf die Stelle. Der Tag der Sitzung wird nicht gezählt. 5. Die Einladung wird an dieEntscheidungen über nicht in diese Tagesordnung aufgenommene Punkte können nur getroffen werden, wenn alle Mitglieder anwesend oder vertreten sind und mit der Behandlung der betreffenden Punkte einverstanden sind. 6. Fehlen zwingende Bestimmungen, ist ein Verzicht auf alle Stimmrechte erforderlich.gesetzliche oder gesetzliche Bestimmungen über Form und Frist der Ladung."
+}

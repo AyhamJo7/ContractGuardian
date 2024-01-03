@@ -1,0 +1,39 @@
+{
+    "id": 851,
+    "text": "§ 14 Bekanntmachungen der Gesellschaft Bekanntmachungen der Gesellschaft werden nur elektronischer Bundesanzeiger veroffentlicht.",
+    "entities": [
+        {
+            "id": 2664,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 2666,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 38
+        },
+        {
+            "id": 2667,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 39,
+            "end_offset": 129
+        },
+        {
+            "id": 2668,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 129
+        },
+        {
+            "id": 2665,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 129
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Bekanntmachungen der Gesellschaft Bekanntmachungen der Gesellschaft werden nur elektronisches Bundesanzeiger veröffentlicht."
+}

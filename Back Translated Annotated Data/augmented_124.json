@@ -1,0 +1,39 @@
+{
+    "id": 639,
+    "text": "§ 9 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen ausschließlich im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 1144,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 101
+        },
+        {
+            "id": 1145,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 1143,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 1146,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 101
+        },
+        {
+            "id": 1147,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 101
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Ankündigungen Die Ankündigungen des Unternehmens erfolgen ausschließlich im Bundesanzeiger."
+}

@@ -1,0 +1,63 @@
+{
+    "id": 702,
+    "text": "§3 Stammkapital, Geschaftsanteile (1) Das Stammkapital betragt (EUR fiinfundzwanzigtausend). \nHierauf iibernimmt: EUR 25.000,00 die Gesellschaft mit beschrankter Haftung in Firma GoodMills Deutschland GmbH mit dem Sitz in Hamburg (Amtsgericht Hamburg, HRB ) einen Geschaftsanteil in Hohe von auf den 100 %, d. h. zu leisten sind (Geschaftsanteil Nr. 1) EUR EUR  25.000,00 25.000,00 Die Einlagen auf den iibernommenen Geschaftsanteil sind in der vorgenannten Hohe unverziiglich einzuzahlen. (2) Die Teilung und die Zusammenlegung von Geschaftsanteilen bediirfen der notariell be­ urkundeten Erklarung des betreffenden Gesellschafters, jedoch keiner Zustimmung der iibrigen Gesellschafter oder der Gesellschafterversammlung. (3) Halt ein Gesellschafter mehrere Geschaftsanteile, ist aus diesen eine unterschiedliche Ausiibung der Stimmrechte zulassig.",
+    "entities": [
+        {
+            "id": 1603,
+            "label": "Subsection",
+            "start_offset": 34,
+            "end_offset": 488
+        },
+        {
+            "id": 1604,
+            "label": "Subsection",
+            "start_offset": 490,
+            "end_offset": 722
+        },
+        {
+            "id": 1605,
+            "label": "Subsection",
+            "start_offset": 723,
+            "end_offset": 849
+        },
+        {
+            "id": 1606,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        },
+        {
+            "id": 1602,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 33
+        },
+        {
+            "id": 1607,
+            "label": "Stammeinlagen",
+            "start_offset": 17,
+            "end_offset": 34
+        },
+        {
+            "id": 1608,
+            "label": "Stammkapital",
+            "start_offset": 38,
+            "end_offset": 93
+        },
+        {
+            "id": 1609,
+            "label": "Stammeinlagen",
+            "start_offset": 94,
+            "end_offset": 849
+        },
+        {
+            "id": 1610,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 849
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital, Gesellschaftsanteile (1) Aktienkapital in Höhe von 25 000 EUR. Die Gesellschaft mit beschränkter Haftung in der Gesellschaft GoodMills Deutschland GmbH mit Sitz in Hamburg (Amtsgericht Hamburg, HRB ) übernimmt einen Anteil an der Gesellschaft in Höhe von 100 %, d.h. zu zahlende (Gesellschaftsproportion Nr. 1) EUR 25.000,00 25.000,00 EUR Die Einlagen auf d(2) Die Spaltung und die Aggregation von Aktien an einer Gesellschaft werden durch die Notarerklärung des betreffenden Aktionärs bestimmt, nicht aber durch die Zustimmung der anderen Aktionäre oder der Hauptversammlung. (3) Besitzt ein Aktionär mehrere Aktien an einer Gesellschaft, so stellen diese einen unbestrittenen Teil der Gesellschaft dar.Es können unterschiedliche Stimmrechte gewährt werden."
+}

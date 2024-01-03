@@ -1,0 +1,45 @@
+{
+    "id": 884,
+    "text": "§ 6 GeschaftsfOhrung 1. \nDer lnhaber des Geschaftsanteils mit der lfd. \nNr. 1 hat das ausschlief1Iiche Recht der Gesellschafterversammlung einen GeschaftsfOhrer/in zur Bestellung vorzuschlagen. \nDer lnhaber der Geschaftsanteile mit der lfd. \nNr. 2 hat dem Beschlussvorschlag zuzustimmen, sofern nicht in der Person des/der vorgeschlagenen GeschaftsfOhrers/in unzumutbare Ausschlussgrunde vorliegen. 2. \nDie Gesellschafterversammlung kann durch Beschluss einen Katalog van Geschaften festlegen, zu deren Erledigung die GeschaftsfOhrer der vorherigen Zustimmung der Gesellschafterversammlung bedurfen. \nDie Vertretungsbefugnis der GeschaftsfOhrer gegenuber Dritten bleibt unberuhrt. \nIV.Gesellschafterversammlung, Gesellschafterbeschlusse",
+    "entities": [
+        {
+            "id": 2899,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2902,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 2904,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 736
+        },
+        {
+            "id": 2901,
+            "label": "Subsection",
+            "start_offset": 399,
+            "end_offset": 736
+        },
+        {
+            "id": 2903,
+            "label": "Geschäftsführung",
+            "start_offset": 21,
+            "end_offset": 736
+        },
+        {
+            "id": 2900,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 397
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Unternehmensführung 1. Der Inhaber des Gesellschaftsanteils mit der ifd. Nr. 1 hat das Recht, der Gesellschafterversammlung einen Gesellschaftervertreter zur Bestellung vorzuschlagen. Der Eigentümer des Gesellschaftsanteils mit der ifd. Nr. 2 stimmt dem Entscheidungsvorschlag zu, es sei denn, es gibt ungebührliche Gründe für den Ausschluss in der Person der vorgeschlagenen Gesellschaft. 2Die Hauptversammlung kann durch Beschluss einen Gesellschaftskatalog aufstellen, zu dem die Hauptversammlung die vorherige Zustimmung der Hauptversammlung verlangt hat. Die Vertretung der Aktionäre gegenüber Dritten bleibt unzutreffend."
+}

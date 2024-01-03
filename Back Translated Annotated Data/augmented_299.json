@@ -1,0 +1,39 @@
+{
+    "id": 866,
+    "text": "§ 11 Wettbewerbsverbot Den Gesellschaftern und Geschaftsfiihrern kann Befreiung vom Wettbewerbsverbot erteilt wer­ den. \nOber Art und Umfang der Befreiung beschliegen die Gesellschafter.",
+    "entities": [
+        {
+            "id": 2774,
+            "label": "Wettbewerb",
+            "start_offset": 5,
+            "end_offset": 23
+        },
+        {
+            "id": 2775,
+            "label": "Wettbewerb",
+            "start_offset": 23,
+            "end_offset": 186
+        },
+        {
+            "id": 2776,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 186
+        },
+        {
+            "id": 2772,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 2773,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 186
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Wettbewerbsverbot Die Mitglieder und die Mitglieder können von dem Wettbewerbsverbot befreit werden.Die Mitglieder sind für die Art und den Umfang der Freistellung verantwortlich."
+}

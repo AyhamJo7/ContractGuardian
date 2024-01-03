@@ -1,0 +1,45 @@
+{
+    "id": 632,
+    "text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Handel mit Lebensmitteln, GeschenkeWerbe- und Streuartikeln. (2) Die Gesellschaft ist zu allen Handlungen berechtigt, die dem Gegenstand des Unternehmens dienen. \nSie kann zu diesem Zweck Unternehmen mit gleichem oder ähnlichem Unternehmensgegenstand gründen, erwerben oder sich an ihnen beteiligen und Zweigniederlassungen im In- und Ausland errichten.",
+    "entities": [
+        {
+            "id": 1089,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 1091,
+            "label": "Subsection",
+            "start_offset": 133,
+            "end_offset": 425
+        },
+        {
+            "id": 1092,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 1093,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 425
+        },
+        {
+            "id": 1094,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 425
+        },
+        {
+            "id": 1090,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 132
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist der Handel mit Lebensmitteln, Werbeartikeln und Streuungsartikeln. (2) Das Unternehmen hat Anspruch auf alle Handlungen, die dem Zweck des Unternehmens dienen. Zu diesem Zweck kann es Unternehmen mit dem gleichen oder ähnlichen Gegenstand des Unternehmens und Niederlassungen in der I etablieren, erwerben oder beteiligenund im Ausland."
+}

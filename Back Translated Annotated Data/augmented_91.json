@@ -1,0 +1,45 @@
+{
+    "id": 621,
+    "text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Projektentwicklung und Bestandsentwicklung von Immobilien, soweit dazu eine besondere Erlaubnis nicht erforderlich ist. (2) Die Gesellschaft darf alle Geschäfte betreiben, die den Gesellschaftszweck unmittelbar oder mittelbar fördern. \nSie ist berechtigt, sich an anderen Unternehmen zu beteiligen und Zweigniederlassungen im In- und Ausland zu errichten.",
+    "entities": [
+        {
+            "id": 1006,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 1007,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 191
+        },
+        {
+            "id": 1008,
+            "label": "Subsection",
+            "start_offset": 192,
+            "end_offset": 427
+        },
+        {
+            "id": 1009,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        },
+        {
+            "id": 1010,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 427
+        },
+        {
+            "id": 1011,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 427
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Projektentwicklung und Bestandsentwicklung von Immobilien, soweit eine besondere Erlaubnis nicht erforderlich ist. (2) Die Gesellschaft kann jedes Geschäft durchführen, das direkt oder indirekt den Zweck der Gesellschaft fördert. Sie ist berechtigt, sich an anderen Unternehmen und Zweigniederlassungen des Unternehmens zu beteiligen.- und im Ausland zu bauen."
+}

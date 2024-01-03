@@ -1,0 +1,51 @@
+{
+    "id": 768,
+    "text": "§4 Geschäftsführer i) Die Gesellschaft hat einen oder mehrere Geschäftsfiihrer. 0 Die Geschäftsführer werden durch Gesellschafterbeschluss bestellt und abberufen. 3) Die Zuständigkeit für Abschluss, Änderung oder Beendigung von Anstellungsver- trägen mit Geschäftsfiihrem liegt bei der Gesellschafterversammlung.",
+    "entities": [
+        {
+            "id": 2080,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 18
+        },
+        {
+            "id": 2081,
+            "label": "Subsection",
+            "start_offset": 18,
+            "end_offset": 78
+        },
+        {
+            "id": 2083,
+            "label": "Subsection",
+            "start_offset": 163,
+            "end_offset": 312
+        },
+        {
+            "id": 2085,
+            "label": "Geschäftsführung",
+            "start_offset": 19,
+            "end_offset": 312
+        },
+        {
+            "id": 2086,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 312
+        },
+        {
+            "id": 2082,
+            "label": "Subsection",
+            "start_offset": 80,
+            "end_offset": 162
+        },
+        {
+            "id": 2084,
+            "label": "Geschäftsführung",
+            "start_offset": 3,
+            "end_offset": 19
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§4 Geschäftsführer i) Die Gesellschaft hat einen oder mehrere Geschäftsvertreter. 0 Die Geschäftsführer werden durch die Aktionärsentscheidung bestellt und entlassen. 3) Die Verantwortung für den Abschluss, die Änderung oder die Beendigung von Arbeitsverträgen mit dem Unternehmen liegt bei der Aktionärsversammlung."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 541,
+    "text": "§ 8 Gewinnverteilung (1) Die Gewinnverteilung erfolgt grundsätzlich nach dem Verhältnis der Geschäftsanteile. (2) Mit Zustimmung der betroffenen Gesellschafter kann alljährlich eine abweichende Gewinnverteilung beschlossen werden.",
+    "entities": [
+        {
+            "id": 379,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 381,
+            "label": "Subsection",
+            "start_offset": 110,
+            "end_offset": 230
+        },
+        {
+            "id": 382,
+            "label": "Gewinnverteilung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 384,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 230
+        },
+        {
+            "id": 383,
+            "label": "Gewinnverteilung",
+            "start_offset": 21,
+            "end_offset": 230
+        },
+        {
+            "id": 380,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 109
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 8 Gewinnverteilung (1) Die Gewinnausschüttung beruht grundsätzlich auf dem Verhältnis der Geschäftsanteile. (2) Mit Zustimmung der betroffenen Partner kann jährlich über eine andere Gewinnausschüttung entschieden werden."
+}

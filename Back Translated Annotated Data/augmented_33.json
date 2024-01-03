@@ -1,0 +1,15 @@
+{
+    "id": 548,
+    "text": "Gesellschaftsvertrag der AK 57 Flensburg GmbH",
+    "entities": [
+        {
+            "id": 429,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 45
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Vertrag der AK 57 Flensburg GmbH"
+}

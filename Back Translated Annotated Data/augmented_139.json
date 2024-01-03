@@ -1,0 +1,39 @@
+{
+    "id": 730,
+    "text": "§ 13 Bekanntrnachungen Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 1822,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 23,
+            "end_offset": 88
+        },
+        {
+            "id": 1823,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 88
+        },
+        {
+            "id": 1820,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 88
+        },
+        {
+            "id": 1819,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 1821,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 23
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Ankündigungen Die Ankündigungen des Unternehmens erfolgen im Bundesanzeiger."
+}

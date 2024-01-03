@@ -1,0 +1,159 @@
+{
+    "id": 528,
+    "text": "§ 13 Einziehung von Geschäftsanteilen, Abfindung 1. \nDie Einziehung von Geschäftsanteilen ist zulässig. 2. \nOhne Zustimmung des betroffenen Gesellschafters ist die Einziehung von Geschäftsanteilen in den in diesem Gesellschaftsvertrag bestimmten Fällen sowie dann zulässig, wenn a) über dessen Vermögen das Insolvenzverfahren eröffnet wird oder die Eröffnung eines solchen Verfahrens mangels einer die Verfahrenskosten deckenden Masse abgelehnt wird; b) die Zwangsvollstreckung in dessen Geschäftsanteil betrieben wird und die Vollstreckungsmaßnahme nicht innerhalb von zwei Monaten seit ihrer Einleitung wieder aufgehoben wird; c) der Inhaber des einzuziehenden Geschäftsanteils die Gesellschaft gekündigt hat; d) ein Gesellschafter stirbt, innerhalb von sechs Monaten nach Bekanntwerden des Todesfalls bei der Gesellschaft; e) in der Person des Gesellschafters sonst ein wichtiger Grund gegeben ist, der seine Ausschließung aus der Gesellschaft rechtfertigt bzw. seinen Verbleib in der Gesellschaft für die weiteren Gesellschafter unzumutbar macht. 3. \nSteht ein Geschäftsanteil mehreren Gesellschaftern gemeinschaftlich zu, genügt es, wenn ein Einziehungsgrund in der Person nur eines Mitgesellschafters vorliegt. 4. \nDie Einziehung wird von der Gesellschafterversammlung mit einfacher Mehrheit der abgegebenen Stimmen beschlossen und durch Mitteilung der Geschäftsführer in vertretungsberechtigter Zahl wirksam mit der Folge, dass der betroffene Gesellschafter, unabhängig von der Zahlung einer  Abfindung, mit unmittelbarer Wirkung aus der Gesellschaft ausscheidet. \nGleichzeitig ist die Aufstockung der bestehenden Geschäftsanteile oder, sofern rechtlich zulässig, eine Herabsetzung des Stammkapitals zu beschließen. \nStatt der Einziehung können die Gesellschafter beschließen, dass der betroffene Gesellschafter den Geschäftsanteil auf die Gesellschaft oder auf eine im Beschluss zu benennende Person zu übertragen hat. 5. \nDer betroffene Gesellschafter hat bei der Fassung der vorstehenden Beschlüsse kein Stimmrecht in der Gesellschafterversammlung. 6. \nIm Fall der Einziehung oder Zwangsabtretung hat der betroffene Gesellschafter Anspruch auf eine Abfindung in Höhe von 75 % des Verkehrswerts des eingezogenen Geschäftsanteils. \nStichtag der Bewertung ist das Ende des letzten Geschäftsjahres vor der Einziehung oder Zwangsabtretung. \nDer Wert des Geschäftsanteils des betroffenen Gesellschafters wird bestimmt, indem der Wert der Gesellschaft ohne Abzüge anteilig auf den Geschäftsanteil umgerechnet wird. \nDie Bewertung des Geschäftsanteils und die Höhe der Abfindung soll zunächst durch den Steuerberater der Gesellschaft erfolgen, nur im Streitfall gilt zusätzlich Absatz 8. 7. \nDie Abfindung ist in drei gleichen Jahresraten zu entrichten, die erste Rate ist 12 Monate nach dem Zugang des Einziehungs- bzw. \nZwangsabtretungsbeschlusses fällig und zahlbar, im Fall der Zwangsabtretung jedoch frühestens am Tage der Abtretung. \nDer Abfindungsbetrag ist bzw. noch nicht gezahlte Teilbeträge sind ab dem Tage des Zugangs des Einziehungs- bzw. \nZwangsabtretungsbeschlusses mit 5 % p.a. zu verzinsen. \nDie Zinsen sind halbjährlich zu zahlen. \nSteht die Höhe des Abfindungsbetrages zum Zeitpunkt der Fälligkeit der ersten Rate noch nicht fest, ist ein von der Gesellschaft festzusetzender angemessener Abschlagsbetrag zu zahlen. \nSchuldner des Abfindungsbetrages ist im Fall der Einziehung die Gesellschaft, im Fall der Zwangsabtretung der Erwerber des Geschäftsanteils, die Gesellschaft haftet in diesem Fall als Bürge. 8. \nStreitigkeiten über den Wert des Geschäftsanteils und die Höhe der Abfindung werden auf Antrag eines Beteiligten von einem durch die Wirtschaftsprüferkammer KöR, Rauchstraße 26, 10787 Berlin zu benennenden Wirtschaftsprüfer / eine Wirtschaftsprüfungsgesellschaft als Schiedsgutachter § 317 BGB) für alle Beteiligten endgültig entschieden. \nDer Wirtschaftsprüfer hat auch über die Kosten seiner Inanspruchnahme entsprechend den Bestimmungen der § 91 ff. \nZPO zu befinden. \nStreitigkeiten über den Wert des Geschäftsanteils und die Höhe der Abfindung lassen das Ausscheiden unberührt.",
+    "entities": [
+        {
+            "id": 277,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 48
+        },
+        {
+            "id": 285,
+            "label": "Subsection",
+            "start_offset": 3530,
+            "end_offset": 4116
+        },
+        {
+            "id": 278,
+            "label": "Subsection",
+            "start_offset": 49,
+            "end_offset": 103
+        },
+        {
+            "id": 284,
+            "label": "Subsection",
+            "start_offset": 2942,
+            "end_offset": 3529
+        },
+        {
+            "id": 288,
+            "label": "Green Flag",
+            "start_offset": 2221,
+            "end_offset": 3152
+        },
+        {
+            "id": 279,
+            "label": "Subsection",
+            "start_offset": 104,
+            "end_offset": 1050
+        },
+        {
+            "id": 280,
+            "label": "Subsection",
+            "start_offset": 1051,
+            "end_offset": 1216
+        },
+        {
+            "id": 281,
+            "label": "Subsection",
+            "start_offset": 1217,
+            "end_offset": 1926
+        },
+        {
+            "id": 282,
+            "label": "Subsection",
+            "start_offset": 1927,
+            "end_offset": 2057
+        },
+        {
+            "id": 283,
+            "label": "Subsection",
+            "start_offset": 2221,
+            "end_offset": 2690
+        },
+        {
+            "id": 286,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1926
+        },
+        {
+            "id": 287,
+            "label": "Green Flag",
+            "start_offset": 3112,
+            "end_offset": 4116
+        },
+        {
+            "id": 158,
+            "label": "Subsection",
+            "start_offset": 2059,
+            "end_offset": 2061
+        },
+        {
+            "id": 161,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        },
+        {
+            "id": 162,
+            "label": "Abfindung",
+            "start_offset": 39,
+            "end_offset": 49
+        },
+        {
+            "id": 163,
+            "label": "Einziehung",
+            "start_offset": 53,
+            "end_offset": 102
+        },
+        {
+            "id": 164,
+            "label": "Einziehung",
+            "start_offset": 108,
+            "end_offset": 1050
+        },
+        {
+            "id": 165,
+            "label": "Einziehung",
+            "start_offset": 1221,
+            "end_offset": 1927
+        },
+        {
+            "id": 166,
+            "label": "Einziehung",
+            "start_offset": 1055,
+            "end_offset": 1216
+        },
+        {
+            "id": 168,
+            "label": "Einziehung",
+            "start_offset": 1931,
+            "end_offset": 2059
+        },
+        {
+            "id": 169,
+            "label": "Einziehung",
+            "start_offset": 2063,
+            "end_offset": 2690
+        },
+        {
+            "id": 170,
+            "label": "Abfindung",
+            "start_offset": 2694,
+            "end_offset": 3529
+        },
+        {
+            "id": 171,
+            "label": "Abfindung",
+            "start_offset": 3534,
+            "end_offset": 4116
+        },
+        {
+            "id": 173,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 3874,
+            "end_offset": 4005
+        },
+        {
+            "id": 172,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 3534,
+            "end_offset": 3873
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 Rückforderung von Anteilen, Abfindungen 1. Die Einziehung von Anteilen ist zulässig. 2. Ohne Zustimmung des betreffenden Aktionärs ist die Einziehung von Anteilen in den in diesem Gesellschaftsvertrag genannten Fällen zulässig, sowie, wenn a) das Insolvenzverfahren über sein Vermögen oder die Eröffnung eines solchen Verfahrens ohne Vereinbarung eröffnet wird.c) der Inhaber des zurückzufordernden Anteils das Unternehmen gekündigt hat;(e) Anderenfalls gibt es in der Person des Aktionärs einen wichtigen Grund, der seinen Ausschluss von der Gesellschaft rechtfertigt oder seinen Aufenthalt in der Gesellschaft für die anderen Aktionäre unzumutbar macht. 3. Ist ein Anteil an einer Gesellschaft, die einer Reihe von Aktionären angehört, gemeinsam berechtigt, so genügt es, dass ein Grund für die Beschlagnahme in der Person eines einzigen Gesellschafters ausreicht.(4) Die Einziehung wird von der Hauptversammlung mit einfacher Mehrheit der abgegebenen Stimmen beschlossen und ist wirksam durch Mitteilung der Geschäftsführer an eine Reihe von Vertretern, so dass der betreffende Aktionär unabhängig von der Zahlung einer Abfindung die Gesellschaft mit sofortiger Wirkung verlässt.(5) Der betreffende Aktionär entscheidet zum Zeitpunkt des Wortlauts der vorstehenden Bestimmungen über die Herabsetzung der bestehenden Aktien oder, soweit rechtlich zulässig, über die Herabsetzung des Grundkapitals.(6) Bei Einziehung oder Zwangsabtretung hat das betreffende Mitglied Anspruch auf eine Entschädigung in Höhe von 75 % des wirtschaftlichen Wertes der eingezogenen Geschäftsanteile. Datum der Bewertung ist das Ende des letzten Geschäftsjahres vor der Einziehung oder Zwangsabtretung.Der Wert der Gesellschaft wird anteilsmäßig auf der Geschäftsanteile ohne Abzug berechnet. Die Bewertung der Geschäftsanteile und der Höhe der Vergütung erfolgt zunächst durch den Steuerberater der Gesellschaft, nur im Streitfall ist der zusätzliche Absatz 8. 7. Die Vergütung ist in drei gleichen Jahresraten zu zahlen, die erste Rate beträgt 12 Monate nach dem Eingang.Der Betrag der Abfindungszahlung beträgt 5 % p.a. ab dem Tag des Eingangs der Abfindungszahlung oder der Pflichtabfindungszahlung. Zinsen werden halbjährlich gezahlt. Ist der Betrag der Abfindungszahlung zum Zeitpunkt der Abfindungszahlung fällig und zu zahlen, so wird der Betrag der Abfindungszahlung zum Zeitpunkt der Abfindungszahlung gezahlt.Ist die erste Rate noch nicht fällig, so ist ein angemessener von der Gesellschaft zu bestimmender Betrag zu zahlen. Im Falle der Rückforderung haftet die Gesellschaft in diesem Fall als Garant, im Falle der obligatorischen Abtretung des Erwerbers der Geschäftsanteile. 8. Streitigkeiten über den Wert der Geschäftsanteile und den Betrag derAuf Antrag einer Partei entscheidet schließlich ein von der Prüferkammer KöR, Rauchstraße 26, 10787 Berlin, bestellter Prüfer/Auditor als Schiedsexperte § 317 BGB) für alle Parteien. Der Prüfer bestimmt auch die Kosten seiner Nutzung gemäß § 91 ff. ZPO.Streitigkeiten über den Wert der Geschäftsanteile und die Höhe der Entschädigung berühren nicht die Beendigung des Vertrags."
+}

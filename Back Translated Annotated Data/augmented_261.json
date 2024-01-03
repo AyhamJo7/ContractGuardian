@@ -1,0 +1,15 @@
+{
+    "id": 819,
+    "text": "GESELLSCHAFTSVERTRAG der Kiez Alm Gastro GmbH",
+    "entities": [
+        {
+            "id": 2441,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 45
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "VERTRAG DER KIEZ Alm Gastro GmbH"
+}

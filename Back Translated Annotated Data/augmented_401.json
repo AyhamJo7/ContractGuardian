@@ -1,0 +1,51 @@
+{
+    "id": 1023,
+    "text": "§ 6 Gesellschafterversammlung (1) Beschlüsse der Gesellschaft werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Soweit durch Gesetz eine höhere Mehrheit vorgeschrieben ist, gilt die gesetzliche Mehrheit. (2) Beschlüsse können außerhalb einer Präsenzversammlung wirksam gefasst werden, wenn alle Gesellschafter dem jeweils vorgeschlagenen Abstimmungsverfahren zustimmen. Die Zustimmung gilt als erteilt, wenn der jeweilige Gesellschafter an der Abstimmung teilnimmt. (3) Je € 1,00 eines Geschäftsanteils gewährt eine Stimme.",
+    "entities": [
+        {
+            "id": 3868,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 3869,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 216
+        },
+        {
+            "id": 3870,
+            "label": "Subsection",
+            "start_offset": 217,
+            "end_offset": 478
+        },
+        {
+            "id": 3871,
+            "label": "Subsection",
+            "start_offset": 479,
+            "end_offset": 536
+        },
+        {
+            "id": 3872,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 3873,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 30,
+            "end_offset": 536
+        },
+        {
+            "id": 3874,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 536
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Hauptversammlung (1) Beschlüsse der Gesellschaft werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Ist eine höhere Mehrheit gesetzlich vorgeschrieben, so gilt die gesetzliche Mehrheit. (2) Entscheidungen können auch außerhalb einer Anwesenheitssitzung wirksam getroffen werden, wenn alle Aktionäre dem jeweils vorgeschlagenen Abstimmungsverfahren zustimmen.(3) Es wird eine Stimme pro 1,00 € eines Unternehmensanteils gewährt."
+}

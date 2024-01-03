@@ -1,0 +1,39 @@
+{
+    "id": 788,
+    "text": "§ 1 Firma Die Firma der Gesellschaft lautet: JR 17 Hamburg GmbH.",
+    "entities": [
+        {
+            "id": 2207,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 2205,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 9
+        },
+        {
+            "id": 2208,
+            "label": "Firma",
+            "start_offset": 10,
+            "end_offset": 64
+        },
+        {
+            "id": 2206,
+            "label": "Subsection",
+            "start_offset": 10,
+            "end_offset": 64
+        },
+        {
+            "id": 2209,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 64
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Unternehmen Die Gesellschaft des Unternehmens ist: JR 17 Hamburg GmbH."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 790,
+    "text": "§ 3 Gegenstand des Unternehmens 1. \nDer Gegenstand des Unternehmens ist der An- und Verkauf von Immobilien, die Entwicklung und Projektierung von Immobilien einschließlich der Tätigkeit nach § 34c GewO, insbesondere in der Metropolregion Hamburg. 2. \nDie Gesellschaft kann sich daneben an anderen Unternehmen irgendwelcher Art im Inund Ausland beteiligen, solche gründen, übernehmen, mit ihnen fusionieren und deren Geschäfte führen. \nSie kann Liegenschaften und Immaterialgüterrechte im In- und Ausland erwerben, belasten und veräußern sowie Zweigniederlassungen und Agenturen im Inoder Ausland errichten. \nII.Kapital, Gesellschafter",
+    "entities": [
+        {
+            "id": 2217,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 2218,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 245
+        },
+        {
+            "id": 2222,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 607
+        },
+        {
+            "id": 2223,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 607
+        },
+        {
+            "id": 2219,
+            "label": "Subsection",
+            "start_offset": 247,
+            "end_offset": 607
+        },
+        {
+            "id": 2220,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Gegenstand der Gesellschaft 1. Gegenstand der Gesellschaft ist der Kauf und Verkauf von Immobilien, die Entwicklung und Projektierung von Immobilien einschließlich der Tätigkeit nach § 34c GewO, insbesondere in der Metropolregion Hamburg. 2. Die Gesellschaft kann auch an anderen Unternehmen jeglicher Art im In- und Ausland teilnehmen, diese etablieren, mit ihnen Fusion übernehmenEs kann Immobilien- und geistige Eigentumsrechte im In- und Ausland erwerben, debitieren und verkaufen sowie Zweigniederlassungen und Agenturen im oder im Ausland gründen.II.Kapital, Aktionäre"
+}

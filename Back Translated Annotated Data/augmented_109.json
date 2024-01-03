@@ -1,0 +1,45 @@
+{
+    "id": 613,
+    "text": "§ 9 Wettbewerbsverbot (1) Die Gesellschafterversammlung kann einzelnen Geschäftsführern oder Gesellschaftern durch Beschluss Befreiung von ihrem Wettbewerbsverbot erteilen. (2) Die Befreiung kann auf bestimmte Fälle oder Tätigkeiten beschränkt werden.",
+    "entities": [
+        {
+            "id": 938,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 939,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 172
+        },
+        {
+            "id": 943,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 251
+        },
+        {
+            "id": 941,
+            "label": "Wettbewerb",
+            "start_offset": 4,
+            "end_offset": 22
+        },
+        {
+            "id": 940,
+            "label": "Subsection",
+            "start_offset": 173,
+            "end_offset": 251
+        },
+        {
+            "id": 942,
+            "label": "Wettbewerb",
+            "start_offset": 22,
+            "end_offset": 251
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Wettbewerbsverbot (1) Die Hauptversammlung kann durch Entscheidung einzelner Geschäftsführer oder Aktionäre von ihrem Nichtwettbewerb freigestellt werden. (2) Die Freistellung kann auf bestimmte Fälle oder Tätigkeiten beschränkt sein."
+}

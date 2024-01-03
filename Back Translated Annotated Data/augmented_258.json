@@ -1,0 +1,39 @@
+{
+    "id": 806,
+    "text": "§ 19 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen nur im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 2367,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2368,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 91
+        },
+        {
+            "id": 2369,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 22
+        },
+        {
+            "id": 2370,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 91
+        },
+        {
+            "id": 2371,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 91
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 19 Ankündigungen Die Ankündigungen des Unternehmens erfolgen nur im Bundesanzeiger."
+}

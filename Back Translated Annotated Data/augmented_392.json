@@ -1,0 +1,45 @@
+{
+    "id": 941,
+    "text": "§15 Kopplung mit Dienstleistungsvertrag\n1. Jeder Gesellschafter, mit Ausnahme des Gesellschafters Techno-Einkauf GmbH, schließt mit Eintritt einen Dienstleistungsvertrag mit der Gesellschaft ab, der insbesondere die entgeltliche Bereitstellung von Logistik- und Bestellsystemen regelt.\n2. Die Gesellschafter sind verpflichtet, den Dienstleistungsvertrag für die Dauer ihrer Zugehörigkeit zur Gesellschaft aufrechtzuerhalten.",
+    "entities": [
+        {
+            "id": 3325,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 40,
+            "end_offset": 424
+        },
+        {
+            "id": 3326,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 424
+        },
+        {
+            "id": 3323,
+            "label": "Subsection",
+            "start_offset": 286,
+            "end_offset": 424
+        },
+        {
+            "id": 3324,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 39
+        },
+        {
+            "id": 3321,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 39
+        },
+        {
+            "id": 3322,
+            "label": "Subsection",
+            "start_offset": 40,
+            "end_offset": 285
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§15 Kupplung mit Servicevertrag 1. Jeder Aktionär, mit Ausnahme des Aktionärs Techno-Einkauf GmbH, schließt mit dem Unternehmen einen Servicevertrag, der insbesondere die Bereitstellung von Logistik- und Bestellsystemen gegen Entgelt regelt. 2. Die Aktionäre sind verpflichtet, den Servicevertrag für die Dauer ihrer Mitgliedschaft in der Gesellschaft abzuschließen.Es geht nicht darum, ob wir dazu in der Lage sein werden oder nicht."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 853,
+    "text": "§ 16 Grundungsaufwand Alie Kosten und Steuern dieses Vertrages und seiner DurchfOhrung bis zur Hohe von 3.000,00 €, also den GrOndungsaufwand, voraus­ lagt die Gesellschaft. \nDie Gesellschafter sind entsprechend ihrer  Beteiligung am Stammkapital verpflichtet, ihr die von ihr verauslag­ ten Kosten auf erstes Anfordern hin zu erstatten.",
+    "entities": [
+        {
+            "id": 2674,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2675,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 174
+        },
+        {
+            "id": 2677,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 22
+        },
+        {
+            "id": 2678,
+            "label": "Kosten",
+            "start_offset": 22,
+            "end_offset": 337
+        },
+        {
+            "id": 2676,
+            "label": "Subsection",
+            "start_offset": 175,
+            "end_offset": 337
+        },
+        {
+            "id": 2679,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 337
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Die Kosten und Steuern dieses Vertrages und seine Umsetzung bis zu einem Betrag von 3.000,00 €, d.h. die Kosten der Stiftung, liegen vor der Gesellschaft. Die Aktionäre sind nach ihrer Beteiligung am Grundkapital verpflichtet, ihr die Kosten zu erstatten, die ihr auf den ersten Antrag entstehen."
+}

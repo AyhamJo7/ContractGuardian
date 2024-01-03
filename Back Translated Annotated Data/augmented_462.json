@@ -1,0 +1,69 @@
+{
+    "id": 987,
+    "text": "§3 Stammkapital/Geschaftsanteile (1) Das Stammkapital der Gesellschaft betragt 25.000,00 EUR (in Worten: fi.infundzwanzigtausend Euro). (2) Es bestehen 25.000 voll eingezahlte Geschaftsanteile in Hohe von je 1,00 Euro (Geschaftsanteile Nrn. 1 bis mit 25.000). (3) Geschaftsanteile konnen nicht zusammengelegt werden. \nIm Falle einer Kapitalerhohung di.irfen lediglich Geschaftsanteile im Nennwert von 1,00 EUR (in Worten: ein Euro) ausgegeben werden. (4) Jeder Gesellschafter ist verpflichtet, der Geschaftsfi.ihrung Verande­ rungen in seiner Person oder seiner Beteiligung an der Gesellschaft schrift­ lich mitzuteilen. \nNachweise sind in Urschrift oder beglaubigter Abschrift zu fi.ihren. \nIm Falle der Erbfolge gilt § 35 GBO entsprechend.",
+    "entities": [
+        {
+            "id": 3608,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 32
+        },
+        {
+            "id": 3609,
+            "label": "Subsection",
+            "start_offset": 33,
+            "end_offset": 135
+        },
+        {
+            "id": 3615,
+            "label": "Stammeinlagen",
+            "start_offset": 136,
+            "end_offset": 741
+        },
+        {
+            "id": 3616,
+            "label": "Stammeinlagen",
+            "start_offset": 16,
+            "end_offset": 33
+        },
+        {
+            "id": 3617,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 741
+        },
+        {
+            "id": 3610,
+            "label": "Subsection",
+            "start_offset": 136,
+            "end_offset": 259
+        },
+        {
+            "id": 3611,
+            "label": "Subsection",
+            "start_offset": 260,
+            "end_offset": 450
+        },
+        {
+            "id": 3614,
+            "label": "Stammkapital",
+            "start_offset": 33,
+            "end_offset": 135
+        },
+        {
+            "id": 3612,
+            "label": "Subsection",
+            "start_offset": 451,
+            "end_offset": 741
+        },
+        {
+            "id": 3613,
+            "label": "Stammkapital",
+            "start_offset": 3,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3 Aktienkapital/Aktien (1) Das Grundkapital der Gesellschaft beträgt EUR 25,000,00 (in Worten: EUR 240.000). (2) Es gibt 25.000 voll eingezahlte Aktien der Gesellschaft in Höhe von EUR 1,00 pro Aktie (Aktien der Gesellschaft Nr. 1 bis 25.000). (3) Aktien der Gesellschaft können nicht zusammengeführt werden. Im Falle einer Kapitalerhöhung können nur Aktien der Gesellschaft im Nennwert von(4) Jeder Gesellschafter ist verpflichtet, dem Unternehmen Änderungen seiner Person oder seiner Beteiligung an der Gesellschaft schriftlich mitzuteilen. Nachweise sind in Original- oder beglaubigter Abschrift vorzulegen. Im Falle der Nachfolge gilt § 35 GBO entsprechend."
+}

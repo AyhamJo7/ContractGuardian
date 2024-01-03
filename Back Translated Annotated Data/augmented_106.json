@@ -1,0 +1,63 @@
+{
+    "id": 610,
+    "text": "§ 6 Gesellschafterbeschlüsse und -versammlung (1) Beschlüsse der Gesellschaft werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, so weit nicht in dieser Satzung abweichend geregelt oder das Gesetz zwingend eine andere Mehrheit vorschreibt. (2) Je € 1,00 eines Geschäftsanteils gewähren eine Stimme. (3) Gesellschafterversammlungen werden durch die Geschäftsführer in vertretungsberechtigter Zahl einberufen mittels eingeschriebenen Briefes unter Angabe von Ort, Tag, Zeit und Tagesordnung. \nDie Ladungsfrist beträgt zwei Wochen, wobei der Tag der Absendung und der Tag der Versammlung nicht mitzurechnen sind. \nIn außergewöhnlichen Fällen kann die Ladungsfrist angemessen verkürzt werden. \nGesellschafterversammlungen finden am Ort der Gesellschaft statt; mit Zustimmung aller Gesellschafter können sie auch an einem anderen Ort abgehalten werden.",
+    "entities": [
+        {
+            "id": 916,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 45
+        },
+        {
+            "id": 919,
+            "label": "Subsection",
+            "start_offset": 311,
+            "end_offset": 859
+        },
+        {
+            "id": 921,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 46,
+            "end_offset": 251
+        },
+        {
+            "id": 922,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 252,
+            "end_offset": 310
+        },
+        {
+            "id": 925,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 252,
+            "end_offset": 859
+        },
+        {
+            "id": 918,
+            "label": "Subsection",
+            "start_offset": 252,
+            "end_offset": 310
+        },
+        {
+            "id": 920,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 4,
+            "end_offset": 29
+        },
+        {
+            "id": 917,
+            "label": "Subsection",
+            "start_offset": 46,
+            "end_offset": 251
+        },
+        {
+            "id": 926,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 34,
+            "end_offset": 46
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Beschlüsse der Aktionäre und Hauptversammlung (1) Beschlüsse der Gesellschaft werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, sofern in dieser Satzung nichts anderes geregelt ist oder das Gesetz eine andere Mehrheit verlangt. (2) Eine Stimme wird je 1,00 € eines Geschäftsanteils gewährt. (3) Die Hauptversammlungen werden von den Geschäftsführern zur Vertretung der Gesellschaft ermächtigt.die Nummer wird per Einschreiben mit Angabe des Ortes, des Datums, der Uhrzeit und der Tagesordnung einberufen. Die Ladungsfrist beträgt zwei Wochen, der Tag der Absendung und der Tag der Sitzung sind nicht enthalten. In Ausnahmefällen kann die Ladungsfrist entsprechend verkürzt werden. Die Hauptversammlungen finden am Ort der Gesellschaft statt; mit Zustimmung aller GesellschaftenSie können auch an einem anderen Ort gehalten werden."
+}

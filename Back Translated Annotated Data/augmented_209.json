@@ -1,0 +1,69 @@
+{
+    "id": 757,
+    "text": "§10 Einziehung 1. \nDie Einziehung von Geschäftsanteilen ist mit Zustimmung des Gesellschafters stets zulässig. 2. \nDer Geschäftsanteil eines Gesellschafters kann auch zwangsweise eingezogen werden, wenn ein wichtiger Grund vorliegt. \nAls wichtiger Grund sind insbesondere grobe Verletzungen der Gesellschafterpflichten durch einen Gesellschafter sowie der Umstand anzusehen, dass ein Geschäftsanteil gepfändet und die Pfändung nicht innerhalb von drei Monaten wieder aufgehoben wird oder dass über das Vermögen eines Gesellschafters das Insolvenzverfahren eröffnet bzw. die Eröffnung mangels Masse abgelehnt wird. 3. Über die Einziehung beschließt die Gesellschafterversammlung mit einfacher Mehrheit. \nDer betroffene Gesellschafter hat kein Stimmrecht. \nDie Einziehung wird mit Zugang des Einziehungsbeschlusses an den betreffenden Gesellschafter wirksam. 4. \nStatt der Einziehung kann der Geschäftsanteil durch Beschluss der Gesellschafterversammlung nach deren Wahl ganz oder geteilt an die Gesellschaft selbst - sofern die Voraussetzungen des § 33 GmbHG vorliegen -, an einen oder mehrere Gesellschafter oder an von der Gesellschaft zu benennende Dritte abgetreten werden. \nDie Abtretung kann ohne Mitwirkung des betroffenen Gesellschafters vorgenommen werden. 5. \nDie Bewertung des Geschäftsanteils und die Auszahlung des Abfindungsguthabens ist nach § 12 dieses Vertrages vorzunehmen. 6. \nRechtsfolge der Einziehung ist das Anwachsen des eingezogenen Geschäftsanteils bei den verbleibenden Gesellschaftern im Verhältnis ihrer Beteiligungen. \nUnteilbare Spitzen werden durch Los verteilt.",
+    "entities": [
+        {
+            "id": 1996,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 2003,
+            "label": "Einziehung",
+            "start_offset": 4,
+            "end_offset": 15
+        },
+        {
+            "id": 2004,
+            "label": "Einziehung",
+            "start_offset": 15,
+            "end_offset": 1593
+        },
+        {
+            "id": 2005,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1593
+        },
+        {
+            "id": 2000,
+            "label": "Subsection",
+            "start_offset": 857,
+            "end_offset": 1263
+        },
+        {
+            "id": 2001,
+            "label": "Subsection",
+            "start_offset": 1265,
+            "end_offset": 1390
+        },
+        {
+            "id": 1997,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 109
+        },
+        {
+            "id": 1998,
+            "label": "Subsection",
+            "start_offset": 111,
+            "end_offset": 612
+        },
+        {
+            "id": 1999,
+            "label": "Subsection",
+            "start_offset": 614,
+            "end_offset": 856
+        },
+        {
+            "id": 2002,
+            "label": "Subsection",
+            "start_offset": 1391,
+            "end_offset": 1593
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§10 Rückforderung 1. Die Einziehung von Aktien ist stets mit Zustimmung des Aktionärs zulässig. 2. Der Anteil eines Aktionärs kann auch mit Gewalt widerrufen werden, wenn es einen wichtigen Grund gibt. Insbesondere sind grobe Verstöße gegen die Verpflichtungen des Aktionärs durch einen Aktionär und die Tatsache, dass ein Anteil an einem Unternehmen als ein wichtiger Grund gehalten wird, als ein wichtiger Grund zu betrachten.Die Einziehung erfolgt nach Erhalt der Einziehung und die Pfändung wird nicht innerhalb von drei Monaten widerrufen, oder das Insolvenzverfahren wird über das Vermögen eines Mitglieds eröffnet oder die Eröffnung wird aus Mangel an Masse abgelehnt. 3. Die Hauptversammlung entscheidet über die Einziehung mit einfacher Mehrheit. Das betreffende Mitglied hat kein Stimmrecht.4. Statt der Einziehung kann der Anteil der Geschäftstätigkeit an einen oder mehrere Aktionäre oder an einen Dritten abgetreten werden, der von der Gesellschaft im Ermessen der Gesellschafterversammlung ganz oder teilweise an die Gesellschaft selbst bestimmt wird, sofern die Voraussetzungen des § 33 GmbHG erfüllt sind.5. Die Bewertung des Geschäftsanteils und die Zahlung des Ausgleichssaldos müssen gemäß § 12 dieses Vertrages erfolgen. 6. Rechtsfolge der Einziehung ist die Erhöhung des Anteils der übrigen Aktionäre im Anteil ihrer Beteiligungen. Unteilbare Tipps werden durch Los verteilt."
+}

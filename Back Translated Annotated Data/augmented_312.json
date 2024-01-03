@@ -1,0 +1,45 @@
+{
+    "id": 846,
+    "text": "§ 9 Obertragung und Verpfandung von Ge­ schaftsanteilen 9.1 Die Obertragung oder Verpfandung von Geschaftsanteilen oder Teilen hiervon bedarf der Genehmigung durch die Gesellschaf­ terversammlung. 9.2 Die Genehmigung der Gesellschafterversammlung, ist nicht erforderlich, soweit Ober den Geschaftsanteil oder Teile hier­ von in Ertollung .eines Vermachtnisses eines verstorbenen Gesellschafters verfugt wird.",
+    "entities": [
+        {
+            "id": 2632,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 56,
+            "end_offset": 408
+        },
+        {
+            "id": 2629,
+            "label": "Subsection",
+            "start_offset": 56,
+            "end_offset": 195
+        },
+        {
+            "id": 2630,
+            "label": "Subsection",
+            "start_offset": 197,
+            "end_offset": 408
+        },
+        {
+            "id": 2633,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 408
+        },
+        {
+            "id": 2628,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 55
+        },
+        {
+            "id": 2631,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 55
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Übertragung und Verpfändung von Aktien 9.1 Die Übertragung oder Verpfändung von Aktien oder Teilen davon bedarf der Zustimmung der Hauptversammlung. 9.2 Die Zustimmung der Hauptversammlung ist nicht erforderlich, soweit die Aktie oder Teile davon von einem Vermächtnis eines verstorbenen Aktionärs betroffen sind.(Das Parlament nimmt den Entwurf der legislativen Entschließung an.)"
+}

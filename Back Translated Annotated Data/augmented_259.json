@@ -1,0 +1,45 @@
+{
+    "id": 807,
+    "text": "§ 20 Salvatorische Klausel Sollten einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam sein oder werden, so wird die Wirksamkeit der Satzung im Übrigen hierdurch nicht berührt. \nDie unwirksame, nichtige oder anfechtbare Bestimmung ist so umzudeuten oder durch Satzungsänderung zu ändern bzw. zu ergänzen, dass der damit verfolgte Zweck im Rahmen der gesetzlichen Bestimmungen soweit wie möglich erreicht wird. \nDasselbe gilt bei Vorhandensein von Lücken.",
+    "entities": [
+        {
+            "id": 2372,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 2377,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 469
+        },
+        {
+            "id": 2373,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 191
+        },
+        {
+            "id": 2375,
+            "label": "Salvatorische Klausel",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 2374,
+            "label": "Subsection",
+            "start_offset": 193,
+            "end_offset": 469
+        },
+        {
+            "id": 2376,
+            "label": "Salvatorische Klausel",
+            "start_offset": 27,
+            "end_offset": 469
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 20 Abfindungsklausel Sind einzelne Bestimmungen dieser Satzung ganz oder teilweise unwirksam, so berührt dies nicht die Gültigkeit der Satzung. Unwirksame, nichtige oder anfechtbare Bestimmungen werden durch eine Änderung der Satzung so neu ausgelegt, geändert oder ergänzt, dass der im Rahmen der gesetzlichen Bestimmungen verfolgte Zweck so weit wie möglich ist:e erreicht wird. Gleiches gilt, wenn Lücken vorhanden sind."
+}

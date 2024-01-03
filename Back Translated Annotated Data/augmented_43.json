@@ -1,0 +1,51 @@
+{
+    "id": 558,
+    "text": "§ 10 Dauer der Gesellschaft 10.1. \nDie Gesellschaft wird auf unbestimmte Dauer errichtet. \nSie beginnt mit ihrer Eintragung in das Handelsregister. \nEine Auflösung findet nur in den gesetzlich zwingend vorgeschriebenen Fällen oder aufgrund eines Gesellschafterbeschlusses statt. \nEs wird klargestellt, dass damit auch die ordentliche Kündigung mit dem Ziel der Auflösung der Gesellschaft ausgeschlossen ist. 10.2. \nJeder Gesellschafter kann ohne Angabe von Gründen mit einer Frist von sechs Monaten zum Schluss des Geschäftsjahres seinen ordentlichen Austritt aus der Gesellschaft erklären, erstmals zum 31.12.2026. \nIm Übrigen ist ein Austritt nur aus wichtigem Grund möglich. \nJeder Gesellschafter ist berechtigt, sich der Austrittserklärung eines anderen Gesellschafters anzuschließen. \nSofern die Frist für eine ordentliche Austrittserklärung bereits abgelaufen ist, muss die Anschlusserklärung innerhalb von einem Monat erfolgen, nachdem ihm der Austritt des zuletzt kündigenden Gesellschafters bekannt geworden ist. \nJede Austrittserklärung hat schriftlich zu erfolgen und ist an die Gesellschaft zu richten. 10.3. \nScheidet ein Gesellschafter aus der Gesellschaft aus, egal aus welchem Grund, so wird die Gesellschaft von den verbleibenden Gesellschaftern fortgesetzt mit der Befugnis, die bisherige Firma unverändert oder verändert fortzuführen. \nDas Schicksal des Geschäftsanteiles (Einziehung oder Abtretung) sowie des ausscheidenden Gesellschafters sind in § 13 und § 14 geregelt.",
+    "entities": [
+        {
+            "id": 520,
+            "label": "Subsection",
+            "start_offset": 408,
+            "end_offset": 1114
+        },
+        {
+            "id": 519,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 407
+        },
+        {
+            "id": 521,
+            "label": "Subsection",
+            "start_offset": 1115,
+            "end_offset": 1491
+        },
+        {
+            "id": 518,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 522,
+            "label": "Dauer",
+            "start_offset": 5,
+            "end_offset": 27
+        },
+        {
+            "id": 523,
+            "label": "Dauer",
+            "start_offset": 28,
+            "end_offset": 1491
+        },
+        {
+            "id": 524,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1491
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Dauer der Gesellschaft 10.1. Die Gesellschaft wird auf unbestimmte Zeit gegründet. Sie beginnt mit ihrer Eintragung im Handelsregister. Eine Auflösung erfolgt nur in den gesetzlich vorgeschriebenen Fällen oder auf der Grundlage einer Aktionärsentscheidung. Es wird klargestellt, dass dies auch die ordentliche Kündigung mit dem Ziel der Auflösung der Gesellschaft ausschließt.10.2. Jeder Aktionär kann seinen normalen Rücktritt von der Gesellschaft ohne Angabe von Gründen mit einer Frist von sechs Monaten zum Ende des Geschäftsjahres zum ersten Mal bis 31.12.2026 erklären. Übrigens ist ein Rücktritt nur aus wichtigen Gründen möglich. Jeder Aktionär ist berechtigt, der Rücktrittserklärung eines anderen Aktionärs beizutreten.Die Frist für eine ordentliche Rücktrittserklärung ist bereits abgelaufen, die nachfolgende Erklärung muss innerhalb eines Monats nach Kenntnisnahme des Rücktritts des letzten ausscheidenden Aktionärs abgegeben werden. Jede Rücktrittserklärung muss schriftlich abgegeben werden und an das Unternehmen gerichtet sein. 10.3. Verlässt ein Partner das Unternehmen, aus welchem Grund auch immer,die Gesellschaft wird von den übrigen Aktionären mit der Befugnis fortgesetzt, die bisherige Gesellschaft unverändert oder geändert weiterzuführen. Das Schicksal des Anteils des Geschäfts (Sammel- oder Abtretung) sowie des scheidenden Aktionärs ist in § 13 und § 14 geregelt."
+}

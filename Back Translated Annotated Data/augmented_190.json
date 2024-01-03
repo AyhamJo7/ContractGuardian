@@ -1,0 +1,45 @@
+{
+    "id": 664,
+    "text": "§8 Gesellschafterbeschlusse 1. \nGesellschafterbeschlusse werden mit einfacher Mehrheit der abgegebenen Stimmen ge­ fasst, soweit nicht das Gesetz oder dieser Vertrag eine andere Mehrheit vorschreiben. \nJe EUR 1,00 des Nennbetrages eines Geschaftsanteils gewahren eine Stimme. 2. \nDie Anfechtung van Gesellschafterbeschlussen ist nur durch Klageerhebung innerhalb einer Frist van einem Monat nach Zugang des Beschlussprotokolls zulassig.",
+    "entities": [
+        {
+            "id": 1315,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 1316,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 275
+        },
+        {
+            "id": 1318,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 3,
+            "end_offset": 28
+        },
+        {
+            "id": 1319,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 28,
+            "end_offset": 436
+        },
+        {
+            "id": 1320,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 436
+        },
+        {
+            "id": 1317,
+            "label": "Subsection",
+            "start_offset": 276,
+            "end_offset": 436
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 Beschlüsse der Aktionäre 1. Beschlüsse der Aktionäre werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst, es sei denn, das Gesetz oder dieser Vertrag verlangt eine andere Mehrheit.Eine Stimme wird je 1,00 EUR des Nennbetrags einer Aktie an der Gesellschaft gewährt. 2. Die Entscheidung der Aktionäre wird nur durch Klage innerhalb eines Monats nach Zuga angefochten.Das Beschlussfassungsverfahren wird nach dem Verfahren des Beschlussfassungsverfahrens beschlossen."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 803,
+    "text": "§ 16 Abfindung eines Gesellschafters 1. \nEin ausscheidender Gesellschafter erhält eine Abfindung, die zu ermitteln ist wie folgt: a) Der Verkehrswert seines Geschäftsanteils ist durch einen Schiedsgutachter gemäß § 317 BGB für alle Beteiligten verbindlich zu bestimmen. \nEr hat auch die angemessene Bewertungsmethode nach seinem Ermessen unter Berücksichtigung des IDW Standards: Grundzüge zur Durchführung von Unternehmensbewertungen (IDW S 1) zu bestimmen. \nEin Firmenwert ist jedoch nicht in Ansatz zu bringen. b) Der Schiedsgutachter kann nach seinem Ermessen den Wert der Wirtschaftsgüter selbst bestimmen oder für die Bewertung einzelner Wirtschaftsgüter weitere Gutachter einbeziehen. \nSoweit sich die Beteiligten auf Wertansätze einigen, ist der Schiedsgutachter an diese Werte gebunden. c) Bewertungszeitpunkt ist der mit dem Ausscheiden zusammenfallende Bilanzstichtag, sonst der vorausgehende Bilanzstichtag. d) Von diesem Verkehrswert ist ein Abschlag von 20% vorzunehmen. \nAbfindungsbetrag ist der so ermittelte Wert des Geschäftsanteils nach Abzug dieses 20%igen Abschlags. 2. \nSchiedsgutachter soll der im Zeitpunkt des Ausscheidens des betreffenden Gesellschafters für die Gesellschaft tätige Wirtschaftsprüfer oder Steuerberater sein. \nWill ihm ein Beteiligter (ein Gesellschafter oder die Gesellschaft) den Auftrag zu dieser Tätigkeit erteilen, so hat er dies allen Gesellschaftern und der Gesellschaft schriftlich mit einer Frist von einem Monat anzuzeigen. \nInnerhalb dieser Monatsfrist kann jeder Beteiligte den Wirtschaftsprüfer oder Steuerberater als Schiedsgutachter ohne Angabe von Gründen ablehnen. \nLehnt der Wirtschaftsprüfer oder Steuerberater selbst oder — innerhalb dieser Monatsfrist — ein Beteiligter ab, so ist ein anderer Schiedsgutachter zu wählen. \nEinigen sich die Gesellschafter dann nicht binnen eines weiteren Monats auf einen anderen Schiedsgutachter mit der Qualifikation Wirtschaftsprüfer, so ist dieser auf Antrag eines Beteiligten durch die für den Sitz der Gesellschaft zuständige Industrie- und Handelskammer zu bestimmen. Über seine Kosten soll der Schiedsgutachter entsprechend der Regelung der § 91 if. \nZPO entscheiden. 3. \nDie Abfindung ist in drei gleichen Jahresraten zu bezahlen. \nDie erste Rate ist sechs Monate nach dem Ausscheidungsstichtag fällig. \nDie weiteren Raten sind jeweils in den darauffolgenden Jahren an dem Tage fällig, der dem Datum der Fälligkeit der ersten Rate entspricht. \nDie Raten sind ab dem Zeitpunkt der Fälligkeit der ersten Rate mit zwei Prozentpunkten über dem jeweiligen Basiszinssatz jährlich zu verzinsen. \nDie Zinsen sind jeweils mit der Rate zu entrichten. \nEine frühere Zahlung der Abfindung ist ganz oder teilweise zulässig. \nEs besteht kein Anspruch auf Ersatz der dadurch ausgefallenen Zinsen. 4. \nDer ausscheidende Gesellschafter kann keine Sicherheit verlangen. 5. Änderungen der Jahresabschlüsse, die sich nach dem Ausscheiden des betreffenden Gesellschafters ergeben, insbesondere aufgrund einer Buch- oder Betriebsprüfung, bleiben ohne Einfluss auf die Höhe des Abfindungsguthabens. \nVII.Sonstiges .",
+    "entities": [
+        {
+            "id": 2348,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 1087
+        },
+        {
+            "id": 2351,
+            "label": "Subsection",
+            "start_offset": 2787,
+            "end_offset": 2855
+        },
+        {
+            "id": 2349,
+            "label": "Subsection",
+            "start_offset": 1088,
+            "end_offset": 2171
+        },
+        {
+            "id": 2350,
+            "label": "Subsection",
+            "start_offset": 2172,
+            "end_offset": 2785
+        },
+        {
+            "id": 2352,
+            "label": "Subsection",
+            "start_offset": 2857,
+            "end_offset": 3097
+        },
+        {
+            "id": 2353,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 36
+        },
+        {
+            "id": 2354,
+            "label": "Abfindung",
+            "start_offset": 37,
+            "end_offset": 3097
+        },
+        {
+            "id": 2355,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2716
+        },
+        {
+            "id": 2356,
+            "label": "Green Flag",
+            "start_offset": 2647,
+            "end_offset": 3079
+        },
+        {
+            "id": 2347,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 36
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 16 Einlösung eines Aktionärs 1. Ein scheidender Aktionär erhält eine Entschädigung, die wie folgt bestimmt wird: a) Der kommerzielle Wert seiner Geschäftsanteile wird von einem Schiedsgutachter nach § 317 BGB für alle Parteien bestimmt. Er hat auch die entsprechende Bewertungsmethode nach seinem Ermessen unter Berücksichtigung des IDW-Standards:b) Der Schlichtungsexperte kann nach seinem Ermessen den Wert der Vermögenswerte selbst bestimmen oder weitere Bewerter für die Bewertung einzelner Vermögenswerte einschließen.d) Von diesem Marktwert wird ein Abschlag von 20 % gewährt; der Betrag der Entschädigung ist der nach Abzug dieses Abschlags von 20 % ermittelte Wert der Geschäftsanteile. (2) Der SchiedsrichterWill eine Partei (ein Partner oder die Gesellschaft) ihm den Auftrag für diese Tätigkeit erteilen, so hat sie alle Mitglieder und die Gesellschaft schriftlich mit einer Frist von einem Monat zu benachrichtigen. Innerhalb dieses Monats kann jede Partei den Wirtschaftsprüfer oder Steuerberater als Schiedsrichter ohne Schiedsrichter konsultieren.Wenn der Wirtschaftsprüfer oder Steuerberater selbst oder innerhalb der Frist dieses Monats eine Partei dies ablehnt, wird ein anderer Schlichtungsexperte gewählt. Stimmen die Mitglieder nicht innerhalb eines weiteren Monats einem anderen Schlichtungsexperten mit dem Qualifikationsprüfer zu, so wird dieser auf Antrag einer der Parteien von derDie erste Rate ist sechs Monate nach dem Tag der Scheidung fällig. Die weiteren Raten sind in den folgenden Jahren am Tag der Zahlung an den DPO fällig. Die erste Rate ist sechs Monate nach dem Tag der Scheidung fällig. Die weiteren Raten sind jeweils in den folgenden Jahren an dem Tag fällig, an dem der DPO an den DPO zu zahlen ist.Die erste Tranche wird jährlich ab dem Fälligkeitsdatum der ersten Tranche mit zwei Prozentpunkten über dem jeweiligen Basiszinssatz gezahlt. Die Zinsen werden jeweils zum Satz gezahlt. Eine frühere Zahlung der Abfindung ist ganz oder teilweise zulässig. Es besteht kein Anspruch auf die Ersetzung der dadurch entstandenen Zinsen. 4.(5) Änderungen des Jahresabschlusses, die sich aus dem Rücktritt des betreffenden Mitglieds ergeben, insbesondere aufgrund einer Rechnungslegung oder Prüfung, berühren nicht den Betrag des Abrechnungssaldos. VII.Sonstiges ."
+}

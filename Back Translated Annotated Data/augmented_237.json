@@ -1,0 +1,39 @@
+{
+    "id": 785,
+    "text": "§ 21 Gründungsaufwand Die Gesellschaft trägt die mit der Gründung verbundenen Kosten der Eintragung und Bekanntmachung (Gründungsaufwand) bis zu einem Betrag von insgesamt 1.000 Euro.",
+    "entities": [
+        {
+            "id": 2193,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 183
+        },
+        {
+            "id": 2194,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 22
+        },
+        {
+            "id": 2192,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2195,
+            "label": "Kosten",
+            "start_offset": 22,
+            "end_offset": 183
+        },
+        {
+            "id": 2196,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 183
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 21 Gründungskosten Das Unternehmen trägt die Kosten der Registrierung und Veröffentlichung (Gründungskosten) bis zu einem Gesamtbetrag von 1.000 Euro."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 663,
+    "text": "§7 Gesellschafterversamm I u ng 1. \nEine ordentliche Gesellschafterversammlung findet jahrlich einmal innerhalb von zwei Mona­ ten nach Aufstellung des Jahresabschlusses durch die Geschaftsfuhrung statt. \nDaruber hin­ aus sind aul1erordentliche Versammlungen zu berufen, wenn dies von Gesellschaftern, die allein oder zusammen mindestens 10 Prozent des Stammkapitals halten, verlangt wird. 2. \nDie Einberufung erfolgt durch die Geschaftsfuhrer in vertretungsberechtigter Zahl, und zwar mittels Briefes, per E-Mail oder per Telefax mindestens zwei Wochen vor der Gesellschafter­ versammlung und unter Mitteilung der Tagesordnung. 3. \nDie Gesellschafterversammlung ist beschlussfahig, wenn mindestens drei Viertel aller vor­ handenen Stimmen vertreten sind. \nFehlt es daran, so ist - fruhestens nach zehn Werktagen - eine neue Gesellschafterversammlung mit gleicher Tagesordnung einzuberufen, die stets beschlussfahig ist; hierauf ist in der Einladung hinzuweisen. 4. \nJeder Gesellschafter kann sich in der Gesellschafterversammlung nur durch einen anderen Gesellschafter oder durch ein kraft Gesetzes zur Verschwiegenheit verpflichtetes Mitglied der rechts-, wirtschafts- oder steuerberatenden Berufe vertreten lassen. \nDie Vollmacht be­ darf der Schriftform. 5. \nBeschlusse ktinnen auch ohne Versammlung schriftlich, telefonisch, mittels elektronischer Kommunikationsmittel oder in einer Kombination dieser Verfahren gefasst werden, sofern sich alle Gesellschafter an der Abstimmung beteiligen und kein Gesellschafter dieser Art der Beschlussfassung widerspricht.   6. \nSamtliche Gesellschafterbeschlusse sind - soweit sie nicht notariell zu beurkunden sind - zu protokollieren. \nDas Protokoll ist van den Geschaftsfuhrern zu unterzeichnen. \nSamtliche Ge­ sellschafter erhalten Ablichtungen.",
+    "entities": [
+        {
+            "id": 1310,
+            "label": "Subsection",
+            "start_offset": 1566,
+            "end_offset": 1791
+        },
+        {
+            "id": 1314,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1791
+        },
+        {
+            "id": 1304,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 1305,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 389
+        },
+        {
+            "id": 1306,
+            "label": "Subsection",
+            "start_offset": 390,
+            "end_offset": 628
+        },
+        {
+            "id": 1307,
+            "label": "Subsection",
+            "start_offset": 629,
+            "end_offset": 962
+        },
+        {
+            "id": 1308,
+            "label": "Subsection",
+            "start_offset": 963,
+            "end_offset": 1258
+        },
+        {
+            "id": 1309,
+            "label": "Subsection",
+            "start_offset": 1259,
+            "end_offset": 1563
+        },
+        {
+            "id": 1312,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 3,
+            "end_offset": 31
+        },
+        {
+            "id": 1313,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 32,
+            "end_offset": 1791
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Hauptversammlung 1. Eine ordentliche Hauptversammlung findet einmal jährlich innerhalb von zwei Monaten nach Erstellung des Jahresabschlusses durch die Gesellschaftsverwaltung statt. Die Mitglieder der Hauptversammlung sind zu bestellen, wenn dies von Aktionären verlangt wird, die allein oder zusammen mindestens 10 Prozent des Grundkapitals halten. 2.Die Mitgliederversammlung wird von den Mitgliedern der Gesellschaft in einem Beschlussorgan einberufen, das berechtigt ist, sich mindestens zwei Wochen vor der Hauptversammlung per Brief, per E-Mail oder per Fax zu vertreten und die Tagesordnung zu notifizieren. 3. Die Hauptversammlung ist beschlussfähig, wenn mindestens drei Viertel aller anwesenden Stimmen vertreten sind.(4) Jedes Mitglied des Verwaltungsrats kann im Verwaltungsrat nur von einem anderen Mitglied oder von einem Mitglied der gesetzlich zur Geheimhaltung verpflichteten Rechts-, Wirtschafts- oder Steuerberatungsberufe einberufen werden.(5) Entscheidungen können auch schriftlich, telefonisch, auf elektronischem Wege oder in einer Kombination dieser Verfahren getroffen werden, sofern alle Aktionäre an der Abstimmung teilnehmen und kein Partner dieser Art von Entscheidung dagegen ist.Das Protokoll wird von den Verhandlungsführern unterzeichnet."
+}

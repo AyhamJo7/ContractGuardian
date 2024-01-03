@@ -1,0 +1,57 @@
+{
+    "id": 873,
+    "text": "§3. Stammkapital 3.1 Das Stammkapital der Gesellschaft beträgt € 25.000,00 (in Worten: Euro fünfundzwanzigtausend) 3.2 Die Gesellschaft in Firma MaBet Beteiligungs GmbH übernimmt 25.000 Geschäftsanteile mit einem Nennbetrag von € 1,00 (LW. \nEuro eins) (Geschäftsanteile Nrn. 1 — 25.000) (Summe der Nennbeträge der Geschäftsanteile: € 25.000,00). 3.3 Die Leistungen auf die übernommenen Geschäftsanteile sind sofort jeweils in Höhe von 50 % (Mindesteinlage von insgesamt € 12.500,00; § 7 Abs. 2 Satz 2 GmbHG) in bar zu bewirken. \nDie Restbeträge sind auf Anforderung der Gesellschaft fällig. ",
+    "entities": [
+        {
+            "id": 2819,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 2820,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 114
+        },
+        {
+            "id": 2821,
+            "label": "Subsection",
+            "start_offset": 115,
+            "end_offset": 344
+        },
+        {
+            "id": 2822,
+            "label": "Subsection",
+            "start_offset": 346,
+            "end_offset": 591
+        },
+        {
+            "id": 2823,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 17
+        },
+        {
+            "id": 2824,
+            "label": "Stammkapital",
+            "start_offset": 21,
+            "end_offset": 114
+        },
+        {
+            "id": 2826,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 591
+        },
+        {
+            "id": 2825,
+            "label": "Stammeinlagen",
+            "start_offset": 119,
+            "end_offset": 591
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§3. Aktienkapital 3.1 Das Grundkapital der Gesellschaft beträgt € 25,000,00 (in Worten: Euro fünfundzwanzigtausend) 3.2 Die Gesellschaft der MaBet Beteiligungs GmbH erwirbt 25.000 Aktien mit einem Nennbetrag von € 1,00 (LW. Euro eins) (Geschäftsanteile Nr. 1 - 25.000) (Summe der Nennbeträge der Aktien: € 25,000,00). 3.3 Die Vorteile des erworbenen GeschäftsvermögensDie übrigen Beträge werden auf Antrag des Unternehmens fällig."
+}

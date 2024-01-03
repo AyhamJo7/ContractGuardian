@@ -1,0 +1,45 @@
+{
+    "id": 872,
+    "text": "§2. Gegenstand des Unternehmens 2.1 Gegenstand des Unternehmens ist die erlaubnisfreie Beteiligung an anderen Unternehmen, insbesondere als persönlich haftende Gesellschafterin an der MaBet Holding GmbH & Co. \nKG mit Sitz in Hamburg, sowie die Verwaltung eigenen Vermögens, alles im eigenen Namen und auf eigene Rechnung. 2.2 Die Gesellschaft darf alle Geschäfte betreiben, die den Gesellschaftszweck unmittelbar oder mittelbar fördern. \nSie ist berechtigt Zweigniederlassungen im In- und Ausland zu errichten. ",
+    "entities": [
+        {
+            "id": 2812,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 2817,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 511
+        },
+        {
+            "id": 2818,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 511
+        },
+        {
+            "id": 2813,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 321
+        },
+        {
+            "id": 2814,
+            "label": "Subsection",
+            "start_offset": 322,
+            "end_offset": 511
+        },
+        {
+            "id": 2816,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 31
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2. Gegenstand der Gesellschaft 2.1 Gegenstand der Gesellschaft ist die freiwillige Beteiligung an anderen Gesellschaften, insbesondere als persönlich haftender Gesellschafter der MaBet Holding GmbH & Co. KG mit Sitz in Hamburg, sowie die Verwaltung des eigenen Vermögens, alles im eigenen Namen und auf eigene Rechnung.Es ist berechtigt, Zweigniederlassungen im In- und Ausland zu gründen."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 867,
+    "text": "§ 12 Bekanntmachungen Bekanntmachungen der Gesellschaft erfolgen ausschJieglich im Bundesanzeiger.",
+    "entities": [
+        {
+            "id": 2777,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2778,
+            "label": "Subsection",
+            "start_offset": 22,
+            "end_offset": 98
+        },
+        {
+            "id": 2779,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 21
+        },
+        {
+            "id": 2781,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 96
+        },
+        {
+            "id": 2780,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 22,
+            "end_offset": 98
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Bekanntmachungen Die Bekanntmachungen der Gesellschaft erfolgen ausschließlich im Bundesanzeiger."
+}

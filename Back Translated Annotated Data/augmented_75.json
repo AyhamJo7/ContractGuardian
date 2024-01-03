@@ -1,0 +1,51 @@
+{
+    "id": 590,
+    "text": "§ 2 Gegenstand des Unternehmens Gegenstand des Unternehmens ist die Verwaltung eigenen Vermögens, insbesondere der Erwerb von Immobilien und sonstigen Vermögensbeteligungen, die Immobiliendarlehensvermittlung i. \nS. des § 34 i Abs. l GewO und sonstige Tätigkeiten i. \nS. d. § 34 c GewO, die Vemüttlung von Immobüien (Maklertätigkeiten) i. \nS. d. § 34 c GewO sowie die Beratung im Bereich Iinmobilien lind Baudienstleistungen. l. 2. \nDie Gesellschaft darf ferner alle sonstigen Geschäfte betreiben, die geeignet sind, üxrem Hauptzweck zu dienen. \nDie Gesellschaft kann an anderen Orten, im In- und Ausland, Zweigniederlassungen errichten, gleichartige oder ähnliche Unternehmen erwerben sowie sich an solchen uniiuttelbar oder n-dttelbar beteiligen und Vertretungen solcher übernehmen. 3, Ferner darf sich die Gesellschaft init anderen in- oder ausländischen Unternehmen ähnlicher Art zu Arbeits- und Interessengemeinschaften zusammenschließen.",
+    "entities": [
+        {
+            "id": 754,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 755,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 428
+        },
+        {
+            "id": 756,
+            "label": "Subsection",
+            "start_offset": 429,
+            "end_offset": 784
+        },
+        {
+            "id": 757,
+            "label": "Subsection",
+            "start_offset": 785,
+            "end_offset": 943
+        },
+        {
+            "id": 758,
+            "label": "Gegenstand",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 759,
+            "label": "Gegenstand",
+            "start_offset": 32,
+            "end_offset": 943
+        },
+        {
+            "id": 760,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 943
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 2 Gegenstand des Unternehmens ist die Verwaltung des eigenen Vermögens der Gesellschaft, insbesondere der Erwerb von Immobilien und sonstigen Vermögensansprüchen, die Vermittlung von Immobilienkrediten gemäß § 34 i Abs. l GewO und andere Tätigkeiten gemäß § 34 c GewO, die Übertragung von Immobiliengeschäften gemäß § 34 c GewO sowie die Beratung auf dem Gebiet der VersicherungenDarüber hinaus kann die Gesellschaft jede andere Tätigkeit ausüben, die einem allgemeineren Zweck dienen kann. Die Gesellschaft kann an anderen Orten, im In- und Ausland, Zweigniederlassungen gründen, ähnliche oder ähnliche Unternehmen erwerben, an diesen Unternehmen teilnehmen und die Vertretung dieser Unternehmen übernehmen.In anderen inländischen oder ausländischen Unternehmen ähnlicher Art werden sie zu Arbeits- und Interessengruppen zusammengefasst."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 899,
+    "text": "§ 21 Gri.indungsaufwand Der Gri.indungsaufwand (Kosten fi.ir Notar und Gericht sowie evtl. \nGenehmigungen, Anwalt, Steuerberater) wird van der Gesellschaft bis zu einem Gesamtbetrag van EUR 2.500,- i.ibernommen. \nEin dari.iber hinausgehender Gri.indungsaufwand wird van den Gesellschaftern im Verhaltnis ihrer Gesellschaftsbeteiligungen getragen",
+    "entities": [
+        {
+            "id": 3026,
+            "label": "Kosten",
+            "start_offset": 5,
+            "end_offset": 23
+        },
+        {
+            "id": 3027,
+            "label": "Kosten",
+            "start_offset": 24,
+            "end_offset": 345
+        },
+        {
+            "id": 3024,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 23
+        },
+        {
+            "id": 3025,
+            "label": "Subsection",
+            "start_offset": 24,
+            "end_offset": 345
+        },
+        {
+            "id": 3029,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 345
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "ii.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i.i."
+}

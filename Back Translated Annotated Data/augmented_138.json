@@ -1,0 +1,93 @@
+{
+    "id": 729,
+    "text": "§ 12 Abfindung (1) Im Fall der Einziehung gemaB § 10 hat die Gesellschaft eine Abfindung zu zahlen. \nDie Hohe der Abfindung belauft sich auf den anteiligen Unterneh­ menswert nach MaBgabe von Abs. 2 und 3. \nIn allen anderen Fallen des Ausscheidens eines Gesellschafters gilt dieser § 12 entsprechend. (2) Die Hohe der Abfindung bestimmt sich in Abhangigkeit von dem Verkehrs­ wert des eingezogenen Geschaftsanteils, for dessen Ermittlung nach dem Willen der Gesellschafter das vereinfachte Ertragswertverfahren gemaB § 199 Bewertungsgesetz anzuwenden ist, allerdings mit der MaBgabe, dass der Kapitalisierungsfaktor nach § 203 Bewertungsgesetz auf den sechsfa­ chen (6x) Wert begrenzt ist und fur Immobilien der Verkehrswert abzOglich eines Bewertungsabschlags von 30% anzusetzen ist; von dem so ermittel­ ten Wert ist bei Ausscheiden eines Gesellschafter-GeschaftsfOhrers ein Ab­ schlag von 50% vorzunehmen, um die personenbezogenen EinflOsse zu eli­ minieren (als Gesellschafter-GeschaftsfOhrer gilt hierbei, wer bis mindes­ tens 12 Monate vor Einziehungsbeschluss als GeschaftsfOhrer der Gesell­ schaft oder eines ihrer Tochterunternehmen bestellt war). \nUntergrenze des Werts der Gesellschaft ist der Buchwert des Geschaftsanteils, bei dessen Ermittlung die Handelsbilanz zugrunde zu legen ist. \nFur die Ermittlung des Buchwerts ist der Jahresabschluss fur das Geschaftsjahr maBgeblich, in dem der Gesellschafter ausscheidet. \nVon dem so ermittelten Verkehrswert ist im Fall einer Einziehung nach § 10 Abs. 1 ein Betrag in Hohe von 100 % des Verkehrswertes als Abfindung ge­ schuldet. \nIn allen Obrigen Fallen einer Einziehung ist ein Betrag in Hohe von 70 % des Verkehrswertes als Abfindung geschuldet. (3) Werden Steuerbilanzen, die dem Abfindungsguthaben zugrunde gelegt wurden, durch eine spatere finanzamtliche AuBenprOfung bestandskraftig geandert, andert sich insoweit das Abfindungsguthaben nicht, jedoch sind etwaige hierdurch ausgeloste steuerliche Mehrbelastungen des Abfindungs­ berechtigten durch die Gesellschaft auszugleichen. (4) Der anteilige Verkehrswert ergibt sich jeweils aus dem Verhaltnis der Summe der Nennbetrage der eingezogenen Geschaftsanteile zum Stamm­ kapital der Gesellschaft. (5) Die Abfindung ist in fOnf gleichen und unmittelbar aufeinander folgenden Jahresraten zu zahlen. \nDie erste Rate ist zwolf Monate nach Mitteilung der Einziehung fallig. \nSteht die Hohe einer Rate bei ihrer Falligkeit noch nicht fest, hat die Gesellschaft einen angemessenen Abschlag zu leisten. \nDie Gesellschaft ist zur frOheren Zahlung der Abfindung berechtigt. \nDer jeweils ausstehende Teil der Abfindung ist ab dem Tag des Einziehungsbeschlus­ ses in Hohe des jeweiligen Basiszinssatzes nach § 247 8GB (BOrgerliches Gesetzbuch) p.a. zu verzinsen, nicht jedoch mit weniger als O %. \nDie Zin­ sen sind jeweils mit der nachsten Rate fallig. \nSicherheitsleistung kann nicht verlangt werden. (6) Vorbehaltlich Satz 2 wird der steuerliche Berater der Gesellschaft als Schiedsgutachter zur Bestimmung der Hohe der Abfindung bestimmt. \nWi­ derspricht dem einer der Gesellschafter oder der von der Einziehung be­ troffene Gesellschafter schriftlich innerhalb einer Frist von vier Wochen nach Erklarung der Einziehung, so bestimmt der Prases der Handelskam­ mer Hamburg auf Antrag eines der Gesellschafter oder der Gesellschaft den Schiedsgutachter, der die Qualifikation als Steuerberater haben muss. \nDer Schiedsgutachter hat innerhalb von acht Wochen nach seiner Bestel­ lung ein schriftliches Gutachten Ober die Hohe der Abfindung for den einzu­ ziehenden Geschaftsanteil zu erstellen, das fur die Gesellschaft und die Gesellschafter verbindlich ist. \nDie Kosten und Auslagen fur den Schiedsgut­ achter und das Schiedsgutachterverfahren werden halftig von der Gesell­ schaft und dem ausscheidenden Gesellschafter getragen. \nDer anteilige Un­ ternehmenswert ergibt sich aus dem Verhaltnis der Summe der Nennbe­ trage der eingezogenen Geschaftsanteile zum Stammkapital der Gesell­ schaft. (7) Im Fall der zwangsweisen Abtretung tritt ein durch den Erwerber zu zahlen­ des Entgelt an die Stelle der Abfindung. \nFur Hohe und Falligkeit des Entgel­ tes gelten die vorstehenden Absatze entsprechend.",
+    "entities": [
+        {
+            "id": 1815,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 2213
+        },
+        {
+            "id": 1817,
+            "label": "Green Flag",
+            "start_offset": 2213,
+            "end_offset": 3027
+        },
+        {
+            "id": 1818,
+            "label": "Green Flag",
+            "start_offset": 101,
+            "end_offset": 4207
+        },
+        {
+            "id": 1804,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 14
+        },
+        {
+            "id": 1805,
+            "label": "Subsection",
+            "start_offset": 15,
+            "end_offset": 300
+        },
+        {
+            "id": 1806,
+            "label": "Subsection",
+            "start_offset": 301,
+            "end_offset": 1707
+        },
+        {
+            "id": 1807,
+            "label": "Subsection",
+            "start_offset": 1708,
+            "end_offset": 2044
+        },
+        {
+            "id": 1808,
+            "label": "Subsection",
+            "start_offset": 2046,
+            "end_offset": 2212
+        },
+        {
+            "id": 1810,
+            "label": "Subsection",
+            "start_offset": 2907,
+            "end_offset": 3999
+        },
+        {
+            "id": 1811,
+            "label": "Subsection",
+            "start_offset": 4001,
+            "end_offset": 4207
+        },
+        {
+            "id": 1812,
+            "label": "Abfindung",
+            "start_offset": 5,
+            "end_offset": 15
+        },
+        {
+            "id": 1813,
+            "label": "Abfindung",
+            "start_offset": 15,
+            "end_offset": 2906
+        },
+        {
+            "id": 1809,
+            "label": "Subsection",
+            "start_offset": 2213,
+            "end_offset": 2906
+        },
+        {
+            "id": 1814,
+            "label": "Abfindung",
+            "start_offset": 2906,
+            "end_offset": 4207
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Rückzahlung (1) Im Falle der Einziehung, § 10, hat die Gesellschaft eine Abfindung zu zahlen. Der Betrag der Abfindung erfolgt auf der Grundlage des proportionalen Gesellschaftswerts nach § 2 und 3. In allen anderen Fällen der Pensionierung eines Gesellschafters gilt dieser § 12 sinngemäß. (2) Der Betrag der Abfindung wird in Bezug auf den Verkehrswert der versicherten Gesellschaft bestimmt.Bei Immobilien beschränkt sich der Kapitalisierungsfaktor auf den sechsfachen Wert (6x) und der kommerzielle Wert ist als Prozentsatz der Bewertungsmarge von 30% für Immobilien zu berechnen.Im Falle der Beendigung einer Partnerschaft wird der Wert um 50 % verringert, um das persönliche Einkommen zu beseitigen (als Gesellschaftergesellschaft, die bis mindestens 12 Monate vor der Einziehungsanordnung als Gesellschafter oder Tochtergesellschaft bestellt wurde).Zur Bestimmung des Buchwerts wird der Jahresabschluss für das Geschäftsjahr, in dem der Gesellschafter in den Ruhestand tritt, berechnet. Bei einer Einziehung nach § 10 Abs. 1 wird als Abfindung des so ermittelten Verkehrswertes ein Betrag von 100 % des Verkehrswertes geschuldet.Werden die auf der Abfindung der Abfindungen beruhenden Steuersalden durch eine spätere Steuerverwaltung erheblich verändert, so unterscheiden sich die Abfindungen nicht insofern, als die Abfindungen keine steuerlichen Belastungen aufgrund der Abfindungen darstellen, die sich aus der Abfindung der Abfindungen ergeben können.(4) Der anteilige Verkehrswert wird durch den Betrag der Nominalbeträge der Gesellschaftsanteile am Grundkapital der Gesellschaft bestimmt. (5) Die Entschädigung ist in den gleichen und unmittelbar aufeinander folgenden Jahressätzen zu zahlen; die erste Tranche ist zwölf Monate nach Mitteilung der Rückforderung zu zahlen.Die Gesellschaft ist berechtigt, die Abfindung im Voraus zu zahlen. Der ausstehende Teil der Abfindung ist ab dem Datum der Einziehungsentscheidung in Höhe des jeweiligen Basiszinssatzes gemäß § 247 8GB (Borgierliches Gesetzbuch) p.a., jedoch nicht mit weniger als O %, zu zahlen.6 Vorbehaltlich des zweiten Satzes ist der Steuerberater der Gesellschaft als Schiedsexperte für die Festsetzung der Höhe der Entschädigung bestimmt.Der Schlichtungsexperte bestimmt auf Antrag eines der Aktionäre oder der Gesellschaft den Schlichtungsexperten, der die Qualifikation zum Steuerberater haben muss. Der Schlichtungsexperte erstellt innerhalb von acht Wochen nach seinem Kauf eine schriftliche Stellungnahme zum hohen Grad der Abfindung für den zu übernehmenden Anteil der Gesellschaft.Die Kosten und Aufwendungen für das Schiedsverfahren und das Schiedsverfahren gehen zu Lasten der Gesellschaft und des scheidenden Gesellschafters. Der proportionale Ertragswert ergibt sich aus der Höhe der Nominalbeträge der auf das Grundkapital der Gesellschaft erhobenen Gesellschaftsanteile.(7) Im Falle einer Zwangsabtretung wird die Zahlung durch den Erwerber ersetzt; die vorstehenden Absätze gelten sinngemäß für die hohe und von Fall zu Fall bedingte Entlastung."
+}

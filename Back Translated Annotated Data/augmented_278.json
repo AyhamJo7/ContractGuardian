@@ -1,0 +1,15 @@
+{
+    "id": 809,
+    "text": "Gesellschaftsvertrag der Kreta Gyros Restaurant und Grillhaus Verwaltungs GmbH",
+    "entities": [
+        {
+            "id": 2384,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 78
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "Gesellschaftsvertrag der Crete Gyros Restaurant und Grillhaus Verwaltungs GmbH"
+}

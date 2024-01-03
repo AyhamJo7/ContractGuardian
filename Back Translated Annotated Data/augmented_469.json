@@ -1,0 +1,39 @@
+{
+    "id": 994,
+    "text": "§ 10 Bilanz\n\nDie Geschäftsführung hat innerhalb der gesetzlichen Fristen den Jahresabschluss für das vergangene Geschäftsjahr aufzustellen und den Gesellschaftern binnen eines weiteren Monats mit der Einladung zur ordentlichen Gesellschafterversammlung zuzusenden.",
+    "entities": [
+        {
+            "id": 3667,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 264
+        },
+        {
+            "id": 3663,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 11
+        },
+        {
+            "id": 3664,
+            "label": "Subsection",
+            "start_offset": 13,
+            "end_offset": 264
+        },
+        {
+            "id": 3665,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 11
+        },
+        {
+            "id": 3666,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 13,
+            "end_offset": 264
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Bilanz Die Geschäftsführung muss innerhalb der gesetzlichen Fristen den Jahresabschluss für das abgelaufene Geschäftsjahr erstellen und den Aktionären innerhalb eines weiteren Monats mit Einladung zur ordentlichen Hauptversammlung zusenden."
+}

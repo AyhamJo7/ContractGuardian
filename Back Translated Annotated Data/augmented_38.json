@@ -1,0 +1,69 @@
+{
+    "id": 553,
+    "text": "§ 5 Geschäftsführung 5.1. \nDie Gesellschaft hat einen oder mehrere Geschäftsführer. \nDie Geschäftsführer führen die Geschäfte der Gesellschaft gemeinschaftlich, unbeschadet ihrer Vertretungsmacht nach außen. 5.2. \nDie Beschlüsse der Geschäftsführer werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. \nJeder Geschäftsführer hat eine Stimme, die Gesellschafter können einzelnen Geschäftsführern zwei oder mehr Stimmen zuweisen. \nStimmenthaltungen werden bei der Zahl der abgegebenen Stimmen nicht mitgezählt. 5.3. \nDie Gesellschafter können die Geschäftsführung abweichend regeln, insbesondere eine Geschäftsordnung aufstellen. 5.4. \nDie Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die der gewöhnliche Geschäftsbetrieb der Gesellschaft mit sich bringt oder die ggf. von einem durch Gesellschafterbeschluss legitimierten Plan oder Budget gedeckt sind. 5.5. \nDie Gesellschafter können - auch in einseitiger Ergänzung oder Änderung des Anstellungsvertrages oder der vorstehenden Regelung – durch Beschluss einen Katalog von zustimmungsbedürftigen Handlungen aufstellen, bestimmte Handlungen von der Zustimmungspflicht ausnehmen, sowie Weisungen für den Einzelfall erteilen. \n 5.6. \nSoweit die Geschäftsführer die Geschäfte der Beteiligungsgesellschaften führen, haben sie die für diese Gesellschaften aufgestellten Regelungen zu beachten.",
+    "entities": [
+        {
+            "id": 463,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 207
+        },
+        {
+            "id": 468,
+            "label": "Subsection",
+            "start_offset": 1205,
+            "end_offset": 1367
+        },
+        {
+            "id": 462,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 465,
+            "label": "Subsection",
+            "start_offset": 519,
+            "end_offset": 637
+        },
+        {
+            "id": 466,
+            "label": "Subsection",
+            "start_offset": 638,
+            "end_offset": 882
+        },
+        {
+            "id": 467,
+            "label": "Subsection",
+            "start_offset": 883,
+            "end_offset": 1203
+        },
+        {
+            "id": 464,
+            "label": "Subsection",
+            "start_offset": 208,
+            "end_offset": 518
+        },
+        {
+            "id": 469,
+            "label": "Geschäftsführung",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 470,
+            "label": "Geschäftsführung",
+            "start_offset": 21,
+            "end_offset": 1367
+        },
+        {
+            "id": 471,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1367
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 5 Geschäftsführung 5.1. Die Gesellschaft hat einen oder mehrere Geschäftsführer. Die Geschäftsführer führen die Geschäfte der Gesellschaft gemeinsam, unbeschadet ihrer repräsentativen Macht nach außen. 5.2. Die Entscheidungen der Geschäftsführer werden mit einfacher Mehrheit der abgegebenen Stimmen getroffen. Jeder Geschäftsführer hat eine Stimme, die Aktionäre können individuelle Geschäftsführung5.3. Abweichend davon können die Aktionäre die Geschäftsführung der Gesellschaft regeln, insbesondere durch die Festlegung einer Geschäftsordnung. 5.4. Die Befugnis zur Geschäftsführung erstreckt sich auf alle Handlungen, die die ordentliche Geschäftstätigkeit der Gesellschaft mit sich bringt oder die von der Gesellschaft ausgeübt werden können.5.5. Die Aktionäre können auch in einseitiger Ergänzung oder Änderung des Arbeitsvertrages oder der oben genannten Verordnung durch Entscheidung einen Katalog von Maßnahmen festlegen, die eine Zustimmung erfordern, bestimmte Handlungen von der Zustimmungspflicht befreien und Weisungen für den Einzelfall erteilen.n. 5.6. Soweit die Geschäftsführer die Geschäfte der Holdinggesellschaften führen, müssen sie die für diese Gesellschaften geltenden Vorschriften einhalten."
+}

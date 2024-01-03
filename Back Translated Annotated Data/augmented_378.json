@@ -1,0 +1,57 @@
+{
+    "id": 927,
+    "text": "§ 1 Firma und Sitz der Gesellschaft 1. \nDie Firma der Gesellschaft lautet: OT Regio Hamburg & Schleswig Holstein GmbH 2. \nDie Gesellschaft hat ihren Sitz in Hamburg.",
+    "entities": [
+        {
+            "id": 3209,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 10
+        },
+        {
+            "id": 3210,
+            "label": "Firma",
+            "start_offset": 40,
+            "end_offset": 117
+        },
+        {
+            "id": 3211,
+            "label": "Sitz",
+            "start_offset": 13,
+            "end_offset": 35
+        },
+        {
+            "id": 3206,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3213,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 165
+        },
+        {
+            "id": 3207,
+            "label": "Subsection",
+            "start_offset": 36,
+            "end_offset": 117
+        },
+        {
+            "id": 3208,
+            "label": "Subsection",
+            "start_offset": 118,
+            "end_offset": 165
+        },
+        {
+            "id": 3212,
+            "label": "Sitz",
+            "start_offset": 122,
+            "end_offset": 165
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft und Sitz der Gesellschaft 1. Gesellschaft der Gesellschaft ist: OT Regio Hamburg & Schleswig Holstein GmbH 2. Die Gesellschaft hat ihren Sitz in Hamburg."
+}

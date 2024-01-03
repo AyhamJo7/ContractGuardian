@@ -1,0 +1,39 @@
+{
+    "id": 586,
+    "text": "§ 7 GRÜNDUNGS- UND KAPITALERHÖHUNGSKOSTEN Die Kosten der Gründung der Gesellschaft (nämlich Gebühren und Auslagen des Notars, Kosten des Registergerichts und der Veröffentlichung sowie mit der Gründung verbundene Kosten des Steuerberaters) trägt die Gesellschaft bis zur hföhe von insgesamt € 2.500,00. \nKosten zukünftiger Kapitalerhöhungen trägt ebenfalls die Gesellschaft.",
+    "entities": [
+        {
+            "id": 733,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 41
+        },
+        {
+            "id": 734,
+            "label": "Subsection",
+            "start_offset": 42,
+            "end_offset": 374
+        },
+        {
+            "id": 735,
+            "label": "Kosten",
+            "start_offset": 4,
+            "end_offset": 41
+        },
+        {
+            "id": 736,
+            "label": "Kosten",
+            "start_offset": 42,
+            "end_offset": 374
+        },
+        {
+            "id": 737,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 374
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 7 GRUNDSÄTZE UND KAPITALVERBINDLICHKEIT KOSTEN Die Kosten für die Gründung der Gesellschaft (d.h. die Gebühren und Aufwendungen des Notars, die Kosten des Registergerichts und die Veröffentlichung sowie die Kosten des mit der Niederlassung verbundenen Steuerberaters) werden von der Gesellschaft bis zur Höhe von insgesamt € 2.500,00 getragen.Die Kosten künftiger Kapitalerhöhungen werden auch von der Gesellschaft getragen."
+}

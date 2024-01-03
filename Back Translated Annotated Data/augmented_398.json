@@ -1,0 +1,63 @@
+{
+    "id": 1020,
+    "text": "§ 3 Stammkapital, Stammeinlagen (1) Das Stammkapital der Gesellschaft beträgt € 25.000,00. (2) Auf das Stammkapital hat der alleinige Gesellschafter, Herr Dirk Martin Jürgensen aus Hamburg, geb. am 19.06.1971, den einzigen Geschäftsanteil Nr. 1 in Höhe von € 25.000,00 übernommen. (3) Das Stammkapital ist sofort in voller Höhe in Geld zur Gesellschaft einzuzahlen.",
+    "entities": [
+        {
+            "id": 3849,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 365
+        },
+        {
+            "id": 3841,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 31
+        },
+        {
+            "id": 3842,
+            "label": "Subsection",
+            "start_offset": 32,
+            "end_offset": 90
+        },
+        {
+            "id": 3843,
+            "label": "Subsection",
+            "start_offset": 91,
+            "end_offset": 279
+        },
+        {
+            "id": 3844,
+            "label": "Subsection",
+            "start_offset": 281,
+            "end_offset": 365
+        },
+        {
+            "id": 3845,
+            "label": "Stammkapital",
+            "start_offset": 4,
+            "end_offset": 16
+        },
+        {
+            "id": 3846,
+            "label": "Stammkapital",
+            "start_offset": 32,
+            "end_offset": 89
+        },
+        {
+            "id": 3847,
+            "label": "Stammeinlagen",
+            "start_offset": 18,
+            "end_offset": 32
+        },
+        {
+            "id": 3848,
+            "label": "Stammeinlagen",
+            "start_offset": 90,
+            "end_offset": 365
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 3 Grundkapital, Grundkapital (1) Das Grundkapital der Gesellschaft beträgt € 25.000,00. (2) Der Alleinaktionär Dirk Martin Jürgensen aus Hamburg, geboren am 19.06.1971, hat den Alleinanteil der Gesellschaft in Höhe von € 25.000,00. (3) Das Grundkapital ist sofort in voller Höhe an die Gesellschaft zu zahlen."
+}

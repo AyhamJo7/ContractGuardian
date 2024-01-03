@@ -1,0 +1,39 @@
+{
+    "id": 779,
+    "text": "§15 Mitverkaufsreebt Entschließen sich Gesellschafter nach dem 30. \nJuni 2006 zur Veräußerung ihrer Geschäftsanteile an der Gesellschaft an Dritte, die dadurch allein oder gemeinsam eine Beteiligung von 50 % oder mehr des Stammkapitals der  Gesellschaft erwerben, so sind sie verpflichtet, mit dem dritten Erwerbsinteressenten zu vereinbaren, dass dieser Erwerbsinteressent den übrigen Gesellschaftern schriftlich anbieten muss, sämtliche von diesen gehaltenen Geschäftsanteilen zu denselben Konditionen zu erwerben, wie die Geschäftsanteile der veräußerungswilligen Gesellschafter. \nDiese Regelung gilt auch dann, wenn der Dritte bereits an der Gesellschaft beteiligt ist und wenn die geplante Veräußerung von Geschäftsanteilen des Gesellschafters an den Dritten dazu gihrt, dass die Beteiligung des Dritten an der Gesellschaft 50 % des Stammkapitals erreicht oder iibersteigt.",
+    "entities": [
+        {
+            "id": 2155,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 878
+        },
+        {
+            "id": 2157,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 21,
+            "end_offset": 878
+        },
+        {
+            "id": 2158,
+            "label": "Green Flag",
+            "start_offset": 68,
+            "end_offset": 878
+        },
+        {
+            "id": 2154,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2156,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 21
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§15 Mitverkaufsverträge Entscheiden sich die Aktionäre nach dem 30. Juni 2006, ihre Aktien an Dritte zu verkaufen, die dadurch allein oder gemeinsam ein 50 % oder mehr Aktienkapital der Gesellschaft erwerben, so sind sie verpflichtet, mit dem Dritten zu vereinbaren, dass dieser Erwerber der andere Aktionär ist.Diese Bestimmung gilt auch, wenn der Dritte bereits an der Gesellschaft beteiligt ist und die beabsichtigte Veräußerung der Aktien des Aktionärs an dem Dritten zur Beteiligung des Aktionärs am Verkauf der Aktien des Tochterunternehmens an dem Dritten führen soll.Dritte in der Gesellschaft haben 50 % des Grundkapitals erreicht oder überschritten."
+}

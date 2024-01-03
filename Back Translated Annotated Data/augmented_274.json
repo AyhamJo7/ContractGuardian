@@ -1,0 +1,51 @@
+{
+    "id": 833,
+    "text": "§ 13 Ki.indigung (1) Die Gesellschaft kann mit einer Kundigungsfrist von 6 Monaten jeweils zum Ende des Ge­ schaftsjahres gekundigt werden. \nDie Kundigung erfolgt durch Einschreiben zum Einwurf und ist an samtliche anderen Gesellschafter zu richten. \nDie Kundigungsfrist ist gewahrt, wenn das Kundigungsschreiben bis zum Ablauf des dritten Werktages der Kundigungsfrist zur Post gegeben wurde. \nIm Zweifel ist als Anschrift der Gesellschafter die Anschrift zu wahlen, die sich aus der Liste der Gesellschafter ergibt. (2) Durch die Kundigung wird die Gesellschaft nicht aufgelost, sondern mit den verbleibenden Gesellschaftern fortgesetzt. \nJedoch kann in einem solchen Fall die Gesellschafterver­ sammlung bis zum Ende der Kundigungsfrist die Liquidation der Gesellschaft beschliel:lien. \nDer kCmdigende Gesellschafter ist hierbei nicht stimmberechtigt. (3) Fur die an den kundigenden Gesellschafter zu zahlende Abfindung gelten die Vereinba­ rungen in § 11 Abs. 2 g) und h) dieses Gesellschaftsvertrages entsprechend.",
+    "entities": [
+        {
+            "id": 2537,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 16
+        },
+        {
+            "id": 2539,
+            "label": "Subsection",
+            "start_offset": 518,
+            "end_offset": 854
+        },
+        {
+            "id": 2540,
+            "label": "Subsection",
+            "start_offset": 855,
+            "end_offset": 1019
+        },
+        {
+            "id": 2538,
+            "label": "Subsection",
+            "start_offset": 17,
+            "end_offset": 517
+        },
+        {
+            "id": 2542,
+            "label": "Kündigung",
+            "start_offset": 5,
+            "end_offset": 16
+        },
+        {
+            "id": 2543,
+            "label": "Kündigung",
+            "start_offset": 17,
+            "end_offset": 1019
+        },
+        {
+            "id": 2544,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1019
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 13 K.indung (1) Die Gesellschaft kann am Ende des Geschäftsjahres mit einer Frist von 6 Monaten benachrichtigt werden. Der Brief des Kunden wird per Einschreiben an den Absender geschickt und ist an alle anderen Aktionäre zu senden. Der Brief des Kunden wird erhalten, wenn der Brief des Kunden bis zum Ende des dritten Geschäftstages an die Post geschickt wurde.Die Anschrift der Aktionäre ist aus der Liste der Aktionäre zu wählen. (2) Die Gesellschaft wird nicht vom Kunden neu organisiert, sondern mit den übrigen Aktionären fortgesetzt. In diesem Fall kann der Aktionärsverband jedoch beschließen, die Gesellschaft bis zum Ende der Periode des Kunden zu liquidieren.(3) Für die an den sachkundigen Partner zu zahlende Entschädigung gelten die Vereinbarungen nach § 11 Abs. 2 g) und h) dieses Sozialvertrages entsprechend."
+}

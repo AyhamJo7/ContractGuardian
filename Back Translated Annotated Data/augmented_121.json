@@ -1,0 +1,45 @@
+{
+    "id": 636,
+    "text": "§ 6 Verfügungen über Geschäftsanteile Rechtsgeschäftliche Verfügungen eines Gesellschafters über Geschäftsanteile oder Teile hiervon bedürfen der Zustimmung der Gesellschaft, die diese nur erteilen darf, wenn die Gesellschafterversammlung zuvor mit einer Mehrheit von 75 % der abgegebenen Stimmen der Verfügung zugestimmt hat, wobei auch an der Verfügung beteiligte Gesellschafter stimmberechtigt sind. \nDasselbe gilt für Vereinbarungen von Unterbeteiligungen, Treuhandschaften oder ähnlichen Rechtsverhältnissen.",
+    "entities": [
+        {
+            "id": 1122,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 1123,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 402
+        },
+        {
+            "id": 1125,
+            "label": "Subsection",
+            "start_offset": 404,
+            "end_offset": 513
+        },
+        {
+            "id": 1127,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 38,
+            "end_offset": 513
+        },
+        {
+            "id": 1126,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 37
+        },
+        {
+            "id": 1128,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 513
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 6 Verfügungen über Aktien und Aktien eines Gesellschafters in Rechtsstreitigkeiten über Aktien oder Teile davon bedürfen der Zustimmung der Gesellschaft, die diese nur erteilen kann, wenn die Aktionärsversammlung die Entscheidung zuvor mit einer Mehrheit von 75 % der abgegebenen Stimmen gebilligt hat, auch wenn die an der Entscheidung beteiligten Aktionäre stimmberechtigt sind.d. Gleiches gilt für Vereinbarungen von Teilbeteiligungen, Trusts oder ähnlichen Rechtsbeziehungen."
+}

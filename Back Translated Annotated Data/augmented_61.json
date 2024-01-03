@@ -1,0 +1,45 @@
+{
+    "id": 576,
+    "text": "§9 Abfindung und Bewertung Scheidet ein Gesellschafter aus der Gesellschaft aus, so ist ihm der Wert seines Geschäftsanteils zu erstatten. \nKommt eine Einigung über den Wert des Geschäftsanteils nicht zustande, richtet sich die Anteilsbewertung nach den dann gültigen „Grundsätzen zur Durchführung von Unternehmensbewertungen\" des Institutes der Wirtschaftsprüfer in Deutschland e.V. (IDW). -5",
+    "entities": [
+        {
+            "id": 659,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 26
+        },
+        {
+            "id": 660,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 139
+        },
+        {
+            "id": 661,
+            "label": "Subsection",
+            "start_offset": 140,
+            "end_offset": 391
+        },
+        {
+            "id": 663,
+            "label": "Abfindung",
+            "start_offset": 3,
+            "end_offset": 26
+        },
+        {
+            "id": 664,
+            "label": "Abfindung",
+            "start_offset": 27,
+            "end_offset": 390
+        },
+        {
+            "id": 665,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 390
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§9 Rückzahlung und Bewertung Wird ein Aktionär von der Gesellschaft zurückgetreten, so wird ihm der Wert seiner Geschäftsanteile zurückerstattet. Wird eine Einigung über den Wert der Geschäftsanteile nicht erzielt, so beruht die Aktienbewertung auf den damals gültigen \"Grundsätzen für die Durchführung von Unternehmensbewertungen\" des Instituts für Wirtschaftsprüfer in Deutschland (IDW). -5"
+}

@@ -1,0 +1,69 @@
+{
+    "id": 989,
+    "text": "§5 Einziehung von Geschäftsanteilen\n\n(1) Die Einziehung von Geschäftsanteilen mit Zustimmung des betroffenen Gesellschafters ist jederzeit zulässig.\n\n(2) Ohne Zustimmung des betroffenen Gesellschafters kann ein Geschäftsanteil durch Beschluss der Gesellschafter ganz oder teilweise eingezogen werden, wenn:\n\na) über das Vermögen des Gesellschafters ein Insolvenzverfahren eröffnet oder die Eröffnung mangels Masse abgelehnt worden ist, oder\nb) der Geschäftsanteil des Gesellschafters gepfändet wird und die Pfändung nicht innerhalb eines Monats aufgehoben wird, oder\nc) ein wichtiger Grund in der Person des Gesellschafters vorliegt, der seine Ausschließung aus der Gesellschaft rechtfertigt.\n\n(3) Im Rahmen der Einziehung eines Geschäftsanteils ist das Stammkapital entweder herabzusetzen oder es sind durch Mehrheitsbeschluss neue Geschäftsanteile zu bilden. Neu gebildete Geschäftsanteile können der Gesellschaft, einem oder mehreren Gesellschaftern oder Dritten zugewiesen werden.\n\n(4) Die Gesellschafter können anstelle der Einziehung auch beschließen, dass der betroffene Gesellschafter seine Geschäftsanteile an einen oder mehrere Gesellschafter oder die Gesellschaft oder einen von der Gesellschaft zu benennenden Dritten zu übertragen hat.\n\n(5) Bei der Beschlussfassung über die Einziehung oder die Verpflichtung zur Übertragung von Geschäftsanteilen sowie den in Absatz (3) genannten Maßnahmen hat der betroffene Gesellschafter kein Stimmrecht.\n\n(6) Die für den eingezogenen oder übertragenen Geschäftsanteil zu zahlende Vergütung entspricht dem Verkehrswert des Geschäftsanteils. Die Vergütung ist fällig im Zeitpunkt der Fassung des Einziehungsbeschlusses.",
+    "entities": [
+        {
+            "id": 3630,
+            "label": "Subsection",
+            "start_offset": 986,
+            "end_offset": 1248
+        },
+        {
+            "id": 3631,
+            "label": "Subsection",
+            "start_offset": 1250,
+            "end_offset": 1454
+        },
+        {
+            "id": 3632,
+            "label": "Subsection",
+            "start_offset": 1456,
+            "end_offset": 1668
+        },
+        {
+            "id": 3633,
+            "label": "Einziehung",
+            "start_offset": 2,
+            "end_offset": 35
+        },
+        {
+            "id": 3624,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 35
+        },
+        {
+            "id": 3625,
+            "label": "Subsection",
+            "start_offset": 37,
+            "end_offset": 148
+        },
+        {
+            "id": 3627,
+            "label": "Subsection",
+            "start_offset": 150,
+            "end_offset": 692
+        },
+        {
+            "id": 3628,
+            "label": "Subsection",
+            "start_offset": 694,
+            "end_offset": 986
+        },
+        {
+            "id": 3634,
+            "label": "Einziehung",
+            "start_offset": 37,
+            "end_offset": 1668
+        },
+        {
+            "id": 3635,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1668
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§5 Rückforderung von Aktien (1) Die Einziehung von Aktien mit Zustimmung des betreffenden Aktionärs ist jederzeit zulässig. (2) Ohne Zustimmung des betreffenden Aktionärs kann ein Teil des Geschäfts ganz oder teilweise durch Entscheidung der Aktionäre eingezogen werden, wenn: a) ein Insolvenzverfahren auf das Vermögen des Aktionärs oder die Eröffnung des Geschäfts eröffnet wird.c) es gibt einen wichtigen Grund in der Person des Aktionärs, der seinen Ausschluss von der Gesellschaft rechtfertigt.(4) Die Aktionäre können auch anstelle der Einziehung entscheiden, dass der betreffende Aktionär seine Anteile an einem oder mehreren der Gesellschafter, der Gesellschaft oder der Gesellschaft hat oder dass er seine Anteile an der Gesellschaft oder der betreffenden Gesellschaft haben kann.(5) Bei der Entscheidung über die Einziehung oder Verpflichtung zur Übertragung von Aktien und die in Absatz 3 genannten Maßnahmen hat das betreffende Mitglied kein Stimmrecht. (6) Die für die eingezogene oder übertragene Aktie zu zahlende Vergütung entspricht dem kommerziellen Wert der Aktie.ist zum Zeitpunkt der Rückforderungsentscheidung fällig."
+}

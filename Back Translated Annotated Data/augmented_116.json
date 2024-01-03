@@ -1,0 +1,57 @@
+{
+    "id": 631,
+    "text": "§ 1 Firma, Sitz (1) Die Firma der Gesellschaft lautet: Born To Fly Handels GmbH (2) Die Gesellschaft hat ihren Satzungssitz und ihren Verwaltungssitz in Hamburg.",
+    "entities": [
+        {
+            "id": 1082,
+            "label": "Subsection",
+            "start_offset": 16,
+            "end_offset": 79
+        },
+        {
+            "id": 1083,
+            "label": "Subsection",
+            "start_offset": 80,
+            "end_offset": 161
+        },
+        {
+            "id": 1084,
+            "label": "Firma",
+            "start_offset": 4,
+            "end_offset": 9
+        },
+        {
+            "id": 1085,
+            "label": "Firma",
+            "start_offset": 19,
+            "end_offset": 79
+        },
+        {
+            "id": 1087,
+            "label": "Sitz",
+            "start_offset": 84,
+            "end_offset": 161
+        },
+        {
+            "id": 1086,
+            "label": "Sitz",
+            "start_offset": 11,
+            "end_offset": 16
+        },
+        {
+            "id": 1088,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 161
+        },
+        {
+            "id": 1081,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 15
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 1 Gesellschaft, Sitz (1) Gesellschaft der Gesellschaft ist: Born To Fly Handels GmbH (2) Die Gesellschaft hat ihren Sitz und ihren Sitz in Hamburg."
+}

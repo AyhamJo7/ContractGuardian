@@ -1,0 +1,45 @@
+{
+    "id": 675,
+    "text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Entwicklung innovativer Technologien, insbe­ sondere im Bereich Software, embedded Systems, IT-Security, Consulting, Dokumenta­ tionsaufbereitung und Konzeption sowie Marketing, e-Commerce, auch der Im- und Export von Handelswaren. (2) Die Gesellschaft ist befugt, zu diesem Z week andere U nternehmen zu griinden, zu er­ werben und sich an ihnen zu beteiligen, auch als alleinige Komplementarin, und Zweig­ niederlassungen zu errichten, und zwar im In- und Ausland.",
+    "entities": [
+        {
+            "id": 1402,
+            "label": "RED FLAG",
+            "start_offset": 0,
+            "end_offset": 537
+        },
+        {
+            "id": 1397,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 1398,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 302
+        },
+        {
+            "id": 1399,
+            "label": "Subsection",
+            "start_offset": 303,
+            "end_offset": 537
+        },
+        {
+            "id": 1400,
+            "label": "Gegenstand",
+            "start_offset": 3,
+            "end_offset": 30
+        },
+        {
+            "id": 1401,
+            "label": "Gegenstand",
+            "start_offset": 31,
+            "end_offset": 537
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Entwicklung innovativer Technologien, insbesondere in den Bereichen Software, Embedded-Systeme, IT-Sicherheit, Beratung, Dokumentationsvorbereitung und -konzeption sowie Marketing, E-Commerce, auch Import und Export von Handelsgütern. (2) Das Unternehmen ist berechtigt, andere Unternehmen in diesen Vertrag aufzunehmen.und sich an ihnen zu beteiligen, auch als alleiniger Komplementär, und Zweigniederlassungen zu gründen, sowohl im In- als auch im Ausland."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 938,
+    "text": "§ 12 Dauer der Gesellschaft Die Dauer der Gesellschaft ist unbestimmt.",
+    "entities": [
+        {
+            "id": 3307,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 70
+        },
+        {
+            "id": 3306,
+            "label": "Dauer",
+            "start_offset": 28,
+            "end_offset": 70
+        },
+        {
+            "id": 3303,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 27
+        },
+        {
+            "id": 3304,
+            "label": "Subsection",
+            "start_offset": 28,
+            "end_offset": 70
+        },
+        {
+            "id": 3305,
+            "label": "Dauer",
+            "start_offset": 5,
+            "end_offset": 27
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Dauer der Gesellschaft Die Dauer der Gesellschaft ist unbestimmt."
+}

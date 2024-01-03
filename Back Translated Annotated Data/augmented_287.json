@@ -1,0 +1,39 @@
+{
+    "id": 818,
+    "text": "§ 9 Gründungsaufwand Die Gesellschaft trägt die mit der Gründung verbundenen Kosten für die notarielle Beurkundung, die Handelsregistereintragung, die Bekanntmachung sowie die Aufwendungen für Rechtsanwälte und Steuerberater (Gründungsaufwand) bis zu einem Betrag von insgesamt 1.200,00 EUR.",
+    "entities": [
+        {
+            "id": 2438,
+            "label": "Kosten",
+            "start_offset": 4,
+            "end_offset": 21
+        },
+        {
+            "id": 2439,
+            "label": "Kosten",
+            "start_offset": 21,
+            "end_offset": 291
+        },
+        {
+            "id": 2440,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 291
+        },
+        {
+            "id": 2436,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 20
+        },
+        {
+            "id": 2437,
+            "label": "Subsection",
+            "start_offset": 21,
+            "end_offset": 291
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 9 Gründungskosten Das Unternehmen trägt die mit der Gründung der notariellen Zertifizierung, der Eintragung des Handelsregisters, der Bekanntgabe sowie den Aufwendungen für Rechtsanwälte und Steuerberater (Gründungskosten) verbundenen Kosten bis zu einem Gesamtbetrag von EUR 1.200,00."
+}

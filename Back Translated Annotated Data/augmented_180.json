@@ -1,0 +1,39 @@
+{
+    "id": 745,
+    "text": "§11 Geltung des GmbH-Gesetzes Im Übrigen gelten die Vorschriften des GmbH-Gesetzes",
+    "entities": [
+        {
+            "id": 1911,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 1914,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 30,
+            "end_offset": 82
+        },
+        {
+            "id": 1915,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 82
+        },
+        {
+            "id": 1912,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 82
+        },
+        {
+            "id": 1913,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 0,
+            "end_offset": 29
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§11 Anwendbarkeit des GmbH-Gesetzes Es gelten auch die Bestimmungen des GmbH-Gesetzes."
+}

@@ -1,0 +1,45 @@
+{
+    "id": 560,
+    "text": "§ 12 Tod eines Gesellschafters Die Geschäftsanteile sind vererblich. \nIm Erbfall können die Geschäftsanteile jedoch ohne Angabe von Gründen eingezogen werden. \nHierfür gelten § 13 und § 14.",
+    "entities": [
+        {
+            "id": 532,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 30
+        },
+        {
+            "id": 533,
+            "label": "Erbfolge",
+            "start_offset": 5,
+            "end_offset": 30
+        },
+        {
+            "id": 534,
+            "label": "Subsection",
+            "start_offset": 31,
+            "end_offset": 67
+        },
+        {
+            "id": 535,
+            "label": "Subsection",
+            "start_offset": 70,
+            "end_offset": 189
+        },
+        {
+            "id": 536,
+            "label": "Erbfolge",
+            "start_offset": 31,
+            "end_offset": 189
+        },
+        {
+            "id": 537,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 189
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 12 Tod eines Partners Die Aktien sind erblich. Im Falle der Erbfolge können die Aktien jedoch ohne Angabe von Gründen eingezogen werden. § 13 und § 14 gelten."
+}

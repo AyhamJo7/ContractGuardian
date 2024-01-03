@@ -1,0 +1,51 @@
+{
+    "id": 848,
+    "text": "§ 11 Ausschluss von Gesellschaftern und Einziehung von Geschaftsanteilen 11. 1 Die Gesellschafterversammlung kann den Ausschluss eines Gesellschafters beschliel1en, a) wenn Ober sein Vermogen ein lnsolvenzverfahren eroff­ net worden ist b) wenn Zwangsvollstreckungsmal1nahmen in seinen Ge­ schaftsanteil betrieben werden und diese Mal1nahmen nicht innerhalb von vier Wochen wieder aufgehoben war­ den sind c) wenn ein sanstiger wichtiger Grund in der Person des betreffenden Gesellschafters besteht, der sein weiteres Verbleiben In der Gesellschaft tor die Obrigen Gesell­ schafter unzumutbar sein lasst. \nDer betroffene Gesell- • sch after hat bei diesen Besch lussfassungen kein Stimm­ recht. 11.2 Die Vergotung an den ausscheidenden Gesellschafter be­ misst sich nach dem Bilanzwert der Bilanz auf den Stichtag des Ausscheidens. \nDie Bilanz ist unter Beachtung der Be­ stimmungen der § 242, 264 HGB zu erstellen. 11. 3 Die Gesellschafterversammlung beschliel1t gleichzeitig, dass der Geschaftsanteil des ausgeschlossenen Gesellschafters von der Gesellschaft erworben wird oder auf von ihr benann­ te Personen Obertragen werden muss. \nSie kann auch die Einziehung des Geschaftsanteiles beschliel1en. § 30 GmbHG ist hierbei zu beachten.",
+    "entities": [
+        {
+            "id": 2641,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 72
+        },
+        {
+            "id": 2642,
+            "label": "Subsection",
+            "start_offset": 73,
+            "end_offset": 694
+        },
+        {
+            "id": 2643,
+            "label": "Subsection",
+            "start_offset": 695,
+            "end_offset": 915
+        },
+        {
+            "id": 2644,
+            "label": "Subsection",
+            "start_offset": 916,
+            "end_offset": 1237
+        },
+        {
+            "id": 2645,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 71
+        },
+        {
+            "id": 2646,
+            "label": "Einziehung",
+            "start_offset": 73,
+            "end_offset": 1237
+        },
+        {
+            "id": 2647,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1237
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Ausschluss von Aktionären und Einziehung von Aktien an Gesellschaften 11. 1 Die Hauptversammlung kann beschließen, einen Aktionär auszuschließen, a) wenn sein Vermögen einem insolventen Verfahren unterliegt b) wenn Abschottungsansprüche in den Aktien seiner Gesellschaft vorgenommen werden und diese Ansprüche nicht innerhalb von vier Wochen gekündigt wurdenc) wenn es in der Person des betreffenden Partners einen sensiblen und wichtigen Grund gibt, der die oben genannten Mitglieder im Unternehmenstor unerträglich macht.Die Bilanz wird gemäß § 242, 264 Handelsgesetzbuch erstellt. 11. 3 Die Hauptversammlung der Aktionäre entscheidet gleichzeitig, dass der Anteil des ausgeschlossenen Gesellschafters von der Gesellschaft erworben wird oder von von von ihr benannten Personen zu tragen ist. Sie kann auch die Einziehung des Anteils der Gesellschaft verlangen.§ 30 GmbHG ist hier zu beachten."
+}

@@ -1,0 +1,69 @@
+{
+    "id": 754,
+    "text": "§7 Gesellschafterversammlung 1. \nEine ordentliche Gesellschafterversammlung findet jährlich einmal innerhalb von zwei Monaten nach Aufstellung des Jahresabschlusses durch die Geschäftsführung statt. \nDarüber hinaus sind außerordentliche Versammlungen zu berufen, wenn dies von Gesellschaftern, die allein oder zusammen mindestens 10 Prozent des Stammkapitals halten, verlangt wird. 2. \nDie Einberufung erfolgt durch die Geschäftsführer in vertretungsberechtigter Zahl, und zwar mittels eingeschriebenen Briefes oder gegen Empfangsquittung mindestens zwei Wochen vor der Gesellschafterversammlung und unter Mitteilung der Tagesordnung. 3. \nDie Gesellschafterversammlung ist beschlussfähig, wenn mindestens drei Viertel aller vorhandenen Stimmen vertreten sind. \nFehlt es daran, so ist - frühestens nach zehn Werktagen - eine neue Gesellschafterversammlung mit gleicher Tagesordnung einzuberufen, die stets beschlussfähig ist; hierauf ist in der Einladung hinzuweisen. 4. \nJeder Gesellschafter kann sich in der Gesellschafterversammlung nur durch einen anderen Gesellschafter oder durch ein kraft Gesetzes zur Verschwiegenheit verpflichtetes Mitglied der rechts-, wirtschafts- oder steuerberatenden Berufe vertreten lassen. \nDie Vollmacht bedarf der Schriftform. -55. \nGesellschafterbeschlüsse können auch ohne Versammlung schriftlich oder fernschriftlich gefasst werden, wenn sich alle Gesellschafter an der Abstimmung beteiligen. 6. \nSämtliche Gesellschafterbeschlüsse sind - soweit sie nicht notariell zu beurkunden sind - zu protokollieren. \nDas Protokoll ist von den Geschäftsführern zu unterzeichnen. \nSämtliche Gesellschafter erhalten Ablichtungen.",
+    "entities": [
+        {
+            "id": 1980,
+            "label": "Subsection",
+            "start_offset": 1430,
+            "end_offset": 1653
+        },
+        {
+            "id": 1981,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 3,
+            "end_offset": 29
+        },
+        {
+            "id": 1982,
+            "label": "Gesellschafterversammlung",
+            "start_offset": 29,
+            "end_offset": 1653
+        },
+        {
+            "id": 1974,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 28
+        },
+        {
+            "id": 1975,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 381
+        },
+        {
+            "id": 1976,
+            "label": "Subsection",
+            "start_offset": 382,
+            "end_offset": 634
+        },
+        {
+            "id": 1977,
+            "label": "Subsection",
+            "start_offset": 635,
+            "end_offset": 966
+        },
+        {
+            "id": 1983,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 1653
+        },
+        {
+            "id": 1978,
+            "label": "Subsection",
+            "start_offset": 967,
+            "end_offset": 1260
+        },
+        {
+            "id": 1979,
+            "label": "Subsection",
+            "start_offset": 1263,
+            "end_offset": 1429
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§7 Hauptversammlung 1. Eine ordentliche Hauptversammlung findet einmal jährlich innerhalb von zwei Monaten nach Erstellung des Jahresabschlusses durch die Geschäftsleitung statt. Darüber hinaus sind außerordentliche Hauptversammlungen einzuberufen, wenn dies von Aktionären verlangt wird, die allein oder zusammen mindestens 10 Prozent des Grundkapitals halten. 2.g) durch die Geschäftsführer, mit Einschreiben oder gegen Eingang mindestens zwei Wochen vor der Hauptversammlung und mit Mitteilung der Tagesordnung. (3) Die Hauptversammlung ist beschlussfähig, wenn mindestens drei Viertel aller bestehenden Stimmen vertreten sind.4. Jeder Aktionär kann an der Hauptversammlung nur von einem anderen Aktionär oder einem Mitglied des gesetzlichen, wirtschaftlichen oder steuerlichen Beratungsgremiums teilnehmen, das zur Geheimhaltung verpflichtet ist.-55. Entscheidungen der Aktionäre können auch schriftlich oder per Telex ohne Sitzung getroffen werden, wenn alle Mitglieder an der Abstimmung teilnehmen. 6. Alle Entscheidungen der Aktionäre müssen aufgezeichnet werden, es sei denn, sie sind nicht zu beglaubigen.Das Protokoll wird von den Geschäftsführern unterzeichnet.Alle Aktionäre erhalten Fotokopien."
+}

@@ -1,0 +1,123 @@
+{
+    "id": 519,
+    "text": "§ 4 Dauer der Gesellschaft, Geschäftsjahr, Kündigung 1. \nDie Gesellschaft ist auf unbestimmte Zeit geschlossen. 2. \nGeschäftsjahr der Gesellschaft ist das Kalenderjahr. 3. \nDas erste Geschäftsjahr ist ein Rumpfgeschäftsjahr. \nEs beginnt mit der Eintragung der Gesellschaft im Handelsregister und endet am 31.12. des Eintragungsjahrs. 4. \nDie Mitgliedschaft in der Gesellschaft kann mit einer Frist von 12 Monaten zum Schluss eines jeden Geschäftsjahres ordentlich gekündigt werden. \nDie Kündigung ist der Geschäftsführung gegenüber durch eingeschriebenen Brief zu erklären, wobei Gesellschafter, die auch zum Geschäftsführer bestellt sind, nicht zur Entgegennahme ihrer eigenen Kündigung berechtigt sind.  5. \nDurch die Kündigung wird die Gesellschaft nicht aufgelöst. \nDer Geschäftsanteil des kündigenden Gesellschafters kann in entsprechender Anwendung des § 13 gegen eine Abfindung eingezogen werden. \nAlternativ kann der kündigende Gesellschafter seinen Geschäftsanteil den übrigen Gesellschaftern zum Ankauf anbieten.",
+    "entities": [
+        {
+            "id": 38,
+            "label": "Dauer",
+            "start_offset": 4,
+            "end_offset": 26
+        },
+        {
+            "id": 39,
+            "label": "Geschäftsjahr",
+            "start_offset": 28,
+            "end_offset": 41
+        },
+        {
+            "id": 40,
+            "label": "Kündigung",
+            "start_offset": 43,
+            "end_offset": 53
+        },
+        {
+            "id": 41,
+            "label": "Kündigung",
+            "start_offset": 338,
+            "end_offset": 704
+        },
+        {
+            "id": 42,
+            "label": "Kündigung",
+            "start_offset": 710,
+            "end_offset": 1022
+        },
+        {
+            "id": 43,
+            "label": "Geschäftsjahr",
+            "start_offset": 116,
+            "end_offset": 168
+        },
+        {
+            "id": 44,
+            "label": "Geschäftsjahr",
+            "start_offset": 173,
+            "end_offset": 333
+        },
+        {
+            "id": 46,
+            "label": "Dauer",
+            "start_offset": 57,
+            "end_offset": 111
+        },
+        {
+            "id": 48,
+            "label": "Rechtliche_Bezüge",
+            "start_offset": 770,
+            "end_offset": 903
+        },
+        {
+            "id": 215,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 52
+        },
+        {
+            "id": 216,
+            "label": "Subsection",
+            "start_offset": 53,
+            "end_offset": 111
+        },
+        {
+            "id": 217,
+            "label": "Subsection",
+            "start_offset": 112,
+            "end_offset": 168
+        },
+        {
+            "id": 218,
+            "label": "Subsection",
+            "start_offset": 169,
+            "end_offset": 333
+        },
+        {
+            "id": 219,
+            "label": "Subsection",
+            "start_offset": 334,
+            "end_offset": 704
+        },
+        {
+            "id": 220,
+            "label": "Subsection",
+            "start_offset": 706,
+            "end_offset": 1022
+        },
+        {
+            "id": 221,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 42
+        },
+        {
+            "id": 222,
+            "label": "Orange Flag",
+            "start_offset": 53,
+            "end_offset": 333
+        },
+        {
+            "id": 223,
+            "label": "Green Flag",
+            "start_offset": 43,
+            "end_offset": 53
+        },
+        {
+            "id": 224,
+            "label": "Green Flag",
+            "start_offset": 334,
+            "end_offset": 1022
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 4 Dauer der Gesellschaft, Geschäftsjahr, Kündigung 1. Die Gesellschaft wird auf unbestimmte Zeit geschlossen. 2. Das Geschäftsjahr der Gesellschaft ist das Kalenderjahr. 3. Das erste Geschäftsjahr ist ein Torso-Geschäftsjahr. Es beginnt mit der Eintragung der Gesellschaft in das Handelsregister und endet am 31. Dezember des Registrierungsjahres. 4. Die Mitgliedschaft der Gesellschaft kann innerhalb einer Frist von drei Monaten erfolgen.Die Kündigung ist der Geschäftsleitung per Einschreiben zu erklären, wobei Aktionäre, die ebenfalls als Geschäftsführer bestellt werden, nicht berechtigt sind, ihre eigene Kündigung zu erhalten. 5. Die Kündigung beendet die Gesellschaft nicht.Befürwortende Aktionäre können in der entsprechenden Anwendung von § 13 zur Zahlung einer Entschädigung aufgefordert werden. Alternativ kann der stornierende Aktionär seinen Anteil am Geschäft den anderen Aktionären zum Kauf anbieten."
+}

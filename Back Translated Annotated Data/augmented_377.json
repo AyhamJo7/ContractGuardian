@@ -1,0 +1,15 @@
+{
+    "id": 926,
+    "text": "GESELLSCHAFTSVERTRAG der OT Regio Hamburg & Schleswig Holstein GmbH",
+    "entities": [
+        {
+            "id": 3205,
+            "label": "TITEL",
+            "start_offset": 0,
+            "end_offset": 67
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "VERTRAG DER OT Regio Hamburg & Schleswig Holstein GmbH"
+}

@@ -1,0 +1,51 @@
+{
+    "id": 587,
+    "text": "§8 SCHLUSSBESTIMMUNGEN Sollten einzelne Bestimmungen dieses Gesellschaftsvertrags unwirksam sein oder werden, so lässt dies die Wirksamkeit der Gesellschaft und des Gesellschaftsvertrages im Übrigen unberührt. \nDie Gesellschafter sind verpflichtet, anstelle der unwirksamen Bestimmung eine Regelung zu vereinbaren, die dem Sinn und Zweck der unwirksamen Regelung am nächsten kommt. \nDas Gleiche gilt bei Vorhandensein einer Lücke, die nach dem Sinn und Zweck des Gesellschaftsvertrags zu ergänzen und zu schließen ist. \nBetrifft der Mangel notwendige Bestandteile des Gesellschaftsvertrages, ist eine solche Regelung nach Maßgabe des §53 Abs. 1 und 2 GmbHG zu vereinbaren.",
+    "entities": [
+        {
+            "id": 738,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 22
+        },
+        {
+            "id": 739,
+            "label": "Subsection",
+            "start_offset": 23,
+            "end_offset": 210
+        },
+        {
+            "id": 740,
+            "label": "Subsection",
+            "start_offset": 211,
+            "end_offset": 381
+        },
+        {
+            "id": 741,
+            "label": "Subsection",
+            "start_offset": 383,
+            "end_offset": 672
+        },
+        {
+            "id": 742,
+            "label": "Schlussbestimmungen",
+            "start_offset": 3,
+            "end_offset": 23
+        },
+        {
+            "id": 743,
+            "label": "Schlussbestimmungen",
+            "start_offset": 23,
+            "end_offset": 672
+        },
+        {
+            "id": 744,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 672
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§8 SCHLUSSBESTIMMUNGEN Sollten einzelne Bestimmungen dieses Gesellschaftsvertrages unwirksam sein oder werden, so berührt dies im Übrigen nicht die Gültigkeit des Unternehmens und des Gesellschaftsvertrages.Die Aktionäre sind verpflichtet, anstelle der unwirksamen Bestimmung eine Regelung zu vereinbaren, die dem Sinn und Zweck der unwirksamen Regelung am nächsten kommt.im Falle einer nach Sinn und Zweck des Sozialvertrages zu schließenden Lücke. Bezieht sich der Mangel auf die notwendigen Bestandteile des Sozialvertrages, so ist eine solche Regelung nach §53 Abs. 1 und 2 GmbHG zu vereinbaren."
+}

@@ -1,0 +1,63 @@
+{
+    "id": 936,
+    "text": "§ 10 Beschlüsse der Gesellschafterversammlung\n1. Beschlüsse der Gesellschafterversammlung bedürfen der Mehrheit von 75 % der in der Gesellschafterversammlung abgegebenen Stimmen, es sei denn, Gesellschaftsvertrag oder Gesetz schreiben zwingend eine größere Mehrheit vor.\n2. In der Gesellschafterversammlung gewähren je nominal € 1,00 Anteil am Stammkapital eine Stimme.\n3. Die Gesellschafter werden in Gesellschafterversammlungen sowie bei Beschlussfassungen ohne Abhaltung einer Gesellschafterversammlung durch ihre Geschäftsführer oder Vorstandsmitglieder vertreten. Im Übrigen ist die Vertretung nur durch einen Mitgesellschafter oder den nach vorstehendem Satz 2 zugelassenen Vertreter eines Gesellschafters zulässig. Die Vertretung durch einen Mitgesellschafter bedarf einer schriftlichen - soweit nicht weitergehende Formerfordernisse notwendig sind - Vollmacht, die in der Gesellschafterversammlung durch Vorlage nachzuweisen ist.\n4. Beschlussfassungen ohne Einberufung und Abhaltung einer Gesellschafterversammlung durch schriftliche Stimmabgabe sowie per Telefax sind zulässig, wenn sämtliche Gesellschafter zustimmen.\n5. Die Beschlüsse der Gesellschafter sind, soweit nicht eine weitergehende notarielle Beurkundung erforderlich ist, durch ein Protokoll festzuhalten, das allen Gesellschaftern zuzusenden ist. Das Protokoll ist von dem Leiter der Gesellschafterversammlung und dem Protokollführer, der durch den Versammlungsleiter bestimmt wird, zu unterzeichnen. Einwendungen (Anfechtung/Nichtigkeit) gegen Gesellschafterbeschlüsse können nur innerhalb von zwei Monaten nach Zugang des Protokolls erhoben werden.",
+    "entities": [
+        {
+            "id": 3288,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 44
+        },
+        {
+            "id": 3289,
+            "label": "Subsection",
+            "start_offset": 46,
+            "end_offset": 270
+        },
+        {
+            "id": 3294,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 5,
+            "end_offset": 45
+        },
+        {
+            "id": 3295,
+            "label": "Gesellschafterbeschlüsse",
+            "start_offset": 46,
+            "end_offset": 1623
+        },
+        {
+            "id": 3296,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1623
+        },
+        {
+            "id": 3290,
+            "label": "Subsection",
+            "start_offset": 271,
+            "end_offset": 369
+        },
+        {
+            "id": 3291,
+            "label": "Subsection",
+            "start_offset": 370,
+            "end_offset": 937
+        },
+        {
+            "id": 3292,
+            "label": "Subsection",
+            "start_offset": 938,
+            "end_offset": 1127
+        },
+        {
+            "id": 3293,
+            "label": "Subsection",
+            "start_offset": 1128,
+            "end_offset": 1623
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 10 Beschlüsse der Hauptversammlung 1. Beschlüsse der Hauptversammlung bedürfen einer Mehrheit von 75 % der in der Hauptversammlung abgegebenen Stimmen, es sei denn, eine größere Mehrheit ist durch einen Sozialvertrag oder ein Gesetz erforderlich. 2. In der Hauptversammlung wird ein nominaler Anteil von 1,00 € am Grundkapital gewährt. 3.Darüber hinaus ist die Vertretung durch ein Mitglied des Verwaltungsrats nur durch ein Mitglied des Verwaltungsrats oder durch ein Mitglied des Verwaltungsrats oder durch den Vertreter eines Mitglieds des Verwaltungsrats gestattet, das als Mitglied des Verwaltungsrats fungiert, oder durch den Vertreter eines Mitglieds, das gemäß dem vorstehenden Satz 2 als Mitglied des Verwaltungsrats handelt.4. Beschlüsse ohne Einberufung und Abhaltung einer Aktionärsversammlung durch schriftliche Abstimmung und per Fax sind zulässig, wenn alle Aktionäre zustimmen. 5. Die Entscheidungen der Aktionäre sind, soweit keine weiteren formalen Voraussetzungen erforderlich sind, zulässig.Das Protokoll wird vom Leiter der Hauptversammlung und vom Leiter der Hauptversammlung unterzeichnet, die vom Leiter der Hauptversammlung bestimmt wird.Der Gerichtshof der Europäischen Gemeinschaften"
+}

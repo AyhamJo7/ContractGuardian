@@ -1,0 +1,57 @@
+{
+    "id": 599,
+    "text": "§ 11 Einziehung von Geschäftsanteilen l. \nDie Gesellschafter können die Einziehung von Geschäftsanteilen nur mit Zustimmung des betroffenen Gesellschafters beschließei-i. 2. \nDer Zustimmung des betroffenen Gesellschafters bedarf es rucht, wenn er die Besämmungen dieser Satzung vorsätzlich verletzt, wenn über sein Vermögen das Insolvenzverfahren eröffnet ist, die Zwangsvollstreckung in den Geschäftsanteil vorgenommen, der Gesellschafter unter Betreuung gestellt wird oder in seiner Person ein wichtiger Grund für seine Ausschließung vorliegt. \nIn allen diesen Fällen erfolgt die Beschlussfassung der Gesellschafterversammlung mit einfacher Mehrheit, der betroffene Gesellschafter hat kein Stünmrecht. \nOb ein sonstiger wichtiger Grund für den Ausschluss vorliegt, entscheidet im Streitfall ein ordentliches Gericht. 3. \nStatt der Einziehung kann die Gesellschafterversammlung beschließen, dass der Geschäftsanteil ganz oder geteilt an die Gesellschaft, an einen oder mehrere Gesellschafter oder einen, von der Gesellschaft benannten. \nDritten abgetreten wird. 4. \nIn allen Fällen der Einziehung, des Erwerbs oder einer Übertragung ist dem betroffenen Gesellschafter ein dem Wert des Geschäftsanteils entsprechendes Entgelt zu bezahlen, welches innerhalb von sechs Monaten nach Einziehung oder Übertragung zahlungsfällig wird. \nDer Wert eines Geschäftsanteils wird nach den Bestimmungen des § 14 emdttelt",
+    "entities": [
+        {
+            "id": 836,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 37
+        },
+        {
+            "id": 837,
+            "label": "Subsection",
+            "start_offset": 38,
+            "end_offset": 170
+        },
+        {
+            "id": 838,
+            "label": "Subsection",
+            "start_offset": 171,
+            "end_offset": 818
+        },
+        {
+            "id": 839,
+            "label": "Subsection",
+            "start_offset": 819,
+            "end_offset": 1062
+        },
+        {
+            "id": 840,
+            "label": "Subsection",
+            "start_offset": 1063,
+            "end_offset": 1406
+        },
+        {
+            "id": 843,
+            "label": "Einziehung",
+            "start_offset": 42,
+            "end_offset": 1406
+        },
+        {
+            "id": 844,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1406
+        },
+        {
+            "id": 842,
+            "label": "Einziehung",
+            "start_offset": 5,
+            "end_offset": 37
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 11 Rückforderung von Aktien l. Die Aktionäre können beschließen, Aktien nur mit Zustimmung des betreffenden Aktionärs zu sammeln. 2. Die Zustimmung des betroffenen Aktionärs ist erforderlich, wenn er die Ansprüche dieser Satzung vorsätzlich verletzt, wenn das Insolvenzverfahren über sein Vermögen eröffnet wird, die Durchsetzung in der GeschäftstätigkeitIn allen diesen Fällen erfolgt die Beschlussfassung der Hauptversammlung mit einfacher Mehrheit, der betreffende Aktionär hat kein Recht auf eine Stunde. Ob es einen weiteren wichtigen Grund für den Ausschluss gibt, wird eine Entscheidung im Falle eines Rechtsstreits von einem3. Statt der Einziehung kann die Hauptversammlung beschließen, dass der Anteil der Geschäftstätigkeit der Gesellschaft, einem oder mehreren Mitgliedern oder einem von der Gesellschaft benannten Dritten zugewiesen wird. 4. In allen Fällen der Einziehung, des Erwerbs oder der Übertragung gilt der betreffende Gesellschafter als Wert der Geschäftstätigkeit.Der Wert eines Geschäftsanteils wird nach Maßgabe des § 14 bestimmt."
+}

@@ -1,0 +1,39 @@
+{
+    "id": 781,
+    "text": "§ 17 Zahlbarkelt des Entgelts Das Entgelt ist in einf gleichen Jahresraten zu bezahlen. \nDie erste Rate wird sechs Monate nach dem Tag des Ausscheidens fällig. \nSteht zu diesem Zeitpunkt die Höbe des Entgelts noch nicht fest, so ist eine von der Gesellschaft zu bestirnmende ange- messene Abschlagszahlung zu leisten. \nDas Entgelt ist ab dein Tag des Ausscheidens mit 2 % über dem jeweiligen Basiszinssatz gemäß § 1 DüCi p.a. zu verzinsen. \nDie angelaufenen Zinsen sind mit jeder Rate zu bezahlen. \nDie Gesellschaft ist berechtigt, das Entgelt ganz oder teilweise früher zu bezahlen. \nFalls, soweit und solange Zahlungen gegen § 30 Abs. 1 GmbHG verstoßen würden, gelten Zahlungen auf den Hauptbetrag als zum vereinbarten Satz verzinslich gestundet, Zinszahlungen als unverzinslich gestundet. Ändert sich der für das Entgelt maßgebende Jahresabschluss infolge einer steuerlichen Außenprüfung der Gesellschaft oder durch anderweitig veranlaßte Änderungen der Veranlagungen, so ist das Entgelt der Änderung entsprechend anzupassen.",
+    "entities": [
+        {
+            "id": 2172,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 5,
+            "end_offset": 28
+        },
+        {
+            "id": 2170,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 2173,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 30,
+            "end_offset": 1028
+        },
+        {
+            "id": 2171,
+            "label": "Subsection",
+            "start_offset": 29,
+            "end_offset": 1028
+        },
+        {
+            "id": 2174,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 1028
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 17 Vergütung Die Vergütung muss zu denselben Jahressätzen gezahlt werden. Die erste Tranche ist sechs Monate nach dem Widerrufsdatum fällig. Ist der Vergütungsbetrag zu diesem Zeitpunkt noch nicht festgelegt, so hat die Gesellschaft einen angemessenen Abzug zu zahlen. Die Vergütung wird ab dem Tag des Widerrufs um 2 % über dem jeweiligen Basissatz gezahlt.Die aufgelaufenen Zinsen sind auf jeden Fall zu zahlen. Die Gesellschaft ist berechtigt, die Vergütung ganz oder teilweise früher zu zahlen. Soweit und solange Zahlungen gegen § 30 Abs. 1 GmbHG verstoßen würden, gelten Zahlungen auf den Hauptbetrag als zu dem vereinbarten Zinssatz aufgeschoben, als uninteressiert.der Jahresabschluß für die Vergütung, die sich aus einer externen Steuerprüfung durch die Gesellschaft oder sonstigen Änderungen der Bewertungen ergibt, wird entsprechend angepasst."
+}

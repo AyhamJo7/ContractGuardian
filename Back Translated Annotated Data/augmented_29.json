@@ -1,0 +1,63 @@
+{
+    "id": 529,
+    "text": "§ 14 Auflösung und Abwicklung 1. \nDie Auflösung der Gesellschaft kann nur einstimmig beschlossen werden. 2. \nLiquidatoren sind die Geschäftsführer, soweit nicht durch Gesellschafterbeschluss andere Liquidatoren bestellt werden. 3. \nDas nach Befriedigung der Gläubiger verbleibende Vermögen der Gesellschaft ist im Verhältnis der Geschäftsanteile unter den Gesellschaftern zu verteilen.",
+    "entities": [
+        {
+            "id": 290,
+            "label": "Subsection",
+            "start_offset": 30,
+            "end_offset": 104
+        },
+        {
+            "id": 289,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 29
+        },
+        {
+            "id": 291,
+            "label": "Subsection",
+            "start_offset": 105,
+            "end_offset": 227
+        },
+        {
+            "id": 292,
+            "label": "Subsection",
+            "start_offset": 228,
+            "end_offset": 385
+        },
+        {
+            "id": 293,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 385
+        },
+        {
+            "id": 176,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 4,
+            "end_offset": 30
+        },
+        {
+            "id": 181,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 34,
+            "end_offset": 104
+        },
+        {
+            "id": 182,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 109,
+            "end_offset": 227
+        },
+        {
+            "id": 183,
+            "label": "Sonstige_Klauseln",
+            "start_offset": 232,
+            "end_offset": 385
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§ 14 Auflösung und Abwicklung 1. Die Auflösung der Gesellschaft kann nur einstimmig entschieden werden. 2. Liquidatoren sind die Geschäftsführer, es sei denn, andere Liquidatoren werden durch die Aktionärsentscheidung bestellt. 3. Die nach Befriedigung der Gläubiger der Gesellschaft verbleibenden Vermögenswerte müssen im Verhältnis zu den Aktien der Gesellschaft auf die Aktionäre verteilt werden."
+}

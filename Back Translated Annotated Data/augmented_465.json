@@ -1,0 +1,39 @@
+{
+    "id": 990,
+    "text": "§6 Dauer der Gesellschaft\n\nDie Gesellschaft wird auf unbestimmte Zeit errichtet.",
+    "entities": [
+        {
+            "id": 3636,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 25
+        },
+        {
+            "id": 3637,
+            "label": "Subsection",
+            "start_offset": 27,
+            "end_offset": 80
+        },
+        {
+            "id": 3638,
+            "label": "Dauer",
+            "start_offset": 3,
+            "end_offset": 25
+        },
+        {
+            "id": 3639,
+            "label": "Dauer",
+            "start_offset": 27,
+            "end_offset": 80
+        },
+        {
+            "id": 3640,
+            "label": "Orange Flag",
+            "start_offset": 0,
+            "end_offset": 80
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Dauer der Gesellschaft Die Gesellschaft wird auf unbestimmte Zeit gegründet."
+}

@@ -1,0 +1,57 @@
+{
+    "id": 950,
+    "text": "§6 Jahresabschluss, Ergebnisverwendung 1. Der Jahresabschluss ist von der Geschäftsführung innerhalb der gesetzlichen Frist aufzustellen und von jedem Geschäftsführer zu unterzeichnen. 2. Für die Ergebnisverwendung gelten die gesetzlichen Vorschriften.",
+    "entities": [
+        {
+            "id": 3380,
+            "label": "Section",
+            "start_offset": 0,
+            "end_offset": 38
+        },
+        {
+            "id": 3383,
+            "label": "Jahresabschluss",
+            "start_offset": 3,
+            "end_offset": 18
+        },
+        {
+            "id": 3384,
+            "label": "Ergebnisverwendung",
+            "start_offset": 20,
+            "end_offset": 39
+        },
+        {
+            "id": 3385,
+            "label": "Jahresabschluss",
+            "start_offset": 39,
+            "end_offset": 184
+        },
+        {
+            "id": 3386,
+            "label": "Ergebnisverwendung",
+            "start_offset": 185,
+            "end_offset": 252
+        },
+        {
+            "id": 3387,
+            "label": "Green Flag",
+            "start_offset": 0,
+            "end_offset": 252
+        },
+        {
+            "id": 3381,
+            "label": "Subsection",
+            "start_offset": 39,
+            "end_offset": 184
+        },
+        {
+            "id": 3382,
+            "label": "Subsection",
+            "start_offset": 185,
+            "end_offset": 252
+        }
+    ],
+    "relations": [],
+    "Comments": [],
+    "back_translated_text": "§6 Jahresabschluss, Ergebnisverwendung 1. Der Jahresabschluss muss von der Geschäftsleitung innerhalb der gesetzlichen Frist erstellt und von jedem Geschäftsführer unterzeichnet werden. 2. Für die Ergebnisverwendung gelten die gesetzlichen Bestimmungen."
+}
