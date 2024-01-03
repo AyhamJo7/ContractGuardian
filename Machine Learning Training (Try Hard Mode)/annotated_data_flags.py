@@ -30,4 +30,3 @@ if __name__ == "__main__":
     annotated_parsed_csv_file = os.getenv('ANNOTATED_PARSED_CSV_FILE', 'default/path/to/anno_report.csv')
     dataset_path = os.getenv('DATASET_PATH', 'default/path/to/anno_processed_report.csv')
     processed_df = process_flags(annotated_parsed_csv_file, dataset_path)
-    print(processed_df.head())
