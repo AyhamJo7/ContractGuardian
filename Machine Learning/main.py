@@ -34,8 +34,6 @@ def process_text(pdf_file_path, temp_dir):
         with open(txt_file_path, 'w', encoding='utf-8') as file:
             file.write(pdf_text)
         cleaned_text = clean_text(pdf_text, temp_dir)
-        with open(txt_file_path, 'w', encoding='utf-8') as file:
-            file.write(cleaned_text)
         process_directory(cleaned_text_directory =temp_dir, converted_to_json_directory=temp_dir)
         all_data = batch_process(converted_to_json_directory=temp_dir)
         parsed_csv_file = os.path.join(temp_dir, 'report.csv')
@@ -140,7 +138,7 @@ def main(pdf_file_path, temp_dir):
         json_results = interpret_and_print_results(processed_csv_path)
         shutil.rmtree(temp_dir)
         os.makedirs(temp_dir)
-        #print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
+        print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
         return json_results
 
 # Ausführung des Skripts
