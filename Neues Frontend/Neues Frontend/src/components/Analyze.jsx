@@ -6,25 +6,13 @@ const Analyze = () => {
   const location = useLocation();
   const fileInputRef = useRef();
   const [selectedFile, setSelectedFile] = useState(null);
-  const [fileHistory, setFileHistory] = useState(() => {
-    const history = localStorage.getItem("fileHistory");
-    return history ? JSON.parse(history) : [];
-  });
-  const [showAllFiles, setShowAllFiles] = useState(false);
-  const [filesToShow, setFilesToShow] = useState(3);
+  const [isProcessing, setIsProcessing] = useState(false); // NEW
+
 
   useEffect(() => {
     // Log the selectedFile state each time it changes to track its updates
     console.log('Selected File State Updated:', selectedFile);
   }, [selectedFile]);
-
-  const updateFileHistory = useCallback((newFileData) => {
-    setFileHistory((prevHistory) => {
-      const updatedHistory = [newFileData, ...prevHistory];
-      localStorage.setItem("fileHistory", JSON.stringify(updatedHistory));
-      return updatedHistory;
-    });
-  }, []);
 
   const processFile = useCallback(async (file) => {
     if (!(file instanceof File)) {
@@ -40,6 +28,9 @@ const Analyze = () => {
     const formData = new FormData();
     formData.append("file", file);
   
+    setIsProcessing(true); // NEW 
+
+
     try {
       const response = await axios.post('http://localhost:4000/api/v1/analyze', formData, {
         headers: {
@@ -48,7 +39,6 @@ const Analyze = () => {
       });
       console.log('Response Data:', response.data);
 
-      // Check for the correct data structure in the response
       if (!response.data || !response.data['Red Flags']) {
         console.error('Unexpected response structure:', response.data);
         return;
@@ -61,16 +51,21 @@ const Analyze = () => {
         green_flags: response.data['Green Flags'],
       };
   
-      if (!fileHistory.some((f) => f.name === file.name)) {
-        updateFileHistory(newFileData);
-      }
-  
       setSelectedFile(newFileData);
+
+      // On successful response  
+      setSelectedFile(newFileData);
+      setIsProcessing(false); // Hide loader when processing is done
+
+
     } catch (error) {
       console.error("Error processing file:", error);
       alert(`Error: ${error.message}`);
+
+      setIsProcessing(false); // Hide loader in case of error
+
     }
-  }, [fileHistory, updateFileHistory]);
+  }, []);
 
   const handleFileChange = (event) => {
     const file = event.target.files[0];
@@ -88,16 +83,6 @@ const Analyze = () => {
     fileInputRef.current.click();
   };
 
-  const handleHistoryClick = (fileName) => {
-    const file = fileHistory.find((f) => f.name === fileName);
-    setSelectedFile(file);
-  };
-
-  const handleShowAllClick = () => {
-    setShowAllFiles((prevShowAll) => !prevShowAll);
-    setFilesToShow(fileHistory.length);
-  };
-  
   const renderFlags = (flags, color) => {
     if (!flags || !Array.isArray(flags)) {
       return null;
@@ -116,6 +101,12 @@ const Analyze = () => {
       
   return (
     <div className="w-full flex justify-center min-h-screen">
+          {/* Overlay Loader */}
+    {isProcessing && (
+      <div className="absolute inset-0 flex justify-center items-center bg-white bg-opacity-50 z-50">
+        <div className="loader"></div>
+      </div>
+    )}
       <div className="mt-5 flex flex-col md:flex-row md:justify-between w-[1000px] px-5">
         <div className="leftSect mb-8">
           <p className="text-[#6b21e5] font-semibold">
@@ -134,34 +125,6 @@ const Analyze = () => {
             />
             <p>Upload New File</p>
           </div>
-          <div>
-            <h2 className="mt-5 font-bold text-[#6b21e5] mb-2">
-              File history{" "}
-            </h2>
-            {fileHistory.length === 0 ? (
-              <p className="font-semibold text-[#6b21e5]">Empty</p>
-            ) : (
-              <>
-                {fileHistory.slice(0, filesToShow).map((file, index) => (
-                  <p
-                    key={index}
-                    onClick={(e) => handleHistoryClick(file.name)}
-                    className="font-semibold text-[#6b21e5] cursor-pointer mb-2"
-                  >
-                    {file.name ? file.name : ""}
-                  </p>
-                ))}
-                {!showAllFiles && fileHistory.length > 4 && (
-                  <button
-                    onClick={handleShowAllClick}
-                    className="text-[#6b21e5]"
-                  >
-                    Show All
-                  </button>
-                )}
-              </>
-            )}
-          </div>
         </div>
         <div className="right">
           <div className="relative mx-auto max-w-[450px] ">
@@ -176,6 +139,8 @@ const Analyze = () => {
                     className="peer hidden"
                     type="checkbox"
                     id="accordion-2"
+                    defaultChecked // This sets the checkbox to checked by default
+
                   />
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -214,6 +179,7 @@ const Analyze = () => {
                     className="peer hidden"
                     type="checkbox"
                     id="accordion-3"
+                    defaultChecked // This sets the checkbox to checked by default
                   />
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -252,6 +218,7 @@ const Analyze = () => {
                     className="peer hidden"
                     type="checkbox"
                     id="accordion-4"
+                    defaultChecked // This sets the checkbox to checked by default
                   />
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
