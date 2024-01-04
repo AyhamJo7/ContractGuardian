@@ -130,7 +130,7 @@ const Analyze = () => {
           <div className="relative mx-auto max-w-[450px] ">
             <ul className="">
               {/* Red Flags */}
-              <li className="text-left bg-red-300">
+              <li className="text-left bg-red-400">
                 <label
                   htmlFor="accordion-2"
                   className="relative flex flex-col border-b-[1px] border-gray-300"
@@ -162,7 +162,7 @@ const Analyze = () => {
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
-                    <div className="px-5 pb-2">
+                    <div className="px-5 font-bold pb-2">
                       <ul className="text-sm">
                       {selectedFile && renderFlags(selectedFile.red_flags, 'red')}
                       </ul>
@@ -170,7 +170,7 @@ const Analyze = () => {
                   </div>
                 </label>
               </li>
-              <li className="text-left bg-orange-300">
+              <li className="text-left bg-orange-400">
                 <label
                   htmlFor="accordion-3"
                   className="relative flex flex-col border-b-[1px] border-gray-300"
@@ -196,12 +196,12 @@ const Analyze = () => {
                     />
                   </svg>
                   <div className="relative ml-4 cursor-pointer select-none items-center py-2 pr-12">
-                    <h3 className="text-sm text-orange-600 lg:text-base">
+                    <h3 className="text-sm text-orange-700 lg:text-base">
                       Orange Flags (Empfohlene Klauseln)
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
-                    <div className="px-5 pb-2">
+                    <div className="px-5 font-bold pb-2">
                       <ul className="text-sm">
                       {selectedFile && renderFlags(selectedFile.orange_flags, 'orange')}
                       </ul>
@@ -209,7 +209,7 @@ const Analyze = () => {
                   </div>
                 </label>
               </li>
-              <li className="text-left bg-green-300">
+              <li className="text-left bg-green-400">
                 <label
                   htmlFor="accordion-4"
                   className="relative flex flex-col border-b-[1px] border-gray-300"
@@ -240,7 +240,7 @@ const Analyze = () => {
                     </h3>
                   </div>
                   <div className="max-h-0 overflow-hidden transition-all duration-500 peer-checked:max-h-96">
-                    <div className="px-5 pb-2">
+                    <div className="px-5 font-bold pb-2">
                       <ul className="text-sm">
                       {selectedFile && renderFlags(selectedFile.green_flags, 'green')}
                       </ul>

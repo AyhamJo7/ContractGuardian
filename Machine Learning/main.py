@@ -115,9 +115,9 @@ def interpret_and_print_results(csv_file_path):
     green_flags_found = check_clauses_in_text(green_flag_clauses, green_flag_alternative_clauses, all_text)
 
     results = {
-        'Red Flags': [{'name': clause, 'status': '[OK]' if clause in red_flags_found else '[X]'} for clause in red_flag_clauses + list(red_flag_alternative_clauses.keys())],
-        'Orange Flags': [{'name': clause, 'status': '[OK]' if clause in orange_flags_found else '[X]'} for clause in orange_flag_clauses + list(orange_flag_alternative_clauses.keys())],
-        'Green Flags': [{'name': clause, 'status': '[OK]' if clause in green_flags_found else '[X]'} for clause in green_flag_clauses + list(green_flag_alternative_clauses.keys())],
+        'Red Flags': [{'name': clause, 'status': '✓' if clause in red_flags_found else '✗'} for clause in red_flag_clauses + list(red_flag_alternative_clauses.keys())],
+        'Orange Flags': [{'name': clause, 'status': '✓' if clause in orange_flags_found else '✗'} for clause in orange_flag_clauses + list(orange_flag_alternative_clauses.keys())],
+        'Green Flags': [{'name': clause, 'status': '✓' if clause in green_flags_found else '✗'} for clause in green_flag_clauses + list(green_flag_alternative_clauses.keys())],
     }
     results_json = json.dumps(results)
     return results_json
