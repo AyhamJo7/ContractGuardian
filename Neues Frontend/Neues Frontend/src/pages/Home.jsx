@@ -44,6 +44,7 @@ const Home = () => {
   };
 
   return (
+    <div className="w-full flex justify-center min-h-screen">
     <div className="mt-6 px-5">
       <div className="flex justify-center items-center md:gap-[50px]">
         <motion.div
@@ -76,7 +77,7 @@ const Home = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 0.6 }}
             className="responsive-image w-[100%]"
-            src="images/vector.jpg"
+            src="images/vector.png"
             alt=""
           />
         </div>
@@ -99,13 +100,13 @@ const Home = () => {
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.5 }}
-          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl"
+          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl text-[#6b21e5]"
         >
           <BsCloudUpload style={{ fontSize: "2.5rem", textAlign: "center" }} />
-          <h2 className="text-center mt-2 text-md font-extrabold">
+          <h2 className="text-center mt-2 text-md font-extrabold text-[#6b21e5]">
           Laden Sie Ihren GmbH-Vertrag hoch
           </h2>
-          <p className="text-center font-bold text-sm mt-3  px-[16px]">
+          <p className="text-center font-bold text-sm mt-3  px-[16px] text-[#6b21e5]">
           Übertragen Sie Ihren .pdf-Vertrag ganz einfach mit der intuitiven Upload-Funktion
           </p>
         </motion.div>
@@ -113,13 +114,13 @@ const Home = () => {
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.6 }}
-          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl"
+          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl text-[#6b21e5]"
         >
           <IoIosSearch style={{ fontSize: "2.5rem", textAlign: "center" }} />
-          <h2 className="text-center mt-2 text-md font-extrabold">
+          <h2 className="text-center mt-2 text-md font-extrabold ">
           Lassen Sie Ihren Vertrag von unserem System analysieren
           </h2>
-          <p className="text-center font-bold text-sm mt-3  px-[16px]">
+          <p className="text-center font-bold text-sm mt-3  px-[16px] text-[#6b21e5]" >
           Unser System analysiert Ihren Vertrag auf fehlende zwingende oder empfohlene Klauseln
           </p>
         </motion.div>
@@ -127,24 +128,26 @@ const Home = () => {
           initial={{ opacity: 0, scale: 0.5 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ delay: 0.7 }}
-          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl"
+          className="card flex flex-col pt-5 pb-5 items-center w-full md:max-w-[250px] max-h-[300px] bg-white shadow-black rounded-2xl text-[#6b21e5]"
         >
           <FaCircleCheck style={{ fontSize: "2.5rem", textAlign: "center" }} />
-          <h2 className="text-center mt-2 text-md font-extrabold">
+          <h2 className="text-center mt-2 text-md font-extrabold text-[#6b21e5]">
           Ergebnisse in weniger als einer Minute
           </h2>
-          <p className="text-center font-bold text-sm mt-3  px-[16px]">
+          <p className="text-center font-bold text-sm mt-3  px-[16px] text-[#6b21e5]">
           Erhalten Sie intuitives Echtzeit-Feedback zu den Klauseln Ihres Vertrags
           </p>
         </motion.div>
       </motion.div>
       <div className="disclaimer my-10 flex justify-center">
-        <p className="max-w-[1000px] font-bold text-sm text-center">
+        <p className="max-w-[1000px] text-sm text-center text-[#7e7e7e]">
         Haftungsausschluss: Dieses Werkzeug dient ausschließlich zu Informationszwecken. Es bietet eine Analyse von GmbH-Verträgen auf mögliche fehlende Klauseln. Es stellt keine Rechtsberatung dar. Wir übernehmen keine Garantie für die Genauigkeit oder Vollständigkeit. Benutzer sollten sich für Beratung an Rechtsprofis wenden. Die Nutzung dieses Werkzeugs erfolgt auf eigenes Risiko, und wir haften nicht für etwaige Folgen. Mit der Nutzung dieses Werkzeugs stimmen Sie diesen Bedingungen zu.
         </p>
       </div>
     </div>
+    </div>
   );
 };
+
 
 export default Home;

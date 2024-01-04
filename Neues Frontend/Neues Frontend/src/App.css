@@ -40,3 +40,14 @@
   100% {background-position:50% 50%,50% 50%,50%  50% ,50% 50%,50% 50%}
 }
 
+/* Dark mode styles */
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Light mode styles */
+.light-mode {
+  background-color: #fff;
+  color: #333;
+}
