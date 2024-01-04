@@ -68,8 +68,6 @@ class TextCleaning:
         text = re.sub(r'\b(cv[c|d])[A-Za-z0-9_\-]+\b', '', text)
         # Entferne den spezifischen Ausdruck "- Ende der Satzung -"
         text = re.sub(r'-\s*Ende\s*der\s*Satzung\s*-', '', text)
-        # Entferne den spezifischen Ausdruck "- Ende der Satzung -"
-        text = re.sub(r'-\s*Ende\s*der\s*Anlage\s*-', '', text)
 
         # Entferne das Muster von drei Sternen am Ende des Dokuments
         text = re.sub(r'\* \* \*$', '', text)

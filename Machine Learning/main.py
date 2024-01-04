@@ -34,6 +34,8 @@ def process_text(pdf_file_path, temp_dir):
         with open(txt_file_path, 'w', encoding='utf-8') as file:
             file.write(pdf_text)
         cleaned_text = clean_text(pdf_text, temp_dir)
+        with open(txt_file_path, 'w', encoding='utf-8') as file:
+            file.write(cleaned_text)
         process_directory(cleaned_text_directory =temp_dir, converted_to_json_directory=temp_dir)
         all_data = batch_process(converted_to_json_directory=temp_dir)
         parsed_csv_file = os.path.join(temp_dir, 'report.csv')
@@ -78,18 +80,23 @@ def interpret_and_print_results(csv_file_path):
         'Stammkapital': ['Stammkapital', 'Kapital'],
         'Stammeinlagen': ['Stammeinlagen', 'Einlagen', 'Geschäftsanteile']
     }
-    orange_flag_clauses = ['Dauer', 'Vertretung']
+    orange_flag_clauses = ['Dauer']
     orange_flag_alternative_clauses = {
-        'Geschäftsführung': ['Geschäftsführung', 'führung'],
-        'Geschäftsjahr': ['Geschäftsjahr', 'jahr'],
-        'Gesellschafterversammlung': ['Gesellschafterversammlung', 'versammlung']
+        'Geschäftsführung': ['Geschäftsführung', 'führung', 'Geschäftsführer'],
+        'Geschäftsjahr': ['Geschäftsjahr', 'jahr', 'Jahr'],
+        'Gesellschafterversammlung': ['Gesellschafterversammlung', 'versammlung'],
+        'Vertretung':['Vertretung','vertreten','Einzelvertretungsbefugnis']
     }
-    green_flag_clauses = ['Kündigung', 'Abfindung', 'Wettbewerb', 'Jahresabschluss', 'Schlussbestimmungen', 'Veräußerung', 'Einziehung', 'Gesellschafterbeschlüsse', 'Auflösung']
+    green_flag_clauses = ['Kündigung', 'Jahresabschluss', 'Schlussbestimmungen', 'Veräußerung', 'Einziehung', 'Verfügung über Geschäftsanteile', 'Beirat', 'Schlichtungsvereinbarung']
     green_flag_alternative_clauses = {
         'Gewinn': ['Gewinnverteilung', 'Gewinn', 'Ergebnisverwendung'],
-        'Kosten': ['Kosten', 'Gründungskosten'],
+        'Kosten': ['Kosten', 'Gründungskosten', 'Gründungsaufwand'],
         'Salvatorische Klauseln': ['Salvatorische', 'Salvatorische Klauseln'],
-        'Erbfolge': ['Erbfolge', 'Tod']
+        'Erbfolge': ['Erbfolge', 'Tod'],
+        'Gesellschafterbeschlüsse': ['Gesellschafterbeschlüsse','Beschlüsse'],
+        'Abfindung' : ['Abfindung','Vergütung'],
+        'Auflösung ': ['Beendigung','Beendigung der Gesellschaft','Auflösung'],
+        'Wettbewerbsverbot': ['Wettbewerbsverbot', 'Wettbewerb']   
     }
 
     # Function to check if clauses or their alternatives are present in the text
@@ -133,7 +140,7 @@ def main(pdf_file_path, temp_dir):
         json_results = interpret_and_print_results(processed_csv_path)
         shutil.rmtree(temp_dir)
         os.makedirs(temp_dir)
-        print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
+        #print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
         return json_results
 
 # Ausführung des Skripts
