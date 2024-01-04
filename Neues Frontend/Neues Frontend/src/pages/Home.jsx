@@ -66,7 +66,7 @@ const Home = () => {
               style={{ display: "none" }}
             />
             <p className="text-center font-bold mt-3 text-[#6b21e5]">
-              Click to upload your .pdf <br /> or drag and drop
+            Klicken Sie hier, um Ihr  <br /> .pdf hochzuladen
             </p>
           </div>
         </motion.div>
@@ -87,7 +87,7 @@ const Home = () => {
         transition={{ delay: 0.5 }}
         className="text-xl font-bold text-center mt-14 text-[#6b21e5]"
       >
-        How it works
+        Wie funktioniert es
       </motion.h1>
       <motion.div
         variants={{
@@ -103,11 +103,10 @@ const Home = () => {
         >
           <BsCloudUpload style={{ fontSize: "2.5rem", textAlign: "center" }} />
           <h2 className="text-center mt-2 text-md font-extrabold">
-            Upload your GmbH contract
+          Laden Sie Ihren GmbH-Vertrag hoch
           </h2>
           <p className="text-center font-bold text-sm mt-3  px-[16px]">
-            Transmit your .pdf contracts hassle-free using intuitive upload
-            funtion
+          Übertragen Sie Ihren .pdf-Vertrag ganz einfach mit der intuitiven Upload-Funktion
           </p>
         </motion.div>
         <motion.div
@@ -118,11 +117,10 @@ const Home = () => {
         >
           <IoIosSearch style={{ fontSize: "2.5rem", textAlign: "center" }} />
           <h2 className="text-center mt-2 text-md font-extrabold">
-            Let our system analyze your contracts
+          Lassen Sie Ihren Vertrag von unserem System analysieren
           </h2>
           <p className="text-center font-bold text-sm mt-3  px-[16px]">
-            Our systems will analyze your contracts for any mistakes or lacking
-            information as well as potential risks in your conditions.
+          Unser System analysiert Ihren Vertrag auf fehlende zwingende oder empfohlene Klauseln
           </p>
         </motion.div>
         <motion.div
@@ -133,23 +131,16 @@ const Home = () => {
         >
           <FaCircleCheck style={{ fontSize: "2.5rem", textAlign: "center" }} />
           <h2 className="text-center mt-2 text-md font-extrabold">
-            See results in real time
+          Ergebnisse in weniger als einer Minute
           </h2>
           <p className="text-center font-bold text-sm mt-3  px-[16px]">
-            Get intuitive real time feedback on the legal security of your
-            contracts, grouped by red, orange and green flags.
+          Erhalten Sie intuitives Echtzeit-Feedback zu den Klauseln Ihres Vertrags
           </p>
         </motion.div>
       </motion.div>
       <div className="disclaimer my-10 flex justify-center">
         <p className="max-w-[1000px] font-bold text-sm text-center">
-          Disclaimer: This tool is for informational purposes only. It provides
-          an analysis of GmbH contracts for potential errors and missing
-          information. It does not constitute legal advice. We make no
-          guarantees regarding its accuracy or completeness. Users should
-          consult with legal professionals for advice. Use of this tool is at
-          your own risk, and we are not liable for any consequences. By using
-          this tool, you agree to these terms.
+        Haftungsausschluss: Dieses Werkzeug dient ausschließlich zu Informationszwecken. Es bietet eine Analyse von GmbH-Verträgen auf mögliche fehlende Klauseln. Es stellt keine Rechtsberatung dar. Wir übernehmen keine Garantie für die Genauigkeit oder Vollständigkeit. Benutzer sollten sich für Beratung an Rechtsprofis wenden. Die Nutzung dieses Werkzeugs erfolgt auf eigenes Risiko, und wir haften nicht für etwaige Folgen. Mit der Nutzung dieses Werkzeugs stimmen Sie diesen Bedingungen zu.
         </p>
       </div>
     </div>
