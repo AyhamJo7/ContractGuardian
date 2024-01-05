@@ -80,21 +80,24 @@ def interpret_and_print_results(csv_file_path):
     }
     orange_flag_clauses = ['Dauer']
     orange_flag_alternative_clauses = {
-        'Geschäftsführung': ['Geschäftsführung', 'führung', 'Geschäftsführer'],
-        'Geschäftsjahr': ['Geschäftsjahr', 'jahr', 'Jahr'],
+        'Geschaeftsfuehrung': ['Geschäftsführung', 'führung', 'Geschäftsführer', 'Geschaeftsfuehrung'],
+        'Geschaeftsjahr': ['Geschäftsjahr', 'jahr', 'Jahr'],
         'Gesellschafterversammlung': ['Gesellschafterversammlung', 'versammlung'],
         'Vertretung':['Vertretung','vertreten','Einzelvertretungsbefugnis']
     }
-    green_flag_clauses = ['Kündigung', 'Jahresabschluss', 'Schlussbestimmungen', 'Veräußerung', 'Einziehung', 'Verfügung über Geschäftsanteile', 'Beirat', 'Schlichtungsvereinbarung']
+    green_flag_clauses = ['Jahresabschluss', 'Schlussbestimmungen', 'Einziehung', 'Beirat', 'Schlichtungsvereinbarung']
     green_flag_alternative_clauses = {
         'Gewinn': ['Gewinnverteilung', 'Gewinn', 'Ergebnisverwendung'],
         'Kosten': ['Kosten', 'Gründungskosten', 'Gründungsaufwand'],
         'Salvatorische Klauseln': ['Salvatorische', 'Salvatorische Klauseln'],
         'Erbfolge': ['Erbfolge', 'Tod'],
-        'Gesellschafterbeschlüsse': ['Gesellschafterbeschlüsse','Beschlüsse'],
+        'Gesellschafterbeschluesse': ['Gesellschafterbeschlüsse','Beschlüsse','Gesellschafterbeschluesse'],
         'Abfindung' : ['Abfindung','Vergütung'],
-        'Auflösung ': ['Beendigung','Beendigung der Gesellschaft','Auflösung'],
-        'Wettbewerbsverbot': ['Wettbewerbsverbot', 'Wettbewerb']   
+        'Wettbewerbsverbot': ['Wettbewerbsverbot', 'Wettbewerb'],
+        'Veraeusserung': ['Veraeußerung', 'Veräußerung'],
+        'Verfuegung ueber Geschaeftsanteile': ['Verfuegung ueber Geschaeftsanteile', 'Verfügung über Geschäftsanteile'],
+        'Kuendigung': ['Kündigung','Kuendigung'],
+        'Beendigung ': ['Beendigung','Beendigung der Gesellschaft','Auflösung']
     }
 
     # Function to check if clauses or their alternatives are present in the text
@@ -136,10 +139,11 @@ def main(pdf_file_path, temp_dir):
         processed_csv_path = os.path.join(temp_dir, 'processed_report.csv')
         df.to_csv(processed_csv_path, index=False)
         json_results = interpret_and_print_results(processed_csv_path)
+        print(json_results) 
         shutil.rmtree(temp_dir)
         os.makedirs(temp_dir)
-        print(json_results)  # JSON-Ergebnisse zur Debugging-Zwecken ausgeben
         return json_results
+    
 
 # Ausführung des Skripts
 if __name__ == "__main__":
@@ -148,4 +152,5 @@ if __name__ == "__main__":
     parser.add_argument("--temp_dir", type=str, default="temp", help="Temporäres Verzeichnis für die Verarbeitung")
     args = parser.parse_args()
     main(args.pdf_file_path, args.temp_dir)
+    
 

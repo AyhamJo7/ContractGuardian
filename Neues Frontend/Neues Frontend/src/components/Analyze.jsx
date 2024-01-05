@@ -52,6 +52,7 @@ const Analyze = () => {
   
     const formData = new FormData();
     formData.append("file", file);
+    formData.append("fileName", file.name);
   
     setIsProcessing(true); // NEW 
 
