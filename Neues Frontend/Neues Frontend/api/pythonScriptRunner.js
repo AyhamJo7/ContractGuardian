@@ -1,9 +1,12 @@
 const { exec } = require('child_process');
+const dotenv = require('dotenv');
+
+dotenv.config();
 
 function runPythonScript(inputPath, callback) {
-    // Adjust the Python command if necessary
-    const pythonCommand = 'python' ; // or python3 if that's the correct command
-    const scriptPath = '"C:\\Users\\ayham\\Desktop\\Projekt\\ContractGuardian\\Machine Learning\\main.py"';
+    const pythonCommand = 'python'; // or python3 if that's the correct command
+    const scriptPath = `"${process.env.PYTHON_SCRIPT_PATH}"`; 
+
     const command = `${pythonCommand} ${scriptPath} "${inputPath}"`;
 
     exec(command, (error, stdout, stderr) => {
