@@ -94,7 +94,7 @@ def interpret_and_print_results(csv_file_path):
         'Gesellschafterbeschluesse': ['Gesellschafterbeschlüsse','Beschlüsse','Gesellschafterbeschluesse'],
         'Abfindung' : ['Abfindung','Vergütung'],
         'Wettbewerbsverbot': ['Wettbewerbsverbot', 'Wettbewerb'],
-        'Veraeusserung': ['Veraeußerung', 'Veräußerung'],
+        'Veraeusserung': ['Veraeusserung', 'Veraeußerung', 'Veräußerung'],
         'Verfuegung ueber Geschaeftsanteile': ['Verfuegung ueber Geschaeftsanteile', 'Verfügung über Geschäftsanteile'],
         'Kuendigung': ['Kündigung','Kuendigung'],
         'Beendigung ': ['Beendigung','Beendigung der Gesellschaft','Auflösung']
