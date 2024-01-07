@@ -17,7 +17,6 @@ async function loadClauseIdMap() {
                 console.error(`Invalid or empty clause name for row: ${JSON.stringify(row)}`);
             }
         });
-        console.log('Clause ID Map:', clauseIdMap);
     } catch (error) {
         console.error('Error initializing Clause ID Map:', error);
     }
@@ -34,7 +33,7 @@ function generateSummary(results) {
 }
 
 async function runPythonScript(inputPath, callback) {
-    await loadClauseIdMap(); // Ensure the clauseIdMap is loaded
+    await loadClauseIdMap(); 
 
     const pythonCommand = 'python';
     const scriptPath = `"${process.env.PYTHON_SCRIPT_PATH}"`;
@@ -59,33 +58,29 @@ async function runPythonScript(inputPath, callback) {
             const summary = generateSummary(results);
             const sessionResult = await db.query(`
                 INSERT INTO AnalysisSessions (SessionDate, ProcessedFileName, ResultSummary) 
-                VALUES ($1, $2, $3) RETURNING SessionID;`, 
+                VALUES ($1, $2, $3) RETURNING sessionid;`, 
                 [new Date(), inputPath, summary]
             );
-            const sessionId = sessionResult.rows[0].SessionID;
+            const sessionId = sessionResult.rows[0].sessionid;
 
             for (const flagType in results) {
                 for (const clause of results[flagType]) {
-                    // Ensure clause names from Python script are lowercased and trimmed
                     const clauseKey = clause.name.toLowerCase().trim();
                     const clauseid = clauseIdMap[clauseKey];
-            
-                    console.log(`Processing clause: ${clause.name}, ID: ${clauseid}`);
+
                     if (clauseid) {
                         const analysisResult = await db.query(`
                             INSERT INTO AnalysisResults (clauseid, AnalysisDate, Status, AdditionalNotes) 
-                            VALUES ($1, $2, $3, $4) RETURNING ResultID;`, 
+                            VALUES ($1, $2, $3, $4) RETURNING resultid;`, 
                             [clauseid, new Date(), clause.status === '✓' ? 'OK' : 'Missing', '']
                         );
-                        const resultId = analysisResult.rows[0].ResultID;
-            
+                        const resultId = analysisResult.rows[0].resultid;
+
                         await db.query(`
                             INSERT INTO SessionResults (SessionID, ResultID) 
                             VALUES ($1, $2);`, 
                             [sessionId, resultId]
                         );
-                    } else {
-                        console.error(`Clause not found in database: ${clause.name}`);
                     }
                 }
             }
