@@ -1,7 +1,7 @@
 
 ## Contract Guardian Projekt
 
-![Contract Guardian Logo](https://github.com/AyhamJo7/ContractGuardian/blob/main/Neues%20Frontend/Neues%20Frontend/public/images/logo.png)
+![Contract Guardian Logo](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/logo.png)
 
 
 ## Überblick
