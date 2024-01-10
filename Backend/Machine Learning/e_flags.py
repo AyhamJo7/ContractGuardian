@@ -27,7 +27,8 @@ def process_flags(parsed_csv_file, flags_sorted_csv_file):
     return df
 
 # Beispielhafte Verwendung
-if __name__ == "__main__":
+""" if __name__ == "__main__":
     parsed_csv_file = os.getenv('PARSED_CSV_FILE', 'default/path/to/parsed_csv.csv')
     flags_sorted_csv_file = os.getenv('FLAGS_SORTED_CSV_FILE', 'default/path/to/flags_sorted_csv.csv')
     processed_df = process_flags(parsed_csv_file, flags_sorted_csv_file)
+ """

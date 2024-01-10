@@ -101,8 +101,9 @@ class TextCleaning:
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write(cleaned_text)
 
-# Beispielhafte Verwendung
+""" # Beispielhafte Verwendung
 extracted_text_directory = os.getenv('EXTRACTED_TEXT_DIRECTORY', 'default/path/to/extracted_text')
 cleaned_text_directory = os.getenv('CLEANED_TEXT_DIRECTORY', 'default/path/to/cleaned_text')
 cleaner = TextCleaning(extracted_text_directory, cleaned_text_directory)
 cleaner.process_all_texts()
+ """

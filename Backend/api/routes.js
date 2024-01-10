@@ -6,17 +6,16 @@ const runPythonScript = require('./pythonScriptRunner');
 // Set up storage for multer
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, 'temp/') // make sure this directory exists
+    cb(null, 'temp/') 
   },
   filename: function (req, file, cb) {
-    cb(null, file.originalname) // Use the original file name
+    cb(null, file.originalname) 
   }
 });
 
 const upload = multer({ storage: storage });
 
 router.post('/analyze', upload.single('file'), (req, res) => {
-  // Make sure the file is received
   if (!req.file) {
     return res.status(400).send('No file uploaded.');
   }
@@ -26,7 +25,7 @@ router.post('/analyze', upload.single('file'), (req, res) => {
   runPythonScript(inputPath, (error, results) => {
     if (error) {
       console.error(`Error running Python script: ${error}`);
-      return res.status(500).send(error.message); // Make sure to return here
+      return res.status(500).send(error.message);
     }
     
     if (typeof results === 'string') {

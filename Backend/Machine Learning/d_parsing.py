@@ -88,7 +88,7 @@ def generate_report(all_data, parsed_csv_file):
     df.to_csv(parsed_csv_file, index=False)
 
 # Hauptfunktion
-def main():
+""" def main():
     converted_to_json_directory = os.getenv('CONVERTED_TO_JSON_DIRECTORY', 'default/path/to/converted_to_json')
     parsed_csv_file = os.getenv('PARSED_CSV_FILE', 'default/path/to/parsed_csv.csv')
     all_data = batch_process(converted_to_json_directory)
@@ -96,3 +96,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+ """

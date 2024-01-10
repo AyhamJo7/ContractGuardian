@@ -56,10 +56,11 @@ class PDFTextExtractor:
                     file.write(full_text)
 
 
-# Beispielhafte Verwendung
+""" # Beispielhafte Verwendung
 pdf_directory = os.getenv('PDF_DIRECTORY', 'default/path/to/PDFs')
 extracted_text_directory = os.getenv('EXTRACTED_TEXT_DIRECTORY', 'default/path/to/extracted_text')
 pytesseract.pytesseract.tesseract_cmd = os.getenv('TESSERACT_CMD', 'default/path/to/tesseract')
 
 extractor = PDFTextExtractor(pdf_directory, extracted_text_directory)
 extractor.process_all_pdfs()
+ """

@@ -50,7 +50,8 @@ def process_directory(cleaned_text_directory, converted_to_json_directory):
             output_file = os.path.join(converted_to_json_directory, filename.replace('.txt', '.jsonl'))
             save_jsonl(json_data, output_file)
 
-# Verzeichnispfade für Eingabe und Ausgabe mittels Umgebungsvariablen definieren
+""" # Verzeichnispfade für Eingabe und Ausgabe mittels Umgebungsvariablen definieren
 cleaned_text_directory = os.getenv('CLEANED_TEXT_DIRECTORY', 'default/path/to/cleaned_text')
 converted_to_json_directory = os.getenv('CONVERTED_TO_JSON_DIRECTORY', 'default/path/to/converted_to_json')
 process_directory(cleaned_text_directory, converted_to_json_directory)
+ """
