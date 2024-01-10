@@ -6,10 +6,12 @@ const runPythonScript = require('./pythonScriptRunner');
 // Set up storage for multer
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    cb(null, 'temp/') 
+    const tempDir = path.join(__dirname, '../../temp');
+    fs.mkdirSync(tempDir, { recursive: true }); 
+    cb(null, tempDir);
   },
   filename: function (req, file, cb) {
-    cb(null, file.originalname) 
+    cb(null, file.originalname);
   }
 });
 
