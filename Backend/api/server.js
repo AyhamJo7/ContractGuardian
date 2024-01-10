@@ -18,13 +18,13 @@ app.use(express.static(path.join(__dirname, '../../Frontend/build')));
 app.use((req, res, next) => {
   // Erlaubte Quellen
   const allowedOrigins = [
-    'http://localhost:3000', 
     'https://contract-guardian-e1381ed27cd8.herokuapp.com/'
   ];
   // Überprüfen, ob die Herkunft der Anfrage erlaubt ist
   const origin = req.headers.origin;
-  if (allowedOrigins.includes(origin)) {
-      res.setHeader('Access-Control-Allow-Origin', origin);
+  if (allowedOrigins.includes(origin) || !origin ) {
+      res.setHeader('Access-Control-Allow-Origin', origin || '*');
+
   }
   // Weitere CORS-Einstellungen
   res.setHeader("Access-Control-Allow-Credentials", "true");
@@ -42,7 +42,7 @@ app.get('*', function(request, response) {
 });
 
 // Port Einstellung von der Umgebungsvariablen oder Standardport 4000
-const PORT = process.env.PORT
+const PORT = process.env.PORT || 4000;
 
 // Server starten
 app.listen(PORT, () => {

@@ -57,12 +57,12 @@ const Analyze = () => {
     setIsProcessing(true); // NEW 
 
     try {
-      const response = await axios.post('http://localhost:4000/api/v1/analyze', formData, {
+      const response = await axios.post('/api/v1/analyze', formData, {
         headers: {
           "Content-Type": "multipart/form-data",
         },
       });
-      console.log('Response Data:', response.data);
+            console.log('Response Data:', response.data);
 
       if (!response.data || !response.data['Red Flags']) {
         console.error('Unexpected response structure:', response.data);
