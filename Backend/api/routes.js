@@ -3,15 +3,14 @@ const router = express.Router();
 const multer = require('multer');
 const runPythonScript = require('./pythonScriptRunner');
 
-// Set up storage for multer
+// Set up storage for multer to use the /tmp directory
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
-    const tempDir = path.join(__dirname, '../../temp');
-    fs.mkdirSync(tempDir, { recursive: true }); 
-    cb(null, tempDir);
+    cb(null, '/tmp/') // Use the /tmp directory for temporary storage
   },
   filename: function (req, file, cb) {
-    cb(null, file.originalname);
+    // Create a unique filename here
+    cb(null, file.fieldname + '-' + Date.now() + path.extname(file.originalname))
   }
 });
 
