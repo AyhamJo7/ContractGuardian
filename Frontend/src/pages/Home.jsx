@@ -1,10 +1,10 @@
-import React, { useRef, useState } from "react";
+import React, { useRef} from "react";
 import { FaPlus } from "react-icons/fa";
 import { BsCloudUpload } from "react-icons/bs";
 import { IoIosSearch } from "react-icons/io";
 import { FaCircleCheck } from "react-icons/fa6";
 import { useNavigate } from "react-router-dom";
-import { useAnimate, motion, delay } from "framer-motion";
+import { motion } from "framer-motion";
 
 const Home = () => {
   const fileInputRef = useRef(null);
@@ -46,14 +46,6 @@ const Home = () => {
   return (
     <div className="w-full flex justify-center min-h-screen">
     <div className="mt-6 px-5">
-    <motion.img
-      initial={{ opacity: 0, scale: 0.25 }}
-      animate={{ opacity: 0.25, scale: 2 }}
-      transition={{ delay: 0.2 }}
-      className="responsive-image w-[100%]"
-      src="images/bg_grid.png"
-      alt=""
-    />
       <div className="flex justify-center items-center md:gap-[50px]">
         <motion.div
           initial={{ y: 50, opacity: 0 }}
