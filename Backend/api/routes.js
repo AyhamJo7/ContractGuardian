@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const multer = require('multer');
 const runPythonScript = require('./pythonScriptRunner');
+const path = require('path');
 
 // Set up storage for multer to use the /tmp directory
 const storage = multer.diskStorage({
@@ -21,6 +22,7 @@ router.post('/analyze', upload.single('file'), (req, res) => {
     return res.status(400).send('No file uploaded.');
   }
 
+  
   const inputPath = req.file.path;
 
   runPythonScript(inputPath, (error, results) => {
