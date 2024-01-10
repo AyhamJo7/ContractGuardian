@@ -19,7 +19,7 @@ app.use((req, res, next) => {
   // Erlaubte Quellen
   const allowedOrigins = [
     'http://localhost:3000', 
-    'https://<your-heroku-app-name>.herokuapp.com'
+    'https://contract-guardian-e1381ed27cd8.herokuapp.com/'
   ];
   // Überprüfen, ob die Herkunft der Anfrage erlaubt ist
   const origin = req.headers.origin;
