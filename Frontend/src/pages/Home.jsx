@@ -47,9 +47,9 @@ const Home = () => {
     <div className="w-full flex justify-center min-h-screen">
     <div className="mt-6 px-5">
     <motion.img
-      initial={{ opacity: 0, scale: 0.3 }}
-      animate={{ opacity: 1, scale: 1 }}
-      transition={{ delay: 0.6 }}
+      initial={{ opacity: 0, scale: 0.25 }}
+      animate={{ opacity: 0.25, scale: 2 }}
+      transition={{ delay: 0.2 }}
       className="responsive-image w-[100%]"
       src="images/bg_grid.png"
       alt=""
