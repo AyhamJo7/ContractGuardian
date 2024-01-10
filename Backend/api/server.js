@@ -42,7 +42,7 @@ app.get('*', function(request, response) {
 });
 
 // Port Einstellung von der Umgebungsvariablen oder Standardport 4000
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT
 
 // Server starten
 app.listen(PORT, () => {
