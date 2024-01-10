@@ -51,3 +51,9 @@
   background-color: #fff;
   color: #333;
 }
+
+.custom-bg {
+  background-image: url('/bg_grid.png');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
