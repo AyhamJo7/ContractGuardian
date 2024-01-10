@@ -45,7 +45,15 @@ const Home = () => {
 
   return (
     <div className="w-full flex justify-center min-h-screen">
-    <div className="mt-6 px-5 custom-bg">
+    <div className="mt-6 px-5">
+    <motion.img
+      initial={{ opacity: 0, scale: 0.3 }}
+      animate={{ opacity: 1, scale: 1 }}
+      transition={{ delay: 0.6 }}
+      className="responsive-image w-[100%]"
+      src="images/bg_grid.png"
+      alt=""
+    />
       <div className="flex justify-center items-center md:gap-[50px]">
         <motion.div
           initial={{ y: 50, opacity: 0 }}
