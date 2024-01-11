@@ -3,6 +3,10 @@ import os
 import pytesseract
 from pdf2image import convert_from_path
 from dotenv import load_dotenv
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
+
 
 # Laden der Umgebungsvariablen aus der .env-Datei
 load_dotenv()
@@ -23,7 +27,7 @@ class PDFTextExtractor:
             text = page.get_text()
             return text if text.strip() != "" else None
         except Exception as e:
-            print(f"Fehler beim Extrahieren des Textes von der Seite: {e}")
+            logging.error(f"Fehler beim Extrahieren des Textes von der Seite: {e}", exc_info=True)
             return None
 
     # Text mit PyTesseract extrahieren, falls notwendig
@@ -33,7 +37,7 @@ class PDFTextExtractor:
             text = pytesseract.image_to_string(images[0])
             return text
         except Exception as e:
-            print(f"Fehler mit pytesseract: {e}")
+            logging.error(f"Fehler mit pytesseract: {e}", exc_info=True)
             return ""
 
     # Text aus der gesamten PDF extrahieren

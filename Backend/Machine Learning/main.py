@@ -10,7 +10,10 @@ from c_text_to_json import process_directory
 from d_parsing import batch_process, generate_report
 from e_flags import process_flags
 import shutil
+import logging
 from dotenv import load_dotenv
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
 
 # Laden der Umgebungsvariablen aus der .env-Datei
 load_dotenv()
@@ -40,7 +43,7 @@ def process_text(pdf_file_path, temp_dir):
         generate_report(all_data, parsed_csv_file)
         return parsed_csv_file
     except Exception as e:
-        print(f"Fehler bei der Textverarbeitung: {str(e)}")
+        logging.error(f"Fehler bei der Textverarbeitung: {e}", exc_info=True)
         return None
 
 # Modelle laden
