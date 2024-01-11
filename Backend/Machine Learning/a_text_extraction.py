@@ -14,6 +14,9 @@ class PDFTextExtractor:
         self.extracted_text_directory = extracted_text_directory
         os.makedirs(self.extracted_text_directory, exist_ok=True)
 
+    #pytesseract on HEROKU
+    pytesseract.pytesseract.tesseract_cmd = "/app/.apt/usr/bin/tesseract"
+
     # Text aus einer einzelnen PDF-Seite extrahieren
     def extract_text_from_page(self, page):
         try:
@@ -54,8 +57,7 @@ class PDFTextExtractor:
                 output_file_path = os.path.join(self.extracted_text_directory, filename.replace('.pdf', '.txt'))
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write(full_text)
-
-
+                    
 """ # Beispielhafte Verwendung
 pdf_directory = os.getenv('PDF_DIRECTORY', 'default/path/to/PDFs')
 extracted_text_directory = os.getenv('EXTRACTED_TEXT_DIRECTORY', 'default/path/to/extracted_text')
