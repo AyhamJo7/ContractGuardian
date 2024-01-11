@@ -10,8 +10,8 @@ def process_flags(parsed_csv_file, flags_sorted_csv_file):
     df = pd.read_csv(parsed_csv_file)
     
     # Ersetze fehlende Werte in der 'Flags'-Spalte durch 'Green Flag'
-    df['Flags'].fillna('Green Flag', inplace=True)
     df['Flags'] = df['Flags'].astype(str)
+    df['Flags'].fillna('Green Flag', inplace=True)
     df['Flags_Code'] = pd.Categorical(df['Flags']).codes
 
     # Bestimme die Anwesenheit von Flags
