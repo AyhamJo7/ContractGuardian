@@ -235,6 +235,35 @@ Die Datenbank besteht aus den folgenden Tabellen:
 - `SessionResults` verknüpft `AnalysisSessions` mit `AnalysisResults`, um nachzuverfolgen, welche Ergebnisse zu welcher Session gehören.
 
 
+## Nutzung
+
+Die Webanwendung "Contract Guardian" ermöglicht es Benutzern, ihre GmbH-Gesellschafterverträge hochzuladen und automatisch analysieren zu lassen. Hier ist eine schrittweise Anleitung zur Nutzung der App:
+
+1. **PDF-Upload:**
+   Klicken Sie auf das Upload-Symbol auf der Startseite, um Ihr PDF-Dokument hochzuladen. Wählen Sie Ihren GmbH-Gesellschaftervertrag aus Ihrem Dateisystem aus.
+
+   ![Upload-Symbol](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/Upload-Symbol.jpg)
+
+2. **Analyse-Seite:**
+   Nach dem Hochladen des Dokuments öffnet sich automatisch die Analyse-Seite. Hier können Sie die durchgeführte Analyse Ihres Vertrags einsehen.
+
+
+3. **Analyse-Details:**
+   Klicken Sie auf das Dropdown-Menü „Analyse“, um eine detaillierte Ansicht der Analyseergebnisse zu erhalten. Hier sehen Sie die kategorisierten Klauseln Ihres Vertrags.
+
+   ![Analyse-Details](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/Analyse-Details.jpg) 
+
+4. **Weiterer PDF-Upload:**
+   Innerhalb der Analyse-Seite haben Sie die Möglichkeit, ein weiteres PDF-Dokument hochzuladen und zu analysieren.
+
+5. **Dark Mode Umschalten:**
+   Sie können jederzeit die Hintergrundfarbe der Anwendung ändern, indem Sie oben rechts auf den Dark-Mode-Schalter klicken.
+
+   ![Dark Mode](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/Dark-Mode.jpg) 
+
+
+Mit diesen Schritten können Sie die Hauptfunktionalitäten von "Contract Guardian" einfach und intuitiv nutzen.
+
 ## Haftungsausschluss
 
 Dieses Werkzeug dient ausschließlich zu Informationszwecken. Es bietet eine Analyse von GmbH-Verträgen auf mögliche fehlende Klauseln. Es stellt keine Rechtsberatung dar. Wir übernehmen keine Garantie für die Genauigkeit oder Vollständigkeit. Benutzer sollten sich für Beratung an Rechtsprofis wenden. Die Nutzung dieses Werkzeugs erfolgt auf eigenes Risiko, und wir haften nicht für etwaige Folgen. Mit der Nutzung dieses Werkzeugs stimmen Sie diesen Bedingungen zu.
