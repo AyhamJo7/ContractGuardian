@@ -17,17 +17,39 @@ Das Hauptziel von Contract Guardian ist es, ein Werkzeug zur Verfügung zu stell
 Dieses Webanwendung wurde von Mhd Ayham Joumran, Sergej Popkow, Sofia Ahmed und Heyjin So entwickelt. Es ist strukturiert, um den Prozess der Vertragsprüfung zu vereinfachen und bietet schnelle und zuverlässige Einblicke durch ein automatisiertes System.
 
 ## Funktionen
-Upload-Funktion für PDF-Dateien.
-Automatisierte Kategorisierung von Vertragsklauseln.
-Analyse-Seite, die Ergebnisse mit visuellen Indikatoren anzeigt (✓ für vorhandene Klauseln, ✗ für fehlende Klauseln).
-AI-basierte Analyse und Vorschläge zur Modifikation von Verträgen.
+
+**Contract Guardian** bietet eine Reihe von Schlüsselfunktionen, die eine umfassende und benutzerfreundliche Vertragsanalyse ermöglichen:
+
+1. **PDF-Vertragsupload:** Einfaches Hochladen des GmbH-Gesellschaftervertrags im PDF-Format.
+
+2. **Automatische Vertragsanalyse:** Detaillierte, automatisierte Analyse des hochgeladenen Vertrags.
+
+3. **Kategorisierung von Klauseln:** 
+   - *Rote Flaggen (PflichtKlauseln):* Unverzichtbare Klauseln für die rechtliche Gültigkeit.
+   - *Orange Flaggen (Empfohlene Klauseln):* Empfohlene Klauseln für zusätzlichen Vertragsschutz.
+   - *Grüne Flaggen (Optionale Klauseln):* Optionale Klauseln für spezifische Bedürfnisse.
+
+4. **Übersichtliche Ergebnisdarstellung:** Klare Darstellung der Analyseergebnisse, inklusive Anzeige der vorhandenen und fehlenden Klauseln.
+
+5. **Intuitive Benutzeroberfläche:** Benutzerfreundliches Frontend, entwickelt mit React.
+
+6. **Robustes Backend:** Zuverlässige Datenverarbeitung durch Node.js, Express und Python.
+
+7. **Datenbankintegration:** Sicherer und effizienter Umgang mit Vertragsdaten dank PostgreSQL.
+
+8. **Heroku-Deployment:** Zuverlässige und skalierbare Bereitstellung über Heroku.
+
+9. **Echtzeit-Feedback:** Sofortige Rückmeldung über den Vertragsstatus.
+
+10. **Datenschutz und Sicherheit:** Hoher Stellenwert von Datenschutz und Sicherheitsmaßnahmen.
+
 
 ## Technologiestapel
-Frontend: React
-Backend: Node.js, Python
-Datenbank: PostgreSQL
-Deployment: Lokales Hosting ODER HEROKU
 
+**Frontend**: React
+**Backend**: Node.js, Express, Python
+**Datenbank**: PostgreSQL
+**Deployment**: HEROKU
 
 
 ## Verzeichnisstruktur
@@ -36,261 +58,181 @@ Deployment: Lokales Hosting ODER HEROKU
 
 Das Projekt ist in mehrere Schlüsselverzeichnisse gegliedert, die jeweils eine spezifische Funktion im Gesamtworkflow erfüllen:
 
-1. **Data**: Beinhaltet den ursprünglichen PDF-Datensatz und verschiedene Ergebnisse der Verarbeitungsstufen.
+### Frontend
+Das Frontend-Verzeichnis beinhaltet die gesamte Benutzeroberfläche der Anwendung. Es ist in React entwickelt und nutzt TailwindCSS für das Styling. Wichtige Unterordner und Dateien umfassen:
+- `src`: Enthält die React-Komponenten, Seiten und CSS-Dateien.
+- `public`: Beinhaltet öffentliche Assets wie Bilder und Icons.
+- `node_modules`: Enthält alle Frontend-Abhängigkeiten.
+- `package.json`: Definiert Skripte und Abhängigkeiten für das Frontend.
 
-2. **Machine Learning**: Beherbergt die maschinellen Lernmodelle und Skripte für Textextraktion, -bereinigung und -analyse.
+### Backend
+Das Backend-Verzeichnis besteht aus der Server-Logik, API-Endpunkten und der Integration mit der Datenbank. Es ist hauptsächlich in Node.js und Express entwickelt. Wesentliche Bestandteile sind:
+- `api`: Beinhaltet die Express-Routen und Middleware.
+- `Machine Learning`: Enthält Python-Skripte für die Verarbeitung und Analyse der Verträge.
+- `node_modules`: Enthält Backend-Abhängigkeiten.
+- `database.js`: Verwaltet die Verbindung zur PostgreSQL-Datenbank.
+- `server.js`: Der Haupt-Entry-Point des Servers.
 
-3. **Machine Learning Training (Try Hard Mode)**: Beherbergt alle maschinellen Lernmodelle, die wir probiert haben, sowie Augmentationsmethoden, die wir damit unsere Daten vermehrt haben.
+### Data
+Das Data-Verzeichnis enthält Daten, die für das maschinelle Lernen und die Vertragsanalyse verwendet werden. Es umfasst:
+- Verschiedene Unterordner mit annotierten Daten, Ergebnissen und ursprüngliche Datensatz **PDFs**.
+- Skripte und Ergebnisse für das maschinelle Lernen.
+- Daten für das Training und die Validierung der Modelle.
 
-4. **Neues Frontend**: Verwaltet die Integration von Frontend, Backend, Database und bietet eine Benutzeroberfläche für die Anwendung.
 
-5. **Annotated Data**: Speichert Daten, die für das Training der maschinellen Lernmodelle annotiert wurden.
 
-6. **Augmented Annotated Data**: Speichert Daten, die für das Training der maschinellen Lernmodelle annotiert und mithilfe von "augmentation.py" augmentiert wurden.
+## Installation und Einrichtung
 
-7. **Back Translated Annotated Data**: Speichert Daten, die für das Training der maschinellen Lernmodelle annotiert und mithilfe von "back_translation.py" augmentiert wurden.
+### Voraussetzungen
+Stellen Sie sicher, dass folgende Software auf Ihrem System installiert ist, bevor Sie mit der Installation und Einrichtung des Projekts beginnen:
 
-8. **Load for Training**: Speichert trainerte Modelle sowie csv Dateien (Ergebnisse von "d_parsing.py", "e_flags.py" & "f_training.py") 
+- **Node.js:** Für das Backend und das Frontend.
+- **Python:** Für die Ausführung der Machine-Learning-Skripte.
+- **PostgreSQL:** Für die Datenbankverwaltung.
 
-9. **__pycache__**: Ein Verzeichnis für die zwischengespeicherten Dateien von Python, um die Ladezeiten der Module zu verbessern.
+### Erste Schritte
+Befolgen Sie diese Schritte, um das Projekt lokal einzurichten:
 
-10. **Sonstige Dateien**: Enthält Umgebungseinstellungen, Git-Attribute und Ignorierdateien sowie andere Konfigurationsskripte.
+1. **Klonen des Repositories:**
 
+git clone https://github.com/AyhamJo7/ContractGuardian.git
 
+2. **Installieren der Backend-Abhängigkeiten:**
 
-## Schlüsselkomponenten und Installation
+cd Backend
+npm install
 
-## 1- MACHINE LEARNING 
+3. **Installieren der Frontend-Abhängigkeiten:**
 
-- **Textextraktion (`a_text_extraction.py`)** Das Skript a_text_extraction.py ist für die Textextraktion aus PDF-Dateien konzipiert. Es nutzt fitz (PyMuPDF) zur direkten Textextraktion und pytesseract für die Fälle, in denen der Text als Bild vorliegt. Das Skript lädt Einstellungen aus einer .env-Datei und ermöglicht das automatische Durchsuchen eines Verzeichnisses nach PDFs, um den Text daraus zu extrahieren und in Textdateien zu speichern. Es bietet auch die Funktionalität, Pfade dynamisch zu handhaben und erstellt notwendige Verzeichnisse bei Bedarf.
+cd ../Frontend
+npm install
 
-Für dieses Skript sind folgende Bibliotheken erforderlich, die in der requirements.txt Datei aufgeführt werden sollten:
+4. **Einrichten der Umgebungsvariablen:**
+Konfigurieren Sie alle erforderlichen Umgebungsvariablen in `.env`-Dateien im Backend- und Frontend-Verzeichnis.
 
-PyMuPDF
-pytesseract
-pdf2image
-python-dotenv
+5. **Vorbereitung der Datenbank:**
+Stellen Sie sicher, dass PostgreSQL läuft und die erforderliche Datenbank eingerichtet ist.
 
+### Ausführen der Anwendung
+Um die Webanwendung lokal zu starten, folgen Sie diesen Schritten:
 
-- **Textbereinigung (`b_text_cleaning.py`)**: Das Skript b_text_cleaning.py kümmert sich um die Bereinigung von Texten, die zuvor aus PDF-Dokumenten extrahiert wurden. Es verwendet reguläre Ausdrücke (Regex), um verschiedene Arten von Störungen und Unregelmäßigkeiten im Text zu identifizieren und zu bereinigen. Dazu gehören das Korrigieren von Silbentrennungen, das Standardisieren der Formatierung, das Entfernen von irrelevanten Informationen wie Dateipfaden und spezifischen Ausdrücken sowie das Entfernen von Seitenzahlen. Das Skript ist so konzipiert, dass es ein Verzeichnis mit extrahierten Texten durchläuft und die bereinigten Texte in einem separaten Verzeichnis speichert. Die Pfade zu diesen Verzeichnissen werden über Umgebungsvariablen geladen, die in einer .env-Datei definiert sind.
+1. **Starten des Backends:**
 
-Für die Ausführung dieses Skripts sollten die folgenden Bibliotheken in der requirements.txt Datei aufgeführt werden:
+cd Backend
+npm start
 
-regex
-python-dotenv
+Der Server läuft nun auf dem angegebenen Port.
 
+2. **Starten des Frontends:**
 
-- **Text zu JSON (`c_text_to_json.py`)**: Das Skript c_text_to_json.py ist ein wichtiger Bestandteil des Projekts. Es hat die Aufgabe, bereinigte Texte in strukturierte Daten umzuwandeln, genauer gesagt in das JSONL-Format. Dieses Format eignet sich besonders gut für die weitere Verarbeitung und Analyse der Textdaten. 
-Das Skript liest Textdateien aus einem angegebenen Verzeichnis. --> 
-Der Text wird anhand bestimmter Schlüsselwörter in Abschnitte unterteilt. Diese Funktion ist besonders nützlich, um die Struktur der Vertragstexte zu erhalten und sie für die weitere Analyse vorzubereiten. --> 
-Jeder Abschnitt wird als separates JSON-Objekt gespeichert, wodurch eine Datei im JSONL-Format entsteht. Dieses Format ist besonders für maschinelles Lernen und Datenanalyse geeignet. --> 
-Das Skript kann ein ganzes Verzeichnis von Textdateien automatisch verarbeiten und die Ergebnisse in einem Zielverzeichnis speichern.
+cd Frontend
+npm start
 
-Für die Ausführung dieses Skripts sollten folgende Bibliotheken in der requirements.txt Datei aufgeführt werden:
+Das Frontend sollte sich automatisch in Ihrem Standardbrowser öffnen.
 
-python-dotenv
 
 
-- **Parsing (`d_parsing.py`)**: Das Skript d_parsing.py ist verantwortlich für das Parsen und Kategorisieren von Textabschnitten. Es verwendet reguläre Ausdrücke (Regex) zur Identifikation und Zuordnung von Schlüsselwörtern zu verschiedenen Kategorien (Red Flags, Orange Flags, Green Flags). Das Skript verarbeitet JSONL-Dateien, extrahiert relevante Daten und erzeugt einen strukturierten Bericht in Form einer CSV-Datei. 
+## Deployment auf Heroku
 
-Für die Ausführung dieses Skripts sind folgende Bibliotheken in der requirements.txt Datei aufzuführen:
+### Vorbereitungen
+Bevor Sie mit dem Deployment auf Heroku beginnen, stellen Sie sicher, dass die Heroku CLI auf Ihrem System installiert ist und Sie sich bei Ihrem Heroku-Konto angemeldet haben. Führen Sie die folgenden Schritte aus:
 
-regex
-pandas
-python-dotenv
+1. **Heroku CLI installieren:**
+   Laden Sie die Heroku CLI herunter und installieren Sie sie. Weitere Informationen finden Sie unter [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli).
 
+2. **Anmelden bei Heroku:**
+   Melden Sie sich mit dem Befehl `heroku login` bei Ihrem Heroku-Konto an und folgen Sie den Anweisungen zur Erstellung eines neuen SSH-Schlüssels.
 
-- **Flag-Verarbeitung (`e_flags.py`)**: Es spezialisiert sich auf die Verarbeitung und Analyse von Daten, die zuvor extrahiert und in eine CSV-Datei gespeichert wurden. Das Hauptziel des Skripts ist es, die Flag-Kategorien (Red, Orange, Green) zu verarbeiten und zu organisieren.
-Das Skript lädt eine CSV-Datei in einen Pandas DataFrame, um die Daten zu verarbeiten -->
-Es ersetzt fehlende Werte in der Spalte 'Flags' durch 'Green Flag', um sicherzustellen, dass alle Datensätze kategorisiert werden. -->
-Um die Analyse zu erleichtern, ordnet das Skript jeder Flag-Kategorie einen numerischen Code zu. -->
-Es ermittelt, ob in jedem Abschnitt bestimmte Flags vorhanden sind, und markiert dies entsprechend in neuen Spalten des DataFrames. -->
-Nach der Verarbeitung speichert das Skript die Ergebnisse in einer neuen CSV-Datei.
+heroku login
 
-Zur Ausführung dieses Skripts sind folgende Bibliotheken in der requirements.txt Datei erforderlich:
 
-pandas
-python-dotenv
 
+### Klonen des Repositories
+Klonen Sie das Repository Ihres Projekts auf Ihren lokalen Computer:
 
-- **Modelltraining (`f_training.py`)**: Das Skript f_training.py bildet den Abschluss des maschinellen Lernprozesses im Rahmen des "Contract Guardian" Projekts. Es konzentriert sich auf das Training von Klassifikationsmodellen, die darauf abzielen, Textabschnitte in die Kategorien Red, Orange und Green Flags einzuordnen. Hier sind die Hauptfunktionen des Skripts:
+heroku git:clone -a contract-guardian
+cd contract-guardian
 
--Datenverarbeitung: Das Skript lädt einen zuvor vorbereiteten Datensatz, bereinigt ihn und füllt fehlende Werte auf.
--Vektorisierung: Es verwendet TF-IDF (Term Frequency-Inverse Document Frequency) zur Vektorisierung der Textdaten, um sie für das maschinelle Lernen nutzbar zu machen.
--Training und Validierung: Das Skript teilt die Daten in Trainings- und Testsets auf und trainiert für jede Flag-Kategorie (Red, Orange, Green) ein eigenes RandomForestClassifier-Modell.
--Modellbewertung: Nach dem Training wird jedes Modell anhand von Testdaten evaluiert und ein Klassifizierungsbericht erstellt.
--Speichern von Modellen und Vektorisierern: Sowohl die trainierten Modelle als auch der TF-IDF Vektorisierer werden für spätere Verwendungen gespeichert.
 
-Zur Ausführung dieses Skripts sind folgende Bibliotheken in der requirements.txt Datei erforderlich:
 
-pandas
-scikit-learn
-joblib
-python-dotenv
+### Einrichten der Umgebungsvariablen
+Konfigurieren Sie die erforderlichen Umgebungsvariablen auf Heroku:
 
-- **Augmentation (`augmentation.py`)**: Das Skript augmentation.py ist ein Hilfsprogramm im Rahmen des "Contract Guardian" Projekts, das speziell für die Datenaufbereitung und -erweiterung zuständig ist. Es liest annotierte Daten aus JSONL-Dateien und erstellt davon modifizierte Kopien. Diese Kopien sind nützlich, um die Robustheit und Vielfältigkeit der für das maschinelle Lernen verwendeten Datensätze zu erhöhen.
+- `DATABASE_URL`: URL Ihrer PostgreSQL-Datenbank.
+- `LOAD_FOR_TRAINING_PATH`: Pfad zum Verzeichnis 'Load for Training'.
+- `PYTHON_SCRIPT_PATH`: Pfad zum Python-Skript im 'Machine Learning'-Verzeichnis.
+- `TESSDATA_PREFIX`: Pfad zum Tesseract-OCR-Datenverzeichnis.
 
-Dieses Skript ist besonders nützlich, um die Diversität der Trainingsdaten zu erhöhen und potenzielle Überanpassungen (Overfitting) der Modelle zu vermeiden. Es trägt dazu bei, die Robustheit des maschinellen Lernprozesses zu verbessern.
+Diese Werte können in der Heroku-App unter 'Settings' -> 'Config Vars' hinzugefügt werden.
 
-Für die Ausführung dieses Skripts sind folgende Bibliotheken in der requirements.txt Datei erforderlich:
+### Hinzufügen der Buildpacks
+Fügen Sie die notwendigen Buildpacks zu Ihrer Heroku-App hinzu. Diese werden verwendet, um Abhängigkeiten für Ihre App zu installieren und Ihre Umgebung zu konfigurieren. Die erforderlichen Buildpacks sind:
 
-json
-os
-python-dotenv
+- `heroku/nodejs`
+- `heroku/python`
+- `heroku-buildpack-apt`
+- `heroku-buildpack-poppler`
 
+Diese können unter 'Settings' -> 'Buildpacks' hinzugefügt werden.
 
-- **Augmentation (`back_translating.py`)**: Das Skript back_translation.py ist ein wesentlicher Teil des Datenaufbereitungsprozesses im "Contract Guardian" Projekt. Es nutzt die Technik der Rückübersetzung (Back-Translation), um die Qualität und Vielfalt der Trainingsdaten für maschinelles Lernen zu verbessern. Hier sind die Hauptfunktionen des Skripts:
- Das Skript nutzt zwei Übersetzungs-Pipelines (Helsinki-NLP/opus-mt-de-en und Helsinki-NLP/opus-mt-en-de) für die Übersetzung von Deutsch nach Englisch und zurück. --> 
- Das Skript lädt annotierte Daten aus einem Verzeichnis und bereitet sie für die Rückübersetzung vor. --> 
- Texte werden in kleinere Segmente aufgeteilt und durch Übersetzung ins Englische und Rückübersetzung ins Deutsche bearbeitet. Dieser Prozess erzeugt Variationen im Text, die die Diversität der Trainingsdaten erhöhen. -->
- Die rückübersetzten Texte werden zusammen mit den ursprünglichen Daten als JSON-Dateien gespeichert.
+### Deployment Ihrer Änderungen
+Nehmen Sie Änderungen am Code vor und deployen Sie diese auf Heroku:
 
- Dieser Ansatz kann dazu beitragen, die Sprachmodelle robuster zu machen, da die Variationen in den Texten das Modell auf unterschiedliche Formulierungen desselben Inhalts trainieren.
+git add .
+git commit -am "Kommentar"
+git push heroku main
 
-Zur Ausführung dieses Skripts sind folgende Bibliotheken in der requirements.txt Datei erforderlich:
 
-transformers
-os
-json
-python-dotenv
+Mit diesen Schritten haben Sie das Projekt "Contract Guardian" erfolgreich auf Heroku deployed.
 
+## Datenbankkonfiguration
 
+### Einrichten von PostgreSQL
 
-- **Hauptskript (`main.py`)**: Das Skript main.py ist das Herzstück des "Contract Guardian" Projekts. Es Orchestriert die verschiedenen Module und Funktionen, die zuvor entwickelt wurden, in einen einzigen, kohärenten Prozess. Die Hauptfunktionen und Abläufe des Skripts umfassen:
+#### Lokale Einrichtung
+1. **Installieren Sie PostgreSQL:** Stellen Sie sicher, dass PostgreSQL auf Ihrem System installiert ist.
 
--PDF-Textextraktion: Zunächst extrahiert es den Text aus einer PDF-Datei mittels der PDFTextExtractor-Klasse aus a_text_extraction.py.
+2. **Erstellen Sie eine neue Datenbank:** Nutzen Sie das PostgreSQL Management Tool Ihrer Wahl (z.B. pgAdmin oder die Kommandozeile), um eine neue Datenbank zu erstellen.
 
--Textbereinigung: Der extrahierte Text wird dann mittels der TextCleaning-Klasse aus b_text_cleaning.py bereinigt.
+3. **Konfigurieren Sie die Verbindungsdaten:** Stellen Sie sicher, dass die Verbindungsdaten in den `.env`-Dateien Ihres Projekts korrekt eingestellt sind.
 
--Textverarbeitung: Der bereinigte Text wird weiterverarbeitet, in JSON konvertiert (c_text_to_json.py), analysiert (d_parsing.py) und schließlich werden die Flags verarbeitet (e_flags.py).
+#### Einrichtung auf Heroku
+1. **Erstellen Sie eine PostgreSQL-Datenbank auf Heroku:** Nutzen Sie die Heroku Postgres Add-ons, um eine PostgreSQL-Datenbank zu Ihrer App hinzuzufügen.
 
--Modellvorhersagen: Es lädt trainierte maschinelle Lernmodelle und verwendet diese, um Vorhersagen über die Kategorisierung der Textabschnitte in verschiedene Flag-Kategorien zu treffen.
+2. **Konfigurieren Sie die `DATABASE_URL`:** Heroku setzt automatisch die Umgebungsvariable `DATABASE_URL` mit den Verbindungsdaten zur Datenbank.
 
--Ergebnisinterpretation: Das Skript interpretiert die Ergebnisse und gibt sie in einem strukturierten Format (JSON) aus.
+### Datenbankschema
 
--Automatisierung und Benutzerinteraktion: Mittels argparse ermöglicht das Skript die Eingabe von Benutzerargumenten und automatisiert den Prozess von der Textextraktion bis zur Ausgabe der Ergebnisse.
+Die Datenbank besteht aus den folgenden Tabellen:
 
-Dieses Hauptskript fasst somit die verschiedenen Stufen des Projekts – von der Datenaufbereitung bis hin zur Analyse und Prognose – in einem umfassenden Prozess zusammen. Es demonstriert die Anwendung der entwickelten Modelle und Methoden in einer realen Anwendungssituation.
+#### Clauses
+- `ClauseID`: Primärschlüssel, Integer, Auto-Increment
+- `ClauseName`: Text, Eindeutig (Name oder Titel der Klausel)
+- `FlagType`: Text (Werte: 'Red Flag', 'Orange Flag', 'Green Flag')
+- `Description`: Text (Optionale Beschreibung oder Anmerkungen zur Klausel)
 
-Für die Ausführung des main.py Skripts im Rahmen des "Contract Guardian" Projekts werden verschiedene Bibliotheken benötigt, die in der requirements.txt Datei aufgeführt werden sollten. Hier sind die erforderlichen Bibliotheken basierend auf den verschiedenen importierten Modulen und deren Funktionen:
+#### AnalysisResults
+- `ResultID`: Primärschlüssel, Integer, Auto-Increment
+- `ClauseID`: Fremdschlüssel, Verweist auf Clauses(ClauseID)
+- `AnalysisDate`: Timestamp
+- `Status`: Text (Werte: 'OK', 'Missing')
+- `AdditionalNotes`: Text (Optionale zusätzliche Informationen zum Analyseergebnis)
 
-PyMuPDF (fitz): Für die PDF-Textextraktion.
-PyTesseract: Für die Textextraktion aus Bildern in PDFs.
-pdf2image: Wird zusammen mit PyTesseract für die Bildextraktion verwendet.
-python-dotenv: Zum Laden von Umgebungsvariablen aus einer .env-Datei.
-Pandas: Für Datenmanipulation und -analyse.
-Scikit-learn: Für maschinelles Lernen, insbesondere das RandomForestClassifier-Modell und andere Funktionen wie train_test_split.
-Joblib: Zum Laden und Speichern von trainierten Modellen.
-argparse: Zur Verarbeitung von Befehlszeilenargumenten.
-shutil: Für Dateioperationen, insbesondere zum Löschen und Erstellen von Verzeichnissen.
+#### AnalysisSessions
+- `SessionID`: Primärschlüssel, Integer, Auto-Increment
+- `SessionDate`: Timestamp
+- `ProcessedFileName`: Text (Name der verarbeiteten Datei)
+- `ResultSummary`: Text (Zusammenfassung oder Gesamtergebnis der Analyse)
 
-PyMuPDF
-pytesseract
-pdf2image
-python-dotenv
-pandas
-scikit-learn
-joblib
-argparse
-shutil
+#### SessionResults
+- `SessionResultID`: Primärschlüssel, Integer, Auto-Increment
+- `SessionID`: Fremdschlüssel, Verweist auf AnalysisSessions(SessionID)
+- `ResultID`: Fremdschlüssel, Verweist auf AnalysisResults(ResultID)
 
-
-
-## 2- NEUES FRONTEND 
-
-1- **API**: Das Verzeichnis `api` enthält Backend-Skripte, einschließlich `pythonScriptRunner.js`, `routes.js` und `server.js`, die die Interaktion zwischen dem Frontend und den maschinellen Lernmodellen verwalten.
-
-
-- **Database (`database.js`)**: Das database.js Skript ist ein Teil des "Contract Guardian" Projekts und stellt die Verbindung zur PostgreSQL-Datenbank her. Es nutzt das pg Modul von Node.js, um einen Pool von Verbindungen zu verwalten, und verwendet Umgebungsvariablen, um die Datenbank-URL zu konfigurieren
-
-Um dieses Skript auszuführen, sollten Sie sicherstellen, dass die folgenden Abhängigkeiten in Ihrer package.json Datei aufgeführt sind:
-
-pg: Für die PostgreSQL-Verbindungsverwaltung.
-dotenv: Zum Laden von Umgebungsvariablen.
-
-- **Express.js-Server (`server.js`)**: Das Skript server.js ist der Kern des Back-Ends im "Contract Guardian" Projekt und setzt einen Express.js-Server auf. Es verwendet verschiedene Middleware und Routen, um die Funktionalität der Webanwendung zu ermöglichen.
-Das Skript verwendet Express.js, ein populäres Node.js-Framework, um einen Webserver zu erstellen.
-
-`express.json`: Diese Middleware wird verwendet, um eingehende Anfragen mit JSON-Inhalten zu verarbeiten.
-`cookieParser`: Eine Middleware zum Parsen von Cookies in eingehenden Anfragen.
-`CORS-Konfiguration`: Das Skript konfiguriert Cross-Origin Resource Sharing (CORS), um Anfragen von der Front-End-Anwendung, die auf einem anderen Port (hier `localhost:3000`) läuft, zu akzeptieren. Dies ist wichtig, um sicherzustellen, dass der Browser Anfragen zwischen dem Front-End und dem Back-End zulässt.
-Das Skript bindet die Route analyzeRoute unter dem Pfad /api/v1. Diese Route wird wahrscheinlich für die Verarbeitung spezifischer Anfragen, z.B. zur Analyse von Vertragsdaten, verwendet.
-Der Server wird so konfiguriert, dass er auf Port 4000 hört, und eine Nachricht wird ausgegeben, wenn der Server erfolgreich gestartet ist.
-
-Zur Ausführung dieses Servers sind die folgenden Node.js-Module erforderlich, die in Ihrer package.json-Datei aufgeführt sein sollten:
-
-`express`: Für den Webserver und die Middleware.
-`cookie-parser`: Zum Parsen von Cookies in HTTP-Anfragen.
-Weitere Module, die in den importierten Dateien (./routes) verwendet werden, und alle spezifischen Abhängigkeiten, die in diesen Dateien erforderlich sind.
-
-- **Express.js-Server-Route (`routes.js`)**: Das Skript routes.js im "Contract Guardian" Projekt definiert eine Route für den Express.js-Server, die speziell für die Analyse von hochgeladenen Dateien zuständig ist. Hier sind die wichtigsten Funktionen des Skripts:
-
-- Einrichtung des Routers: Es nutzt den Express.js-Router, um eine spezifische HTTP-Route zu definieren.
-
-- Datei-Upload mit Multer:
-
-`Multer-Konfiguration`: Multer wird als Middleware für das Handling von Datei-Uploads eingesetzt. Hier wird es so konfiguriert, dass hochgeladene Dateien im `temp/`-Verzeichnis gespeichert werden, wobei der ursprüngliche Dateiname beibehalten wird.
-`Upload-Route`: Die Route /analyze akzeptiert POST-Anfragen mit einer einzelnen Datei (`upload.single('file')`). Diese Route wird vermutlich für die Analyse von PDF-Dateien oder ähnlichen Dokumenten verwendet.
-
-- Analyseprozess:
-
-o Überprüfung des Datei-Uploads: Zunächst wird überprüft, ob eine Datei erfolgreich hochgeladen wurde.
-o Ausführung eines Python-Skripts: Das hochgeladene Dokument wird an ein Python-Skript (runPythonScript) weitergegeben, das die eigentliche Analyse durchführt.
-o Fehlerbehandlung: Das Skript enthält Fehlerbehandlung für den Fall, dass beim Ausführen des Python-Skripts oder beim Parsen der Ergebnisse Fehler auftreten.
-o Rückgabe der Ergebnisse:
-Die Ergebnisse der Python-Skriptausführung werden als JSON an den Client zurückgesendet.
-
-Um diese Route in einem Express.js-Server zu nutzen, müssen folgende Module in der package.json-Datei des Projekts aufgeführt sein:
-
-`express`: Für den Router und das Server-Framework.
-`multer`: Für das Handling von Datei-Uploads.
-
-
-
-
-
-2- **src**: Die beiden React-Komponenten `Home.jsx` und `Analyze.jsx` sind Teile des Frontends. Hier sind die Hauptfunktionen und Elemente jeder Komponente:
-
-`Home.jsx`
-Diese Komponente bildet die Startseite der Webanwendung.
-
-Upload-Funktionalität: Nutzer können PDF-Dateien hochladen, entweder durch Klicken.
-
-Navigationsfunktion: Bei erfolgreichem Hochladen einer Datei wird der Nutzer zur Analyse-Seite weitergeleitet.
-
-Styling und Animationen: Die Seite nutzt Icons (FaPlus, BsCloudUpload, IoIosSearch, FaCircleCheck) für visuelle Elemente und framer-motion für Animationen.
-
-
-`Analyze.jsx`
-Diese Komponente ist für die Darstellung und Verarbeitung der Analyseergebnisse zuständig.
-
-Datei-Verarbeitung: Die hochgeladene PDF-Datei wird an den Backend-Server gesendet und dort analysiert.
-
-Anzeige der Analyseergebnisse: Die Ergebnisse (Red, Orange, Green Flags) der Vertragsanalyse werden in einer übersichtlichen Struktur angezeigt.
-
-Ladestatus: Ein Lade-Overlay wird angezeigt, während die Datei verarbeitet wird.
-
-Interaktive Elemente: Die Ergebnisse werden in aufklappbaren Akkordeon-Elementen präsentiert, um die Übersichtlichkeit zu erhöhen.
-
-
-Beide Komponenten sind darauf ausgelegt, eine benutzerfreundliche und interaktive Schnittstelle für die Vertragsanalyse zu bieten, wobei der Fokus auf einer einfachen Bedienung und klaren Darstellung der Ergebnisse liegt.
-
-Für die Implementierung dieser Komponenten sind folgende Pakete und Bibliotheken erforderlich:
-
-React und React-Router-DOM für die UI-Komponenten und Navigation.
-Axios für HTTP-Anfragen an den Server.
-Icons von react-icons.
-framer-motion für Animationen.
-Styling-Techniken, wie CSS oder eine CSS-in-JS-Bibliothek.
-
-
-
-
-## Nutzung
-
-1. **Backend-Server starten**: Führen Sie das Skript `server.js` aus, um das Backend zu initiieren.
-2. **Frontend-Anwendung ausführen**: Greifen Sie über einen Webbrowser auf das Frontend zu, um GmbH-Verträge hochzuladen und zu analysieren.
-3. **Verträge analysieren**: Laden Sie eine PDF-Datei hoch, und das System wird automatisch die Ergebnisse verarbeiten und anzeigen, kategorisiert als rote, orange oder grüne Flags.
+### Beziehungen
+- Jeder Eintrag in `AnalysisResults` ist mit einem Eintrag in `Clauses` verknüpft, der das Ergebnis der Analyse einer spezifischen Klausel in einem Vertrag darstellt.
+- Die Tabelle `AnalysisSessions` enthält Informationen über jede Analyse-Session, einschließlich einer Zusammenfassung und des verarbeiteten Dateinamens.
+- `SessionResults` verknüpft `AnalysisSessions` mit `AnalysisResults`, um nachzuverfolgen, welche Ergebnisse zu welcher Session gehören.
 
 
 ## Haftungsausschluss
