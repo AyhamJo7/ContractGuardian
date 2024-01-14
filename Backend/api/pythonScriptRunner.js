@@ -12,7 +12,7 @@ async function loadClauseIdMap() {
         allClauses.rows.forEach(row => {
             let clausename = row.clausename ? row.clausename.toLowerCase().trim() : '';
             if (clausename) {
-                clauseIdMap[clausename] = row.clauseid; // Note the lowercase 'c' in clauseid
+                clauseIdMap[clausename] = row.clauseid; 
             } else {
                 console.error(`Invalid or empty clause name for row: ${JSON.stringify(row)}`);
             }
@@ -22,7 +22,6 @@ async function loadClauseIdMap() {
     }
 }
 
-// Call this function when your server starts
 loadClauseIdMap();
 
 function generateSummary(results) {
