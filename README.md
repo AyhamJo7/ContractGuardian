@@ -1,6 +1,4 @@
 
-## Contract Guardian Projekt
-
 ![Contract Guardian Logo](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/logo.png)
 
 
