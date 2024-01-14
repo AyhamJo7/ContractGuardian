@@ -6,9 +6,15 @@
 
 ## Überblick
 
-Contract Guardian ist eine Webanwendung zur Analyse von "GmbH Gesellschafterverträgen". Die App kategorisiert Vertragsklauseln in "Rote Flaggen" (Pflichtklauseln), "Orange Flaggen" (Empfohlene Klauseln) und "Grüne Flaggen" (Optionale Klauseln) und bietet eine AI-gestützte Analyse der Ergebnisse.
+Contract Guardian ist eine innovative Webanwendung, die darauf abzielt, den Analyseprozess von Verträgen für Gesellschaften mit beschränkter Haftung (GmbH) in Deutschland zu optimieren und zu verbessern. Die Anwendung nutzt modernste Technologien und bietet eine benutzerfreundliche Plattform, auf der Nutzer ihren "GmbH Gesellschaftervertrag" im PDF-Format hochladen können. Nach dem Hochladen des Vertrags werden die Nutzer nahtlos auf eine Analyse-Seite weitergeleitet, auf der der Vertrag in drei Kategorien analysiert wird: Rote Flaggen (PflichtKlauseln), Orange Flaggen (Empfohlene Klauseln) und Grüne Flaggen (Optionale Klauseln).
 
- Dieses Webanwendung wurde von Mhd Ayham Joumran, Sergej Popkow, Sofia Ahmed und Heyjin So entwickelt. Es ist strukturiert, um den Prozess der Vertragsprüfung zu vereinfachen und bietet schnelle und zuverlässige Einblicke durch ein automatisiertes System.
+Die Kernfunktionalität von Contract Guardian beruht auf einer ausgeklügelten Backend-Logik, die jede Klausel im Vertrag bewertet und entsprechend kategorisiert. Die Analyseergebnisse werden übersichtlich dargestellt und zeigen an, ob eine Klausel vorhanden ist oder fehlt, symbolisiert durch ein einfaches [✓] oder [✗]. Diese intuitive Darstellung ermöglicht es den Nutzern, schnell zu identifizieren, welche kritischen, empfohlenen oder optionalen Klauseln in ihrem Vertrag fehlen, um so die rechtliche Konformität und Vollständigkeit sicherzustellen.
+
+Contract Guardian wurde als Full-Stack-Webanwendung entwickelt und verwendet eine robuste Kombination aus React für das Frontend und Node.js, Express, Multer und Python für das Backend. Die gesamte Anwendung ist in einem Monorepo-Ansatz strukturiert, was eine effiziente Entwicklung und Wartung gewährleistet. Die Bereitstellung der Anwendung erfolgt über Heroku, wobei PostgreSQL als zentrale Datenbank dient und zuverlässige und skalierbare Datenspeicherlösungen bietet.
+
+Das Hauptziel von Contract Guardian ist es, ein Werkzeug zur Verfügung zu stellen, das nicht nur den Prozess der Vertragsprüfung vereinfacht, sondern die Nutzer auch über die wesentlichen Elemente eines rechtlich fundierten GmbH-Vertrags aufklärt. Dieses Projekt ist das Ergebnis modernster Webtechnologien und innovativer Softwareentwicklung mit dem Ziel, die Art und Weise, wie rechtliche Dokumente im Geschäftsumfeld analysiert und verstanden werden, zu revolutionisieren.
+
+Dieses Webanwendung wurde von Mhd Ayham Joumran, Sergej Popkow, Sofia Ahmed und Heyjin So entwickelt. Es ist strukturiert, um den Prozess der Vertragsprüfung zu vereinfachen und bietet schnelle und zuverlässige Einblicke durch ein automatisiertes System.
 
 ## Funktionen
 Upload-Funktion für PDF-Dateien.
@@ -25,6 +31,8 @@ Deployment: Lokales Hosting ODER HEROKU
 
 
 ## Verzeichnisstruktur
+
+![Contract Guardian Verzeichnisstruktur](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/Verzeichnisstruktur.svg)
 
 Das Projekt ist in mehrere Schlüsselverzeichnisse gegliedert, die jeweils eine spezifische Funktion im Gesamtworkflow erfüllen:
 
