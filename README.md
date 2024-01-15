@@ -201,6 +201,8 @@ Mit diesen Schritten haben Sie das Projekt "Contract Guardian" erfolgreich auf H
 
 ### Datenbankschema
 
+![Contract Guardian Datenbankschema](https://github.com/AyhamJo7/ContractGuardian/blob/main/Frontend/public/Datenbankschema.svg)
+
 Die Datenbank besteht aus den folgenden Tabellen:
 
 #### Clauses
