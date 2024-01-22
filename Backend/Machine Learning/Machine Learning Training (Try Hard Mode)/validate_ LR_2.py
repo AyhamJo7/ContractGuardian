@@ -24,12 +24,12 @@ label_categories = [
 ]
 
 # Funktion zum Extrahieren von Merkmalen aus einer JSONL-Datenzeile
-def extract_features(json_data):
+def extract_features(json_data): 
     entities = json_data.get('entities', [])
     features = {label: sum(1 for entity in entities if entity['label'] == label) for label in label_categories}
     return features
 
-# Funktion zum Verarbeiten einer einzelnen JSONL-Datei
+# Funktion zum Verarbeiten einer einzelnen JSONL-Datei 
 def process_jsonl(file_path):
     features_list = []
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -43,11 +43,11 @@ def process_jsonl(file_path):
                     print(f"Warnung: Ungültige JSON-Daten in Datei {file_path} übersprungen")
     return features_list
 
-# Geladene Modelle
+# Geladene Modelle 
 model_l1 = joblib.load(lr_model_l1_load_path)
 model_l2 = joblib.load(lr_model_l2_load_path)
 
-# Verarbeite die unannotierten Daten
+# Verarbeite die unannotierten Daten 
 unannotated_features = []
 unannotated_jsonl_files = [os.path.join(unannotated_data_path, file) for file in os.listdir(unannotated_data_path) if file.endswith('.jsonl')]
 

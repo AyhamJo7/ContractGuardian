@@ -3,18 +3,18 @@ import fitz  # PyMuPDF
 import spacy
 from dotenv import load_dotenv
 
-# Laden der Umgebungsvariablen aus der .env-Datei
+# Laden der Umgebungsvariablen aus der .env-Datei 
 load_dotenv()
 
 # Pfadvariable mit os.getenv()
 pdf_example = os.getenv('PDF_EXAMPLE_PATH', 'default/path/to/pdf')
 
-# Definiere die Schlüsselwörter für jede Flag-Kategorie
+# Definiere die Schlüsselwörter für jede Flag-Kategorie 
 red_flags = ["Firma", "Sitz", "Gegenstand", "Stammkapital", "Stammeinlagen"]
 orange_flags = ["Geschäftsführung", "Vertretung", "Dauer", "Geschäftsjahr", "Gesellschafterversammlung"]
 green_flags = ["Veräußerung", "Gewinnverteilung", "Einziehung", "Erbfolge", "Kündigung", 
                "Abfindung", "Wettbewerb", "Schlussbestimmungen", "Gesellschafterbeschlüsse", 
-               "Jahresabschluss", "Ergebnisverwendung", "Kosten", "Salvatorische Klausel", "Sonstige_Klauseln"]
+               "Jahresabschluss", "Ergebnisverwendung", "Kosten", "Salvatorische Klausel", "Sonstige_Klauseln"] 
 
 # Funktion, um Text aus einer PDF-Datei zu extrahieren
 def extract_text_from_pdf(pdf_path):

@@ -1,0 +1,8 @@
+Model Evaluation:
+              		  precision    recall  f1-score   support
+
+       Has_Green_Flags       0.88      0.90      0.89       273
+      Has_Orange_Flags       0.85      0.78      0.81       165
+         Has_Red_Flags       0.92      0.95      0.93       195
+
+    	      accuracy                           0.88       633

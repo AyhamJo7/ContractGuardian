@@ -13,8 +13,8 @@ class JSONLTextProcessor:
     def __init__(self, converted_to_json_directory, spacy_processed_texts):
         """
         Initialisiert die JSONLTextProcessor-Klasse.
-        :param converted_to_json_directory: Verzeichnis mit JSONL-Dateien.
-        :param spacy_processed_texts: Verzeichnis, in dem verarbeitete Textdateien gespeichert werden.
+        :param converted_to_json_directory: Verzeichnis mit JSONL-Dateien. 
+        :param spacy_processed_texts: Verzeichnis, in dem verarbeitete Textdateien gespeichert werden. 
         """
         self.converted_to_json_directory = converted_to_json_directory
         self.spacy_processed_texts = spacy_processed_texts
@@ -22,8 +22,8 @@ class JSONLTextProcessor:
 
     def process_file(self, file_path):
         """
-        Verarbeitet eine JSONL-Datei und speichert die Ergebnisse.
-        :param file_path: Pfad zur JSONL-Datei.
+        Verarbeitet eine JSONL-Datei und speichert die Ergebnisse. 
+        :param file_path: Pfad zur JSONL-Datei. 
         """
         output_file = os.path.join(
             self.spacy_processed_texts,

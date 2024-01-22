@@ -8,20 +8,20 @@ from collections import Counter
 from imblearn.over_sampling import SMOTE
 from dotenv import load_dotenv
 
-# Laden der Umgebungsvariablen aus der .env-Datei
+# Laden der Umgebungsvariablen aus der .env-Datei 
 load_dotenv()
 
-# Definiere deine Label-Kategorien
+# Definiere deine Label-Kategorien 
 red_flags = ['Firma', 'Sitz', 'Gegenstand', 'Stammkapital', 'Stammeinlagen']
 orange_flags = ['Geschäftsführung', 'Vertretung', 'Dauer', 'Geschäftsjahr', 'Gesellschafterversammlung']
 green_flags = ['Veräußerung', 'Gewinnverteilung', 'Einziehung', 'Erbfolge', 'Kündigung', 
                'Abfindung', 'Wettbewerb', 'Schlussbestimmungen', 'Gesellschafterbeschlüsse',  
                'Jahresabschluss', 'Ergebnisverwendung', 'Kosten', 'Salvatorische Klausel', 'Sonstige_Klauseln']
 
-# Verzeichnis, in dem deine JSONL-Dateien gespeichert sind
+# Verzeichnis, in dem deine JSONL-Dateien gespeichert sind 
 augmented_annotated_data = os.getenv('AUGMENTED_ANNOTATED_DATA', 'default/path/to/Augmented Annotated Data')
-#back_translated_annotated_data = os.getenv('BACK_TRANSLATED_ANNOTATED_DATA', 'default/path/to/Back Translated Annotated Data')
-#annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/Annotated Data')
+#back_translated_annotated_data = os.getenv('BACK_TRANSLATED_ANNOTATED_DATA', 'default/path/to/Back Translated Annotated Data') 
+#annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/Annotated Data') 
 
 
 # Funktion zum Auflisten aller JSONL-Dateien im Verzeichnis

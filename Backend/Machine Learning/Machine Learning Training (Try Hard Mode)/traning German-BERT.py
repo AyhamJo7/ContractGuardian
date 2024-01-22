@@ -6,10 +6,10 @@ from torch.utils.data import DataLoader, Dataset
 from torch.nn import BCEWithLogitsLoss
 from dotenv import load_dotenv
 
-# Laden der Umgebungsvariablen aus der .env-Datei
+# Laden der Umgebungsvariablen aus der .env-Datei 
 load_dotenv()
 
-# Verzeichnispfade mit Umgebungsvariablen
+# Verzeichnispfade mit Umgebungsvariablen 
 german_bert_checkpoint_directory = os.getenv('GERMAN_BERT_CHECKPOINT_DIRECTORY', 'default/path/to/German_BERT Checkpoint Directory')
 annotated_data_directory = os.getenv('ANNOTATED_DATA_DIRECTORY', 'default/path/to/Annotated Data')
 
@@ -22,7 +22,7 @@ print(f"Verwende Gerät: {device}")
 bce_logits_loss = BCEWithLogitsLoss()
 tokenizer = BertTokenizer.from_pretrained('bert-base-german-dbmdz-uncased')
 
-# Flag-Zuordnungen und Label-Mapping
+# Flag-Zuordnungen und Label-Mapping 
 flag_associations = {
     "RED FLAG": ["Firma", "Sitz", "Gegenstand", "Stammkapital", "Stammeinlagen"],
     "Orange Flag": ["Geschäftsjahr", "Dauer", "Geschäftsführung", "Vertretung", "Gesellschafterversammlung"]
@@ -33,7 +33,7 @@ label_mapping = {"RED FLAG": 0, "Orange Flag": 1, "Green Flag": 2, "Firma": 3, "
 num_labels = len(label_mapping)
 
 
-# CustomDataset-Klasse
+# CustomDataset-Klasse 
 class CustomDataset(Dataset):
     def __init__(self, texts, labels, tokenizer):
         self.texts = texts
@@ -50,7 +50,7 @@ class CustomDataset(Dataset):
         return {key: val.flatten() for key, val in encoding.items()}, torch.tensor(labels)
 
 def load_data(directory):
-    # Lade und verarbeite Daten
+    # Lade und verarbeite Daten 
     texts, label_sets = [], []
     for filename in os.listdir(directory):
         if filename.endswith('.jsonl'):

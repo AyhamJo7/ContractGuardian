@@ -29,11 +29,11 @@ label_categories = [
     'Sonstige_Klauseln', 'RED FLAG', 'Orange Flag', 'Green Flag'
 ]
 
-# Funktion zum Zählen des Auftretens von Labels in einer JSONL-Zeile
+# Funktion zum Zählen des Auftretens von Labels in einer JSONL-Zeile 
 def count_label_occurrences(entities, label):
     return sum(1 for entity in entities if entity['label'] == label)
 
-# Funktion zum Extrahieren von Merkmalen aus einer JSONL-Zeile
+# Funktion zum Extrahieren von Merkmalen aus einer JSONL-Zeile 
 def extract_features(json_data):
     entities = json_data.get('entities', [])
     features = {label: count_label_occurrences(entities, label) for label in label_categories}
@@ -49,7 +49,7 @@ def process_jsonl(file_path):
                 json_data = json.loads(line)
                 features = extract_features(json_data)
                 
-                # Annahme: 'RED FLAG', 'Orange Flag' und 'Green Flag' sind exklusiv
+                # Annahme: 'RED FLAG', 'Orange Flag' und 'Green Flag' sind exklusiv 
                 # und geben die allgemeine Bedeutung der Klausel an
                 label = 'None'
                 if features['RED FLAG'] > 0:

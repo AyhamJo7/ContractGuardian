@@ -2,17 +2,17 @@ import json
 import os
 from dotenv import load_dotenv
 
-# Laden der Umgebungsvariablen aus der .env-Datei
+# Laden der Umgebungsvariablen aus der .env-Datei 
 load_dotenv()
 
 
 def read_jsonl_file(file_path):
-    # JSONL-Datei lesen und in eine Liste von Python-Objekten umwandeln
+    # JSONL-Datei lesen und in eine Liste von Python-Objekten umwandeln 
     with open(file_path, 'r', encoding='utf-8') as file:
         return [json.loads(line) for line in file]
 
 def create_dummy_copies(file_path):
-    # Erstellen von Dummy-Kopien der ursprünglichen Daten
+    # Erstellen von Dummy-Kopien der ursprünglichen Daten 
     original_data = read_jsonl_file(file_path)
     dummy_copies = []
     for i in range(len(original_data)):

@@ -3,10 +3,10 @@ import os
 import json
 from dotenv import load_dotenv
 
-# Laden der Umgebungsvariablen aus der .env-Datei
+# Laden der Umgebungsvariablen aus der .env-Datei 
 load_dotenv()
 
-# Initialisierung der Übersetzungs-Pipelines
+# Initialisierung der Übersetzungs-Pipelines 
 translator_to_en = pipeline("translation", model="Helsinki-NLP/opus-mt-de-en")
 translator_to_de = pipeline("translation", model="Helsinki-NLP/opus-mt-en-de")
 

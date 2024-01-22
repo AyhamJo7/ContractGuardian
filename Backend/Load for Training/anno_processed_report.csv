@@ -1,4 +1,4 @@
-File,Section,Flags,Clauses,Flags_Code,Has_Red_Flag,Has_Orange_Flag,Has_Green_Flag
+File,Section,Flags,Clauses,Flags_Code,Has_Red_Flag,Has_Orange_Flag,Has_Green_Flag 
 2MKT Verwaltungs GmbH anno.jsonl,GESELLSCHAFTSVERTRAG,nan,TITEL,15,0,0,0
 2MKT Verwaltungs GmbH anno.jsonl,"§ 1 Firma, Sitz, Geschäftsjahr (1) Die Firma der Gesellschaft lautet: 2MKT Verwaltungs GmbH (2) Sitz der Gesellschaft ist Hamburg. (3) Das Geschäftsjahr ist das Kalenderjahr.","RED FLAG, Orange Flag, Orange Flag, RED FLAG","Firma, Firma, Sitz, Geschäftsjahr, Geschäftsjahr, Sitz",11,1,1,0
 2MKT Verwaltungs GmbH anno.jsonl,"§ 2 Gegenstand des Unternehmens (1) Gegenstand des Unternehmens ist die Übernahme der persönlichen Haftung bei Personenhandelsgesellschaften. (2) Die Gesellschaft ist zur Vornahme aller Geschäfte berechtigt, die den Gesellschaftszweck unmittelbar oder mittelbar zu fördern geeignet sind. (3) Die Gesellschaft darf andere Unternehmen gleicher oder ähnlicher Art übernehmen, sich an ihnen beteiligen oder ihre Geschäfte führen. 
