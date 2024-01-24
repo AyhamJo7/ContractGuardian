@@ -4,20 +4,19 @@ import json
 import argparse
 import joblib
 import pandas as pd
+import shutil
+import logging
 from a_text_extraction import PDFTextExtractor
 from b_text_cleaning import TextCleaning
 from c_text_to_json import process_directory
 from d_parsing import batch_process, generate_report
 from e_flags import process_flags
-import shutil
-import logging
 from dotenv import load_dotenv
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s:%(message)s')
 
 # Laden der Umgebungsvariablen aus der .env-Datei
 load_dotenv()
-
 
 # Text aus einer PDF extrahieren
 def extract_text(pdf_file_path, temp_dir):
@@ -37,7 +36,7 @@ def process_text(pdf_file_path, temp_dir):
         with open(txt_file_path, 'w', encoding='utf-8') as file:
             file.write(pdf_text)
         cleaned_text = clean_text(pdf_text, temp_dir)
-        process_directory(cleaned_text_directory =temp_dir, converted_to_json_directory=temp_dir)
+        process_directory(cleaned_text_directory=temp_dir, converted_to_json_directory=temp_dir)
         all_data = batch_process(converted_to_json_directory=temp_dir)
         parsed_csv_file = os.path.join(temp_dir, 'report.csv')
         generate_report(all_data, parsed_csv_file)
@@ -71,60 +70,21 @@ def predict_flags(df, models, tfidf_vectorizer):
         return None
     
 # Ergebnisse interpretieren und ausgeben
-def interpret_and_print_results(csv_file_path):
-    df = pd.read_csv(csv_file_path)
-    
-
-    # Define the clauses for each flag type
-    red_flag_clauses = ['Firma', 'Sitz', 'Gegenstand']
-    red_flag_alternative_clauses = {
-        'Stammkapital': ['Stammkapital', 'Kapital'],
-        'Stammeinlagen': ['Stammeinlagen', 'Einlagen', 'Geschäftsanteile']
-    }
-    orange_flag_clauses = ['Dauer']
-    orange_flag_alternative_clauses = {
-        'Geschaeftsfuehrung': ['Geschäftsführung', 'führung', 'Geschäftsführer', 'Geschaeftsfuehrung'],
-        'Geschaeftsjahr': ['Geschäftsjahr', 'jahr', 'Jahr'],
-        'Gesellschafterversammlung': ['Gesellschafterversammlung', 'versammlung'],
-        'Vertretung':['Vertretung','vertreten','Einzelvertretungsbefugnis']
-    }
-    green_flag_clauses = ['Jahresabschluss', 'Schlussbestimmungen', 'Einziehung', 'Beirat', 'Schlichtungsvereinbarung']
-    green_flag_alternative_clauses = {
-        'Gewinn': ['Gewinnverteilung', 'Gewinn', 'Ergebnisverwendung'],
-        'Kosten': ['Kosten', 'Gründungskosten', 'Gründungsaufwand'],
-        'Salvatorische Klauseln': ['Salvatorische', 'Salvatorische Klauseln'],
-        'Erbfolge': ['Erbfolge', 'Tod'],
-        'Gesellschafterbeschluesse': ['Gesellschafterbeschlüsse','Beschlüsse','Gesellschafterbeschluesse'],
-        'Abfindung' : ['Abfindung','Vergütung'],
-        'Wettbewerbsverbot': ['Wettbewerbsverbot', 'Wettbewerb'],
-        'Veraeusserung': ['Veraeusserung', 'Veraeußerung', 'Veräußerung'],
-        'Verfuegung ueber Geschaeftsanteile': ['Verfuegung ueber Geschaeftsanteile', 'Verfügung über Geschäftsanteile'],
-        'Kuendigung': ['Kündigung','Kuendigung'],
-        'Beendigung ': ['Beendigung','Beendigung der Gesellschaft','Auflösung']
-    }
-
-    # Function to check if clauses or their alternatives are present in the text
-    def check_clauses_in_text(clauses, alternative_clauses, text):
-        found_clauses = []
-        for clause, alternatives in alternative_clauses.items():
-            if any(alt in text for alt in alternatives):
-                found_clauses.append(clause)
-        found_clauses.extend([clause for clause in clauses if clause in text])
-        return found_clauses
-
-    # Concatenate all text to search for clauses
-    all_text = ' '.join(df['Section'].tolist())
-
-    # Check for each clause in the text
-    red_flags_found = check_clauses_in_text(red_flag_clauses, red_flag_alternative_clauses, all_text)
-    orange_flags_found = check_clauses_in_text(orange_flag_clauses, orange_flag_alternative_clauses, all_text)
-    green_flags_found = check_clauses_in_text(green_flag_clauses, green_flag_alternative_clauses, all_text)
-
+def interpret_and_print_results(df, predictions):
     results = {
-        'Red Flags': [{'name': clause, 'status': '✓' if clause in red_flags_found else '✗'} for clause in red_flag_clauses + list(red_flag_alternative_clauses.keys())],
-        'Orange Flags': [{'name': clause, 'status': '✓' if clause in orange_flags_found else '✗'} for clause in orange_flag_clauses + list(orange_flag_alternative_clauses.keys())],
-        'Green Flags': [{'name': clause, 'status': '✓' if clause in green_flags_found else '✗'} for clause in green_flag_clauses + list(green_flag_alternative_clauses.keys())],
+        'Red Flags': [],
+        'Orange Flags': [],
+        'Green Flags': []
     }
+
+    # Loop through predictions and add to results
+    for flag_type in predictions:
+        flag_results = predictions[flag_type]
+        for i, flag in enumerate(flag_results):
+            status = '✓' if flag == 1 else '✗'
+            section = df.iloc[i]['Section']
+            results[flag_type].append({'Section': section, 'Status': status})
+
     results_json = json.dumps(results)
     return results_json
 
@@ -141,12 +101,11 @@ def main(pdf_file_path, temp_dir):
         # Ergebnisse speichern und ausgeben
         processed_csv_path = os.path.join(temp_dir, 'processed_report.csv')
         df.to_csv(processed_csv_path, index=False)
-        json_results = interpret_and_print_results(processed_csv_path)
-        print(json_results) 
+        json_results = interpret_and_print_results(df, predictions)
+        print(json_results)
         shutil.rmtree(temp_dir)
         os.makedirs(temp_dir)
         return json_results
-    
 
 # Ausführung des Skripts
 if __name__ == "__main__":
@@ -155,5 +114,3 @@ if __name__ == "__main__":
     parser.add_argument("--temp_dir", type=str, default="temp", help="Temporäres Verzeichnis für die Verarbeitung")
     args = parser.parse_args()
     main(args.pdf_file_path, args.temp_dir)
-    
-
